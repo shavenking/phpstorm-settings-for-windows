@@ -1,0 +1,6 @@
+<code_scheme name="Default">
+  <codeStyleSettings language="PHP">
+    <option name="SPACE_WITHIN_BRACKETS" value="true" />
+    <option name="SPACE_AFTER_TYPE_CAST" value="true" />
+  </codeStyleSettings>
+</code_scheme>

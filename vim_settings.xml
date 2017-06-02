@@ -1,0 +1,86 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1496415204987">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" timestamp="1496416737002">
+        <mark key="[" line="445" column="45" />
+        <mark key="]" line="442" column="8" />
+        <mark key="^" line="442" column="8" />
+        <mark key="." line="442" column="8" />
+      </file>
+      <file name="$USER_HOME$/Code/project-boomer/app/Http/Requests/Project/StoreRequest.php" timestamp="1496414381114">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Controller/RemitController.php" timestamp="1496416637178">
+        <mark key="'" line="54" column="5" />
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
+        <mark key="^" line="98" column="6" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/phpstorm.vmoptions" timestamp="1496414600321">
+        <mark key="[" line="5" column="22" />
+        <mark key="]" line="7" column="23" />
+        <mark key="^" line="7" column="23" />
+        <mark key="." line="7" column="23" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="28" column="0" filename="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Controller/RemitController.php" />
+      <jump line="54" column="5" filename="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Controller/RemitController.php" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Z2V0RW50aXR5TWFuYWdlcigpLT5nZXRFeHByZXNzaW9uQnVpbGRlcigpOwo=</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>'SELECT * FROM cool';</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpc2lzY29vbDsKCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>'SELECT * FROM cool';</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
