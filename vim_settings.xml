@@ -30,6 +30,13 @@
         <mark key="^" line="4" column="1" />
         <mark key="." line="4" column="1" />
       </file>
+      <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Entity/RemitEntry.php" timestamp="1496456340604">
+        <mark key="'" line="39" column="5" />
+        <mark key="[" line="65" column="78" />
+        <mark key="]" line="65" column="88" />
+        <mark key="." line="65" column="88" />
+        <mark key="^" line="65" column="88" />
+      </file>
       <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Payment/NowtoPay.php" timestamp="1496455003557">
         <mark key="'" line="121" column="0" />
         <mark key="[" line="184" column="0" />
@@ -65,37 +72,38 @@
       <jump line="1849" column="0" filename="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Controller/RemitController.php" />
       <jump line="1847" column="0" filename="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Controller/RemitController.php" />
       <jump line="37" column="12" filename="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Repository/MerchantStatRepository.php" />
+      <jump line="39" column="5" filename="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Entity/RemitEntry.php" />
     </jumps>
     <registers>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICAnY29udGVudC10eXBlJyA9PiAnJwokcWItPmFkZFNlbGVjdCgnQkJEJyk=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAqIEBPUk1cTWFueVRvTWFueSgpCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAnY29udGVudC10eXBlJyA9PiAnJwokcWItPmFkZFNlbGVjdCgnQkJEJyk=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAqIEBPUk1cTWFueVRvTWFueSgpCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICAnY29udGVudC10eXBlJyA9PiAnJwokcWItPmFkZFNlbGVjdCgnQkJEJyk=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZW5jcnlwdAo=</text>
+        <text encoding="base64">ICAgICAgICAkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g5bilCg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZW5jcnlwdAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRhY2NvdW50Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8g5bilCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICRhY2NvdW50Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhcnJheV9tYXAoJHRyYW5zZmVyKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRhY2NvdW50Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCEkYWNjb3VudCkgewogICAgICAgICAgICAgICAgZWNobyAnYXdlc29tZSc7CiAgICAgICAgICAgICAgICBlY2hvICdhd2VvbXNlIGFnYWluJzsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBhcnJheV9tYXAoJHRyYW5zZmVyKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoCiAgICAgICAgICAgIHRydWUgJiYKICAgICAgICAgICAgZmFsc2UKICAgICAgICApIHsKICAgICAgICAgICAgCiAgICAgICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCEkYWNjb3VudCkgewogICAgICAgICAgICAgICAgZWNobyAnYXdlc29tZSc7CiAgICAgICAgICAgICAgICBlY2hvICdhd2VvbXNlIGFnYWluJzsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
         <text>$transfer = [];</text>
