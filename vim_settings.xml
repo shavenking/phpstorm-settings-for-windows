@@ -10,7 +10,7 @@
         <mark key="." line="58" column="0" />
         <mark key="^" line="58" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496415204987">
+      <file name="/Dummy.txt" timestamp="1496474195865">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" timestamp="1496416737002">
@@ -23,6 +23,11 @@
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Tests/Payment/UnionPayTest.php" timestamp="1496474167906">
+        <mark key="[" line="431" column="12" />
+        <mark key="]" line="431" column="13" />
+        <mark key="." line="431" column="13" />
       </file>
       <file name="$USER_HOME$/Code/project-boomer/app/Http/routes.php" timestamp="1496457117155">
         <mark key="'" line="18" column="4" />
@@ -51,17 +56,25 @@
         <mark key="]" line="184" column="0" />
         <mark key="." line="184" column="0" />
       </file>
-      <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Controller/RemitController.php" timestamp="1496457255323">
+      <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Controller/RemitController.php" timestamp="1496473601030">
         <mark key="'" line="1847" column="0" />
-        <mark key="[" line="1543" column="0" />
-        <mark key="]" line="1543" column="0" />
-        <mark key="." line="1543" column="0" />
+        <mark key="[" line="1622" column="0" />
+        <mark key="]" line="1622" column="0" />
+        <mark key="." line="1622" column="0" />
+        <mark key="^" line="1622" column="51" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/phpstorm.vmoptions" timestamp="1496414600321">
         <mark key="[" line="5" column="22" />
         <mark key="]" line="7" column="23" />
         <mark key="^" line="7" column="23" />
         <mark key="." line="7" column="23" />
+      </file>
+      <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Resources/doc/exception_map.md" timestamp="1496474022024">
+        <mark key="'" line="345" column="28" />
+        <mark key="[" line="19" column="39" />
+        <mark key="]" line="19" column="49" />
+        <mark key="^" line="19" column="49" />
+        <mark key="." line="19" column="49" />
       </file>
     </filemarks>
     <jumps>
@@ -93,16 +106,17 @@
       <jump line="1567" column="14" filename="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Payment/Operator.php" />
       <jump line="1571" column="52" filename="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Payment/Operator.php" />
       <jump line="1511" column="9" filename="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Payment/Operator.php" />
+      <jump line="345" column="28" filename="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Resources/doc/exception_map.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">JG9iai0+</text>
+        <text>var_dump($autoRemitBankInfo);throw new \Exception();</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JG9iai0+</text>
+        <text>var_dump($autoRemitBankInfo);throw new \Exception();</text>
       </register>
       <register name="/" type="4">
-        <text>paymentgateway</text>
+        <text>p.*gate</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAkZ2F0ZXdheUNsYXNzLT4K</text>
@@ -164,9 +178,9 @@ app_path</text>
       </register>
     </registers>
     <search>
-      <last-search>paymentgateway</last-search>
+      <last-search>p.*gate</last-search>
       <last-offset />
-      <last-pattern>paymentgateway</last-pattern>
+      <last-pattern>p.*gate</last-pattern>
       <last-replace>qwe</last-replace>
       <last-substitute>(</last-substitute>
       <last-dir>1</last-dir>
@@ -178,6 +192,7 @@ app_path</text>
         <entry>(</entry>
         <entry>available</entry>
         <entry>paymentgateway</entry>
+        <entry>p.*gate</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLygvcXdlL2c=</entry>
