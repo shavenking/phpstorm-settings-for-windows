@@ -57,12 +57,11 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Payment/HeYiPay.php" timestamp="1496478123005">
-        <mark key="'" line="590" column="8" />
-        <mark key="[" line="613" column="25" />
-        <mark key="]" line="613" column="25" />
-        <mark key="^" line="613" column="25" />
-        <mark key="." line="613" column="25" />
+      <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Payment/HeYiPay.php" timestamp="1496480355734">
+        <mark key="[" line="618" column="0" />
+        <mark key="]" line="618" column="0" />
+        <mark key="." line="618" column="0" />
+        <mark key="^" line="618" column="5" />
       </file>
       <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Payment/NowtoPay.php" timestamp="1496455003557">
         <mark key="'" line="121" column="0" />
@@ -121,49 +120,49 @@
       <jump line="345" column="28" filename="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Resources/doc/exception_map.md" />
       <jump line="576" column="0" filename="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Payment/HeYiPay.php" />
       <jump line="590" column="8" filename="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Payment/HeYiPay.php" />
+      <jump line="605" column="4" filename="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Payment/HeYiPay.php" />
+      <jump line="604" column="0" filename="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Payment/HeYiPay.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>ksort()</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>ksort()</text>
       </register>
       <register name="/" type="4">
         <text>p.*gate</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tPGV4Y2x1ZGUgbmFtZT0iU3F1aXouQXJyYXlzLkFycmF5RGVjbGFyYXRpb24uU2luZ2xlTGluZU5vdEFsbG93ZWQiIC8+LS0+CiAgICAgICAgPCEtLTxleGNsdWRlIG5hbWU9IlNxdWl6LkFycmF5cy5BcnJheURlY2xhcmF0aW9uLk11bHRpTGluZU5vdEFsbG93ZWQiIC8+LS0+Cg==</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqCiAgICAgKi8KICAgIHByaXZhdGUgZnVuY3Rpb24gZ2V0UGF5UmV0dXJuRGF0YSgpCiAgICB7CgogICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8ZXJyb3IgY29kZT0iTm9Db21tYSIgLz4K</text>
+        <text encoding="base64">ICAgICAgICA8IS0tPGV4Y2x1ZGUgbmFtZT0iU3F1aXouQXJyYXlzLkFycmF5RGVjbGFyYXRpb24uU2luZ2xlTGluZU5vdEFsbG93ZWQiIC8+LS0+CiAgICAgICAgPCEtLTxleGNsdWRlIG5hbWU9IlNxdWl6LkFycmF5cy5BcnJheURlY2xhcmF0aW9uLk11bHRpTGluZU5vdEFsbG93ZWQiIC8+LS0+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkZ2F0ZXdheUNsYXNzLT4K</text>
+        <text encoding="base64">ICAgICAgICA8ZXJyb3IgY29kZT0iTm9Db21tYSIgLz4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkcGF5bWVudEdhdGV3YXktPgo=</text>
+        <text encoding="base64">ICAgICAgICAkZ2F0ZXdheUNsYXNzLT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRlKCcnKQo=</text>
+        <text encoding="base64">ICAgICAgICAkcGF5bWVudEdhdGV3YXktPgo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBkYXRlKCcnKQo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+Z2V0KCdkb2N0cmluZS5kZWZhdWx0X2VudGl0eV9tYW5hZ2VyJyktPiAK</text>
       </register>
-      <register name="7" type="8">
+      <register name="8" type="8">
         <text>app_path
 app_path
 app_path
 app_path
 app_path</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIHJlcXVpcmUoYXBwX3BhdGgoJ0h0dHAvUm91dGVzL0NoZWNrbGlzdHMucGhwJykpOwo=</text>
-      </register>
-      <register name="9" type="8">
-        <text>(
-(
-(</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLygvcXdlL2c=</text>
@@ -213,6 +212,9 @@ app_path</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
