@@ -24,11 +24,12 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/project-boomer/app/Http/routes.php" timestamp="1496455291404">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="1" />
-        <mark key="^" line="4" column="1" />
-        <mark key="." line="4" column="1" />
+      <file name="$USER_HOME$/Code/project-boomer/app/Http/routes.php" timestamp="1496457117155">
+        <mark key="'" line="18" column="4" />
+        <mark key="[" line="16" column="33" />
+        <mark key="]" line="14" column="7" />
+        <mark key="^" line="14" column="7" />
+        <mark key="." line="14" column="7" />
       </file>
       <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Entity/RemitEntry.php" timestamp="1496456340604">
         <mark key="'" line="39" column="5" />
@@ -43,11 +44,12 @@
         <mark key="]" line="184" column="0" />
         <mark key="." line="184" column="0" />
       </file>
-      <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Controller/RemitController.php" timestamp="1496451198069">
+      <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Controller/RemitController.php" timestamp="1496456402185">
         <mark key="'" line="1847" column="0" />
-        <mark key="[" line="1819" column="0" />
-        <mark key="]" line="1819" column="0" />
-        <mark key="." line="1819" column="0" />
+        <mark key="[" line="1758" column="65" />
+        <mark key="]" line="1758" column="64" />
+        <mark key="." line="1758" column="64" />
+        <mark key="^" line="1758" column="64" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/phpstorm.vmoptions" timestamp="1496414600321">
         <mark key="[" line="5" column="22" />
@@ -73,49 +75,106 @@
       <jump line="1847" column="0" filename="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Controller/RemitController.php" />
       <jump line="37" column="12" filename="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Repository/MerchantStatRepository.php" />
       <jump line="39" column="5" filename="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Entity/RemitEntry.php" />
+      <jump line="9" column="0" filename="$USER_HOME$/Code/project-boomer/app/Http/routes.php" />
+      <jump line="13" column="12" filename="$USER_HOME$/Code/project-boomer/app/Http/routes.php" />
+      <jump line="18" column="4" filename="$USER_HOME$/Code/project-boomer/app/Http/routes.php" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIEBPUk1cTWFueVRvTWFueSgpCg==</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqIEBPUk1cTWFueVRvTWFueSgpCg==</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICAnY29udGVudC10eXBlJyA9PiAnJwokcWItPmFkZFNlbGVjdCgnQkJEJyk=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZW5jcnlwdAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g5bilCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRhY2NvdW50Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRhY2NvdW50Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhcnJheV9tYXAoJHRyYW5zZmVyKQo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCEkYWNjb3VudCkgewogICAgICAgICAgICAgICAgZWNobyAnYXdlc29tZSc7CiAgICAgICAgICAgICAgICBlY2hvICdhd2VvbXNlIGFnYWluJzsKICAgICAgICAgICAgfQo=</text>
+      <register name="&quot;" type="8">
+        <text>app_path
+app_path
+app_path
+app_path
+app_path</text>
       </register>
       <register name="-" type="4">
-        <text>$transfer = [];</text>
+        <text encoding="base64">LT5maW5kYnk=</text>
+      </register>
+      <register name="/" type="4">
+        <text>(</text>
+      </register>
+      <register name="1" type="8">
+        <text>app_path
+app_path
+app_path
+app_path
+app_path</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHJlcXVpcmUoYXBwX3BhdGgoJ0h0dHAvUm91dGVzL0NoZWNrbGlzdHMucGhwJykpOwo=</text>
+      </register>
+      <register name="3" type="8">
+        <text>(
+(
+(</text>
+      </register>
+      <register name="4" type="8">
+        <text>(
+(
+(
+(
+(
+(
+(</text>
+      </register>
+      <register name="5" type="8">
+        <text>/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/</text>
+      </register>
+      <register name="6" type="8">
+        <text>app_path
+app_path
+app_path
+app_path
+app_path
+app_path
+app_path</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAqIEBPUk1cTWFueVRvTWFueSgpCg==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICAnY29udGVudC10eXBlJyA9PiAnJwokcWItPmFkZFNlbGVjdCgnQkJEJyk=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAkCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text encoding="base64">JzwsJz5zLygvcXdlL2c=</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>(</last-search>
+      <last-offset />
+      <last-pattern>(</last-pattern>
+      <last-replace>qwe</last-replace>
+      <last-substitute>(</last-substitute>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
-      <history-cmd />
+      <history-search>
+        <entry>require</entry>
+        <entry>(</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">JzwsJz5zLygvcXdlL2c=</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
@@ -137,6 +196,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
