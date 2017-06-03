@@ -57,7 +57,9 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Payment/HeYiPay.php" timestamp="1496480355734">
+      <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Payment/HeYiPay.php" timestamp="1496481042663">
+        <mark key="a" line="618" column="0" />
+        <mark key="'" line="561" column="8" />
         <mark key="[" line="618" column="0" />
         <mark key="]" line="618" column="0" />
         <mark key="." line="618" column="0" />
@@ -120,8 +122,10 @@
       <jump line="345" column="28" filename="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Resources/doc/exception_map.md" />
       <jump line="576" column="0" filename="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Payment/HeYiPay.php" />
       <jump line="590" column="8" filename="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Payment/HeYiPay.php" />
-      <jump line="605" column="4" filename="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Payment/HeYiPay.php" />
       <jump line="604" column="0" filename="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Payment/HeYiPay.php" />
+      <jump line="611" column="0" filename="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Payment/HeYiPay.php" />
+      <jump line="605" column="0" filename="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Payment/HeYiPay.php" />
+      <jump line="561" column="8" filename="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Payment/HeYiPay.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
