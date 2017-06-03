@@ -38,11 +38,10 @@
         <mark key="." line="65" column="88" />
         <mark key="^" line="65" column="88" />
       </file>
-      <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Payment/Operator.php" timestamp="1496457343617">
-        <mark key="[" line="658" column="0" />
-        <mark key="]" line="658" column="0" />
-        <mark key="^" line="658" column="9" />
-        <mark key="." line="658" column="0" />
+      <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Payment/Operator.php" timestamp="1496457657174">
+        <mark key="[" line="651" column="0" />
+        <mark key="]" line="651" column="0" />
+        <mark key="." line="651" column="0" />
       </file>
       <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Payment/NowtoPay.php" timestamp="1496455003557">
         <mark key="'" line="121" column="0" />
@@ -85,8 +84,8 @@
       <jump line="18" column="4" filename="$USER_HOME$/Code/project-boomer/app/Http/routes.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">JG1jZVJlcG8tPg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkYXRlKCcnKQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">JG1jZVJlcG8tPg==</text>
@@ -95,33 +94,36 @@
         <text>(</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBkYXRlKCcnKQo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+Z2V0KCdkb2N0cmluZS5kZWZhdWx0X2VudGl0eV9tYW5hZ2VyJyktPiAK</text>
       </register>
-      <register name="2" type="8">
+      <register name="3" type="8">
         <text>app_path
 app_path
 app_path
 app_path
 app_path</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIHJlcXVpcmUoYXBwX3BhdGgoJ0h0dHAvUm91dGVzL0NoZWNrbGlzdHMucGhwJykpOwo=</text>
-      </register>
-      <register name="4" type="8">
-        <text>(
-(
-(</text>
       </register>
       <register name="5" type="8">
         <text>(
 (
+(</text>
+      </register>
+      <register name="6" type="8">
+        <text>(
+(
 (
 (
 (
 (
 (</text>
       </register>
-      <register name="6" type="8">
+      <register name="7" type="8">
         <text>/
 /
 /
@@ -140,7 +142,7 @@ app_path</text>
 /
 /</text>
       </register>
-      <register name="7" type="8">
+      <register name="8" type="8">
         <text>app_path
 app_path
 app_path
@@ -149,11 +151,8 @@ app_path
 app_path
 app_path</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAqIEBPUk1cTWFueVRvTWFueSgpCg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAnY29udGVudC10eXBlJyA9PiAnJwokcWItPmFkZFNlbGVjdCgnQkJEJyk=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLygvcXdlL2c=</text>
