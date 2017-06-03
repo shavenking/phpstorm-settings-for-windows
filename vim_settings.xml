@@ -38,10 +38,12 @@
         <mark key="." line="65" column="88" />
         <mark key="^" line="65" column="88" />
       </file>
-      <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Payment/Operator.php" timestamp="1496457657174">
-        <mark key="[" line="651" column="0" />
-        <mark key="]" line="651" column="0" />
-        <mark key="." line="651" column="0" />
+      <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Payment/Operator.php" timestamp="1496457961378">
+        <mark key="'" line="1511" column="9" />
+        <mark key="[" line="193" column="0" />
+        <mark key="]" line="193" column="0" />
+        <mark key="." line="193" column="0" />
+        <mark key="^" line="193" column="5" />
       </file>
       <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Payment/NowtoPay.php" timestamp="1496455003557">
         <mark key="'" line="121" column="0" />
@@ -82,48 +84,63 @@
       <jump line="9" column="0" filename="$USER_HOME$/Code/project-boomer/app/Http/routes.php" />
       <jump line="13" column="12" filename="$USER_HOME$/Code/project-boomer/app/Http/routes.php" />
       <jump line="18" column="4" filename="$USER_HOME$/Code/project-boomer/app/Http/routes.php" />
+      <jump line="777" column="0" filename="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Payment/Operator.php" />
+      <jump line="1516" column="13" filename="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Payment/Operator.php" />
+      <jump line="1520" column="14" filename="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Payment/Operator.php" />
+      <jump line="1524" column="36" filename="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Payment/Operator.php" />
+      <jump line="1556" column="9" filename="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Payment/Operator.php" />
+      <jump line="1563" column="13" filename="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Payment/Operator.php" />
+      <jump line="1567" column="14" filename="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Payment/Operator.php" />
+      <jump line="1571" column="52" filename="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Payment/Operator.php" />
+      <jump line="1511" column="9" filename="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Payment/Operator.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRlKCcnKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">JG9iai0+</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JG1jZVJlcG8tPg==</text>
+        <text encoding="base64">JG9iai0+</text>
       </register>
       <register name="/" type="4">
-        <text>(</text>
+        <text>paymentgateway</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRlKCcnKQo=</text>
+        <text encoding="base64">ICAgICAgICAkZ2F0ZXdheUNsYXNzLT4K</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAkcGF5bWVudEdhdGV3YXktPgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBkYXRlKCcnKQo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+Z2V0KCdkb2N0cmluZS5kZWZhdWx0X2VudGl0eV9tYW5hZ2VyJyktPiAK</text>
       </register>
-      <register name="3" type="8">
+      <register name="5" type="8">
         <text>app_path
 app_path
 app_path
 app_path
 app_path</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHJlcXVpcmUoYXBwX3BhdGgoJ0h0dHAvUm91dGVzL0NoZWNrbGlzdHMucGhwJykpOwo=</text>
       </register>
-      <register name="5" type="8">
-        <text>(
-(
-(</text>
-      </register>
-      <register name="6" type="8">
-        <text>(
-(
-(
-(
-(
-(
-(</text>
-      </register>
       <register name="7" type="8">
+        <text>(
+(
+(</text>
+      </register>
+      <register name="8" type="8">
+        <text>(
+(
+(
+(
+(
+(
+(</text>
+      </register>
+      <register name="9" type="8">
         <text>/
 /
 /
@@ -142,26 +159,14 @@ app_path</text>
 /
 /</text>
       </register>
-      <register name="8" type="8">
-        <text>app_path
-app_path
-app_path
-app_path
-app_path
-app_path
-app_path</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIEBPUk1cTWFueVRvTWFueSgpCg==</text>
-      </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLygvcXdlL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>(</last-search>
+      <last-search>paymentgateway</last-search>
       <last-offset />
-      <last-pattern>(</last-pattern>
+      <last-pattern>paymentgateway</last-pattern>
       <last-replace>qwe</last-replace>
       <last-substitute>(</last-substitute>
       <last-dir>1</last-dir>
@@ -171,6 +176,8 @@ app_path</text>
       <history-search>
         <entry>require</entry>
         <entry>(</entry>
+        <entry>available</entry>
+        <entry>paymentgateway</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLygvcXdlL2c=</entry>
