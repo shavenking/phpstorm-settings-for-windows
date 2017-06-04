@@ -23,12 +23,12 @@
         <mark key="." line="58" column="35" />
         <mark key="^" line="58" column="35" />
       </file>
-      <file name="$USER_HOME$/Code/project-boomer/app/Http/routes.php" timestamp="1496457117155">
-        <mark key="'" line="18" column="4" />
-        <mark key="[" line="16" column="33" />
-        <mark key="]" line="14" column="7" />
-        <mark key="^" line="14" column="7" />
-        <mark key="." line="14" column="7" />
+      <file name="$USER_HOME$/Code/project-boomer/app/Http/routes.php" timestamp="1496558678500">
+        <mark key="'" line="6" column="7" />
+        <mark key="[" line="24" column="27" />
+        <mark key="]" line="24" column="29" />
+        <mark key="^" line="24" column="29" />
+        <mark key="." line="24" column="29" />
       </file>
       <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Entity/RemitEntry.php" timestamp="1496456340604">
         <mark key="'" line="39" column="5" />
@@ -175,52 +175,54 @@
       <jump line="48" column="7" filename="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Logger/Operation.php" />
       <jump line="27" column="0" filename="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Logger/Operation.php" />
       <jump line="61" column="13" filename="$USER_HOME$/Code/project-boomer/app/Http/Controllers/WorkflowsController.php" />
+      <jump line="26" column="0" filename="$USER_HOME$/Code/project-boomer/app/Http/routes.php" />
+      <jump line="6" column="7" filename="$USER_HOME$/Code/project-boomer/app/Http/routes.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">JHJlcXVlc3QtPnVzZXIoKS0+</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJlcXVpcmUoYXBwX3BhdGgoJ0h0dHAvUm91dGVzL0Nvc3RFc3RpbWF0aW9ucy5waHAnKSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">JHJlcXVlc3QtPnVzZXIoKS0+</text>
       </register>
       <register name="/" type="4">
-        <text>en</text>
+        <text>Rou</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHJlcXVpcmUoYXBwX3BhdGgoJ0h0dHAvUm91dGVzL0Nvc3RFc3RpbWF0aW9ucy5waHAnKSk7Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">ICAgICAgICAkd29ya2Zsb3ctPgogICAgXEFwcFxFbnRpdGllc1xVc2VyOjoKICAgICAgICBcQXBwXEVudGl0aWVzXFdvcmtmbG93OjoKICAgICAgICBXb3JrZmxvdzo6CiAgICAkcmVxdWVzdC0+CiAgICB2aWV3KCdiaWQnKQogICAgdmlldygnJykKICAgIFZpZXc6Om1ha2UoJycpCiAgICBDb25maWc6OmdldCgnJyk=</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBXb3JrZmxvdzo6Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAkcmVxdWVzdC0+aGFzCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAkcgo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAKICAgICAgICBpZiAoICAgCiAgICAgICAgICAgIHRydWUgJiYKICAgICAgICAgICAgZmFmbHNlCiAgICAgICAgKSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYXJyYXlfc2VhcmNoKCkK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+Y29udGFpbmVyLT4K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">dwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y29udGFpbmVyLT5nZXQoJ2R1cmlhbi5leGNlcHRpb25fbGlzdGVuZXInKS0+Cg==</text>
+        <text encoding="base64">dwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLygvcXdlL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>en</last-search>
+      <last-search>Rou</last-search>
       <last-offset />
-      <last-pattern>en</last-pattern>
+      <last-pattern>Rou</last-pattern>
       <last-replace>qwe</last-replace>
       <last-substitute>(</last-substitute>
       <last-dir>1</last-dir>
@@ -239,6 +241,9 @@
         <entry>getRe</entry>
         <entry>enc</entry>
         <entry>en</entry>
+        <entry>route</entry>
+        <entry>Roue</entry>
+        <entry>Rou</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLygvcXdlL2c=</entry>
