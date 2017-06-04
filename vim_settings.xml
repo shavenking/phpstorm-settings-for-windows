@@ -31,7 +31,8 @@
         <mark key="." line="65" column="88" />
         <mark key="^" line="65" column="88" />
       </file>
-      <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Payment/Operator.php" timestamp="1496545670502">
+      <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Payment/Operator.php" timestamp="1496548656884">
+        <mark key="'" line="1820" column="37" />
         <mark key="[" line="1819" column="0" />
         <mark key="]" line="1819" column="0" />
         <mark key="." line="1819" column="0" />
@@ -129,7 +130,12 @@
       <jump line="1767" column="28" filename="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Payment/Operator.php" />
       <jump line="1818" column="25" filename="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Payment/Operator.php" />
       <jump line="1819" column="0" filename="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Payment/Operator.php" />
-      <jump line="1821" column="59" filename="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Payment/Operator.php" />
+      <jump line="1821" column="16" filename="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Payment/Operator.php" />
+      <jump line="1827" column="0" filename="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Payment/Operator.php" />
+      <jump line="1830" column="8" filename="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Payment/Operator.php" />
+      <jump line="20" column="0" filename="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Payment/Operator.php" />
+      <jump line="1828" column="0" filename="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Payment/Operator.php" />
+      <jump line="1820" column="37" filename="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Payment/Operator.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -223,6 +229,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
