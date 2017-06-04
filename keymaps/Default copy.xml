@@ -3,9 +3,20 @@
     <keyboard-shortcut first-keystroke="ctrl space" />
     <keyboard-shortcut first-keystroke="alt space" />
   </action>
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
+  <action id="ParameterInfo" />
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
+  <action id="Refresh" />
+  <action id="Replace" />
+  <action id="Rerun" />
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="shift ctrl space" />
     <keyboard-shortcut first-keystroke="shift alt space" />
@@ -13,4 +24,5 @@
   <action id="TogglePowerSave">
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
+  <action id="UsageView.Rerun" />
 </keymap>
