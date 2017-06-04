@@ -59,7 +59,12 @@
         <mark key="." line="6092" column="42" />
         <mark key="^" line="6092" column="42" />
       </file>
-      <file name="$USER_HOME$/Code/project-boomer/public/phpinfo.php" timestamp="1496582517769" />
+      <file name="$USER_HOME$/Code/project-boomer/public/phpinfo.php" timestamp="1496583704582">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="9" />
+        <mark key="^" line="1" column="9" />
+        <mark key="." line="1" column="9" />
+      </file>
       <file name="$USER_HOME$/Code/project-boomer/app/Http/Requests/StandardWork/StoreRequest.php" timestamp="1496580532806">
         <mark key="[" line="6" column="6" />
         <mark key="]" line="6" column="17" />
