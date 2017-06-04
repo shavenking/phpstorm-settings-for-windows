@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1496543955237">
+      <file name="/Dummy.txt" timestamp="1496580625254">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" timestamp="1496416737002">
@@ -44,12 +44,12 @@
         <mark key="]" line="1819" column="0" />
         <mark key="." line="1819" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/project-boomer/resources/views/workflows/createWork.blade.php" timestamp="1496566873427">
+      <file name="$USER_HOME$/Code/project-boomer/resources/views/workflows/createWork.blade.php" timestamp="1496579612942">
         <mark key="'" line="18" column="28" />
-        <mark key="[" line="15" column="35" />
-        <mark key="]" line="15" column="59" />
-        <mark key="^" line="15" column="59" />
-        <mark key="." line="15" column="59" />
+        <mark key="[" line="15" column="92" />
+        <mark key="]" line="15" column="95" />
+        <mark key="^" line="15" column="95" />
+        <mark key="." line="15" column="95" />
       </file>
       <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Controller/UserController.php" timestamp="1496550990278">
         <mark key="'" line="35" column="6" />
@@ -57,6 +57,12 @@
         <mark key="]" line="6092" column="42" />
         <mark key="." line="6092" column="42" />
         <mark key="^" line="6092" column="42" />
+      </file>
+      <file name="$USER_HOME$/Code/project-boomer/app/Http/Requests/StandardWork/StoreRequest.php" timestamp="1496580532806">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="17" />
+        <mark key="^" line="6" column="17" />
+        <mark key="." line="6" column="17" />
       </file>
       <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Resources/doc/exception_map.md" timestamp="1496474022024">
         <mark key="'" line="345" column="28" />
@@ -197,6 +203,7 @@
       <jump line="10" column="38" filename="$USER_HOME$/Code/project-boomer/resources/views/workflows/createWork.blade.php" />
       <jump line="18" column="28" filename="$USER_HOME$/Code/project-boomer/resources/views/workflows/createWork.blade.php" />
       <jump line="13" column="30" filename="$USER_HOME$/Code/project-boomer/app/Http/Routes/Workflows.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/project-boomer/app/Http/Requests/StandardWork/StoreRequest.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -301,6 +308,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
