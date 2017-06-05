@@ -11,12 +11,16 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="D:/durian2/test.php" timestamp="1496630930555">
+      <file name="D:/durian2/test.php" timestamp="1496634122775">
         <mark key="'" line="3" column="18" />
-        <mark key="[" line="5" column="48" />
-        <mark key="]" line="5" column="49" />
-        <mark key="." line="5" column="49" />
-        <mark key="^" line="5" column="49" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="22" />
+        <mark key="." line="4" column="22" />
+        <mark key="^" line="4" column="22" />
+      </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Payment/NewMiaofu.php" timestamp="1496635034520">
+        <mark key="'" line="101" column="14" />
+        <mark key="[" line="120" column="33" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" timestamp="1496629001766">
         <mark key="'" line="125" column="0" />
@@ -25,8 +29,17 @@
         <mark key="^" line="1942" column="71" />
         <mark key="." line="1944" column="0" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Controller/DepositController.php" timestamp="1496631008701">
-        <mark key="'" line="0" column="0" />
+      <file name="D:/durian2/src/BB/DurianBundle/Controller/DepositController.php" timestamp="1496634308145">
+        <mark key="'" line="250" column="30" />
+        <mark key="[" line="253" column="0" />
+        <mark key="]" line="253" column="73" />
+      </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Tests/Functional/DepositFunctionalTest.php" timestamp="1496634536044">
+        <mark key="'" line="1294" column="4" />
+        <mark key="[" line="1319" column="31" />
+        <mark key="]" line="1319" column="31" />
+        <mark key="^" line="1319" column="31" />
+        <mark key="." line="1319" column="31" />
       </file>
       <file name="Y:/durian2/src/BB/DurianBundle/Controller/RemitController.php" timestamp="1496392149965">
         <mark key="'" line="1786" column="21" />
@@ -34,6 +47,9 @@
         <mark key="]" line="591" column="45" />
         <mark key="^" line="591" column="45" />
         <mark key="." line="591" column="45" />
+      </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Validator.php" timestamp="1496632811427">
+        <mark key="'" line="38" column="8" />
       </file>
     </filemarks>
     <jumps>
@@ -69,63 +85,71 @@
       <jump line="125" column="0" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" />
       <jump line="4" column="18" filename="D:/durian2/test.php" />
       <jump line="0" column="0" filename="D:/durian2/src/BB/DurianBundle/Controller/DepositController.php" />
+      <jump line="28" column="30" filename="D:/durian2/src/BB/DurianBundle/Controller/DepositController.php" />
+      <jump line="38" column="8" filename="D:/durian2/src/BB/DurianBundle/Validator.php" />
+      <jump line="239" column="39" filename="D:/durian2/src/BB/DurianBundle/Controller/DepositController.php" />
+      <jump line="1297" column="20" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/DepositFunctionalTest.php" />
+      <jump line="1294" column="4" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/DepositFunctionalTest.php" />
+      <jump line="101" column="14" filename="D:/durian2/src/BB/DurianBundle/Payment/NewMiaofu.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$var = (float) '1.1111e-2';
-var_dump(lcg_value());</text>
+        <text>var_dump(floor(3.14159 * 10000)/10000);
+var_dump(round(3.14159, 4, PHP_ROUND_HALF_DOWN));
+$feeConv = number_format(3.14159, 4, '.', '');
+var_dump($feeConv);</text>
       </register>
       <register name="-" type="4">
-        <text>10000123123123123123</text>
+        <text encoding="base64">ICogMSAvICRwYXl3YXlSYXRlLA==</text>
       </register>
       <register name="/" type="4">
-        <text>%kernel.cache_dir%</text>
+        <text>Wei</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAkZmVlQ29udiA9IG51bWJlcl9mb3JtYXQoJGZlZSAqICRyYXRlIC8gJHBheXdheVJhdGUsIDQsICcuJywgJycpOwo=</text>
       </register>
       <register name="1" type="4">
+        <text>var_dump(floor(3.14159 * 10000)/10000);
+var_dump(round(3.14159, 4, PHP_ROUND_HALF_DOWN));
+$feeConv = number_format(3.14159, 4, '.', '');
+var_dump($feeConv);</text>
+      </register>
+      <register name="2" type="4">
         <text>$var = (float) '1.1111e-2';
 var_dump(lcg_value());</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">JGRhdGUgPSBuZXcgXERhdGVUaW1lKCcyMDE3LTA2LTAyVDEyOjAwOjAwKzA4MDAnKTsKCmZ1bmN0aW9uIHRvQ3JvbkV4cHJlc3Npb24oXERhdGVUaW1lICRhdCkKewogICAgJGNyb24gPSBcQ3JvblxDcm9uRXhwcmVzc2lvbjo6ZmFjdG9yeSgnMCAxMiAqICogKicpOyAvL6hDpNGkpKTIMTLCSQoKICAgIC8vIKZdrLAgQ3JvbkV4cHJlc3Npb24gt3zF3KfztsekSqq6rsm2oaFBvsmtUKztpcO7t6xPMAogICAgJG5ld0F0ID0gY2xvbmUgJGF0OwoKICAgIHJldHVybiAkY3Jvbi0+Z2V0UHJldmlvdXNSdW5EYXRlKCRuZXdBdCwgMCwgdHJ1ZSk7Cn0KCgp2YXJfZHVtcCh0b0Nyb25FeHByZXNzaW9uKCRkYXRlKSk7Cgp2YXJfZHVtcCgkZGF0ZS0+c2V0VGltZSgxMiwgMCktPm1vZGlmeSgnLTEgZGF5cycpKTs=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCAoJHJlbWl0QWNjb3VudHMgYXMgJHJlbWl0QWNjb3VudCkgewogICAgICAgICAgICAgICAgJHJlbWl0QWNjb3VudENvdW50WyRyZW1pdEFjY291bnQtPmdldElkKCldID0gMDsKICAgICAgICAgICAgfQoK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">eGRlYnVnLmlkZWtleT12YWdyYW50CnhkZWJ1Zy5yZW1vdGVfaG9zdD0xMC4wLjIuMgo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">eGRlYnVnLnJlbW90ZV9oYW5kbGVyPWRiZ3AK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Pj4+Pj4+PiBlMmU2MGJmOGEuLi4gW0ZlYXR1cmVdt3O8V6ZQsqS2s7vIpualZKa4vMayzq1wrNvD9qVcr+AK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0K</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgLy8gqPqxb7vIpualZKjPpc6muLzGCiAgICAgICAgJHJlbWl0QWNjb3VudENvdW50ID0gW107CiAgICAgICAgZm9yZWFjaCAoJHJlbWl0QWNjb3VudHMgYXMgJHJlbWl0QWNjb3VudCkgewogICAgICAgICAgICAkcmVtaXRBY2NvdW50Q291bnRbJHJlbWl0QWNjb3VudC0+Z2V0SWQoKV0gPSAwOwogICAgICAgIH0KCiAgICAgICAgJHJlbWl0QWNjb3VudENvdW50ID0gYXJyYXlfcmVwbGFjZSgKICAgICAgICAgICAgJHJlbWl0QWNjb3VudENvdW50LAogICAgICAgICAgICAkZW0tPmdldFJlcG9zaXRvcnkoJ0JCRHVyaWFuQnVuZGxlOlJlbWl0QWNjb3VudFN0YXQnKS0+Z2V0Q291bnQoJHJlbWl0QWNjb3VudHMpCiAgICAgICAgKTsKCj09PT09PT0KPj4+Pj4+PiBlMmU2MGJmOGEuLi4gW0ZlYXR1cmVdt3O8V6ZQsqS2s7vIpualZKa4vMayzq1wrNvD9qVcr+AK</text>
       </register>
-      <register name="9" type="8">
-        <text>tmp
-tmp
-tmp
-tmp
-tmp
-tmp
-tmp</text>
-      </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLyVrZXJuZWwuY2FjaGVfZGlyJS9cL3RtcC9n</text>
+        <text>243y</text>
       </register>
     </registers>
     <search>
-      <last-search>%kernel.cache_dir%</last-search>
+      <last-search>Wei</last-search>
       <last-offset />
-      <last-pattern>%kernel.cache_dir%</last-pattern>
+      <last-pattern>Wei</last-pattern>
       <last-replace>\/tmp</last-replace>
       <last-substitute>%kernel.cache_dir%</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -134,9 +158,13 @@ tmp</text>
         <entry encoding="base64">XDxnZXRSZXF1ZXN0XD4=</entry>
         <entry encoding="base64">XDxnZXRFbnRpdHlNYW5hZ2VyXD4=</entry>
         <entry>%kernel.cache_dir%</entry>
+        <entry>we</entry>
+        <entry>We</entry>
+        <entry>Wei</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyVrZXJuZWwuY2FjaGVfZGlyJS9cL3RtcC9n</entry>
+        <entry>243y</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -187,8 +215,17 @@ tmp</text>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed G</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed CLOSE_BRACKET</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
