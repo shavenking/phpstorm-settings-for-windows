@@ -6,11 +6,18 @@
       <file name="/Dummy.txt" timestamp="1496625042789">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" timestamp="1496625342269">
-        <mark key="[" line="1877" column="71" />
-        <mark key="]" line="1877" column="65" />
-        <mark key="^" line="1877" column="65" />
-        <mark key="." line="1877" column="65" />
+      <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" timestamp="1496626247019">
+        <mark key="'" line="1959" column="8" />
+        <mark key="[" line="1954" column="0" />
+        <mark key="]" line="1954" column="0" />
+        <mark key="." line="1954" column="0" />
+      </file>
+      <file name="D:/durian2/app/config/config_test.yml" timestamp="1496625956118">
+        <mark key="'" line="45" column="24" />
+        <mark key="[" line="41" column="30" />
+        <mark key="]" line="41" column="30" />
+        <mark key="^" line="41" column="30" />
+        <mark key="." line="41" column="30" />
       </file>
       <file name="Y:/durian2/src/BB/DurianBundle/Controller/RemitController.php" timestamp="1496392149965">
         <mark key="'" line="1786" column="21" />
@@ -44,25 +51,64 @@
       <jump line="64" column="21" filename="Y:/durian2/src/BB/DurianBundle/Controller/RemitController.php" />
       <jump line="1876" column="21" filename="Y:/durian2/src/BB/DurianBundle/Controller/RemitController.php" />
       <jump line="1786" column="21" filename="Y:/durian2/src/BB/DurianBundle/Controller/RemitController.php" />
+      <jump line="1938" column="8" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" />
+      <jump line="1933" column="0" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" />
+      <jump line="45" column="24" filename="D:/durian2/app/config/config_test.yml" />
+      <jump line="1959" column="8" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">JHVuY29uZmlybSA9ICcxMjMnOwplY2hvICR1bmNvbmZpcm07Cg==</text>
-      </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">JHVuY29uZmlybSA9ICcxMjMnOwplY2hvICR1bmNvbmZpcm07Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBlMmU2MGJmOGEuLi4gW0ZlYXR1cmVdt3O8V6ZQsqS2s7vIpualZKa4vMayzq1wrNvD9qVcr+AK</text>
       </register>
       <register name="-" type="4">
         <text>ed</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRFbnRpdHlNYW5hZ2VyXD4=</text>
+        <text>%kernel.cache_dir%</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBlMmU2MGJmOGEuLi4gW0ZlYXR1cmVdt3O8V6ZQsqS2s7vIpualZKa4vMayzq1wrNvD9qVcr+AK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgLy8gqPqxb7vIpualZKjPpc6muLzGCiAgICAgICAgJHJlbWl0QWNjb3VudENvdW50ID0gW107CiAgICAgICAgZm9yZWFjaCAoJHJlbWl0QWNjb3VudHMgYXMgJHJlbWl0QWNjb3VudCkgewogICAgICAgICAgICAkcmVtaXRBY2NvdW50Q291bnRbJHJlbWl0QWNjb3VudC0+Z2V0SWQoKV0gPSAwOwogICAgICAgIH0KCiAgICAgICAgJHJlbWl0QWNjb3VudENvdW50ID0gYXJyYXlfcmVwbGFjZSgKICAgICAgICAgICAgJHJlbWl0QWNjb3VudENvdW50LAogICAgICAgICAgICAkZW0tPmdldFJlcG9zaXRvcnkoJ0JCRHVyaWFuQnVuZGxlOlJlbWl0QWNjb3VudFN0YXQnKS0+Z2V0Q291bnQoJHJlbWl0QWNjb3VudHMpCiAgICAgICAgKTsKCj09PT09PT0KPj4+Pj4+PiBlMmU2MGJmOGEuLi4gW0ZlYXR1cmVdt3O8V6ZQsqS2s7vIpualZKa4vMayzq1wrNvD9qVcr+AK</text>
+      </register>
+      <register name="4" type="8">
+        <text>tmp
+tmp
+tmp
+tmp
+tmp
+tmp
+tmp</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvLyCx0qXOpri8xrHGp8euyaZBtmm46q7Grnen7KjPpc6muLzGCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gqPqxb7vIpualZKjPpc6muLzGCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CiAgICAgICAgLy8gqPqxb7vIpualZKjPpc6muLzGCiAgICAgICAgJHJlbWl0QWNjb3VudENvdW50ID0gW107CiAgICAgICAgZm9yZWFjaCAoJHJlbWl0QWNjb3VudHMgYXMgJHJlbWl0QWNjb3VudCkgewogICAgICAgICAgICAkcmVtaXRBY2NvdW50Q291bnRbJHJlbWl0QWNjb3VudC0+Z2V0SWQoKV0gPSAwOwogICAgICAgIH0KCiAgICAgICAgJHJlbWl0QWNjb3VudENvdW50ID0gYXJyYXlfcmVwbGFjZSgKICAgICAgICAgICAgJHJlbWl0QWNjb3VudENvdW50LAogICAgICAgICAgICAkZW0tPmdldFJlcG9zaXRvcnkoJ0JCRHVyaWFuQnVuZGxlOlJlbWl0QWNjb3VudFN0YXQnKS0+Z2V0Q291bnQoJHJlbWl0QWNjb3VudHMpCiAgICAgICAgKTsK</text>
+      </register>
+      <register name=":" type="4">
+        <text encoding="base64">JzwsJz5zLyVrZXJuZWwuY2FjaGVfZGlyJS9cL3RtcC9n</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRFbnRpdHlNYW5hZ2VyXD4=</last-search>
+      <last-search>%kernel.cache_dir%</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRFbnRpdHlNYW5hZ2VyXD4=</last-pattern>
+      <last-pattern>%kernel.cache_dir%</last-pattern>
+      <last-replace>\/tmp</last-replace>
+      <last-substitute>%kernel.cache_dir%</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -71,8 +117,11 @@
         <entry>get.Account</entry>
         <entry encoding="base64">XDxnZXRSZXF1ZXN0XD4=</entry>
         <entry encoding="base64">XDxnZXRFbnRpdHlNYW5hZ2VyXD4=</entry>
+        <entry>%kernel.cache_dir%</entry>
       </history-search>
-      <history-cmd />
+      <history-cmd>
+        <entry encoding="base64">JzwsJz5zLyVrZXJuZWwuY2FjaGVfZGlyJS9cL3RtcC9n</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
@@ -98,7 +147,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed N</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed P</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -112,6 +161,15 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
