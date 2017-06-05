@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="vim_settings.xml" timestamp="1496665500741">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" timestamp="1496416737002">
         <mark key="[" line="445" column="45" />
         <mark key="]" line="442" column="8" />
@@ -41,11 +44,10 @@
         <mark key="^" line="15" column="95" />
         <mark key="." line="15" column="95" />
       </file>
-      <file name="$USER_HOME$/Code/project-boomer/public/phpinfo.php" timestamp="1496585031190">
+      <file name="$USER_HOME$/Code/project-boomer/public/phpinfo.php" timestamp="1496665565228">
         <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="9" />
-        <mark key="^" line="1" column="9" />
-        <mark key="." line="1" column="9" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Code/project-boomer/app/Http/Requests/StandardWork/StoreRequest.php" timestamp="1496580532806">
         <mark key="[" line="6" column="6" />
@@ -224,8 +226,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Code/project-boomer/app/Http/Requests/StandardWork/StoreRequest.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>post</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZWNobyAnaGknOwpwaHBpbmZvKCk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>post</text>
@@ -234,31 +236,31 @@
         <text>post</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQGlmICgkZXJyb3JzLT5oYXMoJ25hbWUnKSkKICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InVpIGVycm9yIG1lc3NhZ2UiPgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImhlYWRlciI+e3sgdHJhbnMoJ2FsbC5wbGVhc2VfZmlsbF90aGVfZm9ybScpIH19PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPHA+e3sgdHJhbnMoJ2FsbC5wbGVhc2VfZmlsbF90aGVfZm9ybScpIH19PC9wPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIEBlbmRpZgoK</text>
+        <text encoding="base64">ZWNobyAnaGknOwpwaHBpbmZvKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQGlmICgkZXJyb3JzLT5oYXMoJ25hbWUnKSkKICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InVpIGVycm9yIG1lc3NhZ2UiPgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImhlYWRlciI+e3sgdHJhbnMoJ2FsbC5wbGVhc2VfZmlsbF90aGVfZm9ybScpIH19PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPHA+e3sgdHJhbnMoJ2FsbC5wbGVhc2VfZmlsbF90aGVfZm9ybScpIH19PC9wPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIEBlbmRpZgoK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHt7ICR3b3JrZmxvdyB9fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIHt7ICR3b3JrZmxvdyB9fQo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHJlcXVpcmUoYXBwX3BhdGgoJ0h0dHAvUm91dGVzL0Nvc3RFc3RpbWF0aW9ucy5waHAnKSk7Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgICAgICAkd29ya2Zsb3ctPgogICAgXEFwcFxFbnRpdGllc1xVc2VyOjoKICAgICAgICBcQXBwXEVudGl0aWVzXFdvcmtmbG93OjoKICAgICAgICBXb3JrZmxvdzo6CiAgICAkcmVxdWVzdC0+CiAgICB2aWV3KCdiaWQnKQogICAgdmlldygnJykKICAgIFZpZXc6Om1ha2UoJycpCiAgICBDb25maWc6OmdldCgnJyk=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBXb3JrZmxvdzo6Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVxdWVzdC0+aGFzCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkcgo=</text>
+        <text encoding="base64">ICAgICAgICAkcmVxdWVzdC0+aGFzCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLygvcXdlL2c=</text>
@@ -329,6 +331,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
