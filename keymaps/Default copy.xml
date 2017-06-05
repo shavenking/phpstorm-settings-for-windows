@@ -10,4 +10,5 @@
   </action>
   <action id="ParameterInfo" />
   <action id="Replace" />
+  <action id="Vcs.UpdateProject" />
 </keymap>
