@@ -7,9 +7,23 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/durian2/docker/php/php.ini" timestamp="1496627120668">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
+      <file name="D:/durian2/test.php" timestamp="1496629397836">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="4" column="19" />
+        <mark key="]" line="4" column="19" />
+        <mark key="." line="4" column="19" />
+        <mark key="^" line="4" column="19" />
+      </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" timestamp="1496629001766">
+        <mark key="'" line="125" column="0" />
+        <mark key="[" line="1944" column="0" />
+        <mark key="]" line="1944" column="0" />
+        <mark key="^" line="1942" column="71" />
+        <mark key="." line="1944" column="0" />
       </file>
       <file name="Y:/durian2/src/BB/DurianBundle/Controller/RemitController.php" timestamp="1496392149965">
         <mark key="'" line="1786" column="21" />
@@ -47,33 +61,43 @@
       <jump line="1933" column="0" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" />
       <jump line="45" column="24" filename="D:/durian2/app/config/config_test.yml" />
       <jump line="1959" column="8" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" />
+      <jump line="1692" column="38" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" />
+      <jump line="1955" column="50" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" />
+      <jump line="125" column="0" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" />
+      <jump line="4" column="0" filename="D:/durian2/test.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">eGRlYnVnLmlkZWtleT12YWdyYW50CnhkZWJ1Zy5yZW1vdGVfaG9zdD0xMC4wLjIuMgo=</text>
+      <register name="&quot;" type="4">
+        <text>is_float</text>
       </register>
       <register name="-" type="4">
-        <text>ed</text>
+        <text>is_float</text>
       </register>
       <register name="/" type="4">
         <text>%kernel.cache_dir%</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">eGRlYnVnLmlkZWtleT12YWdyYW50CnhkZWJ1Zy5yZW1vdGVfaG9zdD0xMC4wLjIuMgo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">JGRhdGUgPSBuZXcgXERhdGVUaW1lKCcyMDE3LTA2LTAyVDEyOjAwOjAwKzA4MDAnKTsKCmZ1bmN0aW9uIHRvQ3JvbkV4cHJlc3Npb24oXERhdGVUaW1lICRhdCkKewogICAgJGNyb24gPSBcQ3JvblxDcm9uRXhwcmVzc2lvbjo6ZmFjdG9yeSgnMCAxMiAqICogKicpOyAvL6hDpNGkpKTIMTLCSQoKICAgIC8vIKZdrLAgQ3JvbkV4cHJlc3Npb24gt3zF3KfztsekSqq6rsm2oaFBvsmtUKztpcO7t6xPMAogICAgJG5ld0F0ID0gY2xvbmUgJGF0OwoKICAgIHJldHVybiAkY3Jvbi0+Z2V0UHJldmlvdXNSdW5EYXRlKCRuZXdBdCwgMCwgdHJ1ZSk7Cn0KCgp2YXJfZHVtcCh0b0Nyb25FeHByZXNzaW9uKCRkYXRlKSk7Cgp2YXJfZHVtcCgkZGF0ZS0+c2V0VGltZSgxMiwgMCktPm1vZGlmeSgnLTEgZGF5cycpKTs=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">eGRlYnVnLnJlbW90ZV9oYW5kbGVyPWRiZ3AK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCAoJHJlbWl0QWNjb3VudHMgYXMgJHJlbWl0QWNjb3VudCkgewogICAgICAgICAgICAgICAgJHJlbWl0QWNjb3VudENvdW50WyRyZW1pdEFjY291bnQtPmdldElkKCldID0gMDsKICAgICAgICAgICAgfQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBlMmU2MGJmOGEuLi4gW0ZlYXR1cmVdt3O8V6ZQsqS2s7vIpualZKa4vMayzq1wrNvD9qVcr+AK</text>
+        <text encoding="base64">eGRlYnVnLmlkZWtleT12YWdyYW50CnhkZWJ1Zy5yZW1vdGVfaG9zdD0xMC4wLjIuMgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0K</text>
+        <text encoding="base64">eGRlYnVnLnJlbW90ZV9oYW5kbGVyPWRiZ3AK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBlMmU2MGJmOGEuLi4gW0ZlYXR1cmVdt3O8V6ZQsqS2s7vIpualZKa4vMayzq1wrNvD9qVcr+AK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0K</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgLy8gqPqxb7vIpualZKjPpc6muLzGCiAgICAgICAgJHJlbWl0QWNjb3VudENvdW50ID0gW107CiAgICAgICAgZm9yZWFjaCAoJHJlbWl0QWNjb3VudHMgYXMgJHJlbWl0QWNjb3VudCkgewogICAgICAgICAgICAkcmVtaXRBY2NvdW50Q291bnRbJHJlbWl0QWNjb3VudC0+Z2V0SWQoKV0gPSAwOwogICAgICAgIH0KCiAgICAgICAgJHJlbWl0QWNjb3VudENvdW50ID0gYXJyYXlfcmVwbGFjZSgKICAgICAgICAgICAgJHJlbWl0QWNjb3VudENvdW50LAogICAgICAgICAgICAkZW0tPmdldFJlcG9zaXRvcnkoJ0JCRHVyaWFuQnVuZGxlOlJlbWl0QWNjb3VudFN0YXQnKS0+Z2V0Q291bnQoJHJlbWl0QWNjb3VudHMpCiAgICAgICAgKTsKCj09PT09PT0KPj4+Pj4+PiBlMmU2MGJmOGEuLi4gW0ZlYXR1cmVdt3O8V6ZQsqS2s7vIpualZKa4vMayzq1wrNvD9qVcr+AK</text>
       </register>
-      <register name="6" type="8">
+      <register name="8" type="8">
         <text>tmp
 tmp
 tmp
@@ -82,14 +106,8 @@ tmp
 tmp
 tmp</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyCx0qXOpri8xrHGp8euyaZBtmm46q7Grnen7KjPpc6muLzGCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gqPqxb7vIpualZKjPpc6muLzGCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyCx0qXOpri8xrHGp8euyaZBtmm46q7Grnen7KjPpc6muLzGCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyVrZXJuZWwuY2FjaGVfZGlyJS9cL3RtcC9n</text>
