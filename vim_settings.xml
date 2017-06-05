@@ -19,11 +19,7 @@
         <mark key="." line="31" column="99" />
         <mark key="^" line="31" column="99" />
       </file>
-      <file name="D:/durian2/docker/php/php.ini" timestamp="1496627120668">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-      </file>
+      <file name="D:/durian2/vendor/sebastian/comparator/src/NumericComparator.php" timestamp="1496650719984" />
       <file name="D:/payment/lib.php" timestamp="1496646200118">
         <mark key="'" line="36" column="4" />
         <mark key="[" line="61" column="0" />
@@ -72,6 +68,7 @@
         <mark key="^" line="131" column="0" />
         <mark key="." line="142" column="0" />
       </file>
+      <file name="D:/durian2/vendor/phpunit/phpunit/src/Framework/Constraint/StringMatches.php" timestamp="1496652190916" />
       <file name="D:/durian2/app/DoctrineMigrations/Version20170605152028.php" timestamp="1496647781100">
         <mark key="'" line="20" column="0" />
         <mark key="[" line="31" column="129" />
@@ -79,12 +76,12 @@
         <mark key="." line="31" column="129" />
         <mark key="^" line="31" column="128" />
       </file>
-      <file name="D:/durian2/test.php" timestamp="1496634122775">
+      <file name="D:/durian2/test.php" timestamp="1496652666858">
         <mark key="'" line="3" column="18" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="22" />
-        <mark key="." line="4" column="22" />
-        <mark key="^" line="4" column="22" />
+        <mark key="[" line="4" column="20" />
+        <mark key="]" line="4" column="27" />
+        <mark key="." line="4" column="27" />
+        <mark key="^" line="4" column="27" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Payment/NewMiaofu.php" timestamp="1496647963184">
         <mark key="'" line="101" column="0" />
@@ -109,6 +106,9 @@
         <mark key="]" line="591" column="45" />
         <mark key="^" line="591" column="45" />
         <mark key="." line="591" column="45" />
+      </file>
+      <file name="D:/durian2/vendor/phpunit/phpunit/src/Framework/Assert.php" timestamp="1496651537708">
+        <mark key="'" line="803" column="4" />
       </file>
     </filemarks>
     <jumps>
@@ -157,6 +157,9 @@
       <jump line="101" column="0" filename="D:/durian2/src/BB/DurianBundle/Payment/NewMiaofu.php" />
       <jump line="100" column="14" filename="D:/durian2/src/BB/DurianBundle/Payment/NewYiFuBao.php" />
       <jump line="29" column="80" filename="D:/durian2/app/DoctrineMigrations/Version20170605154756.php" />
+      <jump line="0" column="0" filename="D:/durian2/vendor/sebastian/comparator/src/NumericComparator.php" />
+      <jump line="1793" column="27" filename="D:/durian2/vendor/phpunit/phpunit/src/Framework/Assert.php" />
+      <jump line="803" column="4" filename="D:/durian2/vendor/phpunit/phpunit/src/Framework/Assert.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
