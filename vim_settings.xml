@@ -52,6 +52,11 @@
         <mark key="^" line="5" column="94" />
         <mark key="." line="5" column="94" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer3" timestamp="1496656325196">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="D:/durian2/src/BB/DurianBundle/Validator.php" timestamp="1496632811427">
         <mark key="'" line="38" column="8" />
       </file>
@@ -163,10 +168,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>175</text>
+        <text>^(.*)$merchant$</text>
       </register>
       <register name="-" type="4">
-        <text>175</text>
+        <text>^(.*)$merchant$</text>
       </register>
       <register name="/" type="4">
         <text>175</text>
