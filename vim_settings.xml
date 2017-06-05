@@ -17,12 +17,12 @@
         <mark key="]" line="431" column="13" />
         <mark key="." line="431" column="13" />
       </file>
-      <file name="$USER_HOME$/Code/project-boomer/app/Http/Controllers/WorkflowsController.php" timestamp="1496667368404">
+      <file name="$USER_HOME$/Code/project-boomer/app/Http/Controllers/WorkflowsController.php" timestamp="1496672391149">
         <mark key="'" line="40" column="8" />
-        <mark key="[" line="166" column="56" />
-        <mark key="]" line="166" column="55" />
-        <mark key="." line="166" column="55" />
-        <mark key="^" line="166" column="55" />
+        <mark key="[" line="200" column="18" />
+        <mark key="]" line="200" column="38" />
+        <mark key="." line="200" column="38" />
+        <mark key="^" line="200" column="38" />
       </file>
       <file name="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Entity/RemitEntry.php" timestamp="1496456340604">
         <mark key="'" line="39" column="5" />
@@ -160,8 +160,8 @@
       <jump line="54" column="5" filename="$USER_HOME$/CodeBK/durian2/src/BB/DurianBundle/Controller/RemitController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>view('')</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBhcHAoUmVxdWVzdDo6Y2xhc3MpLT5pbnB1dAo=</text>
       </register>
       <register name="-" type="4">
         <text>view('')</text>
@@ -170,31 +170,31 @@
         <text>post</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Z2V0RW50aXR5TWFuYWdlcigpLT5nZXRFeHByZXNzaW9uQnVpbGRlcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhcHAoUmVxdWVzdDo6Y2xhc3MpLT5pbnB1dAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Z2V0RW50aXR5TWFuYWdlcigpLT5nZXRFeHByZXNzaW9uQnVpbGRlcigpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpc2lzY29vbDsKCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpc2lzY29vbDsKCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHJlcXVpcmUoYXBwX3BhdGgoJ0h0dHAvUm91dGVzL0Nvc3RFc3RpbWF0aW9ucy5waHAnKSk7Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICAgICAgICAkd29ya2Zsb3ctPgogICAgXEFwcFxFbnRpdGllc1xVc2VyOjoKICAgICAgICBcQXBwXEVudGl0aWVzXFdvcmtmbG93OjoKICAgICAgICBXb3JrZmxvdzo6CiAgICAkcmVxdWVzdC0+CiAgICB2aWV3KCdiaWQnKQogICAgdmlldygnJykKICAgIFZpZXc6Om1ha2UoJycpCiAgICBDb25maWc6OmdldCgnJyk=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBXb3JrZmxvdzo6Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVxdWVzdC0+aGFzCg==</text>
+        <text encoding="base64">ICAgICAgICBXb3JrZmxvdzo6Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLygvcXdlL2c=</text>
