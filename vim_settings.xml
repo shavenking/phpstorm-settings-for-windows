@@ -47,12 +47,12 @@
         <mark key="^" line="131" column="0" />
         <mark key="." line="142" column="0" />
       </file>
-      <file name="D:/durian2/test.php" timestamp="1496652666858">
-        <mark key="'" line="3" column="18" />
-        <mark key="[" line="4" column="20" />
-        <mark key="]" line="4" column="27" />
-        <mark key="." line="4" column="27" />
-        <mark key="^" line="4" column="27" />
+      <file name="D:/durian2/test.php" timestamp="1496716339467">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="19" />
       </file>
       <file name="D:/durian2/app/config/config_test.yml" timestamp="1496644836517">
         <mark key="'" line="45" column="24" />
@@ -77,21 +77,21 @@
         <mark key="^" line="490" column="0" />
         <mark key="." line="490" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496643889890">
+      <file name="/Dummy.txt" timestamp="1496717422323">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" timestamp="1496713726244">
-        <mark key="'" line="691" column="40" />
-        <mark key="[" line="5329" column="72" />
-        <mark key="]" line="5329" column="70" />
-        <mark key="." line="5329" column="70" />
-        <mark key="^" line="5329" column="70" />
+      <file name="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" timestamp="1496718143774">
+        <mark key="'" line="693" column="40" />
+        <mark key="[" line="5276" column="0" />
+        <mark key="]" line="5276" column="0" />
+        <mark key="." line="5276" column="0" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Entity/RemitAccountStat.php" timestamp="1496713951757">
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="^" line="140" column="67" />
-        <mark key="." line="92" column="0" />
+      <file name="D:/durian2/src/BB/DurianBundle/Entity/RemitAccountStat.php" timestamp="1496715139355">
+        <mark key="'" line="69" column="36" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="42" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="D:/payment/lib.php" timestamp="1496646200118">
         <mark key="'" line="36" column="4" />
@@ -105,6 +105,12 @@
       </file>
       <file name="/fragment.php" timestamp="1496710821001">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Entity/AutoRemitBankInfo.php" timestamp="1496717346985">
+        <mark key="[" line="68" column="30" />
+        <mark key="]" line="68" column="36" />
+        <mark key="^" line="68" column="36" />
+        <mark key="." line="68" column="36" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Validator.php" timestamp="1496632811427">
         <mark key="'" line="38" column="8" />
@@ -122,6 +128,9 @@
         <mark key="]" line="31" column="129" />
         <mark key="." line="31" column="129" />
         <mark key="^" line="31" column="128" />
+      </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Entity/MerchantStat.php" timestamp="1496715562540">
+        <mark key="'" line="3" column="0" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Payment/NewMiaofu.php" timestamp="1496647963184">
         <mark key="'" line="101" column="0" />
@@ -212,13 +221,17 @@
       <jump line="544" column="8" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
       <jump line="45" column="69" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
       <jump line="691" column="40" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
+      <jump line="68" column="36" filename="D:/durian2/src/BB/DurianBundle/Entity/RemitAccountStat.php" />
+      <jump line="0" column="0" filename="D:/durian2/src/BB/DurianBundle/Entity/MerchantStat.php" />
+      <jump line="3" column="0" filename="D:/durian2/src/BB/DurianBundle/Entity/MerchantStat.php" />
+      <jump line="8" column="0" filename="D:/durian2/test.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBhMTk4MTZjZjQuLi4gW0ZlYXR1cmVdt3O8V6ZQsqS2s7vIpualZKa4vMayzq1wrNvD9qVcr+AK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>$</text>
+        <text encoding="base64">JGxvZ09wLT5zZXRBdChuZXcgXERhdGVUaW1lKCkpLT4=</text>
       </register>
       <register name="/" type="4">
         <text>NO Level</text>
@@ -227,42 +240,31 @@
         <text encoding="base64">ICAgICAgICAkZmVlQ29udiA9IG51bWJlcl9mb3JtYXQoJGZlZSAqICRyYXRlIC8gJHBheXdheVJhdGUsIDQsICcuJywgJycpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBhMTk4MTZjZjQuLi4gW0ZlYXR1cmVdt3O8V6ZQsqS2s7vIpualZKa4vMayzq1wrNvD9qVcr+AK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgKiBAcmV0dXJuIGludGVnZXIKPT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWRkU3FsKCJERUxFVEUgRlJPTSBgcGF5bWVudF9nYXRld2F5X2hhc19wYXltZW50X21ldGhvZGAgV0hFUkUgYHBheW1lbnRfZ2F0ZXdheV9pZGAgPSAnMTI2JyBBTkQgYHBheW1lbnRfbWV0aG9kX2lkYCA9ICczJyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvKiogQHZhciBBdXRvUmVtaXRCYW5rSW5mbyAkYXV0b1JlbWl0QmFua0luZm8gKi8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWRkU3FsKCJJTlNFUlQgSU5UTyBwYXltZW50X2dhdGV3YXlfaGFzX3BheW1lbnRfbWV0aG9kIChwYXltZW50X2dhdGV3YXlfaWQsIHBheW1lbnRfbWV0aG9kX2lkKSBWQUxVRVMgKDE3NSwgMykiKTsK</text>
+        <text encoding="base64">ICAgICAgICAkYXV0b1JlbWl0QmFua0luZm8tPmdldEJhbmtJbmZvKCkK</text>
       </register>
-      <register name="5" type="8">
-        <text>'
-'
-'
-'
-'
-'
-'
-'
-'
-'
-'
-'</text>
+      <register name="5" type="2">
+        <text encoding="base64">ZmkK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICBzZXRfZXJyb3JfaGFuZGxlcihmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBcRXhjZXB0aW9uKCdvaycpOwogICAgICAgIH0pOwokdGhpcy0+cmVxdWVzdERhdGFbJ3Nzc3Nzc3MnXTsKICAgICAgICByZXN0b3JlX2Vycm9yX2hhbmRsZXIoKTs=</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">c2V0X2Vycm9yX2hhbmRsZXIoZnVuY3Rpb24gKCkgewogICAgICAgICAgICB0aHJvdyBuZXcgXEV4Y2VwdGlvbignb2snKTsKICAgICAgICB9KTsKJHRoaXMtPnJlcXVlc3REYXRhWydzc3Nzc3NzJ107CiAgICAgICAgcmVzdG9yZV9lcnJvcl9oYW5kbGVyKCk7</text>
+      <register name="7" type="2">
+        <text encoding="base64">dmFyX2R1bXAoJHBhcmFtcyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG1hdGNoZXNbMTMxNF07Cg==</text>
+        <text encoding="base64">dmFyX2R1bXAoKHN0cmluZykoMS4wMTEqMTAwKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgICAgICd2ZXJzaW9uJyA9PiAkdGhpcy0+Z2V0VmVyc2lvbigpLAo9PT09PT09Cj4+Pj4+Pj4gODczMjM5ZWY3Li4uIFtGZWF0dXJlXbdzvFemULKktrO7yKbmpWSmuLzGss6tcKzbw/alXK/gCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBhMTk4MTZjZjQuLi4gW0ZlYXR1cmVdt3O8V6ZQsqS2s7vIpualZKa4vMayzq1wrNvD9qVcr+AK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLzEyNi8xNzUvZw==</text>
@@ -368,6 +370,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
