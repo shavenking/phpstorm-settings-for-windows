@@ -112,12 +112,11 @@
       <file name="/Dummy.txt" timestamp="1496726188731">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" timestamp="1496729745243">
-        <mark key="'" line="5320" column="0" />
-        <mark key="[" line="5322" column="39" />
-        <mark key="]" line="5320" column="102" />
-        <mark key="." line="5320" column="102" />
-        <mark key="^" line="5320" column="102" />
+      <file name="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" timestamp="1496733528246">
+        <mark key="'" line="3548" column="8" />
+        <mark key="[" line="5321" column="0" />
+        <mark key="]" line="5321" column="0" />
+        <mark key="." line="5321" column="0" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Entity/RemitAccountStat.php" timestamp="1496715139355">
         <mark key="'" line="69" column="36" />
@@ -206,7 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2045" column="0" filename="Y:/durian2/src/BB/DurianBundle/Controller/RemitController.php" />
       <jump line="736" column="24" filename="Y:/durian2/src/BB/DurianBundle/Controller/RemitController.php" />
       <jump line="510" column="26" filename="Y:/durian2/src/BB/DurianBundle/Controller/RemitController.php" />
       <jump line="365" column="26" filename="Y:/durian2/src/BB/DurianBundle/Controller/RemitController.php" />
@@ -306,10 +304,11 @@
       <jump line="6" column="37" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitControllerTest.php" />
       <jump line="29" column="50" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitControllerTest.php" />
       <jump line="56" column="23" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitControllerTest.php" />
+      <jump line="3548" column="8" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Ly8g</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PT09PT09PQogICAgICAgICRjb25maWdzID0gJGVtLT5nZXRSZXBvc2l0b3J5KCdCQkR1cmlhbkJ1bmRsZTpSZW1pdExldmVsT3JkZXInKS0+ZmluZE9uZUJ5KFsnbGV2ZWxJZCcgPT4gWzEsIDVdXSk7Cj4+Pj4+Pj4gW0ZlYXR1cmVdt3O8V6ZQsqS2s7vIpualZKa4vMayzq1wrNvD9qVcr+AK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">Ly8g</text>
@@ -321,12 +320,18 @@
         <text encoding="base64">ICAgICAgICAkZmVlQ29udiA9IG51bWJlcl9mb3JtYXQoJGZlZSAqICRyYXRlIC8gJHBheXdheVJhdGUsIDQsICcuJywgJycpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkcWItPmZyb20oJ0JCRHVyaWFuQnVuZGxlOlJlbWl0QWNjb3VudFN0YXQnKQo=</text>
+        <text encoding="base64">PT09PT09PQogICAgICAgICRjb25maWdzID0gJGVtLT5nZXRSZXBvc2l0b3J5KCdCQkR1cmlhbkJ1bmRsZTpSZW1pdExldmVsT3JkZXInKS0+ZmluZE9uZUJ5KFsnbGV2ZWxJZCcgPT4gWzEsIDVdXSk7Cj4+Pj4+Pj4gW0ZlYXR1cmVdt3O8V6ZQsqS2s7vIpualZKa4vMayzq1wrNvD9qVcr+AK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAkcWItPmZyb20oJ0JCRHVyaWFuQnVuZGxlOlJlbWl0QWNjb3VudFN0YXQnKQo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAKICAgICAgICAkcWItPnNlbGVjdCgnJyktPmFkZFNlbGVjdCgnJyktPnNldFBhcmFtZXRlcignJyktPmdldFF1ZXJ5KCktPmdldEFycmF5UmVzdWx0KCk7Cg==</text>
       </register>
-      <register name="3" type="8">
+      <register name="5" type="8">
         <text>%kernel.cache_dir%
 %kernel.cache_dir%
 %kernel.cache_dir%
@@ -336,23 +341,17 @@
 %kernel.cache_dir%
 %kernel.cache_dir%</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAvKiogQHZhciBSZW1pdExldmVsT3JkZXIgJGNvbmZpZyAqLwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAobmV3IFxEYXRlVGltZSktPmZvcm1hdCgnJykK</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAobmV3IFxEYXRlVGltZSktPgo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">LUotRGphdmEuYXd0LmltLnN0eWxlPW9uLXRoZS1zcG90Cg==</text>
+        <text encoding="base64">ICAgICAgICAkCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
