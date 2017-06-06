@@ -124,8 +124,12 @@
         <mark key="]" line="5494" column="0" />
         <mark key="." line="5494" column="0" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Controller/MerchantController.php" timestamp="1496740378845">
-        <mark key="'" line="256" column="21" />
+      <file name="D:/durian2/src/BB/DurianBundle/Controller/MerchantController.php" timestamp="1496742208269">
+        <mark key="'" line="86" column="45" />
+        <mark key="[" line="90" column="63" />
+        <mark key="]" line="91" column="7" />
+        <mark key="." line="91" column="7" />
+        <mark key="^" line="91" column="7" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Entity/RemitAccountStat.php" timestamp="1496715139355">
         <mark key="'" line="69" column="36" />
@@ -231,7 +235,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="30" filename="D:/durian2/src/BB/DurianBundle/Controller/DepositController.php" />
       <jump line="38" column="8" filename="D:/durian2/src/BB/DurianBundle/Validator.php" />
       <jump line="239" column="39" filename="D:/durian2/src/BB/DurianBundle/Controller/DepositController.php" />
       <jump line="1297" column="20" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/DepositFunctionalTest.php" />
@@ -331,21 +334,25 @@
       <jump line="251" column="0" filename="D:/durian2/src/BB/DurianBundle/Controller/MerchantController.php" />
       <jump line="252" column="20" filename="D:/durian2/src/BB/DurianBundle/Controller/MerchantController.php" />
       <jump line="256" column="21" filename="D:/durian2/src/BB/DurianBundle/Controller/MerchantController.php" />
+      <jump line="86" column="45" filename="D:/durian2/src/BB/DurianBundle/Controller/MerchantController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAkZW5hYmxlID0gMTsKJGFsaWFzPXJhbmQoKTsKJG51bWJlcj1yYW5kKCk7CiRwYXltZW50R2F0ZXdheUlkPXJhbmQoMSwxMDApOwokZG9tYWluPTY7CiRjdXJyZW5jeT0nQ05ZJzsKJGxldmVsSWRzPVsxXTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAg</text>
+        <text>$alias=rand();</text>
       </register>
       <register name="/" type="4">
-        <text>retml</text>
+        <text>defa</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkZmVlQ29udiA9IG51bWJlcl9mb3JtYXQoJGZlZSAqICRyYXRlIC8gJHBheXdheVJhdGUsIDQsICcuJywgJycpOwo=</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAkZW5hYmxlID0gMTsKJGFsaWFzPXJhbmQoKTsKJG51bWJlcj1yYW5kKCk7CiRwYXltZW50R2F0ZXdheUlkPXJhbmQoMSwxMDApOwokZG9tYWluPTY7CiRjdXJyZW5jeT0nQ05ZJzsKJGxldmVsSWRzPVsxXTsK</text>
+      </register>
+      <register name="2" type="8">
         <text>%kernel.cache_dir%
 %kernel.cache_dir%
 %kernel.cache_dir%
@@ -355,46 +362,42 @@
 %kernel.cache_dir%
 %kernel.cache_dir%</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKDk0ODcsICRkYXRhWyd2ZXJzaW9uJ10pOwo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAkcmVtaXRBY2NvdW50LT5zZXRWZXJzaW9uKDk0ODcpOwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gp/O3c7vIpualZLHGp8cK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CiAgICAvKioKICAgICAqILNdqXeqqaW7uLkKICAgICAqCiAgICAgKiBAcGFyYW0gaW50ZWdlciAkdmVyc2lvbgogICAgICogQHJldHVybiBSZW1pdEFjY291bnQKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIHNldFZlcnNpb24oJHZlcnNpb24pCiAgICB7CiAgICAgICAgJHRoaXMtPnZlcnNpb24gPSAkdmVyc2lvbjsKCiAgICAgICAgcmV0dXJuICR0aGlzOwogICAgfQoK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHJlbWl0QWNjb3VudC0+c2V0VmVyc2lvbigkcmVxdWVzdFJlbWl0QWNjb3VudHNbJHJlbWl0QWNjb3VudC0+Z2V0SWQoKV1bJ3ZlcnNpb24nXSk7Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChcRXhjZXB0aW9uICRlKSB7CiAgICAgICAgICAgIHRocm93ICRlOwogICAgICAgIH0K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChcRG9jdHJpbmVcT1JNXE9wdGltaXN0aWNMb2NrRXhjZXB0aW9uICRlKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChcRXhjZXB0aW9uICRlKSB7CiAgICAgICAgICAgIHRocm93ICRlOwogICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>retml</last-search>
+      <last-search>defa</last-search>
       <last-offset />
-      <last-pattern>retml</last-pattern>
+      <last-pattern>defa</last-pattern>
       <last-replace>getOrderId</last-replace>
       <last-substitute>getId</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>format</entry>
         <entry>tong</entry>
         <entry>findONe</entry>
         <entry>findOne</entry>
@@ -414,6 +417,7 @@
         <entry>getor</entry>
         <entry>getde</entry>
         <entry>retml</entry>
+        <entry>defa</entry>
       </history-search>
       <history-cmd>
         <entry>243y</entry>
