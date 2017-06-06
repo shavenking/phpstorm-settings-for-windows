@@ -10,15 +10,18 @@
         <mark key="." line="31" column="99" />
         <mark key="^" line="31" column="99" />
       </file>
+      <file name="D:/durian2/vendor/liip/functional-test-bundle/Test/WebTestCase.php" timestamp="1496728418123">
+        <mark key="'" line="25" column="0" />
+      </file>
       <file name="D:/durian2/src/BB/DurianBundle/Tests/Functional/LevelFunctionalTest.php" timestamp="1496713609160">
         <mark key="'" line="26" column="12" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" timestamp="1496711662802">
-        <mark key="'" line="1093" column="25" />
-        <mark key="[" line="2112" column="0" />
-        <mark key="]" line="2112" column="0" />
-        <mark key="^" line="2110" column="71" />
-        <mark key="." line="2112" column="0" />
+      <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" timestamp="1496726895401">
+        <mark key="'" line="1888" column="26" />
+        <mark key="[" line="1911" column="26" />
+        <mark key="]" line="1911" column="28" />
+        <mark key="^" line="1911" column="28" />
+        <mark key="." line="1911" column="28" />
       </file>
       <file name="/a.dummy" timestamp="1496710217111">
         <mark key="[" line="0" column="0" />
@@ -35,16 +38,21 @@
         <mark key="^" line="5" column="94" />
         <mark key="." line="5" column="94" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer3" timestamp="1496656325196">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitControllerTest.php" timestamp="1496732021535">
+        <mark key="'" line="29" column="50" />
+        <mark key="[" line="13" column="19" />
+        <mark key="]" line="13" column="19" />
+        <mark key="^" line="13" column="19" />
+        <mark key="." line="13" column="19" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Entity/RemitLevelOrder.php" timestamp="1496645051174">
         <mark key="[" line="142" column="0" />
         <mark key="]" line="142" column="0" />
         <mark key="^" line="131" column="0" />
         <mark key="." line="142" column="0" />
+      </file>
+      <file name="D:/durian2/vendor/doctrine/orm/lib/Doctrine/ORM/Internal/Hydration/AbstractHydrator.php" timestamp="1496726977882">
+        <mark key="'" line="139" column="8" />
       </file>
       <file name="D:/durian2/test.php" timestamp="1496716339467">
         <mark key="'" line="8" column="0" />
@@ -53,8 +61,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="19" />
       </file>
-      <file name="D:/durian2/app/config/config_test.yml" timestamp="1496644836517">
-        <mark key="'" line="45" column="24" />
+      <file name="D:/durian2/app/config/config_test.yml" timestamp="1496729439161">
+        <mark key="'" line="20" column="24" />
+        <mark key="[" line="20" column="35" />
+        <mark key="]" line="20" column="38" />
+        <mark key="." line="20" column="38" />
+        <mark key="^" line="20" column="38" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Controller/CashController.php" timestamp="1496710206268">
         <mark key="[" line="1169" column="22" />
@@ -88,15 +100,24 @@
         <mark key="^" line="490" column="0" />
         <mark key="." line="490" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496717422323">
+      <file name="D:/durian2/vendor/doctrine/orm/lib/Doctrine/ORM/EntityRepository.php" timestamp="1496729285545">
+        <mark key="'" line="206" column="5" />
+      </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Payment/UnionPay.php" timestamp="1496730870321">
+        <mark key="[" line="29" column="8" />
+        <mark key="]" line="29" column="8" />
+        <mark key="^" line="29" column="10" />
+        <mark key="." line="29" column="8" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1496726188731">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" timestamp="1496723643635">
-        <mark key="'" line="693" column="40" />
-        <mark key="[" line="230" column="0" />
-        <mark key="]" line="230" column="0" />
-        <mark key="." line="230" column="0" />
-        <mark key="^" line="230" column="0" />
+      <file name="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" timestamp="1496729745243">
+        <mark key="'" line="5320" column="0" />
+        <mark key="[" line="5322" column="39" />
+        <mark key="]" line="5320" column="102" />
+        <mark key="." line="5320" column="102" />
+        <mark key="^" line="5320" column="102" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Entity/RemitAccountStat.php" timestamp="1496715139355">
         <mark key="'" line="69" column="36" />
@@ -112,12 +133,17 @@
         <mark key="^" line="65" column="22" />
         <mark key="." line="61" column="0" />
       </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountController.php" timestamp="1496726195004" />
+      <file name="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountRepository.php" timestamp="1496726914915">
+        <mark key="'" line="150" column="28" />
+      </file>
       <file name="/__dummy.css" timestamp="1496713099045">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.php" timestamp="1496710821001">
+      <file name="/fragment.php" timestamp="1496726232589">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/date/date_c.php" timestamp="1496726395809" />
       <file name="D:/durian2/src/BB/DurianBundle/Entity/AutoRemitBankInfo.php" timestamp="1496717346985">
         <mark key="[" line="68" column="30" />
         <mark key="]" line="68" column="36" />
@@ -133,6 +159,9 @@
         <mark key="]" line="121" column="35" />
         <mark key="^" line="121" column="35" />
         <mark key="." line="121" column="35" />
+      </file>
+      <file name="D:/durian2/vendor/doctrine/orm/lib/Doctrine/ORM/AbstractQuery.php" timestamp="1496726963725">
+        <mark key="'" line="801" column="48" />
       </file>
       <file name="D:/durian2/app/DoctrineMigrations/Version20170605152028.php" timestamp="1496647781100">
         <mark key="'" line="20" column="0" />
@@ -156,6 +185,13 @@
         <mark key="]" line="121" column="69" />
         <mark key="." line="121" column="69" />
         <mark key="^" line="121" column="69" />
+      </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountStatRepository.php" timestamp="1496731176433">
+        <mark key="'" line="18" column="5" />
+        <mark key="[" line="48" column="59" />
+        <mark key="]" line="48" column="48" />
+        <mark key="." line="48" column="48" />
+        <mark key="^" line="48" column="48" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Tests/Functional/DepositFunctionalTest.php" timestamp="1496634536044">
         <mark key="'" line="1294" column="4" />
@@ -197,7 +233,6 @@
       <jump line="1786" column="21" filename="Y:/durian2/src/BB/DurianBundle/Controller/RemitController.php" />
       <jump line="1938" column="8" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" />
       <jump line="1933" column="0" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" />
-      <jump line="1959" column="8" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" />
       <jump line="1692" column="38" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" />
       <jump line="1955" column="50" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" />
       <jump line="125" column="0" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" />
@@ -243,55 +278,90 @@
       <jump line="0" column="0" filename="D:/durian2/src/BB/DurianBundle/Entity/MerchantStat.php" />
       <jump line="3" column="0" filename="D:/durian2/src/BB/DurianBundle/Entity/MerchantStat.php" />
       <jump line="8" column="0" filename="D:/durian2/test.php" />
+      <jump line="1896" column="12" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" />
+      <jump line="1940" column="8" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" />
+      <jump line="1959" column="29" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" />
+      <jump line="1888" column="26" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" />
+      <jump line="150" column="28" filename="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountRepository.php" />
+      <jump line="801" column="48" filename="D:/durian2/vendor/doctrine/orm/lib/Doctrine/ORM/AbstractQuery.php" />
+      <jump line="131" column="20" filename="D:/durian2/vendor/doctrine/orm/lib/Doctrine/ORM/Internal/Hydration/AbstractHydrator.php" />
+      <jump line="139" column="8" filename="D:/durian2/vendor/doctrine/orm/lib/Doctrine/ORM/Internal/Hydration/AbstractHydrator.php" />
+      <jump line="451" column="57" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
+      <jump line="618" column="41" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
+      <jump line="63" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
+      <jump line="76" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
+      <jump line="375" column="8" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
+      <jump line="683" column="20" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
+      <jump line="704" column="12" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
+      <jump line="259" column="23" filename="D:/durian2/vendor/liip/functional-test-bundle/Test/WebTestCase.php" />
+      <jump line="0" column="1" filename="D:/durian2/vendor/liip/functional-test-bundle/Test/WebTestCase.php" />
+      <jump line="25" column="0" filename="D:/durian2/vendor/liip/functional-test-bundle/Test/WebTestCase.php" />
+      <jump line="3086" column="34" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
+      <jump line="3196" column="8" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
+      <jump line="5250" column="4" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
+      <jump line="5289" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
+      <jump line="5304" column="4" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
+      <jump line="206" column="5" filename="D:/durian2/vendor/doctrine/orm/lib/Doctrine/ORM/EntityRepository.php" />
+      <jump line="5320" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
+      <jump line="62" column="0" filename="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountStatRepository.php" />
+      <jump line="18" column="5" filename="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountStatRepository.php" />
+      <jump line="29" column="50" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitControllerTest.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Ly8g</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHRoaXMtPmFzc2VydFN0cmluZ01hdGNoZXNGb3JtYXQoKQ==</text>
+        <text encoding="base64">Ly8g</text>
       </register>
       <register name="/" type="4">
-        <text>NO Level</text>
+        <text>\irequest</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkZmVlQ29udiA9IG51bWJlcl9mb3JtYXQoJGZlZSAqICRyYXRlIC8gJHBheXdheVJhdGUsIDQsICcuJywgJycpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkCg==</text>
+        <text encoding="base64">ICAgICAgICAkcWItPmZyb20oJ0JCRHVyaWFuQnVuZGxlOlJlbWl0QWNjb3VudFN0YXQnKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAkcWItPnNlbGVjdCgnJyktPmFkZFNlbGVjdCgnJyktPnNldFBhcmFtZXRlcignJyktPmdldFF1ZXJ5KCktPmdldEFycmF5UmVzdWx0KCk7Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">LUotRGphdmEuYXd0LmltLnN0eWxlPW9uLXRoZS1zcG90Cg==</text>
+      <register name="3" type="8">
+        <text>%kernel.cache_dir%
+%kernel.cache_dir%
+%kernel.cache_dir%
+%kernel.cache_dir%
+%kernel.cache_dir%
+%kernel.cache_dir%
+%kernel.cache_dir%
+%kernel.cache_dir%</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkZW0tPmJlZ2luVHJhbnNhY3Rpb24oKTsK</text>
+        <text encoding="base64">ICAgICAgICAvKiogQHZhciBSZW1pdExldmVsT3JkZXIgJGNvbmZpZyAqLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvKiogQHZhciBBdXRvUmVtaXRCYW5rSW5mbyAkYXV0b1JlbWl0QmFua0luZm8gKi8K</text>
+        <text encoding="base64">ICAgICAgICAobmV3IFxEYXRlVGltZSktPmZvcm1hdCgnJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAobmV3IFxEYXRlVGltZSktPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvKiogQHZhciBBdXRvUmVtaXRCYW5rSW5mbyAkYXV0b1JlbWl0QmFua0luZm8gKi8K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkYXV0b1JlbWl0QmFua0luZm8tPmdldEJhbmtJbmZvKCkK</text>
+        <text encoding="base64">LUotRGphdmEuYXd0LmltLnN0eWxlPW9uLXRoZS1zcG90Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLzEyNi8xNzUvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>NO Level</last-search>
+      <last-search>\irequest</last-search>
       <last-offset />
-      <last-pattern>NO Level</last-pattern>
+      <last-pattern>\irequest</last-pattern>
       <last-replace>175</last-replace>
       <last-substitute>NO Level</last-substitute>
       <last-dir>1</last-dir>
@@ -299,20 +369,26 @@
     </search>
     <history>
       <history-search>
-        <entry>get.Account</entry>
-        <entry encoding="base64">XDxnZXRSZXF1ZXN0XD4=</entry>
-        <entry encoding="base64">XDxnZXRFbnRpdHlNYW5hZ2VyXD4=</entry>
-        <entry>we</entry>
-        <entry>We</entry>
-        <entry>Wei</entry>
         <entry>ZHIF</entry>
         <entry>%kernel.cache_dir%</entry>
         <entry>126</entry>
         <entry>1098</entry>
         <entry>175</entry>
         <entry>Duri</entry>
-        <entry>get</entry>
         <entry>NO Level</entry>
+        <entry>get</entry>
+        <entry>getresul</entry>
+        <entry>getR</entry>
+        <entry>hy</entry>
+        <entry>format</entry>
+        <entry>tong</entry>
+        <entry>findONe</entry>
+        <entry>findOne</entry>
+        <entry>one</entry>
+        <entry>One</entry>
+        <entry>findBy</entry>
+        <entry>Re</entry>
+        <entry>\irequest</entry>
       </history-search>
       <history-cmd>
         <entry>243y</entry>

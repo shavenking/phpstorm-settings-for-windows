@@ -4,20 +4,21 @@
     <property name="created">2017-06-02T15:56:51</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2017-06-05T09:14:30</property>
+    <property name="modified">2017-06-06T13:49:01</property>
     <property name="originalScheme">Material Theme - Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.5" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code Medium" />
-    <option name="EDITOR_FONT_SIZE" value="16" />
+    <option name="EDITOR_FONT_NAME" value="Operator Mono Bold" />
+    <option name="EDITOR_FONT_SIZE" value="18" />
   </font>
   <font>
-    <option name="EDITOR_FONT_NAME" value="Noto Sans CJK TC Regular" />
-    <option name="EDITOR_FONT_SIZE" value="16" />
+    <option name="EDITOR_FONT_NAME" value="Noto Sans CJK TC Bold" />
+    <option name="EDITOR_FONT_SIZE" value="18" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
+  <option name="CONSOLE_FONT_SIZE" value="16" />
   <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
@@ -303,11 +304,6 @@
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="82b1ff" />
-      </value>
-    </option>
-    <option name="CUSTOM_KEYWORD2_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="ab51ba" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD4_ATTRIBUTES">
@@ -1955,11 +1951,6 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="UNMATCHED_BRACE_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="d1243b" />
-      </value>
-    </option>
     <option name="VELOCITY_KEYWORD">
       <value>
         <option name="FOREGROUND" value="a7dbd8" />
@@ -1993,11 +1984,6 @@
       <value>
         <option name="FOREGROUND" value="32424a" />
         <option name="BACKGROUND" value="f8e71c" />
-      </value>
-    </option>
-    <option name="WRONG_REFERENCES_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="bc3f3c" />
       </value>
     </option>
     <option name="XML_ATTRIBUTE_NAME">
