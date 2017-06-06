@@ -69,6 +69,12 @@
         <mark key="^" line="591" column="45" />
         <mark key="." line="591" column="45" />
       </file>
+      <file name="D:/durian2/vendor/doctrine/orm/lib/Doctrine/ORM/EntityManager.php" timestamp="1496721897895">
+        <mark key="[" line="155" column="0" />
+        <mark key="]" line="155" column="0" />
+        <mark key="^" line="155" column="7" />
+        <mark key="." line="155" column="0" />
+      </file>
       <file name="$USER_HOME$/.PhpStorm2017.1/phpstorm64.exe.vmoptions" timestamp="1496721833890">
         <mark key="[" line="3" column="9" />
         <mark key="]" line="3" column="7" />
@@ -85,11 +91,11 @@
       <file name="/Dummy.txt" timestamp="1496717422323">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" timestamp="1496719463531">
+      <file name="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" timestamp="1496722819624">
         <mark key="'" line="693" column="40" />
-        <mark key="[" line="5251" column="0" />
-        <mark key="]" line="5251" column="0" />
-        <mark key="." line="5251" column="0" />
+        <mark key="[" line="175" column="0" />
+        <mark key="]" line="175" column="0" />
+        <mark key="." line="175" column="0" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Entity/RemitAccountStat.php" timestamp="1496715139355">
         <mark key="'" line="69" column="36" />
@@ -239,10 +245,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">LUotRGphdmEuYXd0LmltLnN0eWxlPW9uLXRoZS1zcG90Cg==</text>
+        <text encoding="base64">ICAgICAgICAkCg==</text>
       </register>
       <register name="-" type="4">
-        <text>E</text>
+        <text encoding="base64">JHRoaXMtPmFzc2VydFN0cmluZ01hdGNoZXNGb3JtYXQoKQ==</text>
       </register>
       <register name="/" type="4">
         <text>NO Level</text>
@@ -251,31 +257,31 @@
         <text encoding="base64">ICAgICAgICAkZmVlQ29udiA9IG51bWJlcl9mb3JtYXQoJGZlZSAqICRyYXRlIC8gJHBheXdheVJhdGUsIDQsICcuJywgJycpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LUotRGphdmEuYXd0LmltLnN0eWxlPW9uLXRoZS1zcG90Cg==</text>
+        <text encoding="base64">ICAgICAgICAkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkZW0tPmJlZ2luVHJhbnNhY3Rpb24oKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvKiogQHZhciBBdXRvUmVtaXRCYW5rSW5mbyAkYXV0b1JlbWl0QmFua0luZm8gKi8K</text>
+        <text encoding="base64">LUotRGphdmEuYXd0LmltLnN0eWxlPW9uLXRoZS1zcG90Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAkZW0tPmJlZ2luVHJhbnNhY3Rpb24oKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAvKiogQHZhciBBdXRvUmVtaXRCYW5rSW5mbyAkYXV0b1JlbWl0QmFua0luZm8gKi8K</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkYXV0b1JlbWl0QmFua0luZm8tPmdldEJhbmtJbmZvKCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZmkK</text>
+        <text encoding="base64">ICAgICAgICAvKiogQHZhciBBdXRvUmVtaXRCYW5rSW5mbyAkYXV0b1JlbWl0QmFua0luZm8gKi8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkYXV0b1JlbWl0QmFua0luZm8tPmdldEJhbmtJbmZvKCkK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLzEyNi8xNzUvZw==</text>
@@ -286,7 +292,7 @@
       <last-offset />
       <last-pattern>NO Level</last-pattern>
       <last-replace>175</last-replace>
-      <last-substitute>126</last-substitute>
+      <last-substitute>NO Level</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
