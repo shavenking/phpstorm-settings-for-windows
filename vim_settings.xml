@@ -16,7 +16,6 @@
       <file name="/a.dummy" timestamp="1496710217111">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Command/WeixinNotifyCommand.php" timestamp="1496807919096" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1" timestamp="1496636123458">
         <mark key="[" line="7" column="416" />
         <mark key="]" line="5" column="39" />
@@ -108,7 +107,7 @@
         <mark key="^" line="49" column="64" />
         <mark key="." line="48" column="72" />
       </file>
-      <file name="D:/payment/auto_remit.php" timestamp="1496796974696" />
+      <file name="D:/payment/auto_remit.php" timestamp="1496815701032" />
       <file name="D:/durian2/src/BB/DurianBundle/Validator.php" timestamp="1496632811427">
         <mark key="'" line="38" column="8" />
       </file>
@@ -154,6 +153,7 @@
         <mark key="^" line="1978" column="14" />
         <mark key="." line="1978" column="14" />
       </file>
+      <file name="D:/payment/config.php" timestamp="1496815993968" />
       <file name="D:/durian2/src/BB/DurianBundle/Entity/RemitAccount.php" timestamp="1496738131581">
         <mark key="[" line="490" column="5" />
         <mark key="]" line="491" column="3" />
@@ -226,11 +226,12 @@
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Tests/DataFixtures/ORM/LoadRemitAccountStatData.php" timestamp="1496804803565">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="20" column="32" />
+      <file name="D:/durian2/src/BB/DurianBundle/Tests/DataFixtures/ORM/LoadRemitAccountStatData.php" timestamp="1496816660460">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="16" column="73" />
+        <mark key="]" line="17" column="7" />
+        <mark key="." line="17" column="7" />
+        <mark key="^" line="17" column="7" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Payment/NewYiFuBao.php" timestamp="1496648859242">
         <mark key="'" line="100" column="14" />
@@ -257,7 +258,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="4" filename="D:/payment/lib.php" />
       <jump line="19" column="8" filename="D:/durian2/app/config/config_test.yml" />
       <jump line="45" column="24" filename="D:/durian2/app/config/config_test.yml" />
       <jump line="21" column="78" filename="D:/durian2/app/DoctrineMigrations/Version20170605152028.php" />
@@ -357,6 +357,7 @@
       <jump line="58" column="4" filename="D:/durian2/app/config/parameters.yml" />
       <jump line="695" column="16" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
       <jump line="4" column="6" filename="D:/durian2/test.php" />
+      <jump line="4" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/DataFixtures/ORM/LoadRemitAccountStatData.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
