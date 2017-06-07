@@ -148,6 +148,12 @@
       <file name="D:/durian2/vendor/liip/functional-test-bundle/Test/WebTestCase.php" timestamp="1496728418123">
         <mark key="'" line="25" column="0" />
       </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" timestamp="1496813711639">
+        <mark key="[" line="1978" column="15" />
+        <mark key="]" line="1978" column="14" />
+        <mark key="^" line="1978" column="14" />
+        <mark key="." line="1978" column="14" />
+      </file>
       <file name="D:/durian2/src/BB/DurianBundle/Entity/RemitAccount.php" timestamp="1496738131581">
         <mark key="[" line="490" column="5" />
         <mark key="]" line="491" column="3" />
