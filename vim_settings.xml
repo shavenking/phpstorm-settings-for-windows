@@ -16,12 +16,12 @@
       <file name="D:/durian2/src/BB/DurianBundle/Tests/Functional/LevelFunctionalTest.php" timestamp="1496713609160">
         <mark key="'" line="26" column="12" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" timestamp="1496802234121">
+      <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" timestamp="1496804416721">
         <mark key="'" line="1942" column="62" />
-        <mark key="[" line="2000" column="0" />
-        <mark key="]" line="2000" column="0" />
-        <mark key="^" line="2000" column="50" />
-        <mark key="." line="2000" column="0" />
+        <mark key="[" line="1942" column="30" />
+        <mark key="]" line="1942" column="30" />
+        <mark key="^" line="1983" column="50" />
+        <mark key="." line="1942" column="30" />
       </file>
       <file name="/a.dummy" timestamp="1496710217111">
         <mark key="[" line="0" column="0" />
@@ -60,12 +60,12 @@
       <file name="D:/durian2/vendor/doctrine/orm/lib/Doctrine/ORM/Internal/Hydration/AbstractHydrator.php" timestamp="1496726977882">
         <mark key="'" line="139" column="8" />
       </file>
-      <file name="D:/durian2/test.php" timestamp="1496737411883">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="9" column="37" />
-        <mark key="]" line="9" column="37" />
-        <mark key="." line="9" column="37" />
-        <mark key="^" line="9" column="37" />
+      <file name="D:/durian2/test.php" timestamp="1496805945566">
+        <mark key="'" line="4" column="6" />
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="5" column="13" />
+        <mark key="." line="5" column="13" />
+        <mark key="^" line="4" column="5" />
       </file>
       <file name="D:/durian2/app/config/config_test.yml" timestamp="1496739092433">
         <mark key="'" line="28" column="22" />
@@ -118,11 +118,12 @@
       <file name="/Dummy.txt" timestamp="1496798200239">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" timestamp="1496733528246">
-        <mark key="'" line="3721" column="8" />
-        <mark key="[" line="5494" column="0" />
-        <mark key="]" line="5494" column="0" />
-        <mark key="." line="5494" column="0" />
+      <file name="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" timestamp="1496804556859">
+        <mark key="'" line="695" column="16" />
+        <mark key="[" line="426" column="28" />
+        <mark key="]" line="426" column="29" />
+        <mark key="^" line="730" column="65" />
+        <mark key="." line="426" column="29" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Controller/MerchantController.php" timestamp="1496793259075">
         <mark key="'" line="86" column="45" />
@@ -138,6 +139,12 @@
         <mark key="^" line="5" column="42" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Tests/DataFixtures/ORM/LoadRemitAccountData.php" timestamp="1496803271477">
+        <mark key="[" line="54" column="42" />
+        <mark key="]" line="56" column="67" />
+        <mark key="^" line="56" column="67" />
+        <mark key="." line="56" column="67" />
+      </file>
       <file name="D:/payment/lib.php" timestamp="1496646200118">
         <mark key="'" line="36" column="4" />
         <mark key="[" line="61" column="0" />
@@ -152,6 +159,12 @@
         <mark key="]" line="114" column="16" />
         <mark key="." line="114" column="13" />
         <mark key="^" line="909" column="10" />
+      </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Tests/DataFixtures/ORM/LoadRemitAccountLevelData.php" timestamp="1496803373660">
+        <mark key="[" line="48" column="71" />
+        <mark key="]" line="48" column="72" />
+        <mark key="^" line="49" column="64" />
+        <mark key="." line="48" column="72" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountRepository.php" timestamp="1496726914915">
         <mark key="'" line="150" column="28" />
@@ -180,6 +193,12 @@
         <mark key="[" line="56" column="0" />
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
+      </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Tests/DataFixtures/ORM/LoadRemitAccountStatData.php" timestamp="1496804803565">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="20" column="32" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Payment/NewYiFuBao.php" timestamp="1496648859242">
         <mark key="'" line="100" column="14" />
@@ -239,8 +258,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1297" column="20" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/DepositFunctionalTest.php" />
-      <jump line="1294" column="4" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/DepositFunctionalTest.php" />
       <jump line="36" column="4" filename="D:/payment/lib.php" />
       <jump line="19" column="8" filename="D:/durian2/app/config/config_test.yml" />
       <jump line="45" column="24" filename="D:/durian2/app/config/config_test.yml" />
@@ -339,24 +356,41 @@
       <jump line="86" column="45" filename="D:/durian2/src/BB/DurianBundle/Controller/MerchantController.php" />
       <jump line="45" column="4" filename="D:/durian2/app/config/parameters.yml" />
       <jump line="58" column="4" filename="D:/durian2/app/config/parameters.yml" />
+      <jump line="695" column="16" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
+      <jump line="4" column="6" filename="D:/durian2/test.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>throw new \Exception(var_export($candidate, true));</text>
+        <text>999</text>
       </register>
       <register name="-" type="4">
-        <text>throw new \Exception(var_export($candidate, true));</text>
+        <text>999</text>
       </register>
       <register name="/" type="4">
-        <text>sequence</text>
+        <text>882</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkZmVlQ29udiA9IG51bWJlcl9mb3JtYXQoJGZlZSAqICRyYXRlIC8gJHBheXdheVJhdGUsIDQsICcuJywgJycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkYWNjb3VudCA9ICRlbS0+Z2V0UmVwb3NpdG9yeSgnQkJEdXJpYW5CdW5kbGU6UmVtaXRBY2NvdW50JykKICAgICAgICAgICAgLT5maW5kT25lQnkoWydhY2NvdW50JyA9PiAnMzkzOTg4OSddKTsKICAgICAgICAkYWNjb3VudC0+c2V0QXV0b0NvbmZpcm0oZmFsc2UpOwo=</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text encoding="base64">JHN0YXQgPSBuZXcgQ2xhc3Mge307CnZhcl9kdW1wKHNwbF9vYmplY3RfaGFzaCgkc3RhdCkpOwokc3RhdCA9IG5ldyBDbGFzcyB7fTsKdmFyX2R1bXAoc3BsX29iamVjdF9oYXNoKCRzdGF0KSk7Cg==</text>
+      </register>
+      <register name="2" type="4">
+        <text>$a = null;
+var_dump(0 == null);
+
+pen</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">dXNlIEJCXER1cmlhbkJ1bmRsZVxFbnRpdHlcUmVtaXRBY2NvdW50Owo=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">JGFyciA9IFsKICAgIFsnaWQnPT4xLCdpZGQnPT4yXSwKICAgIFsnaWQnPT4yLCdpZGQnPT4zXQpdOwo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAkZW5hYmxlID0gMTsKJGFsaWFzPXJhbmQoKTsKJG51bWJlcj1yYW5kKCk7CiRwYXltZW50R2F0ZXdheUlkPXJhbmQoMSwxMDApOwokZG9tYWluPTY7CiRjdXJyZW5jeT0nQ05ZJzsKJGxldmVsSWRzPVsxXTsK</text>
       </register>
-      <register name="2" type="8">
+      <register name="6" type="8">
         <text>%kernel.cache_dir%
 %kernel.cache_dir%
 %kernel.cache_dir%
@@ -366,43 +400,30 @@
 %kernel.cache_dir%
 %kernel.cache_dir%</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKDk0ODcsICRkYXRhWyd2ZXJzaW9uJ10pOwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAkcmVtaXRBY2NvdW50LT5zZXRWZXJzaW9uKDk0ODcpOwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gp/O3c7vIpualZLHGp8cK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqILNdqXeqqaW7uLkKICAgICAqCiAgICAgKiBAcGFyYW0gaW50ZWdlciAkdmVyc2lvbgogICAgICogQHJldHVybiBSZW1pdEFjY291bnQKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIHNldFZlcnNpb24oJHZlcnNpb24pCiAgICB7CiAgICAgICAgJHRoaXMtPnZlcnNpb24gPSAkdmVyc2lvbjsKCiAgICAgICAgcmV0dXJuICR0aGlzOwogICAgfQoK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJlbWl0QWNjb3VudC0+c2V0VmVyc2lvbigkcmVxdWVzdFJlbWl0QWNjb3VudHNbJHJlbWl0QWNjb3VudC0+Z2V0SWQoKV1bJ3ZlcnNpb24nXSk7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChcRXhjZXB0aW9uICRlKSB7CiAgICAgICAgICAgIHRocm93ICRlOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gp/O3c7vIpualZLHGp8cK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>sequence</last-search>
+      <last-search>882</last-search>
       <last-offset />
-      <last-pattern>sequence</last-pattern>
+      <last-pattern>882</last-pattern>
       <last-replace>getOrderId</last-replace>
       <last-substitute>getId</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>findOne</entry>
         <entry>one</entry>
         <entry>One</entry>
         <entry>findBy</entry>
@@ -422,6 +443,7 @@
         <entry>defa</entry>
         <entry>150300066</entry>
         <entry>sequence</entry>
+        <entry>882</entry>
       </history-search>
       <history-cmd>
         <entry>243y</entry>
