@@ -115,7 +115,7 @@
         <mark key="^" line="29" column="10" />
         <mark key="." line="29" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496726188731">
+      <file name="/Dummy.txt" timestamp="1496798200239">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" timestamp="1496733528246">
@@ -345,7 +345,7 @@
         <text>$alias=rand();</text>
       </register>
       <register name="/" type="4">
-        <text>defa</text>
+        <text>150300066</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkZmVlQ29udiA9IG51bWJlcl9mb3JtYXQoJGZlZSAqICRyYXRlIC8gJHBheXdheVJhdGUsIDQsICcuJywgJycpOwo=</text>
@@ -389,17 +389,16 @@
       </register>
     </registers>
     <search>
-      <last-search>defa</last-search>
+      <last-search>150300066</last-search>
       <last-offset />
-      <last-pattern>defa</last-pattern>
+      <last-pattern>150300066</last-pattern>
       <last-replace>getOrderId</last-replace>
       <last-substitute>getId</last-substitute>
-      <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>-1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>tong</entry>
         <entry>findONe</entry>
         <entry>findOne</entry>
         <entry>one</entry>
@@ -419,6 +418,7 @@
         <entry>getde</entry>
         <entry>retml</entry>
         <entry>defa</entry>
+        <entry>150300066</entry>
       </history-search>
       <history-cmd>
         <entry>243y</entry>
