@@ -108,6 +108,7 @@
         <mark key="." line="48" column="72" />
       </file>
       <file name="D:/payment/auto_remit.php" timestamp="1496815701032" />
+      <file name="D:/durian2/vendor/symfony/symfony/src/Symfony/Component/DependencyInjection/ContainerAware.php" timestamp="1496819310128" />
       <file name="D:/durian2/src/BB/DurianBundle/Validator.php" timestamp="1496632811427">
         <mark key="'" line="38" column="8" />
       </file>
@@ -123,6 +124,12 @@
         <mark key="]" line="13" column="0" />
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Controller/AutoConfirmController.php" timestamp="1496819939952">
+        <mark key="[" line="32" column="29" />
+        <mark key="]" line="34" column="32" />
+        <mark key="^" line="34" column="32" />
+        <mark key="." line="34" column="32" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountStatRepository.php" timestamp="1496731176433">
         <mark key="'" line="18" column="5" />
@@ -213,6 +220,12 @@
       </file>
       <file name="/fragment.php" timestamp="1496726232589">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/durian2/src/BB/DurianBundle/AutoConfirm/MatchMaker.php" timestamp="1496819867093">
+        <mark key="[" line="85" column="29" />
+        <mark key="]" line="85" column="54" />
+        <mark key="." line="85" column="54" />
+        <mark key="^" line="85" column="54" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Entity/AutoRemitBankInfo.php" timestamp="1496717346985">
         <mark key="[" line="68" column="30" />
@@ -361,10 +374,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>882</text>
