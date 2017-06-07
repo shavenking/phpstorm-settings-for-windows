@@ -124,7 +124,7 @@
         <mark key="]" line="5494" column="0" />
         <mark key="." line="5494" column="0" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Controller/MerchantController.php" timestamp="1496742208269">
+      <file name="D:/durian2/src/BB/DurianBundle/Controller/MerchantController.php" timestamp="1496793259075">
         <mark key="'" line="86" column="45" />
         <mark key="[" line="90" column="63" />
         <mark key="]" line="91" column="7" />
@@ -394,7 +394,7 @@
       <last-replace>getOrderId</last-replace>
       <last-substitute>getId</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
