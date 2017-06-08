@@ -93,13 +93,13 @@
         <mark key="^" line="5" column="42" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountController.php" timestamp="1496894537918">
+      <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountController.php" timestamp="1496894680728">
         <mark key="e" line="115" column="15" />
-        <mark key="'" line="916" column="41" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="45" />
-        <mark key="^" line="921" column="39" />
-        <mark key="." line="6" column="0" />
+        <mark key="'" line="917" column="41" />
+        <mark key="[" line="916" column="0" />
+        <mark key="]" line="916" column="0" />
+        <mark key="^" line="922" column="39" />
+        <mark key="." line="916" column="0" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Tests/DataFixtures/ORM/LoadRemitAccountLevelData.php" timestamp="1496803373660">
         <mark key="[" line="48" column="71" />
@@ -155,12 +155,12 @@
       <file name="D:/durian2/vendor/phpunit/phpunit/src/Framework/Assert.php" timestamp="1496651537708">
         <mark key="'" line="803" column="4" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountControllerTest.php" timestamp="1496894471623">
-        <mark key="'" line="4" column="6" />
-        <mark key="[" line="24" column="36" />
-        <mark key="]" line="24" column="48" />
-        <mark key="." line="24" column="48" />
-        <mark key="^" line="24" column="48" />
+      <file name="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountControllerTest.php" timestamp="1496895440221">
+        <mark key="'" line="52" column="35" />
+        <mark key="[" line="52" column="53" />
+        <mark key="]" line="52" column="59" />
+        <mark key="." line="52" column="59" />
+        <mark key="^" line="52" column="59" />
       </file>
       <file name="D:/durian2/vendor/liip/functional-test-bundle/Test/WebTestCase.php" timestamp="1496891282817">
         <mark key="'" line="13" column="55" />
@@ -286,10 +286,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="803" column="4" filename="D:/durian2/vendor/phpunit/phpunit/src/Framework/Assert.php" />
-      <jump line="1642" column="9" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" />
-      <jump line="0" column="0" filename="D:/durian2/src/BB/DurianBundle/Controller/CashController.php" />
-      <jump line="1789" column="22" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" />
       <jump line="17" column="0" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" />
       <jump line="579" column="0" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" />
       <jump line="571" column="0" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" />
@@ -386,24 +382,46 @@
       <jump line="915" column="41" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountController.php" />
       <jump line="1904" column="38" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" />
       <jump line="4" column="11" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" />
+      <jump line="25" column="1" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountControllerTest.php" />
+      <jump line="28" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountControllerTest.php" />
+      <jump line="15" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountControllerTest.php" />
+      <jump line="52" column="35" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountControllerTest.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XEh0dHBGb3VuZGF0aW9uXFJlcXVlc3Q7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>remitAccounts</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGhpcy0+Z2V0UmVxdWVzdCgp</text>
+        <text>remitAccounts</text>
       </register>
       <register name="/" type="4">
         <text>remit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XEh0dHBGb3VuZGF0aW9uXFJlcXVlc3Q7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2V0RXhwZWN0ZWRFeGNlcHRpb24oCiAgICAgICAgICAgICdJbnZhbGlkQXJndW1lbnRFeGNlcHRpb24nLAogICAgICAgICAgICAnSW52YWxpZCByZW1pdF9hY2NvdW50cycsCiAgICAgICAgICAgIDU1MDAxNwogICAgICAgICk7Cg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAkcmVwb3NpdG9yeS0+ZXhwZWN0cygkdGhpcy0+b25jZSgpKS0+bWV0aG9kKCdmaW5kQnknKS0+d2lsbFJldHVybihbXSk7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAkZW0gPSAkdGhpcy0+Y3JlYXRlTW9jaygnXERvY3RyaW5lXE9STVxFbnRpdHlNYW5hZ2VyJyk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAqIEB0aHJvd3MgXEV4Y2VwdGlvbgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gICAgICAgICR0aGlzLT5zZXRFeHBlY3RlZEV4Y2VwdGlvbigKLy8gICAgICAgICAgICAnUnVudGltZUV4Y2VwdGlvbicsCi8vICAgICAgICAgICAgJ05vIExldmVsIGZvdW5kJywKLy8gICAgICAgICAgICAxNTAzMDAwODAKLy8gICAgICAgICk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8KLy8gICAgICAgICRlbSA9ICR0aGlzLT5jcmVhdGVNb2NrKCdcRG9jdHJpbmVcT1JNXEVudGl0eU1hbmFnZXInKTsKLy8gICAgICAgICRlbS0+ZXhwZWN0cygkdGhpcy0+b25jZSgpKS0+bWV0aG9kKCdmaW5kJyktPndpbGxSZXR1cm4obmV3IFVzZXIoKSk7Ci8vCi8vICAgICAgICAkY29udGFpbmVyID0gc3RhdGljOjoka2VybmVsLT5nZXRDb250YWluZXIoKTsKLy8gICAgICAgICRjb250YWluZXItPnNldCgnZG9jdHJpbmUub3JtLmRlZmF1bHRfZW50aXR5X21hbmFnZXInLCAkZW0pOwovLwovLyAgICAgICAgJGNvbnRyb2xsZXIgPSBuZXcgUmVtaXRDb250cm9sbGVyKCk7Ci8vICAgICAgICAkY29udHJvbGxlci0+c2V0Q29udGFpbmVyKCRjb250YWluZXIpOwovLyAgICAgICAgJGNvbnRyb2xsZXItPnNldFJlbWl0TGV2ZWxPcmRlckFjdGlvbihuZXcgUmVxdWVzdCgpLCAxKTsK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XEh0dHBGb3VuZGF0aW9uXFJlcXVlc3Q7Cg==</text>
       </register>
-      <register name="2" type="8">
+      <register name="8" type="8">
         <text>%kernel.cache_dir%
 %kernel.cache_dir%
 %kernel.cache_dir%
@@ -413,26 +431,8 @@
 %kernel.cache_dir%
 %kernel.cache_dir%</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkY29udGFpbmVyID0gc3RhdGljOjoka2VybmVsCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAka2VybmVsID0gc3RhdGljOjpjcmVhdGVLZXJuZWwoKTsKICAgICAgICAka2VybmVsLT5ib290KCk7CiAgICAgICAgCiAgICAgICAgJHRoaXMtPmVtID0gJGtlcm5lbC0+Z2V0Q29udGFpbmVyKCktPmdldCgnZG9jdHJpbmUnKS0+Z2V0TWFuYWdlcigpOwogICAgICAgIAogICAgICAgICRtZXRhZGF0YXMgPSAkdGhpcy0+ZW0tPmdldE1ldGFkYXRhRmFjdG9yeSgpLT5nZXRBbGxNZXRhZGF0YSgpOwogICAgICAgIAogICAgICAgIGlmICghZW1wdHkoJG1ldGFkYXRhcykpIHsKICAgICAgICAgICAgJHRvb2wgPSBuZXcgU2NoZW1hVG9vbCgkdGhpcy0+ZW0pOwogICAgICAgICAgICAkdG9vbC0+ZHJvcAogICAgICAgIH0K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkY29udGFpbmVyID0gc3RhdGljOjoka2VybmVsCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
