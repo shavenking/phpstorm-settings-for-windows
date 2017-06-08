@@ -147,8 +147,12 @@
       <file name="D:/durian2/vendor/phpunit/phpunit/src/Framework/Assert.php" timestamp="1496651537708">
         <mark key="'" line="803" column="4" />
       </file>
-      <file name="D:/durian2/vendor/liip/functional-test-bundle/Test/WebTestCase.php" timestamp="1496886891328">
+      <file name="D:/durian2/vendor/liip/functional-test-bundle/Test/WebTestCase.php" timestamp="1496891282817">
         <mark key="'" line="13" column="55" />
+        <mark key="[" line="268" column="60" />
+        <mark key="]" line="269" column="7" />
+        <mark key="." line="269" column="7" />
+        <mark key="^" line="269" column="7" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" timestamp="1496823119369">
         <mark key="[" line="1979" column="15" />
@@ -372,7 +376,7 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>var_dump($cacheKey);die();</text>
       </register>
       <register name="/" type="4">
         <text>882</text>
@@ -384,38 +388,31 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAka2VybmVsID0gc3RhdGljOjpjcmVhdGVLZXJuZWwoKTsKICAgICAgICAka2VybmVsLT5ib290KCk7CiAgICAgICAgCiAgICAgICAgJHRoaXMtPmVtID0gJGtlcm5lbC0+Z2V0Q29udGFpbmVyKCktPmdldCgnZG9jdHJpbmUnKS0+Z2V0TWFuYWdlcigpOwogICAgICAgIAogICAgICAgICRtZXRhZGF0YXMgPSAkdGhpcy0+ZW0tPmdldE1ldGFkYXRhRmFjdG9yeSgpLT5nZXRBbGxNZXRhZGF0YSgpOwogICAgICAgIAogICAgICAgIGlmICghZW1wdHkoJG1ldGFkYXRhcykpIHsKICAgICAgICAgICAgJHRvb2wgPSBuZXcgU2NoZW1hVG9vbCgkdGhpcy0+ZW0pOwogICAgICAgICAgICAkdG9vbC0+ZHJvcAogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAka2VybmVsID0gc3RhdGljOjpjcmVhdGVLZXJuZWwoKTsKICAgICAgICAka2VybmVsLT5ib290KCk7CiAgICAgICAgCiAgICAgICAgJHRoaXMtPmVtID0gJGtlcm5lbC0+Z2V0Q29udGFpbmVyKCktPmdldCgnZG9jdHJpbmUnKS0+Z2V0TWFuYWdlcigpOwogICAgICAgIAogICAgICAgICRtZXRhZGF0YXMgPSAkdGhpcy0+ZW0tPmdldE1ldGFkYXRhRmFjdG9yeSgpLT5nZXRBbGxNZXRhZGF0YSgpOwogICAgICAgIAogICAgICAgIGlmICghZW1wdHkoJG1ldGFkYXRhcykpIHsKICAgICAgICAgICAgJHRvb2wgPSBuZXcgU2NoZW1hVG9vbCgkdGhpcy0+ZW0pOwogICAgICAgICAgICAkdG9vbC0+ZHJvcAogICAgICAgIH0K</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">JHN0YXQgPSBuZXcgQ2xhc3Mge307CnZhcl9kdW1wKHNwbF9vYmplY3RfaGFzaCgkc3RhdCkpOwokc3RhdCA9IG5ldyBDbGFzcyB7fTsKdmFyX2R1bXAoc3BsX29iamVjdF9oYXNoKCRzdGF0KSk7Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>$a = null;
 var_dump(0 == null);
 
 pen</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">dXNlIEJCXER1cmlhbkJ1bmRsZVxFbnRpdHlcUmVtaXRBY2NvdW50Owo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">JGFyciA9IFsKICAgIFsnaWQnPT4xLCdpZGQnPT4yXSwKICAgIFsnaWQnPT4yLCdpZGQnPT4zXQpdOwo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAkZW5hYmxlID0gMTsKJGFsaWFzPXJhbmQoKTsKJG51bWJlcj1yYW5kKCk7CiRwYXltZW50R2F0ZXdheUlkPXJhbmQoMSwxMDApOwokZG9tYWluPTY7CiRjdXJyZW5jeT0nQ05ZJzsKJGxldmVsSWRzPVsxXTsK</text>
-      </register>
-      <register name="9" type="8">
-        <text>%kernel.cache_dir%
-%kernel.cache_dir%
-%kernel.cache_dir%
-%kernel.cache_dir%
-%kernel.cache_dir%
-%kernel.cache_dir%
-%kernel.cache_dir%
-%kernel.cache_dir%</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
