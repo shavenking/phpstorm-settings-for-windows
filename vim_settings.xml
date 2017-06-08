@@ -16,8 +16,8 @@
       <file name="/a.dummy" timestamp="1496710217111">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1" timestamp="1496636123458">
-        <mark key="[" line="7" column="416" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1" timestamp="1496885307268">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="5" column="39" />
         <mark key="^" line="5" column="39" />
         <mark key="." line="5" column="39" />
@@ -107,8 +107,6 @@
         <mark key="^" line="49" column="64" />
         <mark key="." line="48" column="72" />
       </file>
-      <file name="D:/payment/auto_remit.php" timestamp="1496815701032" />
-      <file name="D:/durian2/vendor/symfony/symfony/src/Symfony/Component/DependencyInjection/ContainerAware.php" timestamp="1496819310128" />
       <file name="D:/durian2/src/BB/DurianBundle/Validator.php" timestamp="1496632811427">
         <mark key="'" line="38" column="8" />
       </file>
@@ -160,7 +158,6 @@
         <mark key="^" line="1979" column="14" />
         <mark key="." line="1979" column="14" />
       </file>
-      <file name="D:/payment/config.php" timestamp="1496815993968" />
       <file name="D:/durian2/src/BB/DurianBundle/Entity/RemitAccount.php" timestamp="1496738131581">
         <mark key="[" line="490" column="5" />
         <mark key="]" line="491" column="3" />
