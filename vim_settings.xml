@@ -191,12 +191,12 @@
         <mark key="." line="269" column="7" />
         <mark key="^" line="269" column="7" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" timestamp="1496909544799">
-        <mark key="'" line="4" column="11" />
-        <mark key="[" line="1998" column="13" />
-        <mark key="]" line="1998" column="12" />
-        <mark key="^" line="1998" column="12" />
-        <mark key="." line="1998" column="12" />
+      <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" timestamp="1496993585189">
+        <mark key="'" line="29" column="36" />
+        <mark key="[" line="2321" column="13" />
+        <mark key="]" line="2321" column="12" />
+        <mark key="^" line="2321" column="12" />
+        <mark key="." line="2321" column="12" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Entity/RemitAccount.php" timestamp="1496910724171">
         <mark key="[" line="522" column="18" />
@@ -317,7 +317,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="375" column="8" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
       <jump line="683" column="20" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
       <jump line="704" column="12" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
       <jump line="259" column="23" filename="D:/durian2/vendor/liip/functional-test-bundle/Test/WebTestCase.php" />
@@ -417,6 +416,7 @@
       <jump line="1105" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/ZhihPayTest.php" />
       <jump line="23" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer2" />
       <jump line="31" column="22" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer2" />
+      <jump line="29" column="36" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
