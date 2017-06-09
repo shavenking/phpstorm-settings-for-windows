@@ -22,11 +22,12 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer2" timestamp="1496980663836">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="97" column="94" />
-        <mark key="^" line="97" column="94" />
-        <mark key="." line="97" column="94" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer2" timestamp="1496986700188">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="38" column="28" />
+        <mark key="]" line="38" column="29" />
+        <mark key="^" line="24" column="24" />
+        <mark key="." line="38" column="29" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitControllerTest.php" timestamp="1496732572650">
         <mark key="'" line="56" column="23" />
@@ -310,7 +311,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
       <jump line="76" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
       <jump line="375" column="8" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
       <jump line="683" column="20" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
@@ -410,57 +410,58 @@
       <jump line="370" column="0" filename="D:/durian2/src/BB/DurianBundle/Payment/ZhihPay.php" />
       <jump line="372" column="0" filename="D:/durian2/src/BB/DurianBundle/Payment/ZhihPay.php" />
       <jump line="1105" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/ZhihPayTest.php" />
+      <jump line="23" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer2" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>E</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cmVtaXRfYWNjb3VudHNbNF1baWRdPTEKcmVtaXRfYWNjb3VudHNbNF1bb3JkZXJfaWRdPTEKcmVtaXRfYWNjb3VudHNbNF1bdmVyc2lvbl09Mgo=</text>
       </register>
       <register name="-" type="4">
-        <text>E</text>
+        <text>order_id</text>
       </register>
       <register name="/" type="4">
-        <text>orderId</text>
+        <text>id</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFBheW1lbnRFeGNlcHRpb24oJ05vIHRyYWNraW5nIHJldHVybiBwYXJhbWV0ZXIgc3BlY2lmaWVkJywgMTgwMTM5KTsK</text>
+        <text encoding="base64">cmVtaXRfYWNjb3VudHNbNF1baWRdPTEKcmVtaXRfYWNjb3VudHNbNF1bb3JkZXJfaWRdPTEKcmVtaXRfYWNjb3VudHNbNF1bdmVyc2lvbl09Mgo=</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">CgpteXNxbD4gc2VsZWN0ICogZnJvbSByZW1pdF9hY2NvdW50X2xldmVsOworLS0tLS0tLS0tLS0tLS0tLS0tKy0tLS0tLS0tLS0rCnwgcmVtaXRfYWNjb3VudF9pZCB8IGxldmVsX2lkIHwKKy0tLS0tLS0tLS0tLS0tLS0tLSstLS0tLS0tLS0tKwp8ICAgICAgICAgICAgICAgIDEgfCAgICAgICAgMSB8CnwgICAgICAgICAgICAgICAgMiB8ICAgICAgICAxIHwKfCAgICAgICAgICAgICAgICAzIHwgICAgICAgIDEgfAp8ICAgICAgICAgICAgICAgIDUgfCAgICAgICAgMSB8CnwgICAgICAgICAgICAgICAgNiB8ICAgICAgICAxIHwKfCAgICAgICAgICAgICAgICA3IHwgICAgICAgIDEgfAorLS0tLS0tLS0tLS0tLS0tLS0tKy0tLS0tLS0tLS0rCjYgcm93cyBpbiBzZXQgKDAuMDAgc2VjKQ==</text>
+      </register>
+      <register name="2" type="4">
         <text>$a=null;
 var_dump(++$a);</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgUGF5bWVudEV4Y2VwdGlvbignTm8gdHJhY2tpbmcgcmV0dXJuIHBhcmFtZXRlciBzcGVjaWZpZWQnLCAxODAxMzkpOwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKDk0ODcsICRkYXRhWyd2ZXJzaW9uJ10pOwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAkcmVtaXRBY2NvdW50LT5zZXRWZXJzaW9uKDk0ODcpOwo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>$aa='qwe';
 var_dump($aa[0]);</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJlbWl0QWNjb3VudC0+c2V0T3JkZXJJZCgkcmVwby0+Z2V0RGVmYXVsdE9yZGVyKCRkb21haW4pKTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHJlbWl0QWNjb3VudC0+c2V0T3JkZXJJZCgkcmVwby0+Z2V0RGVmYXVsdE9yZGVyKCRkb21haW4pKTsK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>orderId</last-search>
+      <last-search>id</last-search>
       <last-offset />
-      <last-pattern>orderId</last-pattern>
+      <last-pattern>id</last-pattern>
       <last-replace>getOrderId</last-replace>
       <last-substitute>getId</last-substitute>
       <last-dir>1</last-dir>
@@ -468,7 +469,6 @@ var_dump($aa[0]);</text>
     </search>
     <history>
       <history-search>
-        <entry>\irequest</entry>
         <entry>getcontainer</entry>
         <entry>Request</entry>
         <entry>request</entry>
@@ -488,6 +488,7 @@ var_dump($aa[0]);</text>
         <entry>find</entry>
         <entry>lev</entry>
         <entry>orderId</entry>
+        <entry>id</entry>
       </history-search>
       <history-cmd>
         <entry>243y</entry>
@@ -542,7 +543,7 @@ var_dump($aa[0]);</text>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed A</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
