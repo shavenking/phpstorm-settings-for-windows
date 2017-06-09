@@ -109,9 +109,12 @@
         <mark key="^" line="5" column="42" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountController.php" timestamp="1496973090129">
+      <file name="D:/durian2/src/BB/DurianBundle/Controller/BankInfoController.php" timestamp="1496995704485">
+        <mark key="'" line="13" column="6" />
+      </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountController.php" timestamp="1496996858150">
         <mark key="e" line="115" column="15" />
-        <mark key="'" line="988" column="69" />
+        <mark key="'" line="83" column="0" />
         <mark key="[" line="415" column="31" />
         <mark key="]" line="415" column="42" />
         <mark key="." line="415" column="42" />
@@ -178,12 +181,6 @@
       <file name="D:/durian2/vendor/phpunit/phpunit/src/Framework/Assert.php" timestamp="1496651537708">
         <mark key="'" line="803" column="4" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountControllerTest.php" timestamp="1496902420707">
-        <mark key="'" line="31" column="4" />
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="0" />
-        <mark key="." line="104" column="0" />
-      </file>
       <file name="D:/durian2/vendor/liip/functional-test-bundle/Test/WebTestCase.php" timestamp="1496891282817">
         <mark key="'" line="13" column="55" />
         <mark key="[" line="268" column="60" />
@@ -227,14 +224,8 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="32" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496995155732">
+      <file name="/Dummy.txt" timestamp="1496995919404">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" timestamp="1496909586886">
-        <mark key="'" line="905" column="8" />
-        <mark key="[" line="402" column="38" />
-        <mark key="]" line="402" column="38" />
-        <mark key="." line="402" column="38" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Tests/DataFixtures/ORM/LoadRemitAccountData.php" timestamp="1496908033450">
         <mark key="[" line="58" column="39" />
@@ -259,6 +250,7 @@
       <file name="D:/durian2/app/config/parameters.yml" timestamp="1496801722891">
         <mark key="'" line="58" column="4" />
       </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Repository/BankInfoRepository.php" timestamp="1496995866367" />
       <file name="/__dummy.css" timestamp="1496713099045">
         <mark key="[" line="0" column="0" />
       </file>
@@ -271,7 +263,8 @@
         <mark key="." line="85" column="54" />
         <mark key="^" line="85" column="54" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Entity/AutoRemitBankInfo.php" timestamp="1496717346985">
+      <file name="D:/durian2/src/BB/DurianBundle/Entity/AutoRemitBankInfo.php" timestamp="1496995881500">
+        <mark key="'" line="54" column="20" />
         <mark key="[" line="68" column="30" />
         <mark key="]" line="68" column="36" />
         <mark key="^" line="68" column="36" />
@@ -317,10 +310,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="1" filename="D:/durian2/vendor/liip/functional-test-bundle/Test/WebTestCase.php" />
-      <jump line="25" column="0" filename="D:/durian2/vendor/liip/functional-test-bundle/Test/WebTestCase.php" />
-      <jump line="3086" column="34" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
-      <jump line="3196" column="8" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
       <jump line="5250" column="4" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
       <jump line="5289" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
       <jump line="5304" column="4" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
@@ -417,6 +406,10 @@
       <jump line="360" column="68" filename="D:/durian2/src/BB/DurianBundle/Resources/doc/exception_map.md" />
       <jump line="807" column="4" filename="D:/durian2/src/BB/DurianBundle/Resources/doc/exception_map.md" />
       <jump line="809" column="38" filename="D:/durian2/src/BB/DurianBundle/Resources/doc/exception_map.md" />
+      <jump line="13" column="6" filename="D:/durian2/src/BB/DurianBundle/Controller/BankInfoController.php" />
+      <jump line="54" column="20" filename="D:/durian2/src/BB/DurianBundle/Entity/AutoRemitBankInfo.php" />
+      <jump line="418" column="0" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountController.php" />
+      <jump line="83" column="0" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
