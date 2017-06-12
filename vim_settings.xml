@@ -76,15 +76,15 @@
         <mark key="^" line="155" column="7" />
         <mark key="." line="155" column="0" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Resources/doc/exception_map.md" timestamp="1496994588102">
-        <mark key="'" line="809" column="38" />
+      <file name="D:/durian2/src/BB/DurianBundle/Resources/doc/exception_map.md" timestamp="1497235498797">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="360" column="68" />
         <mark key="]" line="360" column="69" />
         <mark key="^" line="490" column="0" />
         <mark key="." line="360" column="69" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Payment/UnionPay.php" timestamp="1497234772744">
-        <mark key="'" line="15" column="16" />
+      <file name="D:/durian2/src/BB/DurianBundle/Payment/UnionPay.php" timestamp="1497234837963">
+        <mark key="'" line="213" column="21" />
         <mark key="[" line="29" column="8" />
         <mark key="]" line="29" column="8" />
         <mark key="^" line="29" column="10" />
@@ -112,9 +112,9 @@
       <file name="D:/durian2/src/BB/DurianBundle/Controller/BankInfoController.php" timestamp="1496995704485">
         <mark key="'" line="13" column="6" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountController.php" timestamp="1497000349492">
+      <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountController.php" timestamp="1497235025807">
         <mark key="e" line="115" column="15" />
-        <mark key="'" line="83" column="0" />
+        <mark key="'" line="160" column="12" />
         <mark key="[" line="415" column="31" />
         <mark key="]" line="415" column="42" />
         <mark key="." line="415" column="42" />
@@ -223,7 +223,7 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="32" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497002141981">
+      <file name="/Dummy.txt" timestamp="1497235369168">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Tests/DataFixtures/ORM/LoadRemitAccountData.php" timestamp="1496908033450">
@@ -308,15 +308,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5304" column="4" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
-      <jump line="206" column="5" filename="D:/durian2/vendor/doctrine/orm/lib/Doctrine/ORM/EntityRepository.php" />
-      <jump line="5320" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
-      <jump line="62" column="0" filename="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountStatRepository.php" />
-      <jump line="18" column="5" filename="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountStatRepository.php" />
-      <jump line="55" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitControllerTest.php" />
-      <jump line="0" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitControllerTest.php" />
-      <jump line="60" column="47" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitControllerTest.php" />
-      <jump line="22" column="8" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitControllerTest.php" />
       <jump line="43" column="58" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitControllerTest.php" />
       <jump line="6" column="37" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitControllerTest.php" />
       <jump line="29" column="50" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitControllerTest.php" />
@@ -408,6 +399,15 @@
       <jump line="83" column="0" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountController.php" />
       <jump line="981" column="0" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" />
       <jump line="15" column="16" filename="D:/durian2/src/BB/DurianBundle/Payment/UnionPay.php" />
+      <jump line="213" column="21" filename="D:/durian2/src/BB/DurianBundle/Payment/UnionPay.php" />
+      <jump line="160" column="12" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountController.php" />
+      <jump line="1393" column="31" filename="D:/durian2/src/BB/DurianBundle/Resources/doc/exception_map.md" />
+      <jump line="1417" column="0" filename="D:/durian2/src/BB/DurianBundle/Resources/doc/exception_map.md" />
+      <jump line="1413" column="38" filename="D:/durian2/src/BB/DurianBundle/Resources/doc/exception_map.md" />
+      <jump line="1733" column="0" filename="D:/durian2/src/BB/DurianBundle/Resources/doc/exception_map.md" />
+      <jump line="1419" column="0" filename="D:/durian2/src/BB/DurianBundle/Resources/doc/exception_map.md" />
+      <jump line="1261" column="4" filename="D:/durian2/src/BB/DurianBundle/Resources/doc/exception_map.md" />
+      <jump line="0" column="0" filename="D:/durian2/src/BB/DurianBundle/Resources/doc/exception_map.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -417,7 +417,7 @@
         <text>sha1</text>
       </register>
       <register name="/" type="4">
-        <text>remitaccount exception</text>
+        <text>merchant excep</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cmVtaXRfYWNjb3VudHNbNF1baWRdPTEKcmVtaXRfYWNjb3VudHNbNF1bb3JkZXJfaWRdPTEKcmVtaXRfYWNjb3VudHNbNF1bdmVyc2lvbl09Mgo=</text>
@@ -455,20 +455,16 @@ var_dump(++$a);</text>
       </register>
     </registers>
     <search>
-      <last-search>remitaccount exception</last-search>
+      <last-search>merchant excep</last-search>
       <last-offset />
-      <last-pattern>remitaccount exception</last-pattern>
+      <last-pattern>merchant excep</last-pattern>
       <last-replace>getOrderId</last-replace>
       <last-substitute>getId</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>getid</entry>
-        <entry>getId</entry>
-        <entry>550017</entry>
-        <entry>550019</entry>
         <entry>qr</entry>
         <entry>getor</entry>
         <entry>getde</entry>
@@ -485,6 +481,10 @@ var_dump(++$a);</text>
         <entry>remi</entry>
         <entry>remitaccount</entry>
         <entry>remitaccount exception</entry>
+        <entry>RemitAccountLevel</entry>
+        <entry>merchantlevel</entry>
+        <entry>remitaccount except</entry>
+        <entry>merchant excep</entry>
       </history-search>
       <history-cmd>
         <entry>243y</entry>
