@@ -83,7 +83,8 @@
         <mark key="^" line="490" column="0" />
         <mark key="." line="360" column="69" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Payment/UnionPay.php" timestamp="1496730870321">
+      <file name="D:/durian2/src/BB/DurianBundle/Payment/UnionPay.php" timestamp="1497234772744">
+        <mark key="'" line="15" column="16" />
         <mark key="[" line="29" column="8" />
         <mark key="]" line="29" column="8" />
         <mark key="^" line="29" column="10" />
@@ -137,7 +138,6 @@
       <file name="D:/durian2/src/BB/DurianBundle/Validator.php" timestamp="1496632811427">
         <mark key="'" line="38" column="8" />
       </file>
-      <file name="D:/payment/pay.php" timestamp="1496972809843" />
       <file name="D:/durian2/app/DoctrineMigrations/Version20170605152028.php" timestamp="1496647781100">
         <mark key="'" line="20" column="0" />
         <mark key="[" line="31" column="129" />
@@ -249,7 +249,6 @@
       <file name="D:/durian2/app/config/parameters.yml" timestamp="1496801722891">
         <mark key="'" line="58" column="4" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Repository/BankInfoRepository.php" timestamp="1496995866367" />
       <file name="/__dummy.css" timestamp="1496713099045">
         <mark key="[" line="0" column="0" />
       </file>
@@ -309,7 +308,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5289" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
       <jump line="5304" column="4" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
       <jump line="206" column="5" filename="D:/durian2/vendor/doctrine/orm/lib/Doctrine/ORM/EntityRepository.php" />
       <jump line="5320" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
@@ -409,6 +407,7 @@
       <jump line="418" column="0" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountController.php" />
       <jump line="83" column="0" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountController.php" />
       <jump line="981" column="0" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" />
+      <jump line="15" column="16" filename="D:/durian2/src/BB/DurianBundle/Payment/UnionPay.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -462,7 +461,7 @@ var_dump(++$a);</text>
       <last-replace>getOrderId</last-replace>
       <last-substitute>getId</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
