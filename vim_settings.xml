@@ -39,10 +39,10 @@
         <mark key="^" line="131" column="0" />
         <mark key="." line="142" column="0" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Controller/MerchantLevelController.php" timestamp="1497258556659">
+      <file name="D:/durian2/src/BB/DurianBundle/Controller/MerchantLevelController.php" timestamp="1497260476410">
         <mark key="'" line="82" column="6" />
-        <mark key="[" line="362" column="0" />
-        <mark key="]" line="362" column="48" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="138" column="4" />
         <mark key="^" line="820" column="38" />
         <mark key="." line="820" column="38" />
       </file>
@@ -91,12 +91,12 @@
         <mark key="^" line="29" column="10" />
         <mark key="." line="29" column="8" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountLevelController.php" timestamp="1497258522149">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="46" column="51" />
-        <mark key="]" line="46" column="69" />
-        <mark key="^" line="46" column="69" />
-        <mark key="." line="46" column="69" />
+      <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountLevelController.php" timestamp="1497261507759">
+        <mark key="'" line="19" column="5" />
+        <mark key="[" line="21" column="11" />
+        <mark key="]" line="21" column="11" />
+        <mark key="^" line="19" column="10" />
+        <mark key="." line="21" column="11" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Payment/ZhihPay.php" timestamp="1496975160573">
         <mark key="[" line="90" column="0" />
@@ -117,9 +117,9 @@
         <mark key="^" line="5" column="42" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountController.php" timestamp="1497258496434">
+      <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountController.php" timestamp="1497260410957">
         <mark key="e" line="115" column="15" />
-        <mark key="'" line="156" column="73" />
+        <mark key="'" line="919" column="0" />
         <mark key="[" line="919" column="0" />
         <mark key="]" line="919" column="0" />
         <mark key="^" line="347" column="59" />
@@ -324,9 +324,6 @@
       <file name="D:/durian2/src/BB/DurianBundle/Controller/PaymentLevelController.php" timestamp="1497257259411" />
     </filemarks>
     <jumps>
-      <jump line="100" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitAccountLevelFunctionalTest.php" />
-      <jump line="103" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitAccountLevelFunctionalTest.php" />
-      <jump line="107" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitAccountLevelFunctionalTest.php" />
       <jump line="116" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitAccountLevelFunctionalTest.php" />
       <jump line="118" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitAccountLevelFunctionalTest.php" />
       <jump line="121" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitAccountLevelFunctionalTest.php" />
@@ -424,19 +421,22 @@
       <jump line="729" column="8" filename="D:/durian2/src/BB/DurianBundle/Controller/MerchantController.php" />
       <jump line="14" column="0" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountLevelController.php" />
       <jump line="82" column="6" filename="D:/durian2/src/BB/DurianBundle/Controller/MerchantLevelController.php" />
+      <jump line="919" column="0" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountController.php" />
+      <jump line="21" column="6" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountLevelController.php" />
+      <jump line="19" column="5" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountLevelController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAg</text>
       </register>
       <register name="-" type="4">
-        <text>$remitAccounts</text>
+        <text encoding="base64">ICAg</text>
       </register>
       <register name="/" type="4">
-        <text>orderid</text>
+        <text>\*\s*</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAqICAgICAgICByZXF1aXJlbWVudHMgPSB7ImxldmVsSWQiID0gIlxkKyJ9LAo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogqMy8aK/Fpl62x7DTrmG8aK/Fs12pdwogICAgICoKICAgICAqIEBSb3V0ZSgiL2xldmVsL3tsZXZlbElkfS9tZXJjaGFudF9sZXZlbCIsCiAgICAgKiAgICAgICAgbmFtZSA9ICJhcGlfZ2V0X21lcmNoYW50X2xldmVsX2J5X2xldmVsIiwKICAgICAqICAgICAgICByZXF1aXJlbWVudHMgPSB7ImxldmVsSWQiID0gIlxkKyJ9LAogICAgICogICAgICAgIGRlZmF1bHRzID0geyJfZm9ybWF0IiA9ICJqc29uIn0pCiAgICAgKiBATWV0aG9kKHsiR0VUIn0pCiAgICAgKgogICAgICogQHBhcmFtIFJlcXVlc3QgJHF1ZXJ5CiAgICAgKiBAcGFyYW0gaW50ZWdlciAkbGV2ZWxJZAogICAgICogQHJldHVybiBKc29uUmVzcG9uc2UKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGdldEJ5TGV2ZWxBY3Rpb24oUmVxdWVzdCAkcXVlcnksICRsZXZlbElkKQogICAgewogICAgICAgICRlbSA9ICR0aGlzLT5nZXRFbnRpdHlNYW5hZ2VyKCk7CiAgICAgICAgJG1sUmVwbyA9ICRlbS0+Z2V0UmVwb3NpdG9yeSgnQkJEdXJpYW5CdW5kbGU6TWVyY2hhbnRMZXZlbCcpOwogICAgICAgICRjdXJyZW5jeU9wZXJhdG9yID0gJHRoaXMtPmdldCgnZHVyaWFuLmN1cnJlbmN5Jyk7CgogICAgICAgICRjdXJyZW5jeSA9ICRxdWVyeS0+Z2V0KCdjdXJyZW5jeScpOwogICAgICAgICRlbmFibGUgPSAkcXVlcnktPmdldCgnZW5hYmxlJyk7CiAgICAgICAgJHN1c3BlbmQgPSAkcXVlcnktPmdldCgnc3VzcGVuZCcpOwogICAgICAgICRwYXl3YXkgPSAkcXVlcnktPmdldCgncGF5d2F5Jyk7CgogICAgICAgICRjcml0ZXJpYSA9IFtdOwoKICAgICAgICBpZiAoJHF1ZXJ5LT5xdWVyeS0+aGFzKCdjdXJyZW5jeScpKSB7CiAgICAgICAgICAgIGlmICghJGN1cnJlbmN5T3BlcmF0b3ItPmlzQXZhaWxhYmxlKCRjdXJyZW5jeSkpIHsKICAgICAgICAgICAgICAgIHRocm93IG5ldyBcSW52YWxpZEFyZ3VtZW50RXhjZXB0aW9uKCdDdXJyZW5jeSBub3Qgc3VwcG9ydCcsIDY3MDAwNCk7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgICRjcml0ZXJpYVsnY3VycmVuY3knXSA9ICRjdXJyZW5jeU9wZXJhdG9yLT5nZXRNYXBwZWROdW0oJGN1cnJlbmN5KTsKICAgICAgICB9CgogICAgICAgIGlmICgkcXVlcnktPnF1ZXJ5LT5oYXMoJ3BheXdheScpKSB7CiAgICAgICAgICAgIGlmICghaW5fYXJyYXkoJHBheXdheSwgQ2FzaERlcG9zaXRFbnRyeTo6JGxlZ2FsUGF5d2F5KSkgewogICAgICAgICAgICAgICAgdGhyb3cgbmV3IFxJbnZhbGlkQXJndW1lbnRFeGNlcHRpb24oJ0ludmFsaWQgcGF5d2F5JywgNjcwMDA1KTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgJGNyaXRlcmlhWydwYXl3YXknXSA9ICRwYXl3YXk7CiAgICAgICAgfQoKICAgICAgICBpZiAoIWlzX251bGwoJGVuYWJsZSkpIHsKICAgICAgICAgICAgJGNyaXRlcmlhWydlbmFibGUnXSA9ICRlbmFibGU7CiAgICAgICAgfQoKICAgICAgICBpZiAoIWlzX251bGwoJHN1c3BlbmQpKSB7CiAgICAgICAgICAgICRjcml0ZXJpYVsnc3VzcGVuZCddID0gJHN1c3BlbmQ7CiAgICAgICAgfQoKICAgICAgICAkbWxzID0gJG1sUmVwby0+Z2V0TWVyY2hhbnRMZXZlbEJ5TGV2ZWwoJGxldmVsSWQsICRjcml0ZXJpYSk7CgogICAgICAgICRyZXQgPSBbXTsKICAgICAgICBmb3JlYWNoICgkbWxzIGFzICRtbCkgewogICAgICAgICAgICAkcmVzdWx0ID0gJG1sLT50b0FycmF5KCk7CgogICAgICAgICAgICAkbWVyY2hhbnQgPSAkdGhpcy0+ZmluZE1lcmNoYW50KCRyZXN1bHRbJ21lcmNoYW50X2lkJ10pOwoKICAgICAgICAgICAgJHJlc3VsdFsnbWVyY2hhbnRfYWxpYXMnXSA9ICRtZXJjaGFudC0+Z2V0QWxpYXMoKTsKICAgICAgICAgICAgJHJlc3VsdFsnZW5hYmxlJ10gPSAkbWVyY2hhbnQtPmlzRW5hYmxlZCgpOwogICAgICAgICAgICAkcmVzdWx0WydzdXNwZW5kJ10gPSAkbWVyY2hhbnQtPmlzU3VzcGVuZGVkKCk7CiAgICAgICAgICAgICRyZXRbXSA9ICRyZXN1bHQ7CiAgICAgICAgfQoKICAgICAgICAkb3V0cHV0WydyZXN1bHQnXSA9ICdvayc7CiAgICAgICAgJG91dHB1dFsncmV0J10gPSAkcmV0OwoKICAgICAgICByZXR1cm4gbmV3IEpzb25SZXNwb25zZSgkb3V0cHV0KTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -466,24 +466,20 @@
         <text encoding="base64">ICAgICAgICAgICAgJHJlbWl0QWNjb3VudC0+c2V0T3JkZXJJZCgkcmVwby0+Z2V0RGVmYXVsdE9yZGVyKCRyZW1pdEFjY291bnQtPmdldERvbWFpbigpKSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>920,980d</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>orderid</last-search>
+      <last-search>\*\s*</last-search>
       <last-offset />
-      <last-pattern>orderid</last-pattern>
-      <last-replace>getOrderId</last-replace>
-      <last-substitute>getId</last-substitute>
+      <last-pattern>\*\s*</last-pattern>
+      <last-replace>\* \{4}</last-replace>
+      <last-substitute>\*\s*</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>orderId</entry>
-        <entry>id</entry>
-        <entry>remi</entry>
-        <entry>remitaccount</entry>
         <entry>remitaccount exception</entry>
         <entry>RemitAccountLevel</entry>
         <entry>merchantlevel</entry>
@@ -500,6 +496,10 @@
         <entry>defaultorder</entry>
         <entry>con</entry>
         <entry>orderid</entry>
+        <entry>*\s+</entry>
+        <entry>*\S+</entry>
+        <entry>\*\S+</entry>
+        <entry>\*\s*</entry>
       </history-search>
       <history-cmd>
         <entry>243y</entry>
@@ -509,8 +509,18 @@
         <entry>set incsearch</entry>
         <entry encoding="base64">JzwsJz5zL2dldElkL2dldE9yZGVySWQvZw==</entry>
         <entry>968d</entry>
-        <entry>noh</entry>
         <entry>920,980d</entry>
+        <entry encoding="base64">JzwsJz5zLypccysvKlxzezR9L2c=</entry>
+        <entry encoding="base64">JzwsJz5zLypcUysvKlxTezR9L2c=</entry>
+        <entry encoding="base64">JzwsJz5zL1wqXFMrL1wqXFN7NH0vZw==</entry>
+        <entry encoding="base64">JzwsJz5zL1wqXHMqL1wqXHN7NH0vZw==</entry>
+        <entry encoding="base64">JzwsJz5zL1wqXHMqL1wqKFxzKXs0fS9n</entry>
+        <entry>nohw</entry>
+        <entry encoding="base64">JzwsJz5zL1wqXHMqL1wqKFxzezR9KS9n</entry>
+        <entry encoding="base64">JzwsJz5zL1wqXHMqL1wqXHNcezRcfS9n</entry>
+        <entry encoding="base64">JzwsJz5zL1wqXHMqL1wqXHNcezR9L2c=</entry>
+        <entry encoding="base64">JzwsJz5zL1wqXHMqL1wqIFx7NH0vZw==</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
