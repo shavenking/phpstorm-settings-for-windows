@@ -101,12 +101,12 @@
         <mark key="^" line="29" column="10" />
         <mark key="." line="29" column="8" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountLevelController.php" timestamp="1497333372403">
+      <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountLevelController.php" timestamp="1497334677781">
         <mark key="'" line="53" column="41" />
         <mark key="[" line="67" column="18" />
-        <mark key="]" line="67" column="17" />
-        <mark key="." line="67" column="17" />
-        <mark key="^" line="67" column="17" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+        <mark key="^" line="67" column="0" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Payment/ZhihPay.php" timestamp="1496975160573">
         <mark key="[" line="90" column="0" />
@@ -241,7 +241,7 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="32" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497332669623">
+      <file name="/Dummy.txt" timestamp="1497334360130">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" timestamp="1497254459425">
