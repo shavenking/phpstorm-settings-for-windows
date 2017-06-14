@@ -41,11 +41,11 @@
         <mark key="^" line="820" column="38" />
         <mark key="." line="820" column="38" />
       </file>
-      <file name="D:/durian2/test.php" timestamp="1497426450543">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="4" column="10" />
+      <file name="D:/durian2/test.php" timestamp="1497429515657">
+        <mark key="[" line="5" column="4" />
+        <mark key="]" line="5" column="9" />
+        <mark key="." line="5" column="9" />
+        <mark key="^" line="5" column="9" />
       </file>
       <file name="D:/durian2/app/config/config_test.yml" timestamp="1497402195121">
         <mark key="'" line="0" column="0" />
@@ -78,12 +78,12 @@
         <mark key="^" line="2013" column="67" />
         <mark key="." line="2017" column="15" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Payment/UnionPay.php" timestamp="1497424819544">
+      <file name="D:/durian2/src/BB/DurianBundle/Payment/UnionPay.php" timestamp="1497429523867">
         <mark key="'" line="213" column="21" />
-        <mark key="[" line="29" column="8" />
-        <mark key="]" line="29" column="8" />
+        <mark key="[" line="178" column="73" />
+        <mark key="]" line="178" column="73" />
         <mark key="^" line="29" column="10" />
-        <mark key="." line="29" column="8" />
+        <mark key="." line="178" column="73" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountLevelController.php" timestamp="1497408980638">
         <mark key="'" line="135" column="51" />
@@ -140,6 +140,10 @@
         <mark key="^" line="1319" column="31" />
         <mark key="." line="1319" column="31" />
       </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Payment/AliPayApp.php" timestamp="1497429993359">
+        <mark key="[" line="246" column="0" />
+        <mark key="]" line="246" column="81" />
+      </file>
       <file name="D:/durian2/vendor/liip/functional-test-bundle/Test/WebTestCase.php" timestamp="1497250747047">
         <mark key="'" line="16" column="46" />
         <mark key="[" line="268" column="60" />
@@ -191,7 +195,7 @@
       <file name="D:/durian2/src/BB/DurianBundle/Payment/RenShen.php" timestamp="1497399421530">
         <mark key="'" line="246" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497421240753">
+      <file name="/Dummy.txt" timestamp="1497429745405">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/payment/lib.php" timestamp="1496646200118">
@@ -403,19 +407,27 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIGJjY29tcChiY211bCgkZGIsIDEwMCwgMCksICRyZXR1cm4sIDAp</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoJHRoaXMtPm9wdGlvbnNbJ3RvdGFsX2Ftb3VudCddICE9IHNwcmludGYoIiUuMmYiLCAkZW50cnlbJ2Ftb3VudCddKSkgewo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIGJjY29tcChiY211bCgkZGIsIDEwMCwgMCksICRyZXR1cm4sIDAp</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dmFyX2R1bXAoKDEzOC4wMjAwICogMTAwKSA9PSAxMzgwMik7IC8vIGZhbHNlCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJHRoaXMtPm9wdGlvbnNbJ3RvdGFsX2Ftb3VudCddICE9IHNwcmludGYoIiUuMmYiLCAkZW50cnlbJ2Ftb3VudCddKSkgewo=</text>
       </register>
       <register name="1" type="4">
+        <text>$db = '300.4100';
+$return = '30041';
+
+var_dump(
+    round($db * 100) == $return
+);</text>
+      </register>
+      <register name="2" type="4">
         <text>$db = '138.0200';
 $return = '13802';
 
@@ -423,30 +435,32 @@ var_dump(
     bccomp(bcmul($db, 100, 0), $return, 0)
 );</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
+        <text>$db = '138.0200';
+$return = '13802';
+
+var_dump(
+    bccomp(bcmul($db, 100, 0), $return, 0)
+);</text>
+      </register>
+      <register name="4" type="4">
         <text>var_dump(100*138.02);
 var_dump((100 * 138.02) == (double) 13802); // false</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">dmFyX2R1bXAoZW1wdHkoJyAgJykpOwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgaWYgKCRxdWVyeS0+aGFzKCdhdXRvX2NvbmZpcm0nKSAmJiB0cmltKCRhdXRvQ29uZmlybSkgIT0gJycpIHsKICAgICAgICAgICAgJGNyaXRlcmlhWydhdXRvQ29uZmlybSddID0gJGF1dG9Db25maXJtOwogICAgICAgIH0KCiAgICAgICAgaWYgKCRxdWVyeS0+aGFzKCdiYl9hdXRvX2NvbmZpcm0nKSAmJiB0cmltKCRiYkF1dG9Db25maXJtKSAhPSAnJykgewogICAgICAgICAgICAkY3JpdGVyaWFbJ2JiQXV0b0NvbmZpcm0nXSA9ICRiYkF1dG9Db25maXJtOwogICAgICAgIH0KCj09PT09PT0KPj4+Pj4+PiA0NzdhNDg0YTkuLi4gW0ZlYXR1cmVdt3O8V0JCptuwyrt7tNogLSCwsbHSpc6s28P2pVyv4Ao=</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJGNyaXRlcmlhWydiYkF1dG9Db25maXJtJ10gPSAkYmJBdXRvQ29uZmlybTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgaWYgKCRxdWVyeS0+aGFzKCdhdXRvX2NvbmZpcm0nKSAmJiB0cmltKCRhdXRvQ29uZmlybSkgIT0gJycpIHsKICAgICAgICAgICAgJGNyaXRlcmlhWydhdXRvQ29uZmlybSddID0gJGF1dG9Db25maXJtOwogICAgICAgIH0KCiAgICAgICAgaWYgKCRxdWVyeS0+aGFzKCdiYl9hdXRvX2NvbmZpcm0nKSAmJiB0cmltKCRiYkF1dG9Db25maXJtKSAhPSAnJykgewo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAyZTcwYzE0MWMuLi4gW0ZlYXR1cmVdt3O8V6ZQsqS2s7vIpualZLHGp8es28P2pVyv4Ao=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0K</text>
+        <text encoding="base64">CiAgICAgICAgaWYgKCRxdWVyeS0+aGFzKCdhdXRvX2NvbmZpcm0nKSAmJiB0cmltKCRhdXRvQ29uZmlybSkgIT0gJycpIHsKICAgICAgICAgICAgJGNyaXRlcmlhWydhdXRvQ29uZmlybSddID0gJGF1dG9Db25maXJtOwogICAgICAgIH0KCiAgICAgICAgaWYgKCRxdWVyeS0+aGFzKCdiYl9hdXRvX2NvbmZpcm0nKSAmJiB0cmltKCRiYkF1dG9Db25maXJtKSAhPSAnJykgewo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
