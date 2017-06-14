@@ -41,15 +41,16 @@
         <mark key="^" line="820" column="38" />
         <mark key="." line="820" column="38" />
       </file>
-      <file name="D:/durian2/test.php" timestamp="1497431360400">
-        <mark key="[" line="7" column="5" />
-        <mark key="]" line="7" column="7" />
-        <mark key="." line="7" column="7" />
-        <mark key="^" line="7" column="7" />
+      <file name="D:/durian2/test.php" timestamp="1497434685475">
+        <mark key="'" line="6" column="23" />
+        <mark key="[" line="4" column="22" />
+        <mark key="]" line="4" column="24" />
+        <mark key="." line="4" column="24" />
+        <mark key="^" line="4" column="24" />
       </file>
-      <file name="D:/durian2/app/config/config_test.yml" timestamp="1497402195121">
+      <file name="D:/durian2/app/config/config_test.yml" timestamp="1497433938159">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="45" column="53" />
+        <mark key="[" line="20" column="27" />
         <mark key="]" line="45" column="38" />
         <mark key="." line="45" column="38" />
         <mark key="^" line="45" column="38" />
@@ -269,7 +270,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="44" filename="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountLevelRepository.php" />
       <jump line="87" column="12" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountController.php" />
       <jump line="150" column="0" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountController.php" />
       <jump line="155" column="65" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountController.php" />
@@ -369,6 +369,7 @@
       <jump line="137" column="51" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountLevelController.php" />
       <jump line="337" column="13" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountController.php" />
       <jump line="83" column="0" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountController.php" />
+      <jump line="6" column="23" filename="D:/durian2/test.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -399,19 +400,47 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdhbW91bnQnID0+ICRlbnRyeVsnYW1vdW50J10gKiAxMDAsCg==</text>
+      <register name="&quot;" type="4">
+        <text>9</text>
       </register>
       <register name="-" type="4">
-        <text>string</text>
+        <text>9</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwpXD4=</text>
+        <text>100</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICdhbW91bnQnID0+ICRlbnRyeVsnYW1vdW50J10gKiAxMDAsCg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">dmFyX2R1bXAocm91bmQoJzEuMjgnKjEwMCkgPT0gKCkpCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAKICAgICAgICAgICAgZWNobyAiJGkuJGoiICogMTAwOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAnZnVjayB5b3UnOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBlY2hvICIkaS4kaiI7CiAgICAgICAgZWNobyAiJGkuJGoiICogMTAwOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGlmIChyb3VuZCgiJGkuJGkiICogMTAwKSAhPSAiIiAqIDEwMCkgewogICAgICAgIAogICAgfQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="8" type="4">
+        <text>$a = '123.1254';
+
+var_dump(
+    (int) (0.99 * 100)
+);</text>
+      </register>
+      <register name="9" type="4">
         <text>$db = '300.4100';
 $return = '30041';
 
@@ -419,57 +448,21 @@ var_dump(
     round($db * 100) == $return
 );</text>
       </register>
-      <register name="2" type="4">
-        <text>$db = '138.0200';
-$return = '13802';
-
-var_dump(
-    bccomp(bcmul($db, 100, 0), $return, 0)
-);</text>
-      </register>
-      <register name="3" type="4">
-        <text>$db = '138.0200';
-$return = '13802';
-
-var_dump(
-    bccomp(bcmul($db, 100, 0), $return, 0)
-);</text>
-      </register>
-      <register name="4" type="4">
-        <text>var_dump(100*138.02);
-var_dump((100 * 138.02) == (double) 13802); // false</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">dmFyX2R1bXAoZW1wdHkoJyAgJykpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgaWYgKCRxdWVyeS0+aGFzKCdhdXRvX2NvbmZpcm0nKSAmJiB0cmltKCRhdXRvQ29uZmlybSkgIT0gJycpIHsKICAgICAgICAgICAgJGNyaXRlcmlhWydhdXRvQ29uZmlybSddID0gJGF1dG9Db25maXJtOwogICAgICAgIH0KCiAgICAgICAgaWYgKCRxdWVyeS0+aGFzKCdiYl9hdXRvX2NvbmZpcm0nKSAmJiB0cmltKCRiYkF1dG9Db25maXJtKSAhPSAnJykgewogICAgICAgICAgICAkY3JpdGVyaWFbJ2JiQXV0b0NvbmZpcm0nXSA9ICRiYkF1dG9Db25maXJtOwogICAgICAgIH0KCj09PT09PT0KPj4+Pj4+PiA0NzdhNDg0YTkuLi4gW0ZlYXR1cmVdt3O8V0JCptuwyrt7tNogLSCwsbHSpc6s28P2pVyv4Ao=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGNyaXRlcmlhWydiYkF1dG9Db25maXJtJ10gPSAkYmJBdXRvQ29uZmlybTsK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgaWYgKCRxdWVyeS0+aGFzKCdhdXRvX2NvbmZpcm0nKSAmJiB0cmltKCRhdXRvQ29uZmlybSkgIT0gJycpIHsKICAgICAgICAgICAgJGNyaXRlcmlhWydhdXRvQ29uZmlybSddID0gJGF1dG9Db25maXJtOwogICAgICAgIH0KCiAgICAgICAgaWYgKCRxdWVyeS0+aGFzKCdiYl9hdXRvX2NvbmZpcm0nKSAmJiB0cmltKCRiYkF1dG9Db25maXJtKSAhPSAnJykgewo=</text>
-      </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwpXD4=</last-search>
+      <last-search>100</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwpXD4=</last-pattern>
+      <last-pattern>100</last-pattern>
       <last-replace>\* \{4}</last-replace>
       <last-substitute>\*\s*</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>commenting</entry>
         <entry>get</entry>
         <entry>getremi</entry>
         <entry>and</entry>
@@ -489,6 +482,7 @@ var_dump((100 * 138.02) == (double) 13802); // false</text>
         <entry>to</entry>
         <entry>order</entry>
         <entry encoding="base64">XDwpXD4=</entry>
+        <entry>100</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyVrZXJuZWwuY2FjaGVfZGlyJS9cL3RtcC9n</entry>
