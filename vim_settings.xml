@@ -127,11 +127,11 @@
         <mark key="^" line="2013" column="67" />
         <mark key="." line="2017" column="15" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Payment/UnionPay.php" timestamp="1497488279142">
+      <file name="D:/durian2/src/BB/DurianBundle/Payment/UnionPay.php" timestamp="1497493761244">
         <mark key="[" line="178" column="39" />
-        <mark key="]" line="178" column="44" />
-        <mark key="^" line="178" column="44" />
-        <mark key="." line="178" column="44" />
+        <mark key="]" line="180" column="70" />
+        <mark key="^" line="180" column="70" />
+        <mark key="." line="180" column="70" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountLevelController.php" timestamp="1497408980638">
         <mark key="'" line="135" column="51" />
@@ -397,10 +397,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>9</text>
+        <text>round</text>
       </register>
       <register name="-" type="4">
-        <text>9</text>
+        <text>round</text>
       </register>
       <register name="/" type="4">
         <text>100</text>
