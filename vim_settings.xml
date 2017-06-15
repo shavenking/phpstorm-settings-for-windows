@@ -27,11 +27,6 @@
         <mark key="^" line="1956" column="119" />
         <mark key="." line="1956" column="119" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Entity/RemitAccount.php" timestamp="1497405398102">
-        <mark key="'" line="457" column="20" />
-        <mark key="[" line="457" column="0" />
-        <mark key="]" line="468" column="43" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer2" timestamp="1496989803724">
         <mark key="'" line="31" column="22" />
         <mark key="[" line="172" column="7" />
@@ -139,6 +134,7 @@
       <file name="/Dummy.txt" timestamp="1497432354051">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" timestamp="1497506984672" />
       <file name="D:/durian2/src/BB/DurianBundle/Controller/MerchantController.php" timestamp="1497256188773">
         <mark key="'" line="729" column="8" />
         <mark key="[" line="90" column="63" />
@@ -261,9 +257,11 @@
         <mark key="." line="46" column="77" />
         <mark key="^" line="46" column="77" />
       </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Tests/DataFixtures/ORM/LoadAutoRemitBankInfoData.php" timestamp="1497507252292">
+        <mark key="'" line="10" column="6" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="12" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountController.php" />
       <jump line="150" column="0" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountController.php" />
       <jump line="155" column="65" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountController.php" />
       <jump line="156" column="73" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountController.php" />
@@ -363,6 +361,7 @@
       <jump line="337" column="13" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountController.php" />
       <jump line="83" column="0" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountController.php" />
       <jump line="6" column="23" filename="D:/durian2/test.php" />
+      <jump line="10" column="6" filename="D:/durian2/src/BB/DurianBundle/Tests/DataFixtures/ORM/LoadAutoRemitBankInfoData.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
