@@ -10,8 +10,27 @@
         <mark key="." line="31" column="99" />
         <mark key="^" line="31" column="99" />
       </file>
+      <file name="D:/durian2/vendor/liip/functional-test-bundle/Test/WebTestCase.php" timestamp="1497250747047">
+        <mark key="'" line="16" column="46" />
+        <mark key="[" line="268" column="60" />
+        <mark key="]" line="269" column="7" />
+        <mark key="." line="269" column="7" />
+        <mark key="^" line="269" column="7" />
+      </file>
       <file name="/a.dummy" timestamp="1497426102795">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" timestamp="1497406572550">
+        <mark key="'" line="1959" column="8" />
+        <mark key="[" line="1956" column="121" />
+        <mark key="]" line="1956" column="119" />
+        <mark key="^" line="1956" column="119" />
+        <mark key="." line="1956" column="119" />
+      </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Entity/RemitAccount.php" timestamp="1497405398102">
+        <mark key="'" line="457" column="20" />
+        <mark key="[" line="457" column="0" />
+        <mark key="]" line="468" column="43" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer2" timestamp="1496989803724">
         <mark key="'" line="31" column="22" />
@@ -34,12 +53,26 @@
         <mark key="^" line="41" column="26" />
         <mark key="." line="41" column="26" />
       </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" timestamp="1497407267456">
+        <mark key="'" line="22" column="39" />
+        <mark key="[" line="126" column="0" />
+        <mark key="]" line="127" column="0" />
+        <mark key="^" line="180" column="33" />
+        <mark key="." line="126" column="0" />
+      </file>
       <file name="D:/durian2/src/BB/DurianBundle/Controller/MerchantLevelController.php" timestamp="1497260476410">
         <mark key="'" line="82" column="6" />
         <mark key="[" line="70" column="0" />
         <mark key="]" line="138" column="4" />
         <mark key="^" line="820" column="38" />
         <mark key="." line="820" column="38" />
+      </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Entity/RemitAccountLevel.php" timestamp="1497406684027">
+        <mark key="'" line="107" column="4" />
+        <mark key="[" line="128" column="32" />
+        <mark key="]" line="128" column="35" />
+        <mark key="." line="128" column="35" />
+        <mark key="^" line="128" column="35" />
       </file>
       <file name="D:/durian2/test.php" timestamp="1497434685475">
         <mark key="'" line="6" column="23" />
@@ -62,114 +95,6 @@
         <mark key="^" line="37" column="75" />
         <mark key="." line="37" column="50" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Tests/Entity/RemitAccountLevelTest.php" timestamp="1497347170940">
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="27" column="67" />
-        <mark key="]" line="27" column="68" />
-        <mark key="^" line="27" column="67" />
-        <mark key="." line="27" column="68" />
-      </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Resources/doc/exception_map.md" timestamp="1497339776348">
-        <mark key="'" line="1417" column="0" />
-        <mark key="[" line="2017" column="14" />
-        <mark key="]" line="2017" column="15" />
-        <mark key="^" line="2013" column="67" />
-        <mark key="." line="2017" column="15" />
-      </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Payment/UnionPay.php" timestamp="1497429523867">
-        <mark key="'" line="213" column="21" />
-        <mark key="[" line="178" column="73" />
-        <mark key="]" line="178" column="73" />
-        <mark key="^" line="29" column="10" />
-        <mark key="." line="178" column="73" />
-      </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountLevelController.php" timestamp="1497408980638">
-        <mark key="'" line="135" column="51" />
-        <mark key="[" line="52" column="63" />
-        <mark key="]" line="52" column="63" />
-        <mark key="." line="52" column="63" />
-      </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Controller/MerchantController.php" timestamp="1497256188773">
-        <mark key="'" line="729" column="8" />
-        <mark key="[" line="90" column="63" />
-        <mark key="]" line="91" column="7" />
-        <mark key="." line="91" column="7" />
-        <mark key="^" line="91" column="7" />
-      </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Entity/RemitAccountStat.php" timestamp="1496715139355">
-        <mark key="'" line="69" column="36" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="5" column="42" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountController.php" timestamp="1497418278339" />
-      <file name="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountLevelRepository.php" timestamp="1497406748746">
-        <mark key="'" line="50" column="8" />
-        <mark key="[" line="59" column="6" />
-        <mark key="]" line="59" column="51" />
-        <mark key="^" line="59" column="51" />
-        <mark key="." line="59" column="51" />
-      </file>
-      <file name="D:/durian2/app/DoctrineMigrations/Version20170605152028.php" timestamp="1496647781100">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="31" column="129" />
-        <mark key="]" line="31" column="129" />
-        <mark key="." line="31" column="129" />
-        <mark key="^" line="31" column="128" />
-      </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountStatRepository.php" timestamp="1497345155046">
-        <mark key="'" line="10" column="6" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="65" column="74" />
-        <mark key="." line="48" column="48" />
-        <mark key="^" line="48" column="48" />
-      </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Tests/Functional/DepositFunctionalTest.php" timestamp="1496634536044">
-        <mark key="'" line="1294" column="4" />
-        <mark key="[" line="1319" column="31" />
-        <mark key="]" line="1319" column="31" />
-        <mark key="^" line="1319" column="31" />
-        <mark key="." line="1319" column="31" />
-      </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Payment/AliPayApp.php" timestamp="1497429993359">
-        <mark key="[" line="246" column="0" />
-        <mark key="]" line="246" column="81" />
-      </file>
-      <file name="D:/durian2/vendor/liip/functional-test-bundle/Test/WebTestCase.php" timestamp="1497250747047">
-        <mark key="'" line="16" column="46" />
-        <mark key="[" line="268" column="60" />
-        <mark key="]" line="269" column="7" />
-        <mark key="." line="269" column="7" />
-        <mark key="^" line="269" column="7" />
-      </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" timestamp="1497406572550">
-        <mark key="'" line="1959" column="8" />
-        <mark key="[" line="1956" column="121" />
-        <mark key="]" line="1956" column="119" />
-        <mark key="^" line="1956" column="119" />
-        <mark key="." line="1956" column="119" />
-      </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Entity/RemitAccount.php" timestamp="1497405398102">
-        <mark key="'" line="457" column="20" />
-        <mark key="[" line="457" column="0" />
-        <mark key="]" line="468" column="43" />
-      </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Logger/RemitAutoConfirm.php" timestamp="1497421415674" />
-      <file name="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" timestamp="1497407267456">
-        <mark key="'" line="22" column="39" />
-        <mark key="[" line="126" column="0" />
-        <mark key="]" line="127" column="0" />
-        <mark key="^" line="180" column="33" />
-        <mark key="." line="126" column="0" />
-      </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Entity/RemitAccountLevel.php" timestamp="1497406684027">
-        <mark key="'" line="107" column="4" />
-        <mark key="[" line="128" column="32" />
-        <mark key="]" line="128" column="35" />
-        <mark key="." line="128" column="35" />
-        <mark key="^" line="128" column="35" />
-      </file>
       <file name="D:/durian2/src/BB/DurianBundle/Payment/Neteller.php" timestamp="1497433010026">
         <mark key="[" line="144" column="0" />
         <mark key="]" line="144" column="50" />
@@ -188,8 +113,49 @@
         <mark key="^" line="591" column="45" />
         <mark key="." line="591" column="45" />
       </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Tests/Entity/RemitAccountLevelTest.php" timestamp="1497347170940">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="27" column="67" />
+        <mark key="]" line="27" column="68" />
+        <mark key="^" line="27" column="67" />
+        <mark key="." line="27" column="68" />
+      </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Resources/doc/exception_map.md" timestamp="1497339776348">
+        <mark key="'" line="1417" column="0" />
+        <mark key="[" line="2017" column="14" />
+        <mark key="]" line="2017" column="15" />
+        <mark key="^" line="2013" column="67" />
+        <mark key="." line="2017" column="15" />
+      </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Payment/UnionPay.php" timestamp="1497488279142">
+        <mark key="'" line="213" column="21" />
+        <mark key="[" line="178" column="39" />
+        <mark key="]" line="178" column="44" />
+        <mark key="^" line="178" column="44" />
+        <mark key="." line="178" column="44" />
+      </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountLevelController.php" timestamp="1497408980638">
+        <mark key="'" line="135" column="51" />
+        <mark key="[" line="52" column="63" />
+        <mark key="]" line="52" column="63" />
+        <mark key="." line="52" column="63" />
+      </file>
       <file name="/Dummy.txt" timestamp="1497432354051">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Controller/MerchantController.php" timestamp="1497256188773">
+        <mark key="'" line="729" column="8" />
+        <mark key="[" line="90" column="63" />
+        <mark key="]" line="91" column="7" />
+        <mark key="." line="91" column="7" />
+        <mark key="^" line="91" column="7" />
+      </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Entity/RemitAccountStat.php" timestamp="1496715139355">
+        <mark key="'" line="69" column="36" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="42" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="D:/payment/lib.php" timestamp="1496646200118">
         <mark key="'" line="36" column="4" />
@@ -225,12 +191,26 @@
         <mark key="." line="24" column="25" />
         <mark key="^" line="33" column="7" />
       </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountLevelRepository.php" timestamp="1497406748746">
+        <mark key="'" line="50" column="8" />
+        <mark key="[" line="59" column="6" />
+        <mark key="]" line="59" column="51" />
+        <mark key="^" line="59" column="51" />
+        <mark key="." line="59" column="51" />
+      </file>
       <file name="D:/durian2/src/BB/DurianBundle/Payment/NewYiFuBao.php" timestamp="1496648859242">
         <mark key="'" line="100" column="14" />
         <mark key="[" line="121" column="26" />
         <mark key="]" line="121" column="35" />
         <mark key="^" line="121" column="35" />
         <mark key="." line="121" column="35" />
+      </file>
+      <file name="D:/durian2/app/DoctrineMigrations/Version20170605152028.php" timestamp="1496647781100">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="31" column="129" />
+        <mark key="]" line="31" column="129" />
+        <mark key="." line="31" column="129" />
+        <mark key="^" line="31" column="128" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Resources/translations/messages.zh_TW.yml" timestamp="1497407253137">
         <mark key="'" line="0" column="0" />
@@ -246,7 +226,20 @@
         <mark key="." line="121" column="69" />
         <mark key="^" line="121" column="69" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Remit/Helper.php" timestamp="1497421245160" />
+      <file name="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountStatRepository.php" timestamp="1497345155046">
+        <mark key="'" line="10" column="6" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="65" column="74" />
+        <mark key="." line="48" column="48" />
+        <mark key="^" line="48" column="48" />
+      </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Tests/Functional/DepositFunctionalTest.php" timestamp="1496634536044">
+        <mark key="'" line="1294" column="4" />
+        <mark key="[" line="1319" column="31" />
+        <mark key="]" line="1319" column="31" />
+        <mark key="^" line="1319" column="31" />
+        <mark key="." line="1319" column="31" />
+      </file>
       <file name="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitAccountFunctionalTest.php" timestamp="1497344096112">
         <mark key="'" line="2505" column="69" />
         <mark key="[" line="2507" column="47" />
@@ -260,6 +253,10 @@
         <mark key="]" line="38" column="0" />
         <mark key="^" line="54" column="58" />
         <mark key="." line="38" column="0" />
+      </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Payment/AliPayApp.php" timestamp="1497429993359">
+        <mark key="[" line="246" column="0" />
+        <mark key="]" line="246" column="81" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Resources/views/Default/Demo/RemitAccountLevel/setOrder.html.twig" timestamp="1497342118937">
         <mark key="'" line="46" column="77" />
