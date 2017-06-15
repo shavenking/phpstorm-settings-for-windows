@@ -3,13 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/durian2/src/BB/DurianBundle/Repository/AutoRemitBankInfoRepository.php" timestamp="1497516382243">
-        <mark key="'" line="32" column="19" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="30" column="19" />
-      </file>
       <file name="D:/durian2/app/DoctrineMigrations/Version20170605154756.php" timestamp="1496648943420">
         <mark key="'" line="29" column="80" />
         <mark key="[" line="31" column="97" />
