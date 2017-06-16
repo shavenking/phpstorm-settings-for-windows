@@ -137,10 +137,6 @@
         <mark key="^" line="1319" column="31" />
         <mark key="." line="1319" column="31" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Payment/AliPayApp.php" timestamp="1497429993359">
-        <mark key="[" line="246" column="0" />
-        <mark key="]" line="246" column="81" />
-      </file>
       <file name="D:/durian2/src/BB/DurianBundle/Tests/DataFixtures/ORM/LoadAutoRemitBankInfoData.php" timestamp="1497507252292">
         <mark key="'" line="10" column="6" />
       </file>
@@ -175,10 +171,6 @@
         <mark key="]" line="128" column="35" />
         <mark key="." line="128" column="35" />
         <mark key="^" line="128" column="35" />
-      </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Payment/Neteller.php" timestamp="1497433010026">
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="144" column="50" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Resources/translations/messages.zh_CN.yml" timestamp="1497407228370">
         <mark key="'" line="1148" column="0" />
