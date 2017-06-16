@@ -26,11 +26,11 @@
       <file name="/a.dummy" timestamp="1497426102795">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" timestamp="1497578709135">
+      <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" timestamp="1497579340941">
         <mark key="'" line="1941" column="8" />
-        <mark key="[" line="1934" column="0" />
-        <mark key="]" line="1919" column="7" />
-        <mark key="." line="1919" column="7" />
+        <mark key="[" line="1951" column="5" />
+        <mark key="]" line="1951" column="5" />
+        <mark key="." line="1951" column="5" />
         <mark key="^" line="1919" column="7" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Entity/RemitAccount.php" timestamp="1497574531350">
@@ -415,11 +415,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dGhyb3cgbmV3IFxFeGNlcHRpb24odmFyX2V4cG9ydCgkcmVtaWFjKSkK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgIHRocm93IG5ldyBcRXhjZXB0aW9uKHZhcl9leHBvcnQoJGNhbmRpZGF0ZXMsIHRydWUpKTs=</text>
       </register>
       <register name="-" type="4">
-        <text>throw new \Exception(var_export($remitAccounts, true));</text>
+        <text encoding="base64">ICAgICAgIHRocm93IG5ldyBcRXhjZXB0aW9uKHZhcl9leHBvcnQoJGNhbmRpZGF0ZXMsIHRydWUpKTs=</text>
       </register>
       <register name="/" type="4">
         <text>getid</text>
