@@ -81,11 +81,11 @@
         <mark key="." line="128" column="35" />
         <mark key="^" line="128" column="35" />
       </file>
-      <file name="D:/durian2/test.php" timestamp="1497512305973">
-        <mark key="[" line="5" column="9" />
-        <mark key="]" line="5" column="9" />
-        <mark key="." line="5" column="9" />
-        <mark key="^" line="8" column="12" />
+      <file name="D:/durian2/test.php" timestamp="1497589014953">
+        <mark key="[" line="18" column="16" />
+        <mark key="]" line="18" column="16" />
+        <mark key="." line="18" column="16" />
+        <mark key="^" line="9" column="27" />
       </file>
       <file name="D:/durian2/app/config/config_test.yml" timestamp="1497509040328">
         <mark key="'" line="0" column="0" />
@@ -416,10 +416,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>ICBC</text>
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="-" type="4">
-        <text>ICBC</text>
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="/" type="4">
         <text>getid</text>
@@ -428,34 +428,34 @@
         <text encoding="base64">ICAgICAgICAvLyCo+rvIpualZCBpZCCzzKRwqroK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dGhyb3cgbmV3IFxFeGNlcHRpb24odmFyX2V4cG9ydCgkcmVtaWFjKSkK</text>
+        <text encoding="base64">JG9iago=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyC5TMJvsbyms6W8p7mmqKXmqfatcbPmqrq7yKbmsWK4uQo=</text>
+        <text encoding="base64">c3dpdGNoICh0cnVlKSB7CiAgICBjYXNlIGZhbHNlOgogICAgICAgIGVjaG8gJ2hpJzsKICAgICAgICBicmVhazsKICAgIGNhc2UgdHJ1ZToKICAgICAgICBlY2hvICdmdWNrJzsKICAgICAgICBicmVhazsKICAgIGRlZmF1bHQ6CiAgICAgICAgZWNobyAnYXdlc29tZSc7Cn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gqPqxb6bbsMqkSrTau8im5rHGp8cK</text>
+        <text encoding="base64">dGhyb3cgbmV3IFxFeGNlcHRpb24odmFyX2V4cG9ydCgkcmVtaWFjKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyCmcKpHwdmms6ZordOt1L/vq2jAdaX9qM+lzrvIpualZCBpZCCzzKRwqrq7yKbmpWQK</text>
+        <text encoding="base64">ICAgICAgICAvLyC5TMJvsbyms6W8p7mmqKXmqfatcbPmqrq7yKbmsWK4uQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gqPqxb6bbsMqkSrTau8im5rHGp8cK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyCx0qXOpri8xrHGp8euyaFBpXWvZKa4vMazzKRwqrq7yKbmpWQKICAgICAgICBpZiAoJGJ5Q291bnQpIHsKICAgICAgICAgICAgJHJlbWl0QWNjb3VudENvdW50cyA9ICRlbS0+Z2V0UmVwb3NpdG9yeSgnQkJEdXJpYW5CdW5kbGU6UmVtaXRBY2NvdW50U3RhdCcpLT5nZXRDb3VudCgkY2FuZGlkYXRlcyk7CiAgICAgICAgICAgICRtaW5Db3VudCA9IG1pbigkcmVtaXRBY2NvdW50Q291bnRzKTsKCiAgICAgICAgICAgIGZvcmVhY2ggKCRjYW5kaWRhdGVzIGFzICRrZXkgPT4gJGNhbmRpZGF0ZSkgewogICAgICAgICAgICAgICAgaWYgKCRyZW1pdEFjY291bnRDb3VudHNbJGNhbmRpZGF0ZS0+Z2V0SWQoKV0gIT0gJG1pbkNvdW50KSB7CiAgICAgICAgICAgICAgICAgICAgdW5zZXQoJGNhbmRpZGF0ZXNbJGtleV0pOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyCmcKpHwdmms6ZordOt1L/vq2jAdaX9qM+lzrvIpualZCBpZCCzzKRwqrq7yKbmpWQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0KCiAgICAgICAgJHJlbWl0QWNjb3VudCA9ICRtYW5hZ2VyLT5maW5kKCdCQkR1cmlhbkJ1bmRsZTpSZW1pdEFjY291bnQnLCA4KTsKICAgICAgICAkc3RhdCA9IG5ldyBSZW1pdEFjY291bnRTdGF0KCRyZW1pdEFjY291bnQsIG5ldyBcRGF0ZVRpbWUoKSk7CiAgICAgICAgJHN0YXQtPnNldENvdW50KDMpOwoKICAgICAgICAkbWFuYWdlci0+cGVyc2lzdCgkc3RhdCk7Cgo+Pj4+Pj4+IHRlc3QxCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyCx0qXOpri8xrHGp8euyaFBpXWvZKa4vMazzKRwqrq7yKbmpWQKICAgICAgICBpZiAoJGJ5Q291bnQpIHsKICAgICAgICAgICAgJHJlbWl0QWNjb3VudENvdW50cyA9ICRlbS0+Z2V0UmVwb3NpdG9yeSgnQkJEdXJpYW5CdW5kbGU6UmVtaXRBY2NvdW50U3RhdCcpLT5nZXRDb3VudCgkY2FuZGlkYXRlcyk7CiAgICAgICAgICAgICRtaW5Db3VudCA9IG1pbigkcmVtaXRBY2NvdW50Q291bnRzKTsKCiAgICAgICAgICAgIGZvcmVhY2ggKCRjYW5kaWRhdGVzIGFzICRrZXkgPT4gJGNhbmRpZGF0ZSkgewogICAgICAgICAgICAgICAgaWYgKCRyZW1pdEFjY291bnRDb3VudHNbJGNhbmRpZGF0ZS0+Z2V0SWQoKV0gIT0gJG1pbkNvdW50KSB7CiAgICAgICAgICAgICAgICAgICAgdW5zZXQoJGNhbmRpZGF0ZXNbJGtleV0pOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECgo9PT09PT09Cj4+Pj4+Pj4gdGVzdDEK</text>
+        <text encoding="base64">ICAgICAgICAkCg==</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>5,14d</text>
       </register>
     </registers>
     <search>
@@ -491,7 +491,6 @@
         <entry>getid</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLyVrZXJuZWwuY2FjaGVfZGlyJS9cL3RtcC9n</entry>
         <entry encoding="base64">JzwsJz5zLzEyNi8xNzUvZw==</entry>
         <entry>set smartcase</entry>
         <entry>set incsearch</entry>
@@ -511,6 +510,7 @@
         <entry>132,133y</entry>
         <entry>Noh</entry>
         <entry>noh</entry>
+        <entry>5,14d</entry>
       </history-cmd>
       <history-expr />
       <history-input />
