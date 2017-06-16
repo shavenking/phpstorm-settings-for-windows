@@ -139,12 +139,12 @@
       <file name="/Dummy.txt" timestamp="1497432354051">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" timestamp="1497513919149">
+      <file name="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" timestamp="1497583452950">
         <mark key="'" line="259" column="0" />
-        <mark key="[" line="259" column="0" />
-        <mark key="]" line="259" column="0" />
+        <mark key="[" line="678" column="43" />
+        <mark key="]" line="678" column="43" />
         <mark key="^" line="259" column="0" />
-        <mark key="." line="259" column="0" />
+        <mark key="." line="678" column="43" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Controller/MerchantController.php" timestamp="1497256188773">
         <mark key="'" line="729" column="8" />
@@ -416,10 +416,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgIHRocm93IG5ldyBcRXhjZXB0aW9uKHZhcl9leHBvcnQoJGNhbmRpZGF0ZXMsIHRydWUpKTs=</text>
+        <text>ICBC</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgIHRocm93IG5ldyBcRXhjZXB0aW9uKHZhcl9leHBvcnQoJGNhbmRpZGF0ZXMsIHRydWUpKTs=</text>
+        <text>ICBC</text>
       </register>
       <register name="/" type="4">
         <text>getid</text>
