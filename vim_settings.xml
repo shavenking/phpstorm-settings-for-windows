@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/durian2/src/BB/DurianBundle/Repository/AutoRemitBankInfoRepository.php" timestamp="1497575014418">
-        <mark key="[" line="33" column="26" />
-        <mark key="]" line="33" column="30" />
-        <mark key="." line="33" column="30" />
-        <mark key="^" line="33" column="30" />
+      <file name="D:/durian2/src/BB/DurianBundle/Repository/AutoRemitBankInfoRepository.php" timestamp="1497593464436">
+        <mark key="'" line="43" column="60" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+        <mark key="^" line="50" column="18" />
       </file>
       <file name="D:/durian2/app/DoctrineMigrations/Version20170605154756.php" timestamp="1496648943420">
         <mark key="'" line="29" column="80" />
@@ -26,12 +27,12 @@
       <file name="/a.dummy" timestamp="1497426102795">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" timestamp="1497581671547">
+      <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" timestamp="1497593484679">
         <mark key="'" line="1941" column="8" />
-        <mark key="[" line="1951" column="5" />
-        <mark key="]" line="1952" column="37" />
-        <mark key="." line="1952" column="37" />
-        <mark key="^" line="1952" column="37" />
+        <mark key="[" line="1934" column="0" />
+        <mark key="]" line="1957" column="27" />
+        <mark key="." line="1957" column="27" />
+        <mark key="^" line="1957" column="27" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Entity/RemitAccount.php" timestamp="1497574531350">
         <mark key="[" line="388" column="29" />
@@ -139,12 +140,11 @@
       <file name="/Dummy.txt" timestamp="1497432354051">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" timestamp="1497583452950">
+      <file name="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" timestamp="1497593270385">
         <mark key="'" line="259" column="0" />
-        <mark key="[" line="678" column="43" />
-        <mark key="]" line="678" column="43" />
-        <mark key="^" line="259" column="0" />
-        <mark key="." line="678" column="43" />
+        <mark key="[" line="576" column="30" />
+        <mark key="]" line="576" column="31" />
+        <mark key="." line="576" column="31" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Controller/MerchantController.php" timestamp="1497256188773">
         <mark key="'" line="729" column="8" />
@@ -192,6 +192,9 @@
       </file>
       <file name="/fragment.php" timestamp="1497253895809">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Tests/Payment/AmxmyTest.php" timestamp="1497592433317">
+        <mark key="'" line="8" column="6" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Entity/AutoRemitBankInfo.php" timestamp="1496995881500">
         <mark key="'" line="54" column="20" />
@@ -241,10 +244,10 @@
         <mark key="." line="121" column="69" />
         <mark key="^" line="121" column="69" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountStatRepository.php" timestamp="1497512690176">
+      <file name="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountStatRepository.php" timestamp="1497592676307">
         <mark key="'" line="10" column="6" />
-        <mark key="[" line="63" column="24" />
-        <mark key="]" line="74" column="15" />
+        <mark key="[" line="45" column="35" />
+        <mark key="]" line="45" column="40" />
         <mark key="." line="74" column="15" />
         <mark key="^" line="74" column="15" />
       </file>
@@ -285,8 +288,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="5" filename="D:/durian2/src/BB/DurianBundle/Payment/KcPayScan.php" />
-      <jump line="201" column="4" filename="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountRepository.php" />
       <jump line="260" column="0" filename="D:/durian2/src/BB/DurianBundle/Resources/doc/exception_map.md" />
       <jump line="2016" column="0" filename="D:/durian2/src/BB/DurianBundle/Resources/doc/exception_map.md" />
       <jump line="1417" column="0" filename="D:/durian2/src/BB/DurianBundle/Resources/doc/exception_map.md" />
@@ -315,7 +316,6 @@
       <jump line="18" column="51" filename="D:/durian2/src/BB/DurianBundle/Resources/views/Default/Demo/RemitAccountLevel/getByLevel.html.twig" />
       <jump line="49" column="20" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitAccountFunctionalTest.php" />
       <jump line="2505" column="69" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitAccountFunctionalTest.php" />
-      <jump line="10" column="6" filename="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountStatRepository.php" />
       <jump line="52" column="29" filename="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountLevelRepository.php" />
       <jump line="1956" column="12" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" />
       <jump line="1994" column="83" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" />
@@ -385,6 +385,9 @@
       <jump line="9" column="6" filename="D:/durian2/src/BB/DurianBundle/Tests/DataFixtures/ORM/LoadRemitAccountStatData.php" />
       <jump line="11" column="6" filename="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountRepository.php" />
       <jump line="1942" column="8" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" />
+      <jump line="8" column="6" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/AmxmyTest.php" />
+      <jump line="10" column="6" filename="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountStatRepository.php" />
+      <jump line="43" column="60" filename="D:/durian2/src/BB/DurianBundle/Repository/AutoRemitBankInfoRepository.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -416,43 +419,43 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">Jg==</text>
+        <text>var_dump($results);</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Jg==</text>
+        <text>var_dump($results);</text>
       </register>
       <register name="/" type="4">
         <text>getid</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLyCo+rvIpualZCBpZCCzzKRwqroK</text>
+      <register name="0" type="4">
+        <text>公司入款帳號</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">JG9iago=</text>
+        <text encoding="base64">fQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">c3dpdGNoICh0cnVlKSB7CiAgICBjYXNlIGZhbHNlOgogICAgICAgIGVjaG8gJ2hpJzsKICAgICAgICBicmVhazsKICAgIGNhc2UgdHJ1ZToKICAgICAgICBlY2hvICdmdWNrJzsKICAgICAgICBicmVhazsKICAgIGRlZmF1bHQ6CiAgICAgICAgZWNobyAnYXdlc29tZSc7Cn0K</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAvKioKICAgICAqILT6uNW3c7xXptuwyqRKtNqwT7/9pKOmUKbmpUKko6jMt9Ooz6XOpri8xqTAsHS7yKbmpWQKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIHRlc3RBdXRvQ29uZmlybVJlbWl0V2l0aE5vU2FtZUJhbmtBbmRSZW1pdExldmVsT3JkZXJEaXNhYmxlZCgpCiAgICB7CiAgICAgICAgJGVtID0gJHRoaXMtPmdldENvbnRhaW5lcigpLT5nZXQoJ2RvY3RyaW5lLm9ybS5lbnRpdHlfbWFuYWdlcicpOwogICAgICAgICRlbVNoYXJlID0gJHRoaXMtPmdldENvbnRhaW5lcigpLT5nZXQoJ2RvY3RyaW5lLm9ybS5zaGFyZV9lbnRpdHlfbWFuYWdlcicpOwogICAgICAgICRsb2dnZXIgPSAkdGhpcy0+Z2V0Q29udGFpbmVyKCktPmdldCgnZHVyaWFuLnJlbWl0X2F1dG9fY29uZmlybV9sb2dnZXInKTsKCiAgICAgICAgJGNsaWVudCA9ICR0aGlzLT5jcmVhdGVDbGllbnQoKTsKCiAgICAgICAgJG1vY2tDb250YWluZXIgPSAkdGhpcy0+Z2V0TW9ja0J1aWxkZXIoZ2V0X2NsYXNzKCR0aGlzLT5nZXRDb250YWluZXIoKSkpCiAgICAgICAgICAgIC0+c2V0TWV0aG9kcyhbJ2dldCcsICdnZXRQYXJhbWV0ZXInXSkKICAgICAgICAgICAgLT5nZXRNb2NrKCk7CgogICAgICAgICRtb2NrQ29udGFpbmVyLT5leHBlY3RzKCR0aGlzLT5hbnkoKSkKICAgICAgICAgICAgLT5tZXRob2QoJ2dldCcpCiAgICAgICAgICAgIC0+d2l0aCgnZHVyaWFuLnJlbWl0X2F1dG9fY29uZmlybV9sb2dnZXInKQogICAgICAgICAgICAtPndpbGxSZXR1cm4oJGxvZ2dlcik7CgogICAgICAgICRtb2NrQ29udGFpbmVyLT5leHBlY3RzKCR0aGlzLT5hbnkoKSkKICAgICAgICAgICAgLT5tZXRob2QoJ2dldFBhcmFtZXRlcicpCiAgICAgICAgICAgIC0+d2lsbFJldHVybigncGF5bWVudC5odHRwcy5zMDQudG9uZ2x1ZXl1bi5jb20nKTsKCiAgICAgICAgJGNsaWVudC0+cmVxdWVzdCgnR0VUJywgJy9hcGkvcmVtaXQvZW50cnkvb3JkZXJfbnVtYmVyJyk7CiAgICAgICAgJG51bWJlck91dFB1dCA9IGpzb25fZGVjb2RlKCRjbGllbnQtPmdldFJlc3BvbnNlKCktPmdldENvbnRlbnQoKSwgdHJ1ZSk7CiAgICAgICAgJG9yZGVyTnVtYmVyID0gJG51bWJlck91dFB1dFsncmV0J107CgogICAgICAgICRyZXNwb25zZSA9IG5ldyBSZXNwb25zZSgpOwogICAgICAgICRyZXNwb25zZS0+c2V0Q29udGVudCgneyJpZCI6IDcwMjU4NzUsICJzdWNjZXNzIjogdHJ1ZX0nKTsKICAgICAgICAkcmVzcG9uc2UtPmFkZEhlYWRlcignSFRUUC8xLjEgMjAwIE9LJyk7CiAgICAgICAgJHJlc3BvbnNlLT5hZGRIZWFkZXIoJ0NvbnRlbnQtVHlwZTogYXBwbGljYXRpb24vanNvbicpOwoKICAgICAgICAkaGVscGVyID0gJHRoaXMtPmdldENvbnRhaW5lcigpLT5nZXQoJ2R1cmlhbi5yZW1pdF9oZWxwZXInKTsKICAgICAgICAkaGVscGVyLT5zZXRDbGllbnQoJHRoaXMtPm1vY2tDbGllbnQpOwogICAgICAgICRoZWxwZXItPnNldFJlc3BvbnNlKCRyZXNwb25zZSk7CiAgICAgICAgJGhlbHBlci0+c2V0Q29udGFpbmVyKCRtb2NrQ29udGFpbmVyKTsKCiAgICAgICAgJGNsaWVudCA9ICR0aGlzLT5jcmVhdGVDbGllbnQoKTsKICAgICAgICAkY2xpZW50LT5nZXRDb250YWluZXIoKS0+c2V0KCdkdXJpYW4ucmVtaXRfaGVscGVyJywgJGhlbHBlcik7CgogICAgICAgIC8vIL3VvuO7yKbmpWSlSKdRq+HE8rT6uNWkwLB0xd6/6AogICAgICAgICRyZW1pdEVudHJpZXMgPSAkZW0tPmdldFJlcG9zaXRvcnkoJ0JCRHVyaWFuQnVuZGxlOlJlbWl0RW50cnknKS0+ZmluZEJ5KFsncmVtaXRBY2NvdW50SWQnID0+IDZdKTsKICAgICAgICAkcmVtaXRBdXRvQ29uZmlybSA9ICRlbS0+Z2V0UmVwb3NpdG9yeSgnQkJEdXJpYW5CdW5kbGU6UmVtaXRBdXRvQ29uZmlybScpLT5maW5kT25lQnkoWydyZW1pdEVudHJ5JyA9PiA5XSk7CgogICAgICAgICRlbS0+cmVtb3ZlKCRyZW1pdEF1dG9Db25maXJtKTsKICAgICAgICBmb3JlYWNoICgkcmVtaXRFbnRyaWVzIGFzICRyZW1pdEVudHJ5KSB7CiAgICAgICAgICAgICRlbS0+cmVtb3ZlKCRyZW1pdEVudHJ5KTsKICAgICAgICB9CgogICAgICAgICRyZW1pdEFjY291bnQ2ID0gJGVtLT5maW5kKCdCQkR1cmlhbkJ1bmRsZTpSZW1pdEFjY291bnQnLCA2KTsKICAgICAgICAkcmVtaXRBY2NvdW50Ni0+c2V0QmFua0luZm9JZCg0KTsKCiAgICAgICAgLy8gw/azrKF1qMy306jPpc6muLzGpMCwdLvIpualZKF2qrqzXal3CiAgICAgICAgJGNvbmZpZyA9ICRlbS0+Z2V0UmVwb3NpdG9yeSgnQkJEdXJpYW5CdW5kbGU6UmVtaXRMZXZlbE9yZGVyJyktPmZpbmRPbmVCeShbJ2xldmVsSWQnID0+IDJdKTsKICAgICAgICAkY29uZmlnLT5zZXRCeUNvdW50KGZhbHNlKTsKCiAgICAgICAgJGVtLT5mbHVzaCgpOwoKICAgICAgICAkcGFyYW1ldGVycyA9IFsKICAgICAgICAgICAgJ29yZGVyX251bWJlcicgPT4gJG9yZGVyTnVtYmVyLAogICAgICAgICAgICAnYW5jZXN0b3JfaWQnID0+IDMsCiAgICAgICAgICAgICdiYW5rX2luZm9faWQnID0+IDIsCiAgICAgICAgICAgICdhbW91bnQnID0+IDk5OSwKICAgICAgICAgICAgJ21ldGhvZCcgPT4gMSwKICAgICAgICAgICAgJ25hbWVfcmVhbCcgPT4gJ77UsKulwbHaJywKICAgICAgICAgICAgJ2JyYW5jaCcgPT4gJ6RzqkakwLd8JywKICAgICAgICAgICAgJ2NlbGxwaG9uZScgPT4gJzEwMDIxMjU1MTEyMScsCiAgICAgICAgICAgICdtZW1vJyA9PiAnvt+o7KRApsq29CcsCiAgICAgICAgICAgICdpZGVudGl0eV9jYXJkJyA9PiAnNDEwMzA1MTk3NjExMDcwMTQ0JywKICAgICAgICAgICAgJ2F1dG9fY29uZmlybScgPT4gMSwKICAgICAgICBdOwogICAgICAgICRjbGllbnQtPnJlcXVlc3QoJ1BPU1QnLCAnL2FwaS91c2VyLzgvcmVtaXQnLCAkcGFyYW1ldGVycyk7CiAgICAgICAgJGpzb24gPSAkY2xpZW50LT5nZXRSZXNwb25zZSgpLT5nZXRDb250ZW50KCk7CiAgICAgICAgJG91dHB1dCA9IGpzb25fZGVjb2RlKCRqc29uLCB0cnVlKTsKCiAgICAgICAgJHRoaXMtPmFzc2VydEVxdWFscygnb2snLCAkb3V0cHV0WydyZXN1bHQnXSk7CgogICAgICAgICRlbnRyeUlkID0gJG91dHB1dFsncmV0J11bJ2lkJ107CiAgICAgICAgJHJlbWl0RW50cnkgPSAkZW0tPmZpbmQoJ0JCRHVyaWFuQnVuZGxlOlJlbWl0RW50cnknLCAkZW50cnlJZCk7CgogICAgICAgIC8vIMP2s6y7yKbmpWSmuLzGss6tcK7JoUG3fKjMt9O7yKbmscanx6FBwHWl/aTAsHS7yKbmscanx7j7q2WqugogICAgICAgICR0aGlzLT5hc3NlcnRFcXVhbHMoNywgJHJlbWl0RW50cnktPmdldFJlbWl0QWNjb3VudElkKCkpOwogICAgICAgICR0aGlzLT5hc3NlcnRFcXVhbHMoJHJlbWl0RW50cnktPmdldFJlbWl0QWNjb3VudElkKCksICRvdXRwdXRbJ3JldCddWydyZW1pdF9hY2NvdW50X2lkJ10pOwogICAgICAgICR0aGlzLT5hc3NlcnRFcXVhbHMoJHJlbWl0RW50cnktPmdldE9yZGVyTnVtYmVyKCksICRvdXRwdXRbJ3JldCddWydvcmRlcl9udW1iZXInXSk7CiAgICAgICAgJHRoaXMtPmFzc2VydEVxdWFscygkcmVtaXRFbnRyeS0+Z2V0T2xkT3JkZXJOdW1iZXIoKSwgJG91dHB1dFsncmV0J11bJ29sZF9vcmRlcl9udW1iZXInXSk7CiAgICAgICAgJHRoaXMtPmFzc2VydEVxdWFscygkcmVtaXRFbnRyeS0+Z2V0VXNlcklkKCksICRvdXRwdXRbJ3JldCddWyd1c2VyX2lkJ10pOwogICAgICAgICR0aGlzLT5hc3NlcnRFcXVhbHMoJHJlbWl0RW50cnktPmdldExldmVsSWQoKSwgJG91dHB1dFsncmV0J11bJ2xldmVsX2lkJ10pOwogICAgICAgICR0aGlzLT5hc3NlcnRFcXVhbHMoJHJlbWl0RW50cnktPmdldEFuY2VzdG9ySWQoKSwgJG91dHB1dFsncmV0J11bJ2FuY2VzdG9yX2lkJ10pOwogICAgICAgICR0aGlzLT5hc3NlcnRFcXVhbHMoJHJlbWl0RW50cnktPmdldEJhbmtJbmZvSWQoKSwgJG91dHB1dFsncmV0J11bJ2JhbmtfaW5mb19pZCddKTsKICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKCRyZW1pdEVudHJ5LT5nZXROYW1lUmVhbCgpLCAkb3V0cHV0WydyZXQnXVsnbmFtZV9yZWFsJ10pOwogICAgICAgICR0aGlzLT5hc3NlcnRFcXVhbHMoJHJlbWl0RW50cnktPmdldE1ldGhvZCgpLCAkb3V0cHV0WydyZXQnXVsnbWV0aG9kJ10pOwogICAgICAgICR0aGlzLT5hc3NlcnRFcXVhbHMoJHJlbWl0RW50cnktPmdldEJyYW5jaCgpLCAkb3V0cHV0WydyZXQnXVsnYnJhbmNoJ10pOwogICAgICAgICR0aGlzLT5hc3NlcnRFcXVhbHMoJHJlbWl0RW50cnktPmdldEFtb3VudCgpLCAkb3V0cHV0WydyZXQnXVsnYW1vdW50J10pOwogICAgICAgICR0aGlzLT5hc3NlcnRFcXVhbHMoJHJlbWl0RW50cnktPmdldERpc2NvdW50KCksICRvdXRwdXRbJ3JldCddWydkaXNjb3VudCddKTsKICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKCRyZW1pdEVudHJ5LT5nZXRPdGhlckRpc2NvdW50KCksICRvdXRwdXRbJ3JldCddWydvdGhlcl9kaXNjb3VudCddKTsKICAgICAgICAkdGhpcy0+YXNzZXJ0RmFsc2UoJG91dHB1dFsncmV0J11bJ2FiYW5kb25fZGlzY291bnQnXSk7CiAgICAgICAgJHRoaXMtPmFzc2VydFRydWUoJG91dHB1dFsncmV0J11bJ2F1dG9fY29uZmlybSddKTsKICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKCRyZW1pdEVudHJ5LT5nZXRDZWxscGhvbmUoKSwgJG91dHB1dFsncmV0J11bJ2NlbGxwaG9uZSddKTsKICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKCRyZW1pdEVudHJ5LT5nZXRUcmFkZU51bWJlcigpLCAkb3V0cHV0WydyZXQnXVsndHJhZGVfbnVtYmVyJ10pOwogICAgICAgICR0aGlzLT5hc3NlcnRFcXVhbHMoJHJlbWl0RW50cnktPmdldFBheWVyQ2FyZCgpLCAkb3V0cHV0WydyZXQnXVsncGF5ZXJfY2FyZCddKTsKICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKCRyZW1pdEVudHJ5LT5nZXRUcmFuc2ZlckNvZGUoKSwgJG91dHB1dFsncmV0J11bJ3RyYW5zZmVyX2NvZGUnXSk7CiAgICAgICAgJHRoaXMtPmFzc2VydEVxdWFscygkcmVtaXRFbnRyeS0+Z2V0QXRtVGVybWluYWxDb2RlKCksICRvdXRwdXRbJ3JldCddWydhdG1fdGVybWluYWxfY29kZSddKTsKICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKCRyZW1pdEVudHJ5LT5nZXRNZW1vKCksICRvdXRwdXRbJ3JldCddWydtZW1vJ10pOwogICAgICAgICR0aGlzLT5hc3NlcnRFcXVhbHMoJHJlbWl0RW50cnktPmdldElkZW50aXR5Q2FyZCgpLCAkb3V0cHV0WydyZXQnXVsnaWRlbnRpdHlfY2FyZCddKTsKICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKCRyZW1pdEVudHJ5LT5nZXRTdGF0dXMoKSwgJG91dHB1dFsncmV0J11bJ3N0YXR1cyddKTsKICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKCRyZW1pdEVudHJ5LT5nZXRPcGVyYXRvcigpLCAkb3V0cHV0WydyZXQnXVsnb3BlcmF0b3InXSk7CiAgICAgICAgJHRoaXMtPmFzc2VydEVxdWFscygkcmVtaXRFbnRyeS0+Z2V0UmF0ZSgpLCAkb3V0cHV0WydyZXQnXVsncmF0ZSddKTsKICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKCRyZW1pdEVudHJ5LT5nZXRDcmVhdGVkQXQoKS0+Zm9ybWF0KFxEYXRlVGltZTo6SVNPODYwMSksICRvdXRwdXRbJ3JldCddWydjcmVhdGVkX2F0J10pOwogICAgICAgICR0aGlzLT5hc3NlcnROdWxsKCRyZW1pdEVudHJ5LT5nZXREZXBvc2l0QXQoKSk7CiAgICAgICAgJHRoaXMtPmFzc2VydE51bGwoJG91dHB1dFsncmV0J11bJ2NvbmZpcm1fYXQnXSk7CiAgICAgICAgJHRoaXMtPmFzc2VydEVxdWFscygkcmVtaXRFbnRyeS0+Z2V0RHVyYXRpb24oKSwgJG91dHB1dFsncmV0J11bJ2R1cmF0aW9uJ10pOwoKICAgICAgICAvLyDAy6xkrXGz5ri5pHezUajPpc4KICAgICAgICAkcmVtaXRPcmRlciA9ICRlbS0+ZmluZCgnQkJEdXJpYW5CdW5kbGU6UmVtaXRPcmRlcicsICRvcmRlck51bWJlcik7CiAgICAgICAgJHRoaXMtPmFzc2VydFRydWUoJHJlbWl0T3JkZXItPmlzVXNlZCgpKTsKCiAgICAgICAgLy8gwMusZKxPp1+3c7xXptuwyrt7tNqs28P2uOquxgogICAgICAgICRyZW1pdEF1dG9Db25maXJtID0gJGVtLT5maW5kKCdCQkR1cmlhbkJ1bmRsZTpSZW1pdEF1dG9Db25maXJtJywgJGVudHJ5SWQpOwoKICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKCRyZW1pdEVudHJ5LCAkcmVtaXRBdXRvQ29uZmlybS0+Z2V0UmVtaXRFbnRyeSgpKTsKICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKDcwMjU4NzUsICRyZW1pdEF1dG9Db25maXJtLT5nZXRBdXRvQ29uZmlybUlkKCkpOwoKICAgICAgICAvLyDAy6xkTG9nT3BlcmF0aW9uCiAgICAgICAgJGxvZ09wID0gJGVtU2hhcmUtPmZpbmQoJ0JCRHVyaWFuQnVuZGxlOkxvZ09wZXJhdGlvbicsIDEpOwogICAgICAgICR0aGlzLT5hc3NlcnRFcXVhbHMoJ3JlbWl0X2VudHJ5JywgJGxvZ09wLT5nZXRUYWJsZU5hbWUoKSk7CiAgICAgICAgJHRoaXMtPmFzc2VydEVxdWFscygiQGlkOiRlbnRyeUlkIiwgJGxvZ09wLT5nZXRNYWpvcktleSgpKTsKCiAgICAgICAgJG1lc3NhZ2UgPSBbCiAgICAgICAgICAgICdAcmVtaXRfYWNjb3VudF9pZDonIC4gJG91dHB1dFsncmV0J11bJ3JlbWl0X2FjY291bnRfaWQnXSwKICAgICAgICAgICAgJ0BvcmRlcl9udW1iZXI6JyAuICRvdXRwdXRbJ3JldCddWydvcmRlcl9udW1iZXInXSwKICAgICAgICAgICAgJ0BhbmNlc3Rvcl9pZDonIC4gJG91dHB1dFsncmV0J11bJ2FuY2VzdG9yX2lkJ10sCiAgICAgICAgICAgICdAdXNlcl9pZDonIC4gJG91dHB1dFsncmV0J11bJ3VzZXJfaWQnXSwKICAgICAgICAgICAgJ0BsZXZlbF9pZDonIC4gJG91dHB1dFsncmV0J11bJ2xldmVsX2lkJ10sCiAgICAgICAgICAgICdAYmFua19pbmZvX2lkOicgLiAkb3V0cHV0WydyZXQnXVsnYmFua19pbmZvX2lkJ10sCiAgICAgICAgICAgICdAbmFtZV9yZWFsOicgLiAkb3V0cHV0WydyZXQnXVsnbmFtZV9yZWFsJ10sCiAgICAgICAgICAgICdAbWV0aG9kOicgLiAkb3V0cHV0WydyZXQnXVsnbWV0aG9kJ10sCiAgICAgICAgICAgICdAYW1vdW50OicgLiAkb3V0cHV0WydyZXQnXVsnYW1vdW50J10sCiAgICAgICAgICAgICdAZGlzY291bnQ6JyAuICRvdXRwdXRbJ3JldCddWydkaXNjb3VudCddLAogICAgICAgICAgICAnQG90aGVyX2Rpc2NvdW50OicgLiAkb3V0cHV0WydyZXQnXVsnb3RoZXJfZGlzY291bnQnXSwKICAgICAgICAgICAgJ0BhYmFuZG9uX2Rpc2NvdW50OmZhbHNlJywKICAgICAgICAgICAgJ0BhdXRvX2NvbmZpcm06dHJ1ZScsCiAgICAgICAgICAgICdAYnJhbmNoOicgLiAkb3V0cHV0WydyZXQnXVsnYnJhbmNoJ10sCiAgICAgICAgICAgICdAY2VsbHBob25lOicgLiAkb3V0cHV0WydyZXQnXVsnY2VsbHBob25lJ10sCiAgICAgICAgICAgICdAbWVtbzonIC4gJG91dHB1dFsncmV0J11bJ21lbW8nXSwKICAgICAgICAgICAgJ0BpZGVudGl0eV9jYXJkOicgLiAkb3V0cHV0WydyZXQnXVsnaWRlbnRpdHlfY2FyZCddLAogICAgICAgICAgICAnQHJhdGU6JyAuICRvdXRwdXRbJ3JldCddWydyYXRlJ10sCiAgICAgICAgXTsKICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKGltcGxvZGUoJywgJywgJG1lc3NhZ2UpLCAkbG9nT3AtPmdldE1lc3NhZ2UoKSk7CgogICAgICAgICRsb2dPcDIgPSAkZW1TaGFyZS0+ZmluZCgnQkJEdXJpYW5CdW5kbGU6TG9nT3BlcmF0aW9uJywgMik7CiAgICAgICAgJHRoaXMtPmFzc2VydEVxdWFscygncmVtaXRfYXV0b19jb25maXJtJywgJGxvZ09wMi0+Z2V0VGFibGVOYW1lKCkpOwogICAgICAgICR0aGlzLT5hc3NlcnRFcXVhbHMoIkByZW1pdF9lbnRyeV9pZDokZW50cnlJZCIsICRsb2dPcDItPmdldE1ham9yS2V5KCkpOwogICAgICAgICR0aGlzLT5hc3NlcnRFcXVhbHMoJ0BhdXRvX2NvbmZpcm1faWQ6NzAyNTg3NScsICRsb2dPcDItPmdldE1lc3NhZ2UoKSk7CgogICAgICAgIC8vIMDLrGQgbG9nIKxPp1+mc6ZiCiAgICAgICAgJHRoaXMtPmFzc2VydEZpbGVFeGlzdHMoJHRoaXMtPmxvZ1BhdGgpOwoKICAgICAgICAvLyDAy6xkIGxvZyCkuq5lCiAgICAgICAgJGNvbnRlbnRzID0gZmlsZV9nZXRfY29udGVudHMoJHRoaXMtPmxvZ1BhdGgpOwogICAgICAgICRyZXN1bHRzID0gZXhwbG9kZShQSFBfRU9MLCAkY29udGVudHMpOwoKICAgICAgICAkbG9nTXNnID0gJy9cW1xkezR9LVxkXGQtXGRcZCBcZFxkOlxkXGQ6XGRcZFxdIGFwcFwuSU5GTzogLio/IHBheW1lbnQuaHR0cHMuczA0LnRvbmdsdWV5dW4uY29tICcgLgogICAgICAgICAgICAnIlBPU1QgXC9hdXRob3JpdHlcL3N5c3RlbVwvYXBpXC9wbGFjZV9vcmRlclwvIiAiUkVRVUVTVDogeyJhcGlrZXkiOiJcKlwqXCpcKlwqXCoiLCJvcmRlcl9pZCI6IicgLgogICAgICAgICAgICAkb3JkZXJOdW1iZXIgLiAnIiwiYmFua19mbGFnIjoiSUNCQyIsImNhcmRfbG9naW5fbmFtZSI6IiIsImNhcmRfbnVtYmVyIjoiMzkzOTg4OSIsInBheV9jYXJkX251bWJlciI6IiIsJyAuCiAgICAgICAgICAgICcicGF5X3VzZXJuYW1lIjoiXFxcdTYyMzBcXFx1OWIyNVxcXHU2YzExXFxcdTY1Y2YiLCJhbW91bnQiOjk5OSwnIC4KICAgICAgICAgICAgJyJjcmVhdGVfdGltZSI6XGQrLCJjb21tZW50IjoiJyAuICRvcmRlck51bWJlciAuICcifSIgIlJFU1BPTlNFOiB7ImlkIjogNzAyNTg3NSwgInN1Y2Nlc3MiOiB0cnVlfSIgW10gW10vJzsKICAgICAgICAkdGhpcy0+YXNzZXJ0UmVnRXhwKCRsb2dNc2csICRyZXN1bHRzWzBdKTsKICAgIA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">dGhyb3cgbmV3IFxFeGNlcHRpb24odmFyX2V4cG9ydCgkcmVtaWFjKSkK</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIHZhcl9kdW1wKCdoaScpOw==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyC5TMJvsbyms6W8p7mmqKXmqfatcbPmqrq7yKbmsWK4uQo=</text>
+        <text encoding="base64">JG9iago=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gqPqxb6bbsMqkSrTau8im5rHGp8cK</text>
+        <text encoding="base64">c3dpdGNoICh0cnVlKSB7CiAgICBjYXNlIGZhbHNlOgogICAgICAgIGVjaG8gJ2hpJzsKICAgICAgICBicmVhazsKICAgIGNhc2UgdHJ1ZToKICAgICAgICBlY2hvICdmdWNrJzsKICAgICAgICBicmVhazsKICAgIGRlZmF1bHQ6CiAgICAgICAgZWNobyAnYXdlc29tZSc7Cn0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyCmcKpHwdmms6ZordOt1L/vq2jAdaX9qM+lzrvIpualZCBpZCCzzKRwqrq7yKbmpWQK</text>
+        <text encoding="base64">dGhyb3cgbmV3IFxFeGNlcHRpb24odmFyX2V4cG9ydCgkcmVtaWFjKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyC5TMJvsbyms6W8p7mmqKXmqfatcbPmqrq7yKbmsWK4uQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyCx0qXOpri8xrHGp8euyaFBpXWvZKa4vMazzKRwqrq7yKbmpWQKICAgICAgICBpZiAoJGJ5Q291bnQpIHsKICAgICAgICAgICAgJHJlbWl0QWNjb3VudENvdW50cyA9ICRlbS0+Z2V0UmVwb3NpdG9yeSgnQkJEdXJpYW5CdW5kbGU6UmVtaXRBY2NvdW50U3RhdCcpLT5nZXRDb3VudCgkY2FuZGlkYXRlcyk7CiAgICAgICAgICAgICRtaW5Db3VudCA9IG1pbigkcmVtaXRBY2NvdW50Q291bnRzKTsKCiAgICAgICAgICAgIGZvcmVhY2ggKCRjYW5kaWRhdGVzIGFzICRrZXkgPT4gJGNhbmRpZGF0ZSkgewogICAgICAgICAgICAgICAgaWYgKCRyZW1pdEFjY291bnRDb3VudHNbJGNhbmRpZGF0ZS0+Z2V0SWQoKV0gIT0gJG1pbkNvdW50KSB7CiAgICAgICAgICAgICAgICAgICAgdW5zZXQoJGNhbmRpZGF0ZXNbJGtleV0pOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gqPqxb6bbsMqkSrTau8im5rHGp8cK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyCmcKpHwdmms6ZordOt1L/vq2jAdaX9qM+lzrvIpualZCBpZCCzzKRwqrq7yKbmpWQK</text>
       </register>
       <register name=":" type="4">
         <text>5,14d</text>
