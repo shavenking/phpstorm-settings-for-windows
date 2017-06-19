@@ -27,11 +27,6 @@
       <file name="/a.dummy" timestamp="1497426102795">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" timestamp="1497835521691">
-        <mark key="[" line="1961" column="0" />
-        <mark key="]" line="1961" column="0" />
-        <mark key="." line="1961" column="0" />
-      </file>
       <file name="D:/durian2/src/BB/DurianBundle/Entity/RemitAccount.php" timestamp="1497574531350">
         <mark key="[" line="388" column="29" />
         <mark key="]" line="389" column="7" />
@@ -131,7 +126,7 @@
       <file name="D:/durian2/src/BB/DurianBundle/Payment/UnionPay.php" timestamp="1497493761244">
         <mark key="[" line="178" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497605422477">
+      <file name="/Dummy.txt" timestamp="1497837248694">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" timestamp="1497601150758">
