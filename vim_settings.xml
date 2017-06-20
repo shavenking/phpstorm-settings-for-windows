@@ -54,11 +54,10 @@
         <mark key="^" line="820" column="38" />
         <mark key="." line="820" column="38" />
       </file>
-      <file name="D:/durian2/test.php" timestamp="1497866353324">
-        <mark key="[" line="7" column="1" />
-        <mark key="]" line="6" column="3" />
-        <mark key="." line="6" column="3" />
-        <mark key="^" line="6" column="3" />
+      <file name="D:/durian2/test.php" timestamp="1497920263084">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="D:/durian2/app/config/config_test.yml" timestamp="1497509040328">
         <mark key="'" line="0" column="0" />
@@ -74,8 +73,6 @@
         <mark key="^" line="37" column="75" />
         <mark key="." line="37" column="50" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Controller/CashController.php" timestamp="1497843128573" />
-      <file name="D:/durian2/src/BB/DurianBundle/Controller/TranscribeController.php" timestamp="1497862465274" />
       <file name="D:/durian2/src/BB/DurianBundle/Tests/Entity/RemitAccountLevelTest.php" timestamp="1497347170940">
         <mark key="'" line="26" column="0" />
         <mark key="[" line="27" column="67" />
@@ -113,11 +110,9 @@
         <mark key="^" line="50" column="45" />
         <mark key="." line="49" column="68" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountController.php" timestamp="1497846414900" />
       <file name="D:/durian2/src/BB/DurianBundle/Tests/Payment/AmxmyTest.php" timestamp="1497592433317">
         <mark key="'" line="8" column="6" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Command/AuditCommand.php" timestamp="1497850694188" />
       <file name="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountLevelRepository.php" timestamp="1497406748746">
         <mark key="'" line="50" column="8" />
         <mark key="[" line="59" column="6" />
@@ -146,7 +141,6 @@
         <mark key="^" line="1319" column="31" />
         <mark key="." line="1319" column="31" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Controller/WithdrawController.php" timestamp="1497841920985" />
       <file name="D:/durian2/src/BB/DurianBundle/Tests/DataFixtures/ORM/LoadAutoRemitBankInfoData.php" timestamp="1497507252292">
         <mark key="'" line="10" column="6" />
       </file>
@@ -157,7 +151,6 @@
         <mark key="." line="269" column="7" />
         <mark key="^" line="269" column="7" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" timestamp="1497861105063" />
       <file name="D:/payment/config.php" timestamp="1497843724386">
         <mark key="[" line="4" column="12" />
         <mark key="]" line="10" column="14" />
@@ -419,7 +412,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">dmFyX2R1bXAobnVsbCA9PT0gdm9pZCk7Cg==</text>
+        <text encoding="base64">cmVxdWlyZV9vbmNlIF9fRElSX18gLiAnL3ZlbmRvci9hdXRvbG9hZC5waHAnOwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -431,31 +424,31 @@
         <text encoding="base64">ICAgICAgICBpZiAoJGJiQXV0b0NvbmZpcm0gJiYgISRhdXRvUmVtaXRCYW5rSW5mby0+aXNCYkF1dG9Db25maXJtKCkpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IFxSdW50aW1lRXhjZXB0aW9uKCdObyBBdXRvUmVtaXRCYW5rSW5mbyBmb3VuZCcsIDE1MDMwMDA2OSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dmFyX2R1bXAobnVsbCA9PT0gdm9pZCk7Cg==</text>
+        <text encoding="base64">cmVxdWlyZV9vbmNlIF9fRElSX18gLiAnL3ZlbmRvci9hdXRvbG9hZC5waHAnOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gZnVjaygpCnsKICAgIHJldHVybjsKfQoKZnVuY3Rpb24gZGFtbigpCnsKCn0KCnZhcl9kdW1wKGZ1Y2soKSA9PT0gZGFtbigpLCBmdWNrKCkgPT09IG51bGwpOyAvLyB0cnVlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">JG9iaiA9IG5ldyBjbGFzcyB7CiAgICBwcml2YXRlICRlbmFibGUgPSBmYWxzZTsKCiAgICBwdWJsaWMgZnVuY3Rpb24gZW5hYmxlKCkKICAgIHsKICAgICAgICAkdGhpcy0+ZW5hYmxlID0gdHJ1ZTsKICAgIH0KCiAgICBwdWJsaWMgZnVuY3Rpb24gaXNFbmFibGUoKQogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+ZW5hYmxlOwogICAgfQp9OwoKZnVuY3Rpb24gZW5hYmxlKCRvYmopCnsKICAgICRvYmotPmVuYWJsZSgpOwp9Cgp2YXJfZHVtcCgkb2JqLT5pc0VuYWJsZSgpKTsKCmVuYWJsZSgkb2JqKTsKCnZhcl9kdW1wKCRvYmotPmlzRW5hYmxlKCkpOwoK</text>
+      <register name="3" type="2">
+        <text encoding="base64">ZnVuY3Rpb24gZnVjaygpOiB2b2lkCnsKICAgIHJldHVybiB2b2lkOwp9Cgp2YXJfZHVtcChmdWNrKCkpOwoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQogICAgICAgIC8vIKZdw/azrKa4vMakwLB0oUFBY2NvdW50IDYgNyC3fMB1pf2/777cIEFjY291bnQ2CiAgICAgICAgJHRoaXMtPmFzc2VydEVxdWFscyg2LCAkcmVtaXRFbnRyeS0+Z2V0UmVtaXRBY2NvdW50SWQoKSk7Cj4+Pj4+Pj4gW0ZlYXR1cmVdt3O8V6ZQsqS2s7vIpualZLHGp8es28P2pVyv4Ao=</text>
+        <text encoding="base64">dmFyX2R1bXAobnVsbCA9PT0gdm9pZCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gZnVjaygpCnsKICAgIHJldHVybjsKfQoKZnVuY3Rpb24gZGFtbigpCnsKCn0KCnZhcl9kdW1wKGZ1Y2soKSA9PT0gZGFtbigpLCBmdWNrKCkgPT09IG51bGwpOyAvLyB0cnVlCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">PT09PT09PQogICAgICAgICAgICAvLyCmUKbmpUKx0qXOpri8xrHGp8ehQaa4vMas26ZQrsmhQcB1pf2o+qXOu8im5qVkscanx7j7pHCqurvIpualZAogICAgICAgICAgICBpZiAoJHJlbWl0QWNjb3VudENvdW50ID09ICRjYW5kaWRhdGVDb3VudCkgewogICAgICAgICAgICAgICAgaWYgKCRyZW1pdEFjY291bnRPcmRlcklkc1skcmVtaXRBY2NvdW50LT5nZXRJZCgpXSA8ICRyZW1pdEFjY291bnRPcmRlcklkc1skY2FuZGlkYXRlLT5nZXRJZCgpXSkgewogICAgICAgICAgICAgICAgICAgICRjYW5kaWRhdGUgPSAkcmVtaXRBY2NvdW50Owo+Pj4+Pj4+IFtGZWF0dXJlXbdzvFemULKktrO7yKbmpWSxxqfHrNvD9qVcr+AK</text>
+      <register name="6" type="4">
+        <text encoding="base64">JG9iaiA9IG5ldyBjbGFzcyB7CiAgICBwcml2YXRlICRlbmFibGUgPSBmYWxzZTsKCiAgICBwdWJsaWMgZnVuY3Rpb24gZW5hYmxlKCkKICAgIHsKICAgICAgICAkdGhpcy0+ZW5hYmxlID0gdHJ1ZTsKICAgIH0KCiAgICBwdWJsaWMgZnVuY3Rpb24gaXNFbmFibGUoKQogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+ZW5hYmxlOwogICAgfQp9OwoKZnVuY3Rpb24gZW5hYmxlKCRvYmopCnsKICAgICRvYmotPmVuYWJsZSgpOwp9Cgp2YXJfZHVtcCgkb2JqLT5pc0VuYWJsZSgpKTsKCmVuYWJsZSgkb2JqKTsKCnZhcl9kdW1wKCRvYmotPmlzRW5hYmxlKCkpOwoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">PT09PT09PQogICAgICAgIC8vIKZdw/azrKa4vMakwLB0oUFBY2NvdW50IDYgNyC3fMB1pf2/777cIEFjY291bnQ2CiAgICAgICAgJHRoaXMtPmFzc2VydEVxdWFscyg2LCAkcmVtaXRFbnRyeS0+Z2V0UmVtaXRBY2NvdW50SWQoKSk7Cj4+Pj4+Pj4gW0ZlYXR1cmVdt3O8V6ZQsqS2s7vIpualZLHGp8es28P2pVyv4Ao=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQogICAgICAgICAgICBmb3JlYWNoICgkcmVtaXRBY2NvdW50cyBhcyAkcmVtaXRBY2NvdW50KSB7CiAgICAgICAgICAgICAgICAkcmVtaXRBY2NvdW50Q291bnRzWyRyZW1pdEFjY291bnQtPmdldElkKCldID0gMDsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgJHJlbWl0QWNjb3VudENvdW50cyA9IGFycmF5X3JlcGxhY2UoCiAgICAgICAgICAgICAgICAkcmVtaXRBY2NvdW50Q291bnRzLAogICAgICAgICAgICAgICAgJGVtLT5nZXRSZXBvc2l0b3J5KCdCQkR1cmlhbkJ1bmRsZTpSZW1pdEFjY291bnRTdGF0JyktPmdldENvdW50KCRyZW1pdEFjY291bnRzKQogICAgICAgICAgICApOwogICAgICAgIH0KCiAgICAgICAgLy8gqPqxb7vIpualZLHGp8cKICAgICAgICBpZiAoJGJ5Q291bnQpIHsKICAgICAgICAgICAgJHJlbWl0QWNjb3VudE9yZGVySWRzID0gJGVtLT5nZXRSZXBvc2l0b3J5KCdCQkR1cmlhbkJ1bmRsZTpSZW1pdEFjY291bnRMZXZlbCcpLT5nZXRPcmRlcklkcygkcmVtaXRBY2NvdW50cyk7CiAgICAgICAgfQoKICAgICAgICAvLyC5d7NdqM+lzrPMq+GkQLWnCiAgICAgICAgJGNhbmRpZGF0ZSA9IGFycmF5X3BvcCgkcmVtaXRBY2NvdW50cyk7CiAgICAgICAgJGNhbmRpZGF0ZVByaW9yaXR5ID0gYXJyYXlfc2VhcmNoKCRjYW5kaWRhdGUtPmdldEJhbmtJbmZvSWQoKSwgJGJhbmtQcmlvcml0eSk7CgogICAgICAgIC8vIKj6sW+yxaZYsfil86q6u8im5qVkCiAgICAgICAgZm9yZWFjaCAoJHJlbWl0QWNjb3VudHMgYXMgJHJlbWl0QWNjb3VudCkgewogICAgICAgICAgICAvLyCko6ZQpuauycB1pf2o+qXOu8im5rHGp8e4+6tlqrq7yKbmpWQKICAgICAgICAgICAgaWYgKCRyZW1pdEFjY291bnQtPmdldEJhbmtJbmZvSWQoKSAhPT0gJGNhbmRpZGF0ZS0+Z2V0QmFua0luZm9JZCgpKSB7CiAgICAgICAgICAgICAgICAkcmVtaXRBY2NvdW50UHJpb3JpdHkgPSBhcnJheV9zZWFyY2goJHJlbWl0QWNjb3VudC0+Z2V0QmFua0luZm9JZCgpLCAkYmFua1ByaW9yaXR5KTsKCiAgICAgICAgICAgICAgICBpZiAoJHJlbWl0QWNjb3VudFByaW9yaXR5IDwgJGNhbmRpZGF0ZVByaW9yaXR5KSB7CiAgICAgICAgICAgICAgICAgICAgJGNhbmRpZGF0ZSA9ICRyZW1pdEFjY291bnQ7CgogICAgICAgICAgICAgICAgICAgIC8vIKV1prOko6ZQpuahQaVCrdS/77vIpualZKazxdyuyaR+u92n87dzCiAgICAgICAgICAgICAgICAgICAgJGNhbmRpZGF0ZVByaW9yaXR5ID0gJHJlbWl0QWNjb3VudFByaW9yaXR5OwogICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICB9CgogICAgICAgICAgICAvLyCmUKbmpv2oU7HSpc6muLzGscanx67JoUHAdaX9qM+lzrvIpualZCBpZCC4+6Rwqrq7yKbmpWQKICAgICAgICAgICAgaWYgKCEkYnlDb3VudCkgewogICAgICAgICAgICAgICAgaWYgKCRyZW1pdEFjY291bnQtPmdldElkKCkgPCAkY2FuZGlkYXRlLT5nZXRJZCgpKSB7CiAgICAgICAgICAgICAgICAgICAgJGNhbmRpZGF0ZSA9ICRyZW1pdEFjY291bnQ7Cj4+Pj4+Pj4gW0ZlYXR1cmVdt3O8V6ZQsqS2s7vIpualZLHGp8es28P2pVyv4Ao=</text>
+        <text encoding="base64">PT09PT09PQogICAgICAgICAgICAvLyCmUKbmpUKx0qXOpri8xrHGp8ehQaa4vMas26ZQrsmhQcB1pf2o+qXOu8im5qVkscanx7j7pHCqurvIpualZAogICAgICAgICAgICBpZiAoJHJlbWl0QWNjb3VudENvdW50ID09ICRjYW5kaWRhdGVDb3VudCkgewogICAgICAgICAgICAgICAgaWYgKCRyZW1pdEFjY291bnRPcmRlcklkc1skcmVtaXRBY2NvdW50LT5nZXRJZCgpXSA8ICRyZW1pdEFjY291bnRPcmRlcklkc1skY2FuZGlkYXRlLT5nZXRJZCgpXSkgewogICAgICAgICAgICAgICAgICAgICRjYW5kaWRhdGUgPSAkcmVtaXRBY2NvdW50Owo+Pj4+Pj4+IFtGZWF0dXJlXbdzvFemULKktrO7yKbmpWSxxqfHrNvD9qVcr+AK</text>
       </register>
       <register name=":" type="4">
         <text>5,14d</text>
