@@ -172,6 +172,9 @@
         <mark key="^" line="389" column="7" />
         <mark key="." line="389" column="7" />
       </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Tests/Repository/BankInfoRepositoryTest.php" timestamp="1497939299628">
+        <mark key="'" line="15" column="59" />
+      </file>
       <file name="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" timestamp="1497407267456">
         <mark key="'" line="22" column="39" />
         <mark key="[" line="126" column="0" />
@@ -292,7 +295,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="38" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" />
       <jump line="158" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" />
       <jump line="150" column="4" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" />
       <jump line="52" column="0" filename="D:/durian2/src/BB/DurianBundle/Resources/views/Default/Demo/RemitAccountLevel/setOrder.html.twig" />
@@ -392,6 +394,7 @@
       <jump line="0" column="0" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountController.php" />
       <jump line="1139" column="37" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" />
       <jump line="461" column="5" filename="D:/durian2/src/BB/DurianBundle/Entity/RemitAccount.php" />
+      <jump line="15" column="59" filename="D:/durian2/src/BB/DurianBundle/Tests/Repository/BankInfoRepositoryTest.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
