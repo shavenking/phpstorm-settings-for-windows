@@ -190,11 +190,11 @@
         <mark key="^" line="389" column="7" />
         <mark key="." line="389" column="7" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" timestamp="1498034858391">
+      <file name="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" timestamp="1498035954946">
         <mark key="'" line="234" column="51" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Entity/RemitAccountLevel.php" timestamp="1498024900900">
         <mark key="'" line="13" column="6" />
@@ -446,7 +446,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIEJCXER1cmlhbkJ1bmRsZVxFbnRpdHlcTG9nT3BlcmF0aW9uOwo=</text>
+        <text encoding="base64">ICAgICAgICAkY29udHJvbGxlci0+Z2V0T3JkZXJBY3Rpb24obmV3IFJlcXVlc3QoJHF1ZXJ5KSwgMSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">JGVtLT5nZXRSZXBvc2l0b3J5KCdCQkR1cmlhbkJ1bmRsZTpSZW1pdEFjY291bnRMZXZlbCcpLT4=</text>
@@ -458,31 +458,31 @@
         <text>durian.operation_logger</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIEJCXER1cmlhbkJ1bmRsZVxFbnRpdHlcTG9nT3BlcmF0aW9uOwo=</text>
+        <text encoding="base64">ICAgICAgICAkY29udHJvbGxlci0+Z2V0T3JkZXJBY3Rpb24obmV3IFJlcXVlc3QoJHF1ZXJ5KSwgMSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkcmFsUmVwbyA9ICRlbS0+Z2V0UmVwb3NpdG9yeSgnQkJEdXJpYW5CdW5kbGU6UmVtaXRBY2NvdW50TGV2ZWwnKTsK</text>
+        <text encoding="base64">ICAgICAgICAkY29udHJvbGxlci0+Z2V0T3JkZXJBY3Rpb24obmV3IFJlcXVlc3QoJHF1ZXJ5KSwgMSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkZW0tCg==</text>
+        <text encoding="base64">ICAgICAgICAkY29udHJvbGxlci0+Z2V0T3JkZXJBY3Rpb24obmV3IFJlcXVlc3QoJHF1ZXJ5KSwgMSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT53aWxsUmV0dXJuCg==</text>
+        <text encoding="base64">ICAgICAgICAkY29udHJvbGxlci0+Z2V0T3JkZXJBY3Rpb24obmV3IFJlcXVlc3QoJHF1ZXJ5KSwgMSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkbG9nT3BlcmF0b3IgPSBuZXcgT3BlcmF0aW9uKCkK</text>
+        <text encoding="base64">ICAgICAgICAkY29udHJvbGxlci0+Z2V0T3JkZXJBY3Rpb24obmV3IFJlcXVlc3QoJHF1ZXJ5KSwgMSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIEJCXER1cmlhbkJ1bmRsZVxMb2dnZXJcT3BlcmF0aW9uOwo=</text>
+        <text encoding="base64">ICAgICAgICAkY29udHJvbGxlci0+Z2V0T3JkZXJBY3Rpb24obmV3IFJlcXVlc3QoJHF1ZXJ5KSwgMSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAkY29udHJvbGxlci0+Z2V0T3JkZXJBY3Rpb24obmV3IFJlcXVlc3QoJHF1ZXJ5KSwgMSk7CiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVtaXRBY2NvdW50LT5zZXRWZXIK</text>
+        <text encoding="base64">ICAgICAgICAkY29udHJvbGxlci0+Z2V0T3JkZXJBY3Rpb24obmV3IFJlcXVlc3QoJHF1ZXJ5KSwgMSk7CiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkcWItPndoZXJlKCdyYS5pZCA9IHJhbC5yZW1pdEFjY291bnRJZCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkY29udHJvbGxlci0+Z2V0T3JkZXJBY3Rpb24obmV3IFJlcXVlc3QoJHF1ZXJ5KSwgMSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
