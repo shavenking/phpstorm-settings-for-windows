@@ -75,12 +75,12 @@
         <mark key="^" line="41" column="26" />
         <mark key="." line="41" column="26" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" timestamp="1498092132958">
+      <file name="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" timestamp="1498094321269">
         <mark key="a" line="50" column="0" />
-        <mark key="'" line="15" column="4" />
-        <mark key="[" line="27" column="8" />
-        <mark key="]" line="27" column="7" />
-        <mark key="." line="27" column="7" />
+        <mark key="'" line="250" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="8" />
+        <mark key="." line="18" column="8" />
         <mark key="^" line="27" column="7" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Controller/MerchantLevelController.php" timestamp="1498030929291">
@@ -317,8 +317,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="39" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitAccountFunctionalTest.php" />
-      <jump line="108" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitAccountFunctionalTest.php" />
       <jump line="199" column="66" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitAccountFunctionalTest.php" />
       <jump line="253" column="75" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitAccountFunctionalTest.php" />
       <jump line="955" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitAccountFunctionalTest.php" />
@@ -415,8 +413,10 @@
       <jump line="246" column="8" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" />
       <jump line="17" column="12" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" />
       <jump line="8" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" />
-      <jump line="16" column="8" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" />
       <jump line="15" column="4" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" />
+      <jump line="18" column="14" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" />
+      <jump line="16" column="35" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" />
+      <jump line="250" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -447,8 +447,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkY29udHJvbGxlci0+Z2V0T3JkZXJBY3Rpb24obmV3IFJlcXVlc3QoJHF1ZXJ5KSwgMSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Currency</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">JGVtLT5nZXRSZXBvc2l0b3J5KCdCQkR1cmlhbkJ1bmRsZTpSZW1pdEFjY291bnRMZXZlbCcpLT4=</text>
@@ -457,7 +457,7 @@
         <text>from</text>
       </register>
       <register name="0" type="4">
-        <text>durian.operation_logger</text>
+        <text>Currency</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAkY29udHJvbGxlci0+Z2V0T3JkZXJBY3Rpb24obmV3IFJlcXVlc3QoJHF1ZXJ5KSwgMSk7Cg==</text>
