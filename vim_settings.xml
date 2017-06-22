@@ -75,12 +75,13 @@
         <mark key="^" line="41" column="26" />
         <mark key="." line="41" column="26" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" timestamp="1498036614781">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="43" column="17" />
-        <mark key="]" line="43" column="19" />
-        <mark key="." line="43" column="19" />
-        <mark key="^" line="43" column="19" />
+      <file name="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" timestamp="1498092132958">
+        <mark key="a" line="50" column="0" />
+        <mark key="'" line="15" column="4" />
+        <mark key="[" line="27" column="8" />
+        <mark key="]" line="27" column="7" />
+        <mark key="." line="27" column="7" />
+        <mark key="^" line="27" column="7" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Controller/MerchantLevelController.php" timestamp="1498030929291">
         <mark key="'" line="82" column="6" />
@@ -316,22 +317,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="137" column="51" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountLevelController.php" />
-      <jump line="337" column="13" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountController.php" />
-      <jump line="83" column="0" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountController.php" />
-      <jump line="6" column="23" filename="D:/durian2/test.php" />
-      <jump line="10" column="6" filename="D:/durian2/src/BB/DurianBundle/Tests/DataFixtures/ORM/LoadAutoRemitBankInfoData.php" />
-      <jump line="58" column="43" filename="D:/durian2/src/BB/DurianBundle/Tests/DataFixtures/ORM/LoadRemitAccountData.php" />
-      <jump line="207" column="38" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
-      <jump line="259" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
-      <jump line="36" column="50" filename="D:/durian2/src/BB/DurianBundle/Repository/AutoRemitBankInfoRepository.php" />
-      <jump line="0" column="0" filename="D:/durian2/src/BB/DurianBundle/Repository/AutoRemitBankInfoRepository.php" />
-      <jump line="37" column="52" filename="D:/durian2/src/BB/DurianBundle/Repository/AutoRemitBankInfoRepository.php" />
-      <jump line="51" column="50" filename="D:/durian2/src/BB/DurianBundle/Repository/AutoRemitBankInfoRepository.php" />
-      <jump line="47" column="34" filename="D:/durian2/src/BB/DurianBundle/Repository/AutoRemitBankInfoRepository.php" />
-      <jump line="1950" column="0" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" />
-      <jump line="1901" column="22" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" />
-      <jump line="34" column="19" filename="D:/durian2/src/BB/DurianBundle/Repository/AutoRemitBankInfoRepository.php" />
       <jump line="53" column="39" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitAccountFunctionalTest.php" />
       <jump line="108" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitAccountFunctionalTest.php" />
       <jump line="199" column="66" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitAccountFunctionalTest.php" />
@@ -415,7 +400,23 @@
       <jump line="2" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" />
       <jump line="7" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" />
       <jump line="235" column="51" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" />
-      <jump line="27" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" />
+      <jump line="53" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" />
+      <jump line="54" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" />
+      <jump line="56" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" />
+      <jump line="47" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" />
+      <jump line="29" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" />
+      <jump line="27" column="8" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" />
+      <jump line="22" column="8" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" />
+      <jump line="24" column="8" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" />
+      <jump line="23" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" />
+      <jump line="26" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" />
+      <jump line="247" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" />
+      <jump line="248" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" />
+      <jump line="246" column="8" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" />
+      <jump line="17" column="12" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" />
+      <jump line="8" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" />
+      <jump line="16" column="8" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" />
+      <jump line="15" column="4" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
