@@ -175,6 +175,13 @@
       <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_8.php" timestamp="1498201286165">
         <mark key="'" line="621" column="19" />
       </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" timestamp="1498208046611">
+        <mark key="'" line="9" column="6" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="27" column="7" />
+        <mark key="." line="30" column="0" />
+      </file>
       <file name="D:/durian2/src/BB/DurianBundle/Entity/RemitAccountLevel.php" timestamp="1498196060132">
         <mark key="'" line="1" column="0" />
         <mark key="]" line="156" column="10" />
@@ -253,6 +260,7 @@
         <mark key="^" line="121" column="35" />
         <mark key="." line="121" column="35" />
       </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Entity/AutoConfirmConfig.php" timestamp="1498208025485" />
       <file name="D:/durian2/src/BB/DurianBundle/Resources/translations/messages.zh_TW.yml" timestamp="1498032002671">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="838" column="30" />
@@ -420,7 +428,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">dmFyX2R1bXAoKGJvb2wpIG5ldyBjbGFzcyB7fSk7Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogtPq41ajMvGivxaj6sW+7yKbmpWSxxqfHsWGkSqtEqmsgbWF4X3Jlc3VsdHMKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIHRlc3RHZXRCeUxldmVsV2l0aEludmFsaWRNYXhSZXN1bHRzKCkKICAgIHsKICAgICAgICAkdGhpcy0+c2V0RXhwZWN0ZWRFeGNlcHRpb24oCiAgICAgICAgICAgICdJbnZhbGlkQXJndW1lbnRFeGNlcHRpb24nLAogICAgICAgICAgICAnSW52YWxpZCBtYXhfcmVzdWx0cycsCiAgICAgICAgICAgIDYxMDAwNQogICAgICAgICk7CgogICAgICAgICRxdWVyeSA9IFsnY3VycmVuY3knID0+ICdDTlknLCAnZmlyc3RfcmVzdWx0JyA9PiAnMScsICdtYXhfcmVzdWx0cycgPT4gJ2EnXTsKCiAgICAgICAgJGNvbnRyb2xsZXIgPSBuZXcgUmVtaXRBY2NvdW50TGV2ZWxDb250cm9sbGVyKCk7CiAgICAgICAgJGNvbnRyb2xsZXItPnNldENvbnRhaW5lcihzdGF0aWM6OiRrZXJuZWwtPmdldENvbnRhaW5lcigpKTsKCiAgICAgICAgJGNvbnRyb2xsZXItPmdldE9yZGVyQWN0aW9uKG5ldyBSZXF1ZXN0KCRxdWVyeSksIDEpOwogICAgfQoK</text>
       </register>
       <register name="-" type="4">
         <text>\d+</text>
@@ -432,32 +440,32 @@
         <text encoding="base64">LSAgICoqMTUwMzAwMDc4KiogIFxSdW50aW1lRXhjZXB0aW9uKCdObyBhdXRvIFJlbWl0QWNjb3VudCBhdmFpbGFibGUnKQo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogtPq41ajMvGivxaj6sW+7yKbmpWSxxqfHsWGkSqtEqmsgbWF4X3Jlc3VsdHMKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIHRlc3RHZXRCeUxldmVsV2l0aEludmFsaWRNYXhSZXN1bHRzKCkKICAgIHsKICAgICAgICAkdGhpcy0+c2V0RXhwZWN0ZWRFeGNlcHRpb24oCiAgICAgICAgICAgICdJbnZhbGlkQXJndW1lbnRFeGNlcHRpb24nLAogICAgICAgICAgICAnSW52YWxpZCBtYXhfcmVzdWx0cycsCiAgICAgICAgICAgIDYxMDAwNQogICAgICAgICk7CgogICAgICAgICRxdWVyeSA9IFsnY3VycmVuY3knID0+ICdDTlknLCAnZmlyc3RfcmVzdWx0JyA9PiAnMScsICdtYXhfcmVzdWx0cycgPT4gJ2EnXTsKCiAgICAgICAgJGNvbnRyb2xsZXIgPSBuZXcgUmVtaXRBY2NvdW50TGV2ZWxDb250cm9sbGVyKCk7CiAgICAgICAgJGNvbnRyb2xsZXItPnNldENvbnRhaW5lcihzdGF0aWM6OiRrZXJuZWwtPmdldENvbnRhaW5lcigpKTsKCiAgICAgICAgJGNvbnRyb2xsZXItPmdldE9yZGVyQWN0aW9uKG5ldyBSZXF1ZXN0KCRxdWVyeSksIDEpOwogICAgfQoK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogtPq41ajMvGivxaj6sW+7yKbmpWSxxqfHsWGkSqtEqmsgZmlyc3RfcmVzdWx0CiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0R2V0QnlMZXZlbFdpdGhJbnZhbGlkRmlyc3RSZXN1bHQoKQogICAgewogICAgICAgICR0aGlzLT5zZXRFeHBlY3RlZEV4Y2VwdGlvbigKICAgICAgICAgICAgJ0ludmFsaWRBcmd1bWVudEV4Y2VwdGlvbicsCiAgICAgICAgICAgICdJbnZhbGlkIGZpcnN0X3Jlc3VsdCcsCiAgICAgICAgICAgIDYxMDAwNAogICAgICAgICk7CgogICAgICAgICRxdWVyeSA9IFsnY3VycmVuY3knID0+ICdDTlknLCAnZmlyc3RfcmVzdWx0JyA9PiAnYSddOwoKICAgICAgICAkY29udHJvbGxlciA9IG5ldyBSZW1pdEFjY291bnRMZXZlbENvbnRyb2xsZXIoKTsKICAgICAgICAkY29udHJvbGxlci0+c2V0Q29udGFpbmVyKHN0YXRpYzo6JGtlcm5lbC0+Z2V0Q29udGFpbmVyKCkpOwoKICAgICAgICAkY29udHJvbGxlci0+Z2V0T3JkZXJBY3Rpb24obmV3IFJlcXVlc3QoJHF1ZXJ5KSwgMSk7CiAgICB9Cgo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">dmFyX2R1bXAoKGJvb2wpIG5ldyBjbGFzcyB7fSk7Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>$arr = [1];
 var_dump(array_shift($arr));</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmFzc2VydEVxdWFscygyLCBjb3VudCgkbWF0Y2hlcykpOwoK</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJlZ18K</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGlzdCgsICRyZW1pdEFjY291bnRJZCkgPSBleHBsb2RlKCc6JywgJGxvZ09wZXJhdGlvbi0+Z2V0TWFqb3JLZXkoKSk7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmFzc2VydE5vdEZhbHNlKCkK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">LSAgICoqMTUwMzAwMDgxKiogIFxSdW50aW1lRXhjZXB0aW9uKCcnCg==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgCiAgICAgICAgaWYgKA==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIC8vILOjqFOms7HGp8ezXal3qrq43KFBuXezXaZetse2x6RKu8im5qVkqrqyxKRAsWkKLy8gICAgICAgIGlmIChlbXB0eSgkcmVzdWx0cykpIHsKLy8gICAgICAgICAgICAkcmVzdWx0cyA9ICRyZW1pdEFjY291bnRzOwovLyAgICAgICAgfQovLwovLyAgICAgICAgcmV0dXJuIHJlc2V0KCRyZXN1bHRzKTsK</text>
+        <text encoding="base64">LSAgICoqMTUwMzAwMDgxKiogIFxSdW50aW1lRXhjZXB0aW9uKCcnCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
