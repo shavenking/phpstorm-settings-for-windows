@@ -170,12 +170,12 @@
         <mark key="." line="31" column="129" />
         <mark key="^" line="31" column="128" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Tests/Payment/UnionPayTest.php" timestamp="1498190669776">
+      <file name="D:/durian2/src/BB/DurianBundle/Tests/Payment/UnionPayTest.php" timestamp="1498192165920">
         <mark key="'" line="520" column="43" />
-        <mark key="[" line="529" column="8" />
-        <mark key="]" line="531" column="88" />
-        <mark key="." line="531" column="88" />
-        <mark key="^" line="531" column="88" />
+        <mark key="[" line="533" column="52" />
+        <mark key="]" line="534" column="27" />
+        <mark key="." line="534" column="27" />
+        <mark key="^" line="534" column="27" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountStatRepository.php" timestamp="1497592676307">
         <mark key="'" line="10" column="6" />
@@ -462,11 +462,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>method</text>
       </register>
       <register name="-" type="4">
-        <text>reset</text>
+        <text>method</text>
       </register>
       <register name="/" type="4">
         <text>ma</text>
