@@ -170,12 +170,12 @@
         <mark key="." line="31" column="129" />
         <mark key="^" line="31" column="128" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Tests/Payment/UnionPayTest.php" timestamp="1498117126877">
-        <mark key="'" line="531" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="531" column="15" />
+      <file name="D:/durian2/src/BB/DurianBundle/Tests/Payment/UnionPayTest.php" timestamp="1498190669776">
+        <mark key="'" line="520" column="43" />
+        <mark key="[" line="529" column="8" />
+        <mark key="]" line="531" column="88" />
+        <mark key="." line="531" column="88" />
+        <mark key="^" line="531" column="88" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountStatRepository.php" timestamp="1497592676307">
         <mark key="'" line="10" column="6" />
@@ -332,7 +332,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="2" filename="D:/payment/pay.php" />
       <jump line="788" column="0" filename="D:/durian2/src/BB/DurianBundle/Resources/doc/exception_map.md" />
       <jump line="27" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/DataFixtures/ORM/LoadRemitAccountLevelData.php" />
       <jump line="1419" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitAccountFunctionalTest.php" />
@@ -432,6 +431,7 @@
       <jump line="692" column="0" filename="D:/durian2/src/BB/DurianBundle/Controller/MerchantController.php" />
       <jump line="139" column="0" filename="D:/durian2/src/BB/DurianBundle/Controller/MerchantLevelController.php" />
       <jump line="120" column="12" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountLevelController.php" />
+      <jump line="519" column="43" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/UnionPayTest.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -462,8 +462,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>reset</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Cg==</text>
       </register>
       <register name="-" type="4">
         <text>reset</text>
@@ -475,33 +475,33 @@
         <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFxJbnZhbGlkQXJndW1lbnRFeGNlcHRpb24oJ0ludmFsaWQgcmVtaXRfYWNjb3VudHMnLCAxNTA4MzAwMDMpOwo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Cg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>if ([1]) {
     echo 'fuck' . PHP_EOL;
 }</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAkaGFzU2FtZUJhbmsgPSB0cnVlOwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJGhhc1NhbWVCYW5rID0gZmFsc2U7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CiAgICAgICAgJHRoaXMtPmdldCgnZHVyaWFuLnZhbGlkYXRvcicpLT52YWxpZGF0ZVBhZ2luYXRpb24oJGZpcnN0UmVzdWx0LCAkbWF4UmVzdWx0cyk7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAkZmlyc3RSZXN1bHQgPSAkcXVlcnktPmdldCgnZmlyc3RfcmVzdWx0Jyk7CiAgICAgICAgJG1heFJlc3VsdHMgPSAkcXVlcnktPmdldCgnbWF4X3Jlc3VsdHMnKTsK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoJHRoaXMtPnJlcXVlc3RIYXNJbnZhbGlkUmVtaXRBY2NvdW50cygpKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBcSW52YWxpZEFyZ3VtZW50RXhjZXB0aW9uKCdJbnZhbGlkIHJlbWl0X2FjY291bnRzJywgMTUwODMwMDAzKTsKICAgICAgICB9Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIEBpbnRlcm5hbCBwYXJhbSBpbnQgJGxldmVsSWQgvGivxQogICAgICogQGludGVybmFsIHBhcmFtIGludCAkb3JkZXJJZCCxxqfHCiAgICAgKiBAaW50ZXJuYWwgcGFyYW0gaW50ICRyZW1pdEFjY291bnRJZCC7yKbmpWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
