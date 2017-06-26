@@ -204,6 +204,9 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Payment/UPay.php" timestamp="1498466684810">
+        <mark key="'" line="10" column="6" />
+      </file>
       <file name="D:/durian2/src/BB/DurianBundle/Resources/translations/messages.zh_CN.yml" timestamp="1498464076167">
         <mark key="'" line="1154" column="0" />
       </file>
@@ -242,7 +245,7 @@
         <mark key="." line="61" column="0" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Controller/PaymentGatewayController.php" timestamp="1498465531989">
-        <mark key="'" line="1198" column="33" />
+        <mark key="'" line="1361" column="33" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Tests/Functional/PaymentChargeFunctionalTest.php" timestamp="1498445513845" />
       <file name="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountRepository.php" timestamp="1498200537903">
@@ -320,7 +323,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1027" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitAccountFunctionalTest.php" />
       <jump line="1025" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitAccountFunctionalTest.php" />
       <jump line="1101" column="71" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitAccountFunctionalTest.php" />
       <jump line="1103" column="49" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitAccountFunctionalTest.php" />
@@ -420,6 +422,7 @@
       <jump line="730" column="26" filename="D:/durian2/src/BB/DurianBundle/Controller/PaymentGatewayController.php" />
       <jump line="0" column="0" filename="D:/durian2/src/BB/DurianBundle/Controller/PaymentGatewayController.php" />
       <jump line="1198" column="33" filename="D:/durian2/src/BB/DurianBundle/Controller/PaymentGatewayController.php" />
+      <jump line="10" column="6" filename="D:/durian2/src/BB/DurianBundle/Payment/UPay.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
