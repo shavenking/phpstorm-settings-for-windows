@@ -201,11 +201,12 @@
       <file name="/Dummy.txt" timestamp="1498444810353">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" timestamp="1498451282479">
-        <mark key="[" line="519" column="43" />
-        <mark key="]" line="519" column="43" />
-        <mark key="." line="519" column="43" />
-        <mark key="^" line="408" column="44" />
+      <file name="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" timestamp="1498455436786">
+        <mark key="'" line="462" column="8" />
+        <mark key="[" line="436" column="11" />
+        <mark key="]" line="436" column="53" />
+        <mark key="." line="436" column="53" />
+        <mark key="^" line="436" column="53" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Tests/DataFixtures/ORM/LoadRemitAccountData.php" timestamp="1498025510452">
         <mark key="'" line="58" column="43" />
@@ -300,7 +301,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2165" column="42" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
       <jump line="6461" column="42" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
       <jump line="867" column="9" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
       <jump line="524" column="4" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
@@ -400,6 +400,7 @@
       <jump line="36" column="35" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/CardChargeFunctionalTest.php" />
       <jump line="347" column="12" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
       <jump line="691" column="5" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
+      <jump line="462" column="8" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -431,10 +432,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>ICBC</text>
+        <text>Account7 使用次數較高，所以會取到 Account6</text>
       </register>
       <register name="-" type="4">
-        <text>ICBC</text>
+        <text>Account7 使用次數較高，所以會取到 Account6</text>
       </register>
       <register name="/" type="4">
         <text>ma</text>
