@@ -85,9 +85,9 @@
         <mark key="^" line="27" column="67" />
         <mark key="." line="27" column="68" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Resources/doc/exception_map.md" timestamp="1498199955159">
+      <file name="D:/durian2/src/BB/DurianBundle/Resources/doc/exception_map.md" timestamp="1498448895772">
         <mark key="'" line="788" column="0" />
-        <mark key="[" line="870" column="13" />
+        <mark key="[" line="870" column="70" />
         <mark key="]" line="870" column="14" />
         <mark key="." line="870" column="14" />
         <mark key="^" line="870" column="14" />
@@ -257,6 +257,9 @@
       <file name="D:/durian2/src/BB/DurianBundle/Resources/translations/messages.zh_TW.yml" timestamp="1498032002671">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="D:/durian2/vendor/doctrine/collections/lib/Doctrine/Common/Collections/ArrayCollection.php" timestamp="1498448564994">
+        <mark key="'" line="33" column="45" />
+      </file>
       <file name="D:/durian2/src/BB/DurianBundle/Payment/NewMiaofu.php" timestamp="1496647963184">
         <mark key="'" line="101" column="0" />
         <mark key="[" line="121" column="69" />
@@ -289,8 +292,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="354" column="16" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountController.php" />
-      <jump line="2579" column="56" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitAccountFunctionalTest.php" />
       <jump line="10" column="6" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountLevelController.php" />
       <jump line="13" column="6" filename="D:/durian2/src/BB/DurianBundle/Entity/RemitAccountLevel.php" />
       <jump line="47" column="19" filename="D:/durian2/src/BB/DurianBundle/Tests/DataFixtures/ORM/LoadRemitAccountLevelData.php" />
@@ -389,6 +390,8 @@
       <jump line="967" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/PaymentGatewayControllerTest.php" />
       <jump line="8" column="6" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/CardChargeFunctionalTest.php" />
       <jump line="6" column="6" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/PaymentGatewayFunctionalTest.php" />
+      <jump line="353" column="4" filename="D:/durian2/vendor/doctrine/collections/lib/Doctrine/Common/Collections/ArrayCollection.php" />
+      <jump line="33" column="45" filename="D:/durian2/vendor/doctrine/collections/lib/Doctrine/Common/Collections/ArrayCollection.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
