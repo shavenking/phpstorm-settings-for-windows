@@ -139,7 +139,7 @@
         <mark key="]" line="44" column="76" />
         <mark key="." line="44" column="76" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498202529431">
+      <file name="/Dummy.txt" timestamp="1498442521290">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" timestamp="1498200846660">
@@ -211,8 +211,8 @@
         <mark key="^" line="68" column="36" />
         <mark key="." line="68" column="36" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Entity/DomainWithdrawBankCurrency.php" timestamp="1498439624940">
-        <mark key="'" line="14" column="6" />
+      <file name="D:/durian2/src/BB/DurianBundle/Entity/DomainWithdrawBankCurrency.php" timestamp="1498442233910">
+        <mark key="'" line="33" column="0" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Tests/DataFixtures/ORM/LoadRemitAccountStatData.php" timestamp="1498025836531">
         <mark key="'" line="9" column="6" />
@@ -295,7 +295,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1240" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitAccountFunctionalTest.php" />
       <jump line="1236" column="52" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitAccountFunctionalTest.php" />
       <jump line="1241" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitAccountFunctionalTest.php" />
       <jump line="1428" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitAccountFunctionalTest.php" />
@@ -395,6 +394,7 @@
       <jump line="621" column="19" filename="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_8.php" />
       <jump line="14" column="6" filename="D:/durian2/src/BB/DurianBundle/Entity/DomainWithdrawBankCurrency.php" />
       <jump line="14" column="6" filename="D:/durian2/src/BB/DurianBundle/Entity/BankCurrency.php" />
+      <jump line="33" column="0" filename="D:/durian2/src/BB/DurianBundle/Entity/DomainWithdrawBankCurrency.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
