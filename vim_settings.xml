@@ -191,6 +191,9 @@
       <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_8.php" timestamp="1498201286165">
         <mark key="'" line="621" column="19" />
       </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Tests/Payment/UPayTest.php" timestamp="1498531656466">
+        <mark key="'" line="8" column="6" />
+      </file>
       <file name="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" timestamp="1498208046611">
         <mark key="'" line="9" column="6" />
         <mark key="[" line="30" column="0" />
@@ -321,7 +324,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1025" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitAccountFunctionalTest.php" />
       <jump line="1101" column="71" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitAccountFunctionalTest.php" />
       <jump line="1103" column="49" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitAccountFunctionalTest.php" />
       <jump line="779" column="39" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountController.php" />
@@ -421,6 +423,7 @@
       <jump line="0" column="0" filename="D:/durian2/src/BB/DurianBundle/Controller/PaymentGatewayController.php" />
       <jump line="1198" column="33" filename="D:/durian2/src/BB/DurianBundle/Controller/PaymentGatewayController.php" />
       <jump line="10" column="6" filename="D:/durian2/src/BB/DurianBundle/Payment/UPay.php" />
+      <jump line="8" column="6" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/UPayTest.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
