@@ -168,8 +168,6 @@
         <mark key="^" line="1319" column="31" />
         <mark key="." line="1319" column="31" />
       </file>
-      <file name="D:/durian2/app/DoctrineMigrations/Version20170623124807.php" timestamp="1498462812974" />
-      <file name="D:/durian2/src/BB/DurianBundle/Payment/PaymentBase.php" timestamp="1498469455429" />
       <file name="D:/durian2/vendor/liip/functional-test-bundle/Test/WebTestCase.php" timestamp="1497250747047">
         <mark key="'" line="16" column="46" />
         <mark key="[" line="268" column="60" />
@@ -205,7 +203,7 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Payment/UPay.php" timestamp="1498469897510">
+      <file name="D:/durian2/src/BB/DurianBundle/Payment/UPay.php" timestamp="1498528038893">
         <mark key="'" line="10" column="6" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Resources/translations/messages.zh_CN.yml" timestamp="1498464076167">
@@ -248,7 +246,6 @@
       <file name="D:/durian2/src/BB/DurianBundle/Controller/PaymentGatewayController.php" timestamp="1498465531989">
         <mark key="'" line="1361" column="33" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Tests/Functional/PaymentChargeFunctionalTest.php" timestamp="1498445513845" />
       <file name="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountRepository.php" timestamp="1498200537903">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="251" column="35" />
