@@ -58,11 +58,12 @@
         <mark key="^" line="820" column="38" />
         <mark key="." line="820" column="38" />
       </file>
-      <file name="D:/durian2/test.php" timestamp="1498628292892">
-        <mark key="[" line="9" column="42" />
-        <mark key="]" line="9" column="48" />
-        <mark key="." line="9" column="48" />
-        <mark key="^" line="9" column="48" />
+      <file name="D:/durian2/test.php" timestamp="1498632782716">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="8" column="9" />
+        <mark key="]" line="8" column="32" />
+        <mark key="." line="8" column="32" />
+        <mark key="^" line="8" column="32" />
       </file>
       <file name="D:/durian2/app/config/config_test.yml" timestamp="1498450919931">
         <mark key="'" line="0" column="0" />
@@ -98,6 +99,7 @@
         <mark key="]" line="121" column="0" />
         <mark key="." line="121" column="0" />
       </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Entity/AutoConfirmEntry.php" timestamp="1498632965477" />
       <file name="D:/durian2/src/BB/DurianBundle/Controller/MerchantController.php" timestamp="1498186222123">
         <mark key="'" line="692" column="0" />
         <mark key="[" line="90" column="63" />
@@ -153,7 +155,7 @@
         <mark key="^" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Controller/AutoConfirmController.php" timestamp="1498630323509">
+      <file name="D:/durian2/src/BB/DurianBundle/Controller/AutoConfirmController.php" timestamp="1498633139768">
         <mark key="'" line="15" column="6" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountStatRepository.php" timestamp="1497592676307">
@@ -206,11 +208,6 @@
         <mark key="]" line="30" column="0" />
         <mark key="^" line="27" column="7" />
         <mark key="." line="30" column="0" />
-      </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Resources/views/Default/Demo/RemitAccountLevel/getOder.html.twig" timestamp="1498450541245">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Payment/UPay.php" timestamp="1498608984706">
         <mark key="'" line="10" column="6" />
@@ -333,7 +330,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="8" filename="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountLevelRepository.php" />
       <jump line="117" column="12" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountLevelController.php" />
       <jump line="135" column="0" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountLevelController.php" />
       <jump line="875" column="17" filename="D:/durian2/src/BB/DurianBundle/Resources/translations/messages.zh_CN.yml" />
@@ -433,6 +429,7 @@
       <jump line="10" column="6" filename="D:/durian2/src/BB/DurianBundle/Payment/UPay.php" />
       <jump line="10" column="6" filename="D:/durian2/src/BB/DurianBundle/Payment/BeeePay.php" />
       <jump line="15" column="6" filename="D:/durian2/src/BB/DurianBundle/Controller/AutoConfirmController.php" />
+      <jump line="8" column="0" filename="D:/durian2/test.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -464,65 +461,62 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>echo $fuck['damn'];
-
-var_dump('shit');</text>
+        <text>json_decode($data, true)</text>
       </register>
       <register name="-" type="4">
-        <text>![]</text>
+        <text>json_decode($data, true)</text>
       </register>
       <register name="/" type="4">
-        <text>repo</text>
+        <text>arr</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkcmVtaXRBY2NvdW50TGV2ZWw2ID0gJGVtLT5nZXRSZXBvc2l0b3J5KCdCQkR1cmlhbkJ1bmRsZTpSZW1pdEFjY291bnRMZXZlbCcpLT5maW5kT25lQnkoWwogICAgICAgICAgICAnbGV2ZWxJZCcgPT4gMiwKICAgICAgICAgICAgJ3JlbWl0QWNjb3VudElkJyA9PiA2LAo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">JGFyciA9IGpzb25fZW5jb2RlKCd7InJlc3BUeXBlIjoiRSJ9J2F0KQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">JGFyciA9IFsKICAgICdmdWNrJyA9PiAneWVzJywKICAgICdkYW1uJyA9PiBudWxsCl07</text>
+      </register>
+      <register name="4" type="4">
         <text>echo $fuck['damn'];
 
 var_dump('shit');</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKCkKCg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">JHJlbWl0QWNjb3VudCA9IG51bGw7CnZhcl9kdW1wKG51bGwgPzogMCk7Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>$Level = 1;
 var_dump($level);</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">dXNlIFxFeGNlcHRpb247Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHZhciBcQnV6elxDbGllbnRcQ3VybAogICAgICovCiAgICBwcml2YXRlICRtb2NrQ2xpZW50Owo=</text>
+        <text encoding="base64">dXNlIFxFeGNlcHRpb247Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>repo</last-search>
+      <last-search>arr</last-search>
       <last-offset />
-      <last-pattern>repo</last-pattern>
+      <last-pattern>arr</last-pattern>
       <last-replace>\* \{4}</last-replace>
       <last-substitute>from</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>mer</entry>
         <entry>count</entry>
         <entry>once</entry>
         <entry>level</entry>
@@ -542,6 +536,7 @@ var_dump($level);</text>
         <entry>from</entry>
         <entry>ma</entry>
         <entry>repo</entry>
+        <entry>arr</entry>
       </history-search>
       <history-cmd>
         <entry>set incsearch</entry>
