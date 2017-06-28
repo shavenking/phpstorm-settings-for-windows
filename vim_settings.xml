@@ -171,6 +171,10 @@
         <mark key="^" line="1319" column="31" />
         <mark key="." line="1319" column="31" />
       </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Payment/BeeePay.php" timestamp="1498618647648">
+        <mark key="'" line="10" column="6" />
+      </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Payment/PaymentBase.php" timestamp="1498618741427" />
       <file name="D:/durian2/vendor/liip/functional-test-bundle/Test/WebTestCase.php" timestamp="1497250747047">
         <mark key="'" line="16" column="46" />
         <mark key="[" line="268" column="60" />
@@ -330,7 +334,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountLevelController.php" />
       <jump line="53" column="0" filename="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountLevelRepository.php" />
       <jump line="86" column="8" filename="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountLevelRepository.php" />
       <jump line="117" column="12" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountLevelController.php" />
@@ -430,6 +433,7 @@
       <jump line="439" column="23" filename="D:/durian2/src/BB/DurianBundle/Payment/UPay.php" />
       <jump line="0" column="0" filename="D:/durian2/src/BB/DurianBundle/Payment/UPay.php" />
       <jump line="10" column="6" filename="D:/durian2/src/BB/DurianBundle/Payment/UPay.php" />
+      <jump line="10" column="6" filename="D:/durian2/src/BB/DurianBundle/Payment/BeeePay.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
