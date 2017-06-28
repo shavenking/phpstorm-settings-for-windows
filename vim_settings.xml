@@ -51,11 +51,6 @@
         <mark key="^" line="41" column="26" />
         <mark key="." line="41" column="26" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Tests/Functional/CardChargeFunctionalTest.php" timestamp="1498450262288">
-        <mark key="]" line="233" column="18" />
-        <mark key="^" line="233" column="18" />
-        <mark key="." line="233" column="18" />
-      </file>
       <file name="D:/durian2/src/BB/DurianBundle/Controller/MerchantLevelController.php" timestamp="1498188392577">
         <mark key="'" line="139" column="0" />
         <mark key="[" line="433" column="0" />
@@ -157,6 +152,9 @@
         <mark key="]" line="23" column="0" />
         <mark key="^" line="23" column="0" />
         <mark key="." line="23" column="0" />
+      </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Controller/AutoConfirmController.php" timestamp="1498623710972">
+        <mark key="'" line="15" column="6" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountStatRepository.php" timestamp="1497592676307">
         <mark key="'" line="10" column="6" />
@@ -335,7 +333,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="0" filename="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountLevelRepository.php" />
       <jump line="86" column="8" filename="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountLevelRepository.php" />
       <jump line="117" column="12" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountLevelController.php" />
       <jump line="135" column="0" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountLevelController.php" />
@@ -435,6 +432,7 @@
       <jump line="0" column="0" filename="D:/durian2/src/BB/DurianBundle/Payment/UPay.php" />
       <jump line="10" column="6" filename="D:/durian2/src/BB/DurianBundle/Payment/UPay.php" />
       <jump line="10" column="6" filename="D:/durian2/src/BB/DurianBundle/Payment/BeeePay.php" />
+      <jump line="15" column="6" filename="D:/durian2/src/BB/DurianBundle/Controller/AutoConfirmController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
