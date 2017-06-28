@@ -58,12 +58,11 @@
         <mark key="^" line="820" column="38" />
         <mark key="." line="820" column="38" />
       </file>
-      <file name="D:/durian2/test.php" timestamp="1498632782716">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="8" column="9" />
-        <mark key="]" line="8" column="32" />
-        <mark key="." line="8" column="32" />
-        <mark key="^" line="8" column="32" />
+      <file name="D:/durian2/test.php" timestamp="1498635679367">
+        <mark key="[" line="4" column="24" />
+        <mark key="]" line="4" column="25" />
+        <mark key="." line="4" column="25" />
+        <mark key="^" line="4" column="39" />
       </file>
       <file name="D:/durian2/app/config/config_test.yml" timestamp="1498450919931">
         <mark key="'" line="0" column="0" />
@@ -461,10 +460,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>json_decode($data, true)</text>
+        <text>+00:00</text>
       </register>
       <register name="-" type="4">
-        <text>json_decode($data, true)</text>
+        <text>+00:00</text>
       </register>
       <register name="/" type="4">
         <text>arr</text>
@@ -473,37 +472,37 @@
         <text encoding="base64">ICAgICAgICAkcmVtaXRBY2NvdW50TGV2ZWw2ID0gJGVtLT5nZXRSZXBvc2l0b3J5KCdCQkR1cmlhbkJ1bmRsZTpSZW1pdEFjY291bnRMZXZlbCcpLT5maW5kT25lQnkoWwogICAgICAgICAgICAnbGV2ZWxJZCcgPT4gMiwKICAgICAgICAgICAgJ3JlbWl0QWNjb3VudElkJyA9PiA2LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">JGFyciA9IGpzb25fZW5jb2RlKCd7InJlc3BUeXBlIjoiRSJ9J2F0KQo=</text>
+        <text encoding="base64">JGRhdGEgPSAneyJyZXNwVHlwZSI6IkUiLCJvcmlSZXNwVHlwZSI6bnVsbCwibWVyY2hhbnRJZCI6IjIwMTcwNTEyMDAwMDA0MjIiLCJvcmlSZXNwTXNnIjpudWxsLCJvdXRPcmRlcklkIjoiMjAxNzA2MjcwMDAwMDAzMTk3IiwidHJhbnNBbXQiOm51bGwsInNpZ24iOiJjOVBpQTRCYTdxMnhkcHNGbHZaMldXS1hsTTVscW5VRHBHNThrYXR1cW5nMFhzTnlwRjJmaUtwT0JKMVpWUWtaWGxOcGtXRUJwd2UxTUlTUENuZ1Q5YTRheThnN2R0Qk52STVjSXF3V0FuZXhoV3d3MzJRRkRRZVExbGhWVmFtd2ltUVBQTnByVHo3U3dRcURiTmFUWk1hIHlZUS9OTXg3IDdZdVl0d2s0Mk01bDlDczBCSDEwRWVKM3AvdmdBVlBaVGYxVFg5ejRFbnhaNTZOaDNPWWZuSjBqWldVZjhNbGxSTVdXM2NTMmZuVGNHRi9JTTZwZU5sMTdxcXNDRDIvd05yaWE3YjgxNnI2WlFmd0JmTDVyMS9QQ1hXTWRoIEJkNUFwdjJHc05NczVpdmZEeVpDT24yM0dISzZJdyBiYnZMeC93ZWhQRFplQlYxblVtanFnaXc9PSIsInJlc3BNc2ciOiKsZD8/P6SjpnOmYiIsImxvY2FsT3JkZXJJZCI6bnVsbCwicmVzcENvZGUiOiIwNSIsInF1ZXJ5SWQiOiIyMDE3MDYyNzAwMDAwMDMxOTciLCJvcmlSZXNwQ29kZSI6bnVsbH0nOwokYXJyID0ganNvbl9kZWNvZGUoJGRhdGEsIHRydWUpOwoKCnZhcl9kdW1wKGlzc2V0KCRhcnJbJ2xvY2FsT3JkZXJJZCddKSk7Ci8vdmFyX2R1bXAoJGFyclsnc2hpdCddKTsKLy92YXJfZHVtcCh2YXJfZXhwb3J0KCRhcnJbJ2RhbW4nXSwgdHJ1ZSkpOwovL3Zhcl9kdW1wKGlzc2V0KCRhcnJbJ3NoaXQnXSkpOwo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">JGFyciA9IGpzb25fZW5jb2RlKCd7InJlc3BUeXBlIjoiRSJ9J2F0KQo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">JGFyciA9IFsKICAgICdmdWNrJyA9PiAneWVzJywKICAgICdkYW1uJyA9PiBudWxsCl07</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>echo $fuck['damn'];
 
 var_dump('shit');</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKCkKCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">JHJlbWl0QWNjb3VudCA9IG51bGw7CnZhcl9kdW1wKG51bGwgPzogMCk7Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>$Level = 1;
 var_dump($level);</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">dXNlIFxFeGNlcHRpb247Cg==</text>
-      </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>5,12d</text>
       </register>
     </registers>
     <search>
@@ -539,8 +538,6 @@ var_dump($level);</text>
         <entry>arr</entry>
       </history-search>
       <history-cmd>
-        <entry>set incsearch</entry>
-        <entry encoding="base64">JzwsJz5zL2dldElkL2dldE9yZGVySWQvZw==</entry>
         <entry>968d</entry>
         <entry>920,980d</entry>
         <entry encoding="base64">JzwsJz5zLypccysvKlxzezR9L2c=</entry>
@@ -559,6 +556,8 @@ var_dump($level);</text>
         <entry>5$</entry>
         <entry>400,402y</entry>
         <entry>noh</entry>
+        <entry>5,12c</entry>
+        <entry>5,12d</entry>
       </history-cmd>
       <history-expr />
       <history-input />
