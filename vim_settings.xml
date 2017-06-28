@@ -44,6 +44,9 @@
         <mark key="^" line="13" column="19" />
         <mark key="." line="13" column="19" />
       </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Repository/AutoConfirmEntryRepository.php" timestamp="1498638257638">
+        <mark key="[" line="311" column="35" />
+      </file>
       <file name="D:/durian2/src/BB/DurianBundle/Entity/CashDepositEntry.php" timestamp="1497318611640">
         <mark key="'" line="398" column="36" />
         <mark key="[" line="41" column="28" />
@@ -127,8 +130,8 @@
         <mark key="." line="852" column="47" />
         <mark key="^" line="512" column="12" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountController.php" timestamp="1498202978277">
-        <mark key="'" line="253" column="0" />
+      <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountController.php" timestamp="1498639720330">
+        <mark key="'" line="4" column="56" />
         <mark key="[" line="345" column="72" />
         <mark key="]" line="345" column="72" />
         <mark key="^" line="345" column="38" />
@@ -154,8 +157,12 @@
         <mark key="^" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Controller/AutoConfirmController.php" timestamp="1498637906919">
+      <file name="D:/durian2/src/BB/DurianBundle/Controller/AutoConfirmController.php" timestamp="1498638890564">
         <mark key="'" line="15" column="6" />
+        <mark key="[" line="597" column="55" />
+        <mark key="]" line="597" column="63" />
+        <mark key="^" line="597" column="63" />
+        <mark key="." line="597" column="63" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountStatRepository.php" timestamp="1497592676307">
         <mark key="'" line="10" column="6" />
@@ -329,11 +336,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="12" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountLevelController.php" />
-      <jump line="135" column="0" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountLevelController.php" />
-      <jump line="875" column="17" filename="D:/durian2/src/BB/DurianBundle/Resources/translations/messages.zh_CN.yml" />
-      <jump line="1151" column="0" filename="D:/durian2/src/BB/DurianBundle/Resources/translations/messages.zh_CN.yml" />
-      <jump line="72" column="54" filename="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountLevelRepository.php" />
       <jump line="20" column="9" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" />
       <jump line="227" column="38" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" />
       <jump line="242" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" />
@@ -429,6 +431,11 @@
       <jump line="10" column="6" filename="D:/durian2/src/BB/DurianBundle/Payment/BeeePay.php" />
       <jump line="15" column="6" filename="D:/durian2/src/BB/DurianBundle/Controller/AutoConfirmController.php" />
       <jump line="8" column="0" filename="D:/durian2/test.php" />
+      <jump line="727" column="0" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountController.php" />
+      <jump line="165" column="55" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountController.php" />
+      <jump line="521" column="4" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountController.php" />
+      <jump line="0" column="0" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountController.php" />
+      <jump line="4" column="56" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -459,11 +466,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>+00:00</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBSZXF1ZXN0ICRyZXF1ZXN0Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>+00:00</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>arr</text>
@@ -472,34 +479,33 @@
         <text encoding="base64">ICAgICAgICAkcmVtaXRBY2NvdW50TGV2ZWw2ID0gJGVtLT5nZXRSZXBvc2l0b3J5KCdCQkR1cmlhbkJ1bmRsZTpSZW1pdEFjY291bnRMZXZlbCcpLT5maW5kT25lQnkoWwogICAgICAgICAgICAnbGV2ZWxJZCcgPT4gMiwKICAgICAgICAgICAgJ3JlbWl0QWNjb3VudElkJyA9PiA2LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">JGRhdGEgPSAneyJyZXNwVHlwZSI6IkUiLCJvcmlSZXNwVHlwZSI6bnVsbCwibWVyY2hhbnRJZCI6IjIwMTcwNTEyMDAwMDA0MjIiLCJvcmlSZXNwTXNnIjpudWxsLCJvdXRPcmRlcklkIjoiMjAxNzA2MjcwMDAwMDAzMTk3IiwidHJhbnNBbXQiOm51bGwsInNpZ24iOiJjOVBpQTRCYTdxMnhkcHNGbHZaMldXS1hsTTVscW5VRHBHNThrYXR1cW5nMFhzTnlwRjJmaUtwT0JKMVpWUWtaWGxOcGtXRUJwd2UxTUlTUENuZ1Q5YTRheThnN2R0Qk52STVjSXF3V0FuZXhoV3d3MzJRRkRRZVExbGhWVmFtd2ltUVBQTnByVHo3U3dRcURiTmFUWk1hIHlZUS9OTXg3IDdZdVl0d2s0Mk01bDlDczBCSDEwRWVKM3AvdmdBVlBaVGYxVFg5ejRFbnhaNTZOaDNPWWZuSjBqWldVZjhNbGxSTVdXM2NTMmZuVGNHRi9JTTZwZU5sMTdxcXNDRDIvd05yaWE3YjgxNnI2WlFmd0JmTDVyMS9QQ1hXTWRoIEJkNUFwdjJHc05NczVpdmZEeVpDT24yM0dISzZJdyBiYnZMeC93ZWhQRFplQlYxblVtanFnaXc9PSIsInJlc3BNc2ciOiKsZD8/P6SjpnOmYiIsImxvY2FsT3JkZXJJZCI6bnVsbCwicmVzcENvZGUiOiIwNSIsInF1ZXJ5SWQiOiIyMDE3MDYyNzAwMDAwMDMxOTciLCJvcmlSZXNwQ29kZSI6bnVsbH0nOwokYXJyID0ganNvbl9kZWNvZGUoJGRhdGEsIHRydWUpOwoKCnZhcl9kdW1wKGlzc2V0KCRhcnJbJ2xvY2FsT3JkZXJJZCddKSk7Ci8vdmFyX2R1bXAoJGFyclsnc2hpdCddKTsKLy92YXJfZHVtcCh2YXJfZXhwb3J0KCRhcnJbJ2RhbW4nXSwgdHJ1ZSkpOwovL3Zhcl9kdW1wKGlzc2V0KCRhcnJbJ3NoaXQnXSkpOwo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBSZXF1ZXN0ICRyZXF1ZXN0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">JGFyciA9IGpzb25fZW5jb2RlKCd7InJlc3BUeXBlIjoiRSJ9J2F0KQo=</text>
+        <text encoding="base64">JGRhdGEgPSAneyJyZXNwVHlwZSI6IkUiLCJvcmlSZXNwVHlwZSI6bnVsbCwibWVyY2hhbnRJZCI6IjIwMTcwNTEyMDAwMDA0MjIiLCJvcmlSZXNwTXNnIjpudWxsLCJvdXRPcmRlcklkIjoiMjAxNzA2MjcwMDAwMDAzMTk3IiwidHJhbnNBbXQiOm51bGwsInNpZ24iOiJjOVBpQTRCYTdxMnhkcHNGbHZaMldXS1hsTTVscW5VRHBHNThrYXR1cW5nMFhzTnlwRjJmaUtwT0JKMVpWUWtaWGxOcGtXRUJwd2UxTUlTUENuZ1Q5YTRheThnN2R0Qk52STVjSXF3V0FuZXhoV3d3MzJRRkRRZVExbGhWVmFtd2ltUVBQTnByVHo3U3dRcURiTmFUWk1hIHlZUS9OTXg3IDdZdVl0d2s0Mk01bDlDczBCSDEwRWVKM3AvdmdBVlBaVGYxVFg5ejRFbnhaNTZOaDNPWWZuSjBqWldVZjhNbGxSTVdXM2NTMmZuVGNHRi9JTTZwZU5sMTdxcXNDRDIvd05yaWE3YjgxNnI2WlFmd0JmTDVyMS9QQ1hXTWRoIEJkNUFwdjJHc05NczVpdmZEeVpDT24yM0dISzZJdyBiYnZMeC93ZWhQRFplQlYxblVtanFnaXc9PSIsInJlc3BNc2ciOiKsZD8/P6SjpnOmYiIsImxvY2FsT3JkZXJJZCI6bnVsbCwicmVzcENvZGUiOiIwNSIsInF1ZXJ5SWQiOiIyMDE3MDYyNzAwMDAwMDMxOTciLCJvcmlSZXNwQ29kZSI6bnVsbH0nOwokYXJyID0ganNvbl9kZWNvZGUoJGRhdGEsIHRydWUpOwoKCnZhcl9kdW1wKGlzc2V0KCRhcnJbJ2xvY2FsT3JkZXJJZCddKSk7Ci8vdmFyX2R1bXAoJGFyclsnc2hpdCddKTsKLy92YXJfZHVtcCh2YXJfZXhwb3J0KCRhcnJbJ2RhbW4nXSwgdHJ1ZSkpOwovL3Zhcl9kdW1wKGlzc2V0KCRhcnJbJ3NoaXQnXSkpOwo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">JGFyciA9IGpzb25fZW5jb2RlKCd7InJlc3BUeXBlIjoiRSJ9J2F0KQo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">JGFyciA9IFsKICAgICdmdWNrJyA9PiAneWVzJywKICAgICdkYW1uJyA9PiBudWxsCl07</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>echo $fuck['damn'];
 
 var_dump('shit');</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKCkKCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">JHJlbWl0QWNjb3VudCA9IG51bGw7CnZhcl9kdW1wKG51bGwgPzogMCk7Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>$Level = 1;
-var_dump($level);</text>
       </register>
       <register name=":" type="4">
         <text>5,12d</text>
