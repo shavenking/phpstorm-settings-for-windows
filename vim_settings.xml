@@ -241,6 +241,7 @@
         <mark key="^" line="591" column="45" />
         <mark key="." line="591" column="45" />
       </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Tests/DataFixtures/ORM/LoadAutoConfirmEntryData.php" timestamp="1498717601415" />
       <file name="D:/durian2/src/BB/DurianBundle/Tests/Controller/PaymentGatewayControllerTest.php" timestamp="1498444985801">
         <mark key="'" line="967" column="0" />
       </file>
@@ -283,6 +284,12 @@
       </file>
       <file name="/fragment.php" timestamp="1498185105298">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Tests/Functional/AutoConfirmFunctionalTest.php" timestamp="1498717838101">
+        <mark key="'" line="154" column="29" />
+        <mark key="[" line="170" column="29" />
+        <mark key="]" line="170" column="30" />
+        <mark key="." line="170" column="30" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Entity/AutoRemitBankInfo.php" timestamp="1496995881500">
         <mark key="'" line="54" column="20" />
@@ -340,9 +347,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" />
-      <jump line="15" column="4" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" />
-      <jump line="18" column="14" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" />
       <jump line="16" column="35" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" />
       <jump line="250" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" />
       <jump line="31" column="325" filename="D:/durian2/app/DoctrineMigrations/Version20170622121441.php" />
@@ -440,6 +444,9 @@
       <jump line="524" column="0" filename="D:/durian2/src/BB/DurianBundle/Controller/AutoConfirmController.php" />
       <jump line="108" column="32" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/AutoConfirmControllerTest.php" />
       <jump line="947" column="8" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/AutoConfirmControllerTest.php" />
+      <jump line="167" column="8" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/AutoConfirmFunctionalTest.php" />
+      <jump line="150" column="8" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/AutoConfirmFunctionalTest.php" />
+      <jump line="154" column="29" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/AutoConfirmFunctionalTest.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
