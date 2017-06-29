@@ -161,12 +161,12 @@
         <mark key="." line="31" column="129" />
         <mark key="^" line="31" column="128" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Controller/AutoConfirmController.php" timestamp="1498719369957">
+      <file name="D:/durian2/src/BB/DurianBundle/Controller/AutoConfirmController.php" timestamp="1498720839859">
         <mark key="'" line="633" column="20" />
-        <mark key="[" line="597" column="55" />
-        <mark key="]" line="597" column="63" />
+        <mark key="[" line="837" column="18" />
+        <mark key="]" line="837" column="18" />
         <mark key="^" line="597" column="63" />
-        <mark key="." line="597" column="63" />
+        <mark key="." line="837" column="18" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountStatRepository.php" timestamp="1497592676307">
         <mark key="'" line="10" column="6" />
@@ -476,10 +476,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAkZGF0YTEgPSA7CiAgICAgICAgYXJyYXlfcHVzaCgkZGF0YSwgJGRhdGExKTs=</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>POST</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>arr</text>
