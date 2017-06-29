@@ -67,7 +67,7 @@
         <mark key="." line="6" column="21" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="D:/durian2/app/config/config_test.yml" timestamp="1498450919931">
+      <file name="D:/durian2/app/config/config_test.yml" timestamp="1498715843858">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="45" column="53" />
         <mark key="]" line="45" column="38" />
@@ -136,8 +136,8 @@
         <mark key="." line="5" column="16" />
         <mark key="^" line="5" column="16" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountController.php" timestamp="1498640362190">
-        <mark key="'" line="490" column="13" />
+      <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountController.php" timestamp="1498715287094">
+        <mark key="'" line="152" column="0" />
         <mark key="[" line="153" column="45" />
         <mark key="]" line="155" column="16" />
         <mark key="^" line="155" column="16" />
@@ -161,8 +161,8 @@
         <mark key="." line="31" column="129" />
         <mark key="^" line="31" column="128" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Controller/AutoConfirmController.php" timestamp="1498638890564">
-        <mark key="'" line="15" column="6" />
+      <file name="D:/durian2/src/BB/DurianBundle/Controller/AutoConfirmController.php" timestamp="1498715393698">
+        <mark key="'" line="524" column="0" />
         <mark key="[" line="597" column="55" />
         <mark key="]" line="597" column="63" />
         <mark key="^" line="597" column="63" />
@@ -185,6 +185,7 @@
       <file name="D:/durian2/src/BB/DurianBundle/Payment/BeeePay.php" timestamp="1498618647648">
         <mark key="'" line="10" column="6" />
       </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Resources/views/Default/Demo/AutoConfirm/setEntry.html.twig" timestamp="1498714682367" />
       <file name="D:/durian2/vendor/liip/functional-test-bundle/Test/WebTestCase.php" timestamp="1497250747047">
         <mark key="'" line="16" column="46" />
         <mark key="[" line="268" column="60" />
@@ -216,6 +217,13 @@
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
+      </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Tests/Controller/AutoConfirmControllerTest.php" timestamp="1498716603291">
+        <mark key="'" line="947" column="8" />
+        <mark key="[" line="947" column="13" />
+        <mark key="]" line="947" column="13" />
+        <mark key="^" line="947" column="13" />
+        <mark key="." line="947" column="13" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Payment/UPay.php" timestamp="1498608984706">
         <mark key="'" line="10" column="6" />
@@ -332,11 +340,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" />
-      <jump line="247" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" />
-      <jump line="248" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" />
-      <jump line="246" column="8" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" />
-      <jump line="17" column="12" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" />
       <jump line="8" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" />
       <jump line="15" column="4" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" />
       <jump line="18" column="14" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" />
@@ -432,6 +435,11 @@
       <jump line="20" column="21" filename="D:/durian2/src/BB/DurianBundle/Resources/translations/messages.zh_TW.yml" />
       <jump line="184" column="8" filename="D:/durian2/src/BB/DurianBundle/Resources/views/Default/Demo/AutoConfirm/listEntry.html.twig" />
       <jump line="358" column="0" filename="D:/durian2/src/BB/DurianBundle/Resources/views/Default/Demo/AutoConfirm/listEntry.html.twig" />
+      <jump line="152" column="0" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountController.php" />
+      <jump line="7" column="6" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/AutoConfirmControllerTest.php" />
+      <jump line="524" column="0" filename="D:/durian2/src/BB/DurianBundle/Controller/AutoConfirmController.php" />
+      <jump line="108" column="32" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/AutoConfirmControllerTest.php" />
+      <jump line="947" column="8" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/AutoConfirmControllerTest.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -463,7 +471,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>POST</text>
+        <text encoding="base64">ICAgICAgICAkZGF0YTEgPSA7CiAgICAgICAgYXJyYXlfcHVzaCgkZGF0YSwgJGRhdGExKTs=</text>
       </register>
       <register name="-" type="4">
         <text>POST</text>
@@ -475,39 +483,39 @@
         <text encoding="base64">ICAgICAgICAkcmVtaXRBY2NvdW50TGV2ZWw2ID0gJGVtLT5nZXRSZXBvc2l0b3J5KCdCQkR1cmlhbkJ1bmRsZTpSZW1pdEFjY291bnRMZXZlbCcpLT5maW5kT25lQnkoWwogICAgICAgICAgICAnbGV2ZWxJZCcgPT4gMiwKICAgICAgICAgICAgJ3JlbWl0QWNjb3VudElkJyA9PiA2LAo=</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICAkZGF0YTEgPSA7CiAgICAgICAgYXJyYXlfcHVzaCgkZGF0YSwgJGRhdGExKTs=</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">WwogICAgICAgICAgICAnYW1vdW50JyA9PiAnMTAuMDAnLAogICAgICAgICAgICAnZmVlJyA9PiAnMC4wMCcsCiAgICAgICAgICAgICdiYWxhbmNlJyA9PiAnMzUuMDAnLAogICAgICAgICAgICAnYWNjb3VudCcgPT4gJzEyMzQ1NTQzMjEnLAogICAgICAgICAgICAnbmFtZScgPT4gJ7bXtNqkSKltplcnLAogICAgICAgICAgICAndGltZScgPT4gJzIwMTctMDEtMDFUMDA6MDA6MDArMDgwMCcsCiAgICAgICAgICAgICdtZW1vJyA9PiAnMjAxNzA1MjQwMDE5MzI0MCcsCiAgICAgICAgICAgICdtZXNzYWdlJyA9PiAnpHOm6KTApubC4CcsCiAgICAgICAgICAgICdtZXRob2QnID0+ICe5caRsttekSicsCiAgICAgICAgXQ==</text>
+      </register>
+      <register name="3" type="4">
         <text>$arr['fuck'] = false;
 
 var_dump(isset($arr['fuck']));</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>$fuckingNull = null;
 
 var_dump(trim($fuckingNull));</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">JGFyclsnZnVjayddID0gbnVsbDsK</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>$date = date_create('2008-12-31T23:59:60');
 
 //date_timestamp_set($date, 1230768000);
 
 var_dump($date);</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1tZC1vZmZzZXQtMiBjb2wtbWQtMTAiPgogICAgICAgICAgICAgICAgICAgIDxidXR0b24gZGF0YS1yZXF1ZXN0LXJvdXRpbmc9ImFwaV9nZXRfcmVtaXRfYWNjb3VudF9sZXZlbF9vcmRlciIgY2xhc3M9ImJ0biBidG4tcHJpbWFyeSIgdHlwZT0iYnV0dG9uIiBkYXRhLWxvYWRpbmctdGV4dD0ibG9hZGluZy4uLiI+UmVxdWVzdDwvYnV0dG9uPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZmllbGRzZXQ+CiAgICA8L2Zvcm0+CnslIGVuZGJsb2NrICV9Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBSZW1pdEFjY291bnRMZXZlbCAkcmVtaXRBY2NvdW50TGV2ZWwgCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBSZXF1ZXN0ICRyZXF1ZXN0Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">JGRhdGEgPSAneyJyZXNwVHlwZSI6IkUiLCJvcmlSZXNwVHlwZSI6bnVsbCwibWVyY2hhbnRJZCI6IjIwMTcwNTEyMDAwMDA0MjIiLCJvcmlSZXNwTXNnIjpudWxsLCJvdXRPcmRlcklkIjoiMjAxNzA2MjcwMDAwMDAzMTk3IiwidHJhbnNBbXQiOm51bGwsInNpZ24iOiJjOVBpQTRCYTdxMnhkcHNGbHZaMldXS1hsTTVscW5VRHBHNThrYXR1cW5nMFhzTnlwRjJmaUtwT0JKMVpWUWtaWGxOcGtXRUJwd2UxTUlTUENuZ1Q5YTRheThnN2R0Qk52STVjSXF3V0FuZXhoV3d3MzJRRkRRZVExbGhWVmFtd2ltUVBQTnByVHo3U3dRcURiTmFUWk1hIHlZUS9OTXg3IDdZdVl0d2s0Mk01bDlDczBCSDEwRWVKM3AvdmdBVlBaVGYxVFg5ejRFbnhaNTZOaDNPWWZuSjBqWldVZjhNbGxSTVdXM2NTMmZuVGNHRi9JTTZwZU5sMTdxcXNDRDIvd05yaWE3YjgxNnI2WlFmd0JmTDVyMS9QQ1hXTWRoIEJkNUFwdjJHc05NczVpdmZEeVpDT24yM0dISzZJdyBiYnZMeC93ZWhQRFplQlYxblVtanFnaXc9PSIsInJlc3BNc2ciOiKsZD8/P6SjpnOmYiIsImxvY2FsT3JkZXJJZCI6bnVsbCwicmVzcENvZGUiOiIwNSIsInF1ZXJ5SWQiOiIyMDE3MDYyNzAwMDAwMDMxOTciLCJvcmlSZXNwQ29kZSI6bnVsbH0nOwokYXJyID0ganNvbl9kZWNvZGUoJGRhdGEsIHRydWUpOwoKCnZhcl9kdW1wKGlzc2V0KCRhcnJbJ2xvY2FsT3JkZXJJZCddKSk7Ci8vdmFyX2R1bXAoJGFyclsnc2hpdCddKTsKLy92YXJfZHVtcCh2YXJfZXhwb3J0KCRhcnJbJ2RhbW4nXSwgdHJ1ZSkpOwovL3Zhcl9kdW1wKGlzc2V0KCRhcnJbJ3NoaXQnXSkpOwo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBSZW1pdEFjY291bnRMZXZlbCAkcmVtaXRBY2NvdW50TGV2ZWwgCg==</text>
       </register>
       <register name=":" type="4">
         <text>37,58d</text>
