@@ -61,11 +61,11 @@
         <mark key="^" line="820" column="38" />
         <mark key="." line="820" column="38" />
       </file>
-      <file name="D:/durian2/test.php" timestamp="1498701024865">
-        <mark key="[" line="6" column="9" />
-        <mark key="]" line="4" column="19" />
-        <mark key="." line="4" column="19" />
-        <mark key="^" line="4" column="19" />
+      <file name="D:/durian2/test.php" timestamp="1498701976963">
+        <mark key="[" line="6" column="21" />
+        <mark key="]" line="6" column="21" />
+        <mark key="." line="6" column="21" />
+        <mark key="^" line="5" column="0" />
       </file>
       <file name="D:/durian2/app/config/config_test.yml" timestamp="1498450919931">
         <mark key="'" line="0" column="0" />
@@ -470,10 +470,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>array_key_exists('fuck', $arr)</text>
+        <text>[]</text>
       </register>
       <register name="-" type="4">
-        <text>array_key_exists('fuck', $arr)</text>
+        <text>[]</text>
       </register>
       <register name="/" type="4">
         <text>arr</text>
@@ -482,37 +482,39 @@
         <text encoding="base64">ICAgICAgICAkcmVtaXRBY2NvdW50TGV2ZWw2ID0gJGVtLT5nZXRSZXBvc2l0b3J5KCdCQkR1cmlhbkJ1bmRsZTpSZW1pdEFjY291bnRMZXZlbCcpLT5maW5kT25lQnkoWwogICAgICAgICAgICAnbGV2ZWxJZCcgPT4gMiwKICAgICAgICAgICAgJ3JlbWl0QWNjb3VudElkJyA9PiA2LAo=</text>
       </register>
       <register name="1" type="4">
+        <text>$arr['fuck'] = false;
+
+var_dump(isset($arr['fuck']));</text>
+      </register>
+      <register name="2" type="4">
         <text>$fuckingNull = null;
 
 var_dump(trim($fuckingNull));</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">JGFyclsnZnVjayddID0gbnVsbDsK</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>$date = date_create('2008-12-31T23:59:60');
 
 //date_timestamp_set($date, 1230768000);
 
 var_dump($date);</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1tZC1vZmZzZXQtMiBjb2wtbWQtMTAiPgogICAgICAgICAgICAgICAgICAgIDxidXR0b24gZGF0YS1yZXF1ZXN0LXJvdXRpbmc9ImFwaV9nZXRfcmVtaXRfYWNjb3VudF9sZXZlbF9vcmRlciIgY2xhc3M9ImJ0biBidG4tcHJpbWFyeSIgdHlwZT0iYnV0dG9uIiBkYXRhLWxvYWRpbmctdGV4dD0ibG9hZGluZy4uLiI+UmVxdWVzdDwvYnV0dG9uPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZmllbGRzZXQ+CiAgICA8L2Zvcm0+CnslIGVuZGJsb2NrICV9Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAqIEBwYXJhbSBSZW1pdEFjY291bnRMZXZlbCAkcmVtaXRBY2NvdW50TGV2ZWwgCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAqIEBwYXJhbSBSZXF1ZXN0ICRyZXF1ZXN0Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">JGRhdGEgPSAneyJyZXNwVHlwZSI6IkUiLCJvcmlSZXNwVHlwZSI6bnVsbCwibWVyY2hhbnRJZCI6IjIwMTcwNTEyMDAwMDA0MjIiLCJvcmlSZXNwTXNnIjpudWxsLCJvdXRPcmRlcklkIjoiMjAxNzA2MjcwMDAwMDAzMTk3IiwidHJhbnNBbXQiOm51bGwsInNpZ24iOiJjOVBpQTRCYTdxMnhkcHNGbHZaMldXS1hsTTVscW5VRHBHNThrYXR1cW5nMFhzTnlwRjJmaUtwT0JKMVpWUWtaWGxOcGtXRUJwd2UxTUlTUENuZ1Q5YTRheThnN2R0Qk52STVjSXF3V0FuZXhoV3d3MzJRRkRRZVExbGhWVmFtd2ltUVBQTnByVHo3U3dRcURiTmFUWk1hIHlZUS9OTXg3IDdZdVl0d2s0Mk01bDlDczBCSDEwRWVKM3AvdmdBVlBaVGYxVFg5ejRFbnhaNTZOaDNPWWZuSjBqWldVZjhNbGxSTVdXM2NTMmZuVGNHRi9JTTZwZU5sMTdxcXNDRDIvd05yaWE3YjgxNnI2WlFmd0JmTDVyMS9QQ1hXTWRoIEJkNUFwdjJHc05NczVpdmZEeVpDT24yM0dISzZJdyBiYnZMeC93ZWhQRFplQlYxblVtanFnaXc9PSIsInJlc3BNc2ciOiKsZD8/P6SjpnOmYiIsImxvY2FsT3JkZXJJZCI6bnVsbCwicmVzcENvZGUiOiIwNSIsInF1ZXJ5SWQiOiIyMDE3MDYyNzAwMDAwMDMxOTciLCJvcmlSZXNwQ29kZSI6bnVsbH0nOwokYXJyID0ganNvbl9kZWNvZGUoJGRhdGEsIHRydWUpOwoKCnZhcl9kdW1wKGlzc2V0KCRhcnJbJ2xvY2FsT3JkZXJJZCddKSk7Ci8vdmFyX2R1bXAoJGFyclsnc2hpdCddKTsKLy92YXJfZHVtcCh2YXJfZXhwb3J0KCRhcnJbJ2RhbW4nXSwgdHJ1ZSkpOwovL3Zhcl9kdW1wKGlzc2V0KCRhcnJbJ3NoaXQnXSkpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">JGFyciA9IGpzb25fZW5jb2RlKCd7InJlc3BUeXBlIjoiRSJ9J2F0KQo=</text>
+        <text encoding="base64">JGRhdGEgPSAneyJyZXNwVHlwZSI6IkUiLCJvcmlSZXNwVHlwZSI6bnVsbCwibWVyY2hhbnRJZCI6IjIwMTcwNTEyMDAwMDA0MjIiLCJvcmlSZXNwTXNnIjpudWxsLCJvdXRPcmRlcklkIjoiMjAxNzA2MjcwMDAwMDAzMTk3IiwidHJhbnNBbXQiOm51bGwsInNpZ24iOiJjOVBpQTRCYTdxMnhkcHNGbHZaMldXS1hsTTVscW5VRHBHNThrYXR1cW5nMFhzTnlwRjJmaUtwT0JKMVpWUWtaWGxOcGtXRUJwd2UxTUlTUENuZ1Q5YTRheThnN2R0Qk52STVjSXF3V0FuZXhoV3d3MzJRRkRRZVExbGhWVmFtd2ltUVBQTnByVHo3U3dRcURiTmFUWk1hIHlZUS9OTXg3IDdZdVl0d2s0Mk01bDlDczBCSDEwRWVKM3AvdmdBVlBaVGYxVFg5ejRFbnhaNTZOaDNPWWZuSjBqWldVZjhNbGxSTVdXM2NTMmZuVGNHRi9JTTZwZU5sMTdxcXNDRDIvd05yaWE3YjgxNnI2WlFmd0JmTDVyMS9QQ1hXTWRoIEJkNUFwdjJHc05NczVpdmZEeVpDT24yM0dISzZJdyBiYnZMeC93ZWhQRFplQlYxblVtanFnaXc9PSIsInJlc3BNc2ciOiKsZD8/P6SjpnOmYiIsImxvY2FsT3JkZXJJZCI6bnVsbCwicmVzcENvZGUiOiIwNSIsInF1ZXJ5SWQiOiIyMDE3MDYyNzAwMDAwMDMxOTciLCJvcmlSZXNwQ29kZSI6bnVsbH0nOwokYXJyID0ganNvbl9kZWNvZGUoJGRhdGEsIHRydWUpOwoKCnZhcl9kdW1wKGlzc2V0KCRhcnJbJ2xvY2FsT3JkZXJJZCddKSk7Ci8vdmFyX2R1bXAoJGFyclsnc2hpdCddKTsKLy92YXJfZHVtcCh2YXJfZXhwb3J0KCRhcnJbJ2RhbW4nXSwgdHJ1ZSkpOwovL3Zhcl9kdW1wKGlzc2V0KCRhcnJbJ3NoaXQnXSkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>37,58d</text>
