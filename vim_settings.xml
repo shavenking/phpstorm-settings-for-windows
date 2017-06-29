@@ -161,8 +161,8 @@
         <mark key="." line="31" column="129" />
         <mark key="^" line="31" column="128" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Controller/AutoConfirmController.php" timestamp="1498715393698">
-        <mark key="'" line="524" column="0" />
+      <file name="D:/durian2/src/BB/DurianBundle/Controller/AutoConfirmController.php" timestamp="1498719369957">
+        <mark key="'" line="633" column="20" />
         <mark key="[" line="597" column="55" />
         <mark key="]" line="597" column="63" />
         <mark key="^" line="597" column="63" />
@@ -345,8 +345,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="250" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" />
-      <jump line="31" column="325" filename="D:/durian2/app/DoctrineMigrations/Version20170622121441.php" />
       <jump line="525" column="12" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/UnionPayTest.php" />
       <jump line="541" column="4" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/UnionPayTest.php" />
       <jump line="539" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/UnionPayTest.php" />
@@ -445,6 +443,8 @@
       <jump line="150" column="8" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/AutoConfirmFunctionalTest.php" />
       <jump line="154" column="29" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/AutoConfirmFunctionalTest.php" />
       <jump line="9" column="6" filename="D:/durian2/src/BB/DurianBundle/AutoConfirm/MatchMaker.php" />
+      <jump line="133" column="35" filename="D:/durian2/src/BB/DurianBundle/Controller/AutoConfirmController.php" />
+      <jump line="633" column="20" filename="D:/durian2/src/BB/DurianBundle/Controller/AutoConfirmController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
