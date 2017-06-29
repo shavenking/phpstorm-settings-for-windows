@@ -88,8 +88,8 @@
         <mark key="^" line="27" column="67" />
         <mark key="." line="27" column="68" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Resources/doc/exception_map.md" timestamp="1498463998397">
-        <mark key="'" line="870" column="14" />
+      <file name="D:/durian2/src/BB/DurianBundle/Resources/doc/exception_map.md" timestamp="1498708789084">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="870" column="70" />
         <mark key="]" line="870" column="14" />
         <mark key="." line="870" column="14" />
@@ -130,12 +130,21 @@
         <mark key="." line="852" column="47" />
         <mark key="^" line="512" column="12" />
       </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Resources/views/Default/Demo/AutoConfirm/checkStatus.html.twig" timestamp="1498709194663">
+        <mark key="[" line="5" column="14" />
+        <mark key="]" line="5" column="16" />
+        <mark key="." line="5" column="16" />
+        <mark key="^" line="5" column="16" />
+      </file>
       <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountController.php" timestamp="1498640362190">
         <mark key="'" line="490" column="13" />
         <mark key="[" line="153" column="45" />
         <mark key="]" line="155" column="16" />
         <mark key="^" line="155" column="16" />
         <mark key="." line="155" column="16" />
+      </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Resources/views/Default/Demo/AutoConfirm/listEntry.html.twig" timestamp="1498709659142">
+        <mark key="'" line="358" column="0" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountLevelRepository.php" timestamp="1498640425649">
         <mark key="'" line="13" column="13" />
@@ -144,18 +153,13 @@
         <mark key="." line="37" column="19" />
         <mark key="^" line="37" column="19" />
       </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Resources/views/Default/Demo/AutoConfirm/create.html.twig" timestamp="1498709430243" />
       <file name="D:/durian2/app/DoctrineMigrations/Version20170605152028.php" timestamp="1496647781100">
         <mark key="'" line="20" column="0" />
         <mark key="[" line="31" column="129" />
         <mark key="]" line="31" column="129" />
         <mark key="." line="31" column="129" />
         <mark key="^" line="31" column="128" />
-      </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Tests/Payment/UnionPayTest.php" timestamp="1498532659673">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="23" column="0" />
-        <mark key="." line="23" column="0" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Controller/AutoConfirmController.php" timestamp="1498638890564">
         <mark key="'" line="15" column="6" />
@@ -188,12 +192,6 @@
         <mark key="." line="269" column="7" />
         <mark key="^" line="269" column="7" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" timestamp="1498451194780">
-        <mark key="[" line="1950" column="0" />
-        <mark key="]" line="1950" column="0" />
-        <mark key="^" line="1950" column="21" />
-        <mark key="." line="1950" column="0" />
-      </file>
       <file name="D:/durian2/src/BB/DurianBundle/Entity/RemitAccount.php" timestamp="1498706676068">
         <mark key="'" line="78" column="5" />
         <mark key="[" line="388" column="29" />
@@ -225,8 +223,8 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Resources/translations/messages.zh_CN.yml" timestamp="1498464076167">
-        <mark key="'" line="1154" column="0" />
+      <file name="D:/durian2/src/BB/DurianBundle/Resources/translations/messages.zh_CN.yml" timestamp="1498708804324">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="Y:/durian2/src/BB/DurianBundle/Controller/RemitController.php" timestamp="1496392149965">
         <mark key="'" line="1786" column="21" />
@@ -238,7 +236,7 @@
       <file name="D:/durian2/src/BB/DurianBundle/Tests/Controller/PaymentGatewayControllerTest.php" timestamp="1498444985801">
         <mark key="'" line="967" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498706186747">
+      <file name="/Dummy.txt" timestamp="1498708785214">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" timestamp="1498455436786">
@@ -302,8 +300,8 @@
         <mark key="^" line="121" column="35" />
         <mark key="." line="121" column="35" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Resources/translations/messages.zh_TW.yml" timestamp="1498032002671">
-        <mark key="'" line="0" column="0" />
+      <file name="D:/durian2/src/BB/DurianBundle/Resources/translations/messages.zh_TW.yml" timestamp="1498709142710">
+        <mark key="'" line="20" column="21" />
       </file>
       <file name="D:/durian2/vendor/doctrine/collections/lib/Doctrine/Common/Collections/ArrayCollection.php" timestamp="1498448564994">
         <mark key="'" line="33" column="45" />
@@ -325,12 +323,6 @@
       <file name="D:/durian2/src/BB/DurianBundle/Entity/BankCurrency.php" timestamp="1498440360658">
         <mark key="'" line="14" column="6" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitAccountLevelFunctionalTest.php" timestamp="1498457723114">
-        <mark key="[" line="95" column="22" />
-        <mark key="]" line="95" column="19" />
-        <mark key="^" line="95" column="19" />
-        <mark key="." line="95" column="19" />
-      </file>
       <file name="D:/durian2/src/BB/DurianBundle/Resources/views/Default/Demo/RemitAccountLevel/setOrder.html.twig" timestamp="1497342118937">
         <mark key="'" line="46" column="77" />
         <mark key="[" line="8" column="0" />
@@ -340,11 +332,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" />
-      <jump line="27" column="8" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" />
-      <jump line="22" column="8" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" />
-      <jump line="24" column="8" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" />
-      <jump line="23" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" />
       <jump line="26" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" />
       <jump line="247" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" />
       <jump line="248" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitAccountLevelControllerTest.php" />
@@ -440,6 +427,11 @@
       <jump line="18" column="6" filename="D:/durian2/src/BB/DurianBundle/Entity/RemitAccount.php" />
       <jump line="55" column="0" filename="D:/durian2/src/BB/DurianBundle/Entity/RemitAccount.php" />
       <jump line="78" column="5" filename="D:/durian2/src/BB/DurianBundle/Entity/RemitAccount.php" />
+      <jump line="0" column="0" filename="D:/durian2/src/BB/DurianBundle/Resources/doc/exception_map.md" />
+      <jump line="0" column="0" filename="D:/durian2/src/BB/DurianBundle/Resources/translations/messages.zh_CN.yml" />
+      <jump line="20" column="21" filename="D:/durian2/src/BB/DurianBundle/Resources/translations/messages.zh_TW.yml" />
+      <jump line="184" column="8" filename="D:/durian2/src/BB/DurianBundle/Resources/views/Default/Demo/AutoConfirm/listEntry.html.twig" />
+      <jump line="358" column="0" filename="D:/durian2/src/BB/DurianBundle/Resources/views/Default/Demo/AutoConfirm/listEntry.html.twig" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -471,10 +463,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>[]</text>
+        <text>POST</text>
       </register>
       <register name="-" type="4">
-        <text>[]</text>
+        <text>POST</text>
       </register>
       <register name="/" type="4">
         <text>arr</text>
