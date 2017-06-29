@@ -146,6 +146,10 @@
       <file name="D:/durian2/src/BB/DurianBundle/Resources/views/Default/Demo/AutoConfirm/listEntry.html.twig" timestamp="1498710702794">
         <mark key="'" line="358" column="0" />
       </file>
+      <file name="D:/durian2/src/BB/DurianBundle/ParameterHandler.php" timestamp="1498722480667">
+        <mark key="[" line="63" column="34" />
+        <mark key="]" line="63" column="44" />
+      </file>
       <file name="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountLevelRepository.php" timestamp="1498640425649">
         <mark key="'" line="13" column="13" />
         <mark key="[" line="37" column="51" />
@@ -161,12 +165,11 @@
         <mark key="." line="31" column="129" />
         <mark key="^" line="31" column="128" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Controller/AutoConfirmController.php" timestamp="1498720839859">
-        <mark key="'" line="633" column="20" />
-        <mark key="[" line="837" column="18" />
-        <mark key="]" line="837" column="18" />
-        <mark key="^" line="597" column="63" />
-        <mark key="." line="837" column="18" />
+      <file name="D:/durian2/src/BB/DurianBundle/Controller/AutoConfirmController.php" timestamp="1498723708810">
+        <mark key="'" line="1281" column="4" />
+        <mark key="[" line="1060" column="0" />
+        <mark key="]" line="1060" column="0" />
+        <mark key="." line="1060" column="0" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountStatRepository.php" timestamp="1497592676307">
         <mark key="'" line="10" column="6" />
@@ -236,11 +239,12 @@
         <mark key="^" line="591" column="45" />
         <mark key="." line="591" column="45" />
       </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Entity/UserStat.php" timestamp="1498723296168" />
       <file name="D:/durian2/src/BB/DurianBundle/Tests/DataFixtures/ORM/LoadAutoConfirmEntryData.php" timestamp="1498717601415" />
       <file name="D:/durian2/src/BB/DurianBundle/Tests/Controller/PaymentGatewayControllerTest.php" timestamp="1498444985801">
         <mark key="'" line="967" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498718555909">
+      <file name="/Dummy.txt" timestamp="1498723671780">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" timestamp="1498455436786">
@@ -345,9 +349,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="525" column="12" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/UnionPayTest.php" />
-      <jump line="541" column="4" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/UnionPayTest.php" />
-      <jump line="539" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/UnionPayTest.php" />
       <jump line="531" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/UnionPayTest.php" />
       <jump line="526" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/UnionPayTest.php" />
       <jump line="524" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/UnionPayTest.php" />
@@ -445,6 +446,9 @@
       <jump line="9" column="6" filename="D:/durian2/src/BB/DurianBundle/AutoConfirm/MatchMaker.php" />
       <jump line="133" column="35" filename="D:/durian2/src/BB/DurianBundle/Controller/AutoConfirmController.php" />
       <jump line="633" column="20" filename="D:/durian2/src/BB/DurianBundle/Controller/AutoConfirmController.php" />
+      <jump line="938" column="12" filename="D:/durian2/src/BB/DurianBundle/Controller/AutoConfirmController.php" />
+      <jump line="936" column="27" filename="D:/durian2/src/BB/DurianBundle/Controller/AutoConfirmController.php" />
+      <jump line="1281" column="4" filename="D:/durian2/src/BB/DurianBundle/Controller/AutoConfirmController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -475,61 +479,53 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICAgIGlmICgkZGFpbHlEaXNjb3VudCA8PSAwKSB7Ci8vICAgICAgICAgICAgcmV0dXJuICRvdGhlckRpc2NvdW50OwovLyAgICAgICAgfQoK</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">JGRhaWx5RGlzY291bnQgPD0gMA==</text>
       </register>
       <register name="/" type="4">
-        <text>arr</text>
+        <text>find</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVtaXRBY2NvdW50TGV2ZWw2ID0gJGVtLT5nZXRSZXBvc2l0b3J5KCdCQkR1cmlhbkJ1bmRsZTpSZW1pdEFjY291bnRMZXZlbCcpLT5maW5kT25lQnkoWwogICAgICAgICAgICAnbGV2ZWxJZCcgPT4gMiwKICAgICAgICAgICAgJ3JlbWl0QWNjb3VudElkJyA9PiA2LAo=</text>
+      <register name="0" type="4">
+        <text>'Y-m-d H:i:s'</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICAkZGF0YTEgPSA7CiAgICAgICAgYXJyYXlfcHVzaCgkZGF0YSwgJGRhdGExKTs=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Ly8gICAgICAgIGlmICgkZGFpbHlEaXNjb3VudCA8PSAwKSB7Ci8vICAgICAgICAgICAgcmV0dXJuICRvdGhlckRpc2NvdW50OwovLyAgICAgICAgfQoK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">WwogICAgICAgICAgICAnYW1vdW50JyA9PiAnMTAuMDAnLAogICAgICAgICAgICAnZmVlJyA9PiAnMC4wMCcsCiAgICAgICAgICAgICdiYWxhbmNlJyA9PiAnMzUuMDAnLAogICAgICAgICAgICAnYWNjb3VudCcgPT4gJzEyMzQ1NTQzMjEnLAogICAgICAgICAgICAnbmFtZScgPT4gJ7bXtNqkSKltplcnLAogICAgICAgICAgICAndGltZScgPT4gJzIwMTctMDEtMDFUMDA6MDA6MDArMDgwMCcsCiAgICAgICAgICAgICdtZW1vJyA9PiAnMjAxNzA1MjQwMDE5MzI0MCcsCiAgICAgICAgICAgICdtZXNzYWdlJyA9PiAnpHOm6KTApubC4CcsCiAgICAgICAgICAgICdtZXRob2QnID0+ICe5caRsttekSicsCiAgICAgICAgXQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAvLyCz5qTppHe74rlMqrrAdbRmpGqp87WlqfOz5qTppWm74qq6qOSlTMB1tGatrcNCoUGraKSjtbmo5KVMwHW0ZgogICAgICAgIGlmICgkZGFpbHlEaXNjb3VudCA+PSAkZGFpbHlEaXNjb3VudExpbWl0KSB7CiAgICAgICAgICAgIHJldHVybiAwOwogICAgICAgIH0K</text>
       </register>
-      <register name="3" type="4">
-        <text>$arr['fuck'] = false;
-
-var_dump(isset($arr['fuck']));</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="4">
-        <text>$fuckingNull = null;
-
-var_dump(trim($fuckingNull));</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAvLyCz5qTppHe74rlMqrrAdbRmK6W7priquqjkpUzAdbRmpHCp87WlqfOz5qTppWm74qq6qOSlTMB1tGatrcNCqrqhQatoqr2xtbW5wHW0Zgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">JGFyclsnZnVjayddID0gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAvLyCz5qTppHe74rlMqrrAdbRmK6W7priquqjkpUzAdbRmpHCp87WlqfOz5qTppWm74qq6qOSlTMB1tGatrcNCqrqhQatoqr2xtbW5wHW0ZgogICAgICAgIGlmICgoJGRhaWx5RGlzY291bnQgKyAkb3RoZXJEaXNjb3VudCkgPD0gJGRhaWx5RGlzY291bnRMaW1pdCkgewogICAgICAgICAgICByZXR1cm4gJG90aGVyRGlzY291bnQ7CiAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKCRkYWlseURpc2NvdW50ICsgJG90aGVyRGlzY291bnQpIDw9ICRkYWlseURpc2NvdW50TGltaXQpIHsK</text>
       </register>
-      <register name="7" type="4">
-        <text>$date = date_create('2008-12-31T23:59:60');
-
-//date_timestamp_set($date, 1230768000);
-
-var_dump($date);</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1tZC1vZmZzZXQtMiBjb2wtbWQtMTAiPgogICAgICAgICAgICAgICAgICAgIDxidXR0b24gZGF0YS1yZXF1ZXN0LXJvdXRpbmc9ImFwaV9nZXRfcmVtaXRfYWNjb3VudF9sZXZlbF9vcmRlciIgY2xhc3M9ImJ0biBidG4tcHJpbWFyeSIgdHlwZT0iYnV0dG9uIiBkYXRhLWxvYWRpbmctdGV4dD0ibG9hZGluZy4uLiI+UmVxdWVzdDwvYnV0dG9uPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZmllbGRzZXQ+CiAgICA8L2Zvcm0+CnslIGVuZGJsb2NrICV9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBSZW1pdEFjY291bnRMZXZlbCAkcmVtaXRBY2NvdW50TGV2ZWwgCg==</text>
+        <text encoding="base64">ICAgICAgICAkZW5kVGltZSA9ICRwYXJhbWV0ZXJIYW5kbGVyLT5kYXRldGltZVRvWW1kSGlzKCRlbmQpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>37,58d</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>arr</last-search>
+      <last-search>find</last-search>
       <last-offset />
-      <last-pattern>arr</last-pattern>
+      <last-pattern>find</last-pattern>
       <last-replace>\* \{4}</last-replace>
       <last-substitute>from</last-substitute>
       <last-dir>1</last-dir>
@@ -549,7 +545,6 @@ var_dump($date);</text>
         <entry>getid</entry>
         <entry>177</entry>
         <entry>176</entry>
-        <entry>find</entry>
         <entry>fin</entry>
         <entry>150</entry>
         <entry>670</entry>
@@ -557,6 +552,7 @@ var_dump($date);</text>
         <entry>ma</entry>
         <entry>repo</entry>
         <entry>arr</entry>
+        <entry>find</entry>
       </history-search>
       <history-cmd>
         <entry>920,980d</entry>
@@ -575,10 +571,10 @@ var_dump($date);</text>
         <entry>5,14d</entry>
         <entry>5$</entry>
         <entry>400,402y</entry>
-        <entry>noh</entry>
         <entry>5,12c</entry>
         <entry>5,12d</entry>
         <entry>37,58d</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
