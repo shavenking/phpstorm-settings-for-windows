@@ -92,14 +92,12 @@
         <mark key="." line="870" column="14" />
         <mark key="^" line="870" column="14" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Service/OpService.php" timestamp="1498724950893" />
       <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountLevelController.php" timestamp="1498640395131">
         <mark key="'" line="154" column="15" />
         <mark key="[" line="122" column="0" />
         <mark key="]" line="122" column="0" />
         <mark key="." line="122" column="0" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Entity/AutoConfirmEntry.php" timestamp="1498706254487" />
       <file name="D:/durian2/src/BB/DurianBundle/Controller/MerchantController.php" timestamp="1498186222123">
         <mark key="'" line="692" column="0" />
         <mark key="[" line="90" column="63" />
@@ -141,7 +139,6 @@
         <mark key="^" line="155" column="16" />
         <mark key="." line="451" column="83" />
       </file>
-      <file name="D:/payment/bb_auto_confirm_entry.php" timestamp="1498730677757" />
       <file name="D:/durian2/src/BB/DurianBundle/Resources/views/Default/Demo/AutoConfirm/listEntry.html.twig" timestamp="1498710702794">
         <mark key="'" line="358" column="0" />
       </file>
@@ -156,7 +153,6 @@
         <mark key="." line="37" column="19" />
         <mark key="^" line="37" column="19" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Resources/views/Default/Demo/AutoConfirm/create.html.twig" timestamp="1498709430243" />
       <file name="D:/durian2/app/DoctrineMigrations/Version20170605152028.php" timestamp="1496647781100">
         <mark key="'" line="20" column="0" />
         <mark key="[" line="31" column="129" />
@@ -165,10 +161,10 @@
         <mark key="^" line="31" column="128" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Controller/AutoConfirmController.php" timestamp="1498724948554">
-        <mark key="'" line="1281" column="4" />
-        <mark key="[" line="1060" column="0" />
-        <mark key="]" line="1060" column="0" />
-        <mark key="." line="1060" column="0" />
+        <mark key="'" line="1297" column="4" />
+        <mark key="[" line="1076" column="0" />
+        <mark key="]" line="1076" column="0" />
+        <mark key="." line="1076" column="0" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountStatRepository.php" timestamp="1497592676307">
         <mark key="'" line="10" column="6" />
@@ -187,7 +183,6 @@
       <file name="D:/durian2/src/BB/DurianBundle/Payment/BeeePay.php" timestamp="1498618647648">
         <mark key="'" line="10" column="6" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Resources/views/Default/Demo/AutoConfirm/setEntry.html.twig" timestamp="1498714682367" />
       <file name="D:/durian2/vendor/liip/functional-test-bundle/Test/WebTestCase.php" timestamp="1497250747047">
         <mark key="'" line="16" column="46" />
         <mark key="[" line="268" column="60" />
@@ -244,8 +239,6 @@
         <mark key="^" line="591" column="45" />
         <mark key="." line="591" column="45" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Entity/UserStat.php" timestamp="1498723296168" />
-      <file name="D:/durian2/src/BB/DurianBundle/Tests/DataFixtures/ORM/LoadAutoConfirmEntryData.php" timestamp="1498717601415" />
       <file name="D:/durian2/src/BB/DurianBundle/Tests/Controller/PaymentGatewayControllerTest.php" timestamp="1498444985801">
         <mark key="'" line="967" column="0" />
       </file>
