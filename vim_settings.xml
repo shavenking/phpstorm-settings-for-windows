@@ -58,11 +58,11 @@
         <mark key="^" line="820" column="38" />
         <mark key="." line="820" column="38" />
       </file>
-      <file name="D:/durian2/test.php" timestamp="1498790197150">
-        <mark key="[" line="4" column="9" />
-        <mark key="]" line="6" column="2" />
-        <mark key="." line="6" column="2" />
-        <mark key="^" line="6" column="2" />
+      <file name="D:/durian2/test.php" timestamp="1498803592795">
+        <mark key="[" line="25" column="10" />
+        <mark key="]" line="8" column="20" />
+        <mark key="." line="8" column="20" />
+        <mark key="^" line="8" column="20" />
       </file>
       <file name="D:/durian2/app/config/config_test.yml" timestamp="1498715843858">
         <mark key="'" line="0" column="0" />
@@ -337,7 +337,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="505" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/UnionPayTest.php" />
       <jump line="538" column="46" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/UnionPayTest.php" />
       <jump line="532" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/UnionPayTest.php" />
       <jump line="80" column="17" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitAccountLevelFunctionalTest.php" />
@@ -437,6 +436,7 @@
       <jump line="251" column="39" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountController.php" />
       <jump line="0" column="0" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountController.php" />
       <jump line="170" column="29" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/AutoConfirmFunctionalTest.php" />
+      <jump line="27" column="0" filename="D:/durian2/test.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -467,11 +467,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkZXZhID0gYXJyYXlfcHVzaCgkYXJyLCApCg==</text>
+      <register name="&quot;" type="4">
+        <text>, 150830040);</text>
       </register>
       <register name="-" type="4">
-        <text>550009</text>
+        <text>, 150830040);</text>
       </register>
       <register name="/" type="4">
         <text>find</text>
@@ -480,33 +480,31 @@
         <text>'Y-m-d H:i:s'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkZXZhID0gYXJyYXlfcHVzaCgkYXJyLCApCg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkZGF0ZSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhcnJheV9wdXNoKCRkYXRhLCAkZGF0YTEsICRkYXRhMik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkZGF0ZSA9IGRhdGVfCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG5ldyBEYXRlVGltZShudWxsKQo=</text>
+        <text encoding="base64">aWYgKCRjcmVhdGVkRGF5IDw9ICR0aHJlZURheUFnbykgewogICAgdGhyb3cgbmV3IFxSdW50aW1lRXhjZXB0aW9uKCdDYW4gbm90IG1vZGlmeSBzdGF0dXMgb2YgZXhwaXJlZCBlbnRyeScsIDE1MDgzMDA0MCk7Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHVybGVuY29kZSgnMT9fbWV0aG9kPURFTEVURScpCg==</text>
+        <text encoding="base64">PD9waHAKCg==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">aWYgKCcwJykgewogICAgZWNobyAnZnVjayc7Cn0K</text>
+        <text encoding="base64">dmFyX2R1bXAoCiAgICBkYXRlX2NyZWF0ZShudWxsKS0+Zm9ybWF0KCdZbWQwMDAnKQopOw==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dmFyX2R1bXAoMCA9PSAnJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkZXZhID0gYXJyYXlfcHVzaCgkYXJyLCApCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>$arr = [];
-
-var_dump(array_shift($arr));</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBhcnJheV9wdXNoKCRkYXRhLCAkZGF0YTEsICRkYXRhMik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGlmICgkZGFpbHlEaXNjb3VudCA8PSAwKSB7Ci8vICAgICAgICAgICAgcmV0dXJuICRvdGhlckRpc2NvdW50OwovLyAgICAgICAgfQoK</text>
+        <text encoding="base64">ICAgIG5ldyBEYXRlVGltZShudWxsKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyCz5qTppHe74rlMqrrAdbRmpGqp87WlqfOz5qTppWm74qq6qOSlTMB1tGatrcNCoUGraKSjtbmo5KVMwHW0ZgogICAgICAgIGlmICgkZGFpbHlEaXNjb3VudCA+PSAkZGFpbHlEaXNjb3VudExpbWl0KSB7CiAgICAgICAgICAgIHJldHVybiAwOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIHVybGVuY29kZSgnMT9fbWV0aG9kPURFTEVURScpCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
