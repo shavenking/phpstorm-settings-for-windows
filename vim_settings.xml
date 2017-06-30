@@ -92,12 +92,6 @@
         <mark key="." line="870" column="14" />
         <mark key="^" line="870" column="14" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountLevelController.php" timestamp="1498640395131">
-        <mark key="'" line="154" column="15" />
-        <mark key="[" line="122" column="0" />
-        <mark key="]" line="122" column="0" />
-        <mark key="." line="122" column="0" />
-      </file>
       <file name="D:/durian2/src/BB/DurianBundle/Controller/MerchantController.php" timestamp="1498186222123">
         <mark key="'" line="692" column="0" />
         <mark key="[" line="90" column="63" />
@@ -224,12 +218,6 @@
         <mark key="." line="947" column="13" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Resources/views/Default/Demo/RemitAccount/getStat.html.twig" timestamp="1498790307777" />
-      <file name="D:/durian2/src/BB/DurianBundle/Payment/UPay.php" timestamp="1498608984706">
-        <mark key="'" line="10" column="6" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="D:/durian2/src/BB/DurianBundle/Resources/translations/messages.zh_CN.yml" timestamp="1498708804324">
         <mark key="'" line="0" column="0" />
       </file>
@@ -283,11 +271,11 @@
       <file name="/fragment.php" timestamp="1498185105298">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Tests/Functional/AutoConfirmFunctionalTest.php" timestamp="1498790518114">
+      <file name="D:/durian2/src/BB/DurianBundle/Tests/Functional/AutoConfirmFunctionalTest.php" timestamp="1498792146749">
         <mark key="'" line="170" column="29" />
-        <mark key="[" line="170" column="29" />
-        <mark key="]" line="170" column="30" />
-        <mark key="." line="170" column="30" />
+        <mark key="[" line="1403" column="0" />
+        <mark key="]" line="1403" column="0" />
+        <mark key="." line="1403" column="0" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/AutoConfirm/MatchMaker.php" timestamp="1498718523218">
         <mark key="'" line="9" column="6" />
@@ -479,7 +467,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG5ldyBEYXRlVGltZShudWxsKQo=</text>
+        <text encoding="base64">ICAgICAgICAkZXZhID0gYXJyYXlfcHVzaCgkYXJyLCApCg==</text>
       </register>
       <register name="-" type="4">
         <text>550009</text>
@@ -491,33 +479,33 @@
         <text>'Y-m-d H:i:s'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG5ldyBEYXRlVGltZShudWxsKQo=</text>
+        <text encoding="base64">ICAgICAgICAkZXZhID0gYXJyYXlfcHVzaCgkYXJyLCApCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHVybGVuY29kZSgnMT9fbWV0aG9kPURFTEVURScpCg==</text>
+        <text encoding="base64">ICAgICAgICBhcnJheV9wdXNoKCRkYXRhLCAkZGF0YTEsICRkYXRhMik7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">aWYgKCcwJykgewogICAgZWNobyAnZnVjayc7Cn0K</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIG5ldyBEYXRlVGltZShudWxsKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dmFyX2R1bXAoMCA9PSAnJyk7Cg==</text>
+        <text encoding="base64">ICAgIHVybGVuY29kZSgnMT9fbWV0aG9kPURFTEVURScpCg==</text>
       </register>
       <register name="5" type="4">
+        <text encoding="base64">aWYgKCcwJykgewogICAgZWNobyAnZnVjayc7Cn0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">dmFyX2R1bXAoMCA9PSAnJyk7Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text>$arr = [];
 
 var_dump(array_shift($arr));</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Ly8gICAgICAgIGlmICgkZGFpbHlEaXNjb3VudCA8PSAwKSB7Ci8vICAgICAgICAgICAgcmV0dXJuICRvdGhlckRpc2NvdW50OwovLyAgICAgICAgfQoK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyCz5qTppHe74rlMqrrAdbRmpGqp87WlqfOz5qTppWm74qq6qOSlTMB1tGatrcNCoUGraKSjtbmo5KVMwHW0ZgogICAgICAgIGlmICgkZGFpbHlEaXNjb3VudCA+PSAkZGFpbHlEaXNjb3VudExpbWl0KSB7CiAgICAgICAgICAgIHJldHVybiAwOwogICAgICAgIH0K</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyCz5qTppHe74rlMqrrAdbRmK6W7priquqjkpUzAdbRmpHCp87WlqfOz5qTppWm74qq6qOSlTMB1tGatrcNCqrqhQatoqr2xtbW5wHW0Zgo=</text>
+        <text encoding="base64">ICAgICAgICAvLyCz5qTppHe74rlMqrrAdbRmpGqp87WlqfOz5qTppWm74qq6qOSlTMB1tGatrcNCoUGraKSjtbmo5KVMwHW0ZgogICAgICAgIGlmICgkZGFpbHlEaXNjb3VudCA+PSAkZGFpbHlEaXNjb3VudExpbWl0KSB7CiAgICAgICAgICAgIHJldHVybiAwOwogICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
