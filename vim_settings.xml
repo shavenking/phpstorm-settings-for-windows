@@ -160,11 +160,11 @@
         <mark key="." line="31" column="129" />
         <mark key="^" line="31" column="128" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Controller/AutoConfirmController.php" timestamp="1498724948554">
-        <mark key="'" line="1297" column="4" />
-        <mark key="[" line="1076" column="0" />
-        <mark key="]" line="1076" column="0" />
-        <mark key="." line="1076" column="0" />
+      <file name="D:/durian2/src/BB/DurianBundle/Controller/AutoConfirmController.php" timestamp="1498788658272">
+        <mark key="'" line="1177" column="49" />
+        <mark key="[" line="1105" column="0" />
+        <mark key="]" line="1105" column="0" />
+        <mark key="." line="1105" column="0" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountStatRepository.php" timestamp="1497592676307">
         <mark key="'" line="10" column="6" />
@@ -315,7 +315,7 @@
         <mark key="^" line="121" column="35" />
         <mark key="." line="121" column="35" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Resources/translations/messages.zh_TW.yml" timestamp="1498709142710">
+      <file name="D:/durian2/src/BB/DurianBundle/Resources/translations/messages.zh_TW.yml" timestamp="1498787657284">
         <mark key="'" line="20" column="21" />
       </file>
       <file name="D:/durian2/vendor/doctrine/collections/lib/Doctrine/Common/Collections/ArrayCollection.php" timestamp="1498448564994">
@@ -347,7 +347,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="531" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/UnionPayTest.php" />
       <jump line="526" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/UnionPayTest.php" />
       <jump line="524" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/UnionPayTest.php" />
       <jump line="511" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/UnionPayTest.php" />
@@ -447,6 +446,7 @@
       <jump line="938" column="12" filename="D:/durian2/src/BB/DurianBundle/Controller/AutoConfirmController.php" />
       <jump line="936" column="27" filename="D:/durian2/src/BB/DurianBundle/Controller/AutoConfirmController.php" />
       <jump line="1281" column="4" filename="D:/durian2/src/BB/DurianBundle/Controller/AutoConfirmController.php" />
+      <jump line="1177" column="49" filename="D:/durian2/src/BB/DurianBundle/Controller/AutoConfirmController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
