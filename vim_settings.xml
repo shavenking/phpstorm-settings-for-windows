@@ -72,12 +72,12 @@
         <mark key="." line="45" column="38" />
         <mark key="^" line="45" column="38" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Resources/views/Default/Demo/RemitAccountLevel/getByLevel.html.twig" timestamp="1499046888163">
+      <file name="D:/durian2/src/BB/DurianBundle/Resources/views/Default/Demo/RemitAccountLevel/getByLevel.html.twig" timestamp="1499047964392">
         <mark key="'" line="18" column="51" />
-        <mark key="[" line="37" column="50" />
-        <mark key="]" line="37" column="83" />
+        <mark key="[" line="8" column="25" />
+        <mark key="]" line="8" column="25" />
         <mark key="^" line="37" column="75" />
-        <mark key="." line="37" column="50" />
+        <mark key="." line="8" column="25" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Tests/Entity/RemitAccountLevelTest.php" timestamp="1497347170940">
         <mark key="'" line="26" column="0" />
@@ -93,7 +93,7 @@
         <mark key="." line="870" column="14" />
         <mark key="^" line="870" column="14" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountLevelController.php" timestamp="1498812428198">
+      <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountLevelController.php" timestamp="1499047869262">
         <mark key="'" line="65" column="8" />
         <mark key="[" line="17" column="41" />
         <mark key="]" line="17" column="43" />
@@ -333,12 +333,12 @@
         <mark key="^" line="87" column="64" />
         <mark key="." line="92" column="0" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Resources/views/Default/Demo/RemitAccountLevel/setOrder.html.twig" timestamp="1497342118937">
+      <file name="D:/durian2/src/BB/DurianBundle/Resources/views/Default/Demo/RemitAccountLevel/setOrder.html.twig" timestamp="1499048072866">
         <mark key="'" line="46" column="77" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="33" />
-        <mark key="." line="46" column="77" />
-        <mark key="^" line="46" column="77" />
+        <mark key="[" line="31" column="54" />
+        <mark key="]" line="31" column="54" />
+        <mark key="." line="31" column="54" />
+        <mark key="^" line="8" column="29" />
       </file>
     </filemarks>
     <jumps>
@@ -473,10 +473,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>6</text>
+        <text>銀行卡</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>銀行卡</text>
       </register>
       <register name="/" type="4">
         <text>find</text>
