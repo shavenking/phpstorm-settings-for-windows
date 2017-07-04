@@ -148,6 +148,13 @@
         <mark key="^" line="31" column="128" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Entity/UserLevel.php" timestamp="1499158851817" />
+      <file name="D:/durian2/src/BB/DurianBundle/Controller/AutoConfirmController.php" timestamp="1499160045651">
+        <mark key="'" line="172" column="78" />
+        <mark key="[" line="725" column="41" />
+        <mark key="]" line="725" column="41" />
+        <mark key="." line="725" column="41" />
+        <mark key="^" line="724" column="53" />
+      </file>
       <file name="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountStatRepository.php" timestamp="1498789866140">
         <mark key="'" line="10" column="6" />
         <mark key="[" line="45" column="35" />
@@ -464,10 +471,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>0,0,0</text>
+        <text>Can not modify confirmed entry</text>
       </register>
       <register name="-" type="4">
-        <text>0,0,0</text>
+        <text>Can not modify confirmed entry</text>
       </register>
       <register name="/" type="4">
         <text>83</text>
