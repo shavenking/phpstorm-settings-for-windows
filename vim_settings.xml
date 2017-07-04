@@ -148,12 +148,12 @@
         <mark key="^" line="31" column="128" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Entity/UserLevel.php" timestamp="1499158851817" />
-      <file name="D:/durian2/src/BB/DurianBundle/Controller/AutoConfirmController.php" timestamp="1499160045651">
-        <mark key="'" line="172" column="78" />
-        <mark key="[" line="725" column="41" />
-        <mark key="]" line="725" column="41" />
-        <mark key="." line="725" column="41" />
-        <mark key="^" line="724" column="53" />
+      <file name="D:/durian2/src/BB/DurianBundle/Controller/AutoConfirmController.php" timestamp="1499161759859">
+        <mark key="'" line="1338" column="0" />
+        <mark key="[" line="732" column="39" />
+        <mark key="]" line="732" column="49" />
+        <mark key="^" line="732" column="49" />
+        <mark key="." line="732" column="49" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountStatRepository.php" timestamp="1498789866140">
         <mark key="'" line="10" column="6" />
@@ -340,9 +340,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountRepository.php" />
-      <jump line="8" column="6" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitControllerTest.php" />
-      <jump line="349" column="60" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
       <jump line="621" column="19" filename="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_8.php" />
       <jump line="14" column="6" filename="D:/durian2/src/BB/DurianBundle/Entity/DomainWithdrawBankCurrency.php" />
       <jump line="14" column="6" filename="D:/durian2/src/BB/DurianBundle/Entity/BankCurrency.php" />
@@ -440,6 +437,9 @@
       <jump line="988" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitAccountFunctionalTest.php" />
       <jump line="677" column="4" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountController.php" />
       <jump line="837" column="4" filename="D:/durian2/src/BB/DurianBundle/Payment/WeiXin.php" />
+      <jump line="772" column="0" filename="D:/durian2/src/BB/DurianBundle/Controller/AutoConfirmController.php" />
+      <jump line="738" column="0" filename="D:/durian2/src/BB/DurianBundle/Controller/AutoConfirmController.php" />
+      <jump line="1339" column="0" filename="D:/durian2/src/BB/DurianBundle/Controller/AutoConfirmController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -470,62 +470,53 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>Can not modify confirmed entry</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Can not modify confirmed entry</text>
+        <text encoding="base64">JGRpc2NvdW50ID0g</text>
       </register>
       <register name="/" type="4">
-        <text>83</text>
+        <text>re</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dmFyX2R1bXAoJGZ1Y2stPnNldFRpbWUoMCwwLDApLT5mb3JtYXQoJ1ltZEhpcycpKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">dmFyX2R1bXAoMC4wMDAwKTsK</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">JHN1bSA9ICcwJzsKCmZvciAoJGkgPSAwOyAkaSA8IDEwMDAwOyAkaSsrKSB7CiAgICAkc3VtICs9ICcwLjAzMzMzJzsKfQoKdmFyX2R1bXAoJHN1bSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJGRpc2NvdW50ICE9ICRyZW1pdEVudHJ5LT5nZXREaXNjb3VudCgpKSB7CiAgICAgICAgICAgICRyZW1pdEVudHJ5LT5zZXREaXNjb3VudCgkZGlzY291bnQpOwogICAgICAgIH0K</text>
       </register>
-      <register name="3" type="4">
-        <text>$pad = chr(321);
-
-var_dump(
-    $pad,
-    openssl_decrypt(
-        openssl_encrypt('fo' . chr(6), 'AES-128-ECB', 'password'),
-        'AES-128-ECB',
-        'password'
-    )
-);</text>
+      <register name="3" type="2">
+        <text encoding="base64">CiAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vYzIyMjc0Ngo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCR0aGlzLT5yZUNhbGN1bGF0ZURpc2NvdW50KCRyZW1pdEVudHJ5KSkgeyAKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vYzIyMjc0Ngo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCEkcmVtaXRFbnRyeS0+aXNBYmFuZG9uRGlzY291bnQoKSAmJiAkcmVtaXRFbnRyeS0+Z2V0RGlzY291bnQoKSA+IDApIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGRpc2NvdW50ID0gJHJlbWl0RW50cnktPmdldERpc2NvdW50KCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgJGxvZ09wZXJhdGlvbiA9ICRlbVNoYXJlLT5maW5kKCdCQkR1cmlhbkJ1bmRsZTpMb2dPcGVyYXRpb24nLCAyKTsKICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKCdAZW5hYmxlOmZhbHNlPT50cnVlJywgJGxvZ09wZXJhdGlvbi0+Z2V0TWVzc2FnZSgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>5,11d</text>
+        <text>1343d</text>
       </register>
     </registers>
     <search>
-      <last-search>83</last-search>
+      <last-search>re</last-search>
       <last-offset />
-      <last-pattern>83</last-pattern>
+      <last-pattern>re</last-pattern>
       <last-replace>85</last-replace>
       <last-substitute>83</last-substitute>
       <last-dir>1</last-dir>
@@ -533,7 +524,6 @@ var_dump(
     </search>
     <history>
       <history-search>
-        <entry>once</entry>
         <entry>level</entry>
         <entry>to</entry>
         <entry>order</entry>
@@ -553,9 +543,9 @@ var_dump(
         <entry>arr</entry>
         <entry>find</entry>
         <entry>83</entry>
+        <entry>re</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL1wqXFMrL1wqXFN7NH0vZw==</entry>
         <entry encoding="base64">JzwsJz5zL1wqXHMqL1wqXHN7NH0vZw==</entry>
         <entry encoding="base64">JzwsJz5zL1wqXHMqL1wqKFxzKXs0fS9n</entry>
         <entry>nohw</entry>
@@ -572,9 +562,10 @@ var_dump(
         <entry>5,12d</entry>
         <entry>37,58d</entry>
         <entry encoding="base64">JzwsJz5zLzgzLzg1L2c=</entry>
-        <entry>noh</entry>
         <entry>5,11c</entry>
         <entry>5,11d</entry>
+        <entry>noh</entry>
+        <entry>1343d</entry>
       </history-cmd>
       <history-expr />
       <history-input />
