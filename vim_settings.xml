@@ -170,6 +170,9 @@
       <file name="D:/durian2/src/BB/DurianBundle/Payment/BeeePay.php" timestamp="1498618647648">
         <mark key="'" line="10" column="6" />
       </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Payment/WeiXin.php" timestamp="1499149118961">
+        <mark key="'" line="837" column="4" />
+      </file>
       <file name="D:/durian2/vendor/liip/functional-test-bundle/Test/WebTestCase.php" timestamp="1497250747047">
         <mark key="'" line="16" column="46" />
         <mark key="[" line="268" column="60" />
@@ -229,7 +232,7 @@
       <file name="D:/durian2/src/BB/DurianBundle/Tests/Controller/PaymentGatewayControllerTest.php" timestamp="1498444985801">
         <mark key="'" line="967" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499147673507">
+      <file name="/Dummy.txt" timestamp="1499148434221">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" timestamp="1498455436786">
@@ -341,7 +344,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="252" column="27" filename="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountRepository.php" />
       <jump line="0" column="0" filename="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountRepository.php" />
       <jump line="8" column="6" filename="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitControllerTest.php" />
       <jump line="349" column="60" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
@@ -441,6 +443,7 @@
       <jump line="30" column="55" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitAccountFunctionalTest.php" />
       <jump line="988" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitAccountFunctionalTest.php" />
       <jump line="677" column="4" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountController.php" />
+      <jump line="837" column="4" filename="D:/durian2/src/BB/DurianBundle/Payment/WeiXin.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
