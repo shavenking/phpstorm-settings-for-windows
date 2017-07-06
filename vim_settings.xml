@@ -20,6 +20,7 @@
       <file name="D:/durian2/src/BB/DurianBundle/Entity/LevelWithdrawBankCurrency.php" timestamp="1498463678373">
         <mark key="'" line="13" column="6" />
       </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Payment/Smartpay.php" timestamp="1499307974564" />
       <file name="/a.dummy" timestamp="1498727195867">
         <mark key="[" line="0" column="0" />
       </file>
@@ -185,7 +186,6 @@
         <mark key="." line="74" column="15" />
         <mark key="^" line="74" column="15" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Payment/Bill99.php" timestamp="1499305888527" />
       <file name="D:/durian2/src/BB/DurianBundle/Tests/Functional/DepositFunctionalTest.php" timestamp="1496634536044">
         <mark key="'" line="1294" column="4" />
         <mark key="[" line="1319" column="31" />
