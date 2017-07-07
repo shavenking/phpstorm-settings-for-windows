@@ -103,12 +103,12 @@
         <mark key="^" line="27" column="67" />
         <mark key="." line="27" column="68" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Resources/doc/exception_map.md" timestamp="1499399424636">
-        <mark key="'" line="2023" column="67" />
-        <mark key="[" line="2029" column="0" />
-        <mark key="]" line="2029" column="0" />
-        <mark key="^" line="2022" column="0" />
-        <mark key="." line="2029" column="0" />
+      <file name="D:/durian2/src/BB/DurianBundle/Resources/doc/exception_map.md" timestamp="1499407690451">
+        <mark key="'" line="2094" column="67" />
+        <mark key="[" line="2100" column="0" />
+        <mark key="]" line="2100" column="0" />
+        <mark key="^" line="2093" column="0" />
+        <mark key="." line="2100" column="0" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountLevelController.php" timestamp="1499399398896">
         <mark key="'" line="65" column="8" />
@@ -434,8 +434,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="217" column="0" filename="D:/durian2/src/BB/DurianBundle/Payment/UnionPay.php" />
-      <jump line="222" column="0" filename="D:/durian2/src/BB/DurianBundle/Payment/UnionPay.php" />
       <jump line="227" column="0" filename="D:/durian2/src/BB/DurianBundle/Payment/UnionPay.php" />
       <jump line="233" column="0" filename="D:/durian2/src/BB/DurianBundle/Payment/Telepay.php" />
       <jump line="235" column="0" filename="D:/durian2/src/BB/DurianBundle/Payment/Telepay.php" />
@@ -534,6 +532,8 @@
       <jump line="2028" column="10" filename="D:/durian2/src/BB/DurianBundle/Resources/doc/exception_map.md" />
       <jump line="1988" column="0" filename="D:/durian2/src/BB/DurianBundle/Resources/doc/exception_map.md" />
       <jump line="2023" column="67" filename="D:/durian2/src/BB/DurianBundle/Resources/doc/exception_map.md" />
+      <jump line="2007" column="0" filename="D:/durian2/src/BB/DurianBundle/Resources/doc/exception_map.md" />
+      <jump line="2094" column="67" filename="D:/durian2/src/BB/DurianBundle/Resources/doc/exception_map.md" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -583,25 +583,25 @@
         <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vbWFzdGVyCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">IyMjIFJlbWl0QWNjb3VudExldmVsIGV4Y2VwdGlvbiAjIyMKLSAgICoqMTUwODMwMDAxKiogIFxJbnZhbGlkQXJndW1lbnRFeGNlcHRpb24oJ0N1cnJlbmN5IG5vdCBzdXBwb3J0JykKLSAgICoqMTUwODMwMDAyKiogIFxJbnZhbGlkQXJndW1lbnRFeGNlcHRpb24oJ0ludmFsaWQgcmVtaXRfYWNjb3VudHMnKQotICAgKioxNTA4MzAwMDMqKiAgXEludmFsaWRBcmd1bWVudEV4Y2VwdGlvbignSW52YWxpZCByZW1pdF9hY2NvdW50cycpCi0gICAqKjE1MDgzMDAwNCoqICBcUnVudGltZUV4Y2VwdGlvbignQ2Fubm90IGNoYW5nZSB3aGVuIFJlbWl0QWNjb3VudCBkaXNhYmxlZCcpCi0gICAqKjE1MDgzMDAwNSoqICBcUnVudGltZUV4Y2VwdGlvbignUmVtaXRBY2NvdW50IE9yZGVyIGhhcyBiZWVuIGNoYW5nZWQnKQotICAgKioxNTA4MzAwMDYqKiAgXFJ1bnRpbWVFeGNlcHRpb24oJ0R1cGxpY2F0ZSBSZW1pdEFjY291bnQgb3JkZXJJZCcpCj09PT09PT0K</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vYzIxODIwMS0xCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECiMjIyBSZW1pdEFjY291bnRMZXZlbCBleGNlcHRpb24gIyMjCi0gICAqKjE1MDgzMDAwMSoqICBcSW52YWxpZEFyZ3VtZW50RXhjZXB0aW9uKCdDdXJyZW5jeSBub3Qgc3VwcG9ydCcpCi0gICAqKjE1MDgzMDAwMioqICBcSW52YWxpZEFyZ3VtZW50RXhjZXB0aW9uKCdJbnZhbGlkIHJlbWl0X2FjY291bnRzJykKLSAgICoqMTUwODMwMDAzKiogIFxJbnZhbGlkQXJndW1lbnRFeGNlcHRpb24oJ0ludmFsaWQgcmVtaXRfYWNjb3VudHMnKQotICAgKioxNTA4MzAwMDQqKiAgXFJ1bnRpbWVFeGNlcHRpb24oJ0Nhbm5vdCBjaGFuZ2Ugd2hlbiBSZW1pdEFjY291bnQgZGlzYWJsZWQnKQotICAgKioxNTA4MzAwMDUqKiAgXFJ1bnRpbWVFeGNlcHRpb24oJ1JlbWl0QWNjb3VudCBPcmRlciBoYXMgYmVlbiBjaGFuZ2VkJykKLSAgICoqMTUwODMwMDA2KiogIFxSdW50aW1lRXhjZXB0aW9uKCdEdXBsaWNhdGUgUmVtaXRBY2NvdW50IG9yZGVySWQnKQo9PT09PT09Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBbRmVhdHVyZV23c7xXplCypLazu8im5qVkscanx6zbw/alXK/gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vbWFzdGVyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">IyMjIFJlbWl0QWNjb3VudExldmVsIGV4Y2VwdGlvbiAjIyMKLSAgICoqMTUwODMwMDAxKiogIFxJbnZhbGlkQXJndW1lbnRFeGNlcHRpb24oJ0N1cnJlbmN5IG5vdCBzdXBwb3J0JykKLSAgICoqMTUwODMwMDAyKiogIFxJbnZhbGlkQXJndW1lbnRFeGNlcHRpb24oJ0ludmFsaWQgcmVtaXRfYWNjb3VudHMnKQotICAgKioxNTA4MzAwMDMqKiAgXEludmFsaWRBcmd1bWVudEV4Y2VwdGlvbignSW52YWxpZCByZW1pdF9hY2NvdW50cycpCi0gICAqKjE1MDgzMDAwNCoqICBcUnVudGltZUV4Y2VwdGlvbignQ2Fubm90IGNoYW5nZSB3aGVuIFJlbWl0QWNjb3VudCBkaXNhYmxlZCcpCi0gICAqKjE1MDgzMDAwNSoqICBcUnVudGltZUV4Y2VwdGlvbignUmVtaXRBY2NvdW50IE9yZGVyIGhhcyBiZWVuIGNoYW5nZWQnKQotICAgKioxNTA4MzAwMDYqKiAgXFJ1bnRpbWVFeGNlcHRpb24oJ0R1cGxpY2F0ZSBSZW1pdEFjY291bnQgb3JkZXJJZCcpCj09PT09PT0K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLzgzLzg1L2c=</text>
