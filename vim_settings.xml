@@ -71,6 +71,13 @@
         <mark key="'" line="837" column="4" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Payment/LefuPay.php" timestamp="1499670936308" />
+      <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" timestamp="1499675571553">
+        <mark key="'" line="36" column="4" />
+        <mark key="[" line="1710" column="0" />
+        <mark key="]" line="1710" column="0" />
+        <mark key="^" line="1710" column="21" />
+        <mark key="." line="1710" column="0" />
+      </file>
       <file name="D:/durian2/src/BB/DurianBundle/Payment/Eboopay.php" timestamp="1499659373408" />
       <file name="D:/durian2/src/BB/DurianBundle/Controller/DepositController.php" timestamp="1499667942558">
         <mark key="'" line="826" column="13" />
@@ -130,8 +137,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="323" column="0" filename="D:/durian2/src/BB/DurianBundle/Payment/Telepay.php" />
-      <jump line="292" column="8" filename="D:/durian2/src/BB/DurianBundle/Payment/Telepay.php" />
       <jump line="256" column="0" filename="D:/durian2/src/BB/DurianBundle/Payment/Telepay.php" />
       <jump line="73" column="8" filename="D:/durian2/src/BB/DurianBundle/Command/CheckDepositTrackingCommand.php" />
       <jump line="15" column="6" filename="D:/durian2/src/BB/DurianBundle/Command/SendDepositTrackingRequestCommand.php" />
@@ -230,6 +235,8 @@
       <jump line="51" column="5" filename="D:/payment/pay.php" />
       <jump line="0" column="0" filename="D:/payment/return.php" />
       <jump line="619" column="8" filename="D:/durian2/src/BB/DurianBundle/Payment/HeYiPay.php" />
+      <jump line="330" column="5" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" />
+      <jump line="36" column="4" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
