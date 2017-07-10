@@ -161,6 +161,7 @@
       <file name="D:/durian2/src/BB/DurianBundle/Resources/views/Default/Demo/AutoConfirm/listEntry.html.twig" timestamp="1498710702794">
         <mark key="'" line="358" column="0" />
       </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Command/ActivateMerchantCommand.php" timestamp="1499650093886" />
       <file name="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountLevelRepository.php" timestamp="1498808895367">
         <mark key="'" line="10" column="6" />
         <mark key="[" line="78" column="5" />
@@ -309,7 +310,6 @@
       <file name="D:/durian2/src/BB/DurianBundle/Tests/Controller/PaymentGatewayControllerTest.php" timestamp="1498444985801">
         <mark key="'" line="967" column="0" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Entity/LevelCurrency.php" timestamp="1499395414814" />
       <file name="/Dummy.txt" timestamp="1499333805875">
         <mark key="[" line="0" column="0" />
       </file>
@@ -601,7 +601,7 @@
       <last-replace>85</last-replace>
       <last-substitute>83</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
