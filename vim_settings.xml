@@ -60,7 +60,7 @@
         <mark key="^" line="820" column="38" />
         <mark key="." line="820" column="38" />
       </file>
-      <file name="D:/payment/return.php" timestamp="1499330882068">
+      <file name="D:/payment/return.php" timestamp="1499654816961">
         <mark key="[" line="583" column="0" />
         <mark key="]" line="586" column="4" />
         <mark key="^" line="585" column="37" />
@@ -204,6 +204,7 @@
         <mark key="^" line="1319" column="31" />
         <mark key="." line="1319" column="31" />
       </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Payment/AliPayApp.php" timestamp="1499655409208" />
       <file name="D:/durian2/src/BB/DurianBundle/Payment/BeeePay.php" timestamp="1498618647648">
         <mark key="'" line="10" column="6" />
       </file>
@@ -266,6 +267,7 @@
       <file name="D:/durian2/src/BB/DurianBundle/Controller/DepositController.php" timestamp="1499653540347">
         <mark key="'" line="826" column="13" />
       </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Payment/AliPay.php" timestamp="1499655397044" />
       <file name="D:/durian2/src/BB/DurianBundle/Entity/RemitAccount.php" timestamp="1498706676068">
         <mark key="'" line="78" column="5" />
         <mark key="[" line="388" column="29" />
@@ -306,10 +308,11 @@
         <mark key="^" line="591" column="45" />
         <mark key="." line="591" column="45" />
       </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Payment/NewEhking.php" timestamp="1499654427485" />
       <file name="D:/durian2/src/BB/DurianBundle/Tests/Controller/PaymentGatewayControllerTest.php" timestamp="1498444985801">
         <mark key="'" line="967" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499333805875">
+      <file name="/Dummy.txt" timestamp="1499654793069">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" timestamp="1498455436786">
