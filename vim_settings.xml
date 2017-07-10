@@ -167,10 +167,6 @@
         <mark key="." line="31" column="129" />
         <mark key="^" line="31" column="128" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Payment/Operator.php" timestamp="1499408855214">
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="103" column="83" />
-      </file>
       <file name="D:/durian2/src/BB/DurianBundle/Payment/Telepay.php" timestamp="1499333654684">
         <mark key="'" line="325" column="50" />
         <mark key="[" line="198" column="30" />
@@ -292,6 +288,9 @@
         <mark key="." line="591" column="45" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Payment/NewEhking.php" timestamp="1499654427485" />
+      <file name="D:/durian2/src/BB/DurianBundle/Payment/HeYiPay.php" timestamp="1499668822005">
+        <mark key="'" line="619" column="8" />
+      </file>
       <file name="D:/durian2/src/BB/DurianBundle/Payment/Befpay.php" timestamp="1499656362262" />
       <file name="D:/durian2/src/BB/DurianBundle/Tests/Controller/PaymentGatewayControllerTest.php" timestamp="1498444985801">
         <mark key="'" line="967" column="0" />
@@ -396,7 +395,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="299" column="0" filename="D:/durian2/src/BB/DurianBundle/Payment/Telepay.php" />
       <jump line="323" column="0" filename="D:/durian2/src/BB/DurianBundle/Payment/Telepay.php" />
       <jump line="292" column="8" filename="D:/durian2/src/BB/DurianBundle/Payment/Telepay.php" />
       <jump line="256" column="0" filename="D:/durian2/src/BB/DurianBundle/Payment/Telepay.php" />
@@ -496,6 +494,7 @@
       <jump line="165" column="32" filename="D:/durian2/src/BB/DurianBundle/Payment/ChiFu.php" />
       <jump line="51" column="5" filename="D:/payment/pay.php" />
       <jump line="0" column="0" filename="D:/payment/return.php" />
+      <jump line="619" column="8" filename="D:/durian2/src/BB/DurianBundle/Payment/HeYiPay.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
