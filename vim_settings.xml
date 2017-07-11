@@ -3,6 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/durian2/app/DoctrineMigrations/Version20140728123200.php" timestamp="1499758780398">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="165" />
+      </file>
       <file name="D:/durian2/src/BB/DurianBundle/Entity/LevelWithdrawBankCurrency.php" timestamp="1498463678373">
         <mark key="'" line="13" column="6" />
       </file>
@@ -40,12 +44,11 @@
       <file name="D:/durian2/vendor/doctrine/orm/lib/Doctrine/ORM/EntityManager.php" timestamp="1499743289067">
         <mark key="'" line="507" column="20" />
       </file>
-      <file name="D:/durian2/app/DoctrineMigrations/Version20170711114638.php" timestamp="1499744980006">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="20" column="80" />
-        <mark key="]" line="20" column="92" />
-        <mark key="." line="20" column="92" />
-        <mark key="^" line="20" column="92" />
+      <file name="D:/durian2/app/DoctrineMigrations/Version20170711114638.php" timestamp="1499759162957">
+        <mark key="[" line="21" column="250" />
+        <mark key="]" line="21" column="250" />
+        <mark key="." line="21" column="250" />
+        <mark key="^" line="21" column="250" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Resources/doc/exception_map.md" timestamp="1499666927934">
         <mark key="'" line="2094" column="67" />
@@ -74,16 +77,23 @@
       <file name="D:/durian2/src/BB/DurianBundle/Command/ActivateMerchantCardCommand.php" timestamp="1499737813701">
         <mark key="'" line="193" column="4" />
       </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Tests/Functional/MonitorFunctionalTest.php" timestamp="1499759379321">
+        <mark key="[" line="53" column="29" />
+        <mark key="]" line="53" column="30" />
+        <mark key="." line="53" column="30" />
+        <mark key="^" line="53" column="30" />
+      </file>
       <file name="D:/durian2/src/BB/DurianBundle/Entity/MerchantBase.php" timestamp="1499744296755">
         <mark key="'" line="490" column="0" />
         <mark key="[" line="467" column="0" />
         <mark key="]" line="499" column="5" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Tests/DataFixtures/ORM/LoadBackgroundProcess.php" timestamp="1499757031018">
-        <mark key="[" line="195" column="24" />
-        <mark key="]" line="198" column="32" />
-        <mark key="^" line="198" column="32" />
-        <mark key="." line="198" column="32" />
+      <file name="D:/durian2/src/BB/DurianBundle/Tests/DataFixtures/ORM/LoadBackgroundProcess.php" timestamp="1499759154646">
+        <mark key="'" line="201" column="0" />
+        <mark key="[" line="193" column="65" />
+        <mark key="]" line="193" column="83" />
+        <mark key="^" line="193" column="74" />
+        <mark key="." line="193" column="74" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Resources/views/Default/Demo/AutoConfirm/listEntry.html.twig" timestamp="1498710702794">
         <mark key="'" line="358" column="0" />
@@ -105,12 +115,18 @@
         <mark key="^" line="732" column="49" />
         <mark key="." line="732" column="49" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Tests/Command/ActivateRemitAccountCommandTest.php" timestamp="1499757387599">
-        <mark key="'" line="160" column="0" />
-        <mark key="[" line="162" column="0" />
-        <mark key="]" line="162" column="0" />
-        <mark key="." line="162" column="0" />
-        <mark key="^" line="96" column="0" />
+      <file name="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountStatRepository.php" timestamp="1499761743240">
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="140" column="0" />
+        <mark key="^" line="136" column="14" />
+        <mark key="." line="140" column="0" />
+      </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Tests/Command/ActivateRemitAccountCommandTest.php" timestamp="1499758727632">
+        <mark key="'" line="174" column="0" />
+        <mark key="[" line="163" column="15" />
+        <mark key="]" line="163" column="34" />
+        <mark key="." line="163" column="34" />
+        <mark key="^" line="163" column="34" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Payment/BeeePay.php" timestamp="1498618647648">
         <mark key="'" line="10" column="6" />
@@ -125,24 +141,26 @@
         <mark key="." line="466" column="15" />
         <mark key="^" line="574" column="54" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Command/ActivateRemitAccountCommand.php" timestamp="1499756634031">
-        <mark key="'" line="14" column="12" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
+      <file name="D:/durian2/src/BB/DurianBundle/Command/ActivateRemitAccountCommand.php" timestamp="1499759769046">
+        <mark key="'" line="64" column="24" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="70" column="19" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Monitor/Background.php" timestamp="1499757404896">
+      <file name="D:/durian2/src/BB/DurianBundle/Monitor/Background.php" timestamp="1499758253924">
+        <mark key="'" line="239" column="20" />
         <mark key="[" line="46" column="28" />
         <mark key="]" line="80" column="15" />
         <mark key="^" line="80" column="15" />
         <mark key="." line="80" column="15" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" timestamp="1499675571553">
-        <mark key="'" line="36" column="4" />
-        <mark key="[" line="1710" column="0" />
-        <mark key="]" line="1710" column="0" />
-        <mark key="^" line="1710" column="21" />
-        <mark key="." line="1710" column="0" />
+      <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" timestamp="1499762434610">
+        <mark key="'" line="583" column="12" />
+        <mark key="[" line="598" column="0" />
+        <mark key="]" line="598" column="0" />
+        <mark key="." line="598" column="0" />
+        <mark key="^" line="586" column="19" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Controller/DepositController.php" timestamp="1499667942558">
         <mark key="'" line="826" column="13" />
@@ -186,11 +204,18 @@
       <file name="D:/durian2/src/BB/DurianBundle/Tests/Controller/PaymentGatewayControllerTest.php" timestamp="1498444985801">
         <mark key="'" line="967" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499757518198">
+      <file name="/Dummy.txt" timestamp="1499762254880">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Controller/PaymentGatewayController.php" timestamp="1498465531989">
         <mark key="'" line="1361" column="33" />
+      </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountRepository.php" timestamp="1499762757607">
+        <mark key="'" line="12" column="6" />
+        <mark key="[" line="225" column="11" />
+        <mark key="]" line="225" column="23" />
+        <mark key="." line="225" column="23" />
+        <mark key="^" line="225" column="23" />
       </file>
       <file name="/__dummy.css" timestamp="1496713099045">
         <mark key="[" line="0" column="0" />
@@ -224,13 +249,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2028" column="10" filename="D:/durian2/src/BB/DurianBundle/Resources/doc/exception_map.md" />
-      <jump line="1988" column="0" filename="D:/durian2/src/BB/DurianBundle/Resources/doc/exception_map.md" />
-      <jump line="2023" column="67" filename="D:/durian2/src/BB/DurianBundle/Resources/doc/exception_map.md" />
-      <jump line="2007" column="0" filename="D:/durian2/src/BB/DurianBundle/Resources/doc/exception_map.md" />
-      <jump line="2094" column="67" filename="D:/durian2/src/BB/DurianBundle/Resources/doc/exception_map.md" />
-      <jump line="4" column="0" filename="D:/durian2/test.php" />
-      <jump line="563" column="0" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" />
       <jump line="826" column="13" filename="D:/durian2/src/BB/DurianBundle/Controller/DepositController.php" />
       <jump line="165" column="32" filename="D:/durian2/src/BB/DurianBundle/Payment/ChiFu.php" />
       <jump line="51" column="5" filename="D:/payment/pay.php" />
@@ -268,7 +286,6 @@
       <jump line="487" column="0" filename="D:/durian2/src/BB/DurianBundle/Entity/MerchantBase.php" />
       <jump line="490" column="0" filename="D:/durian2/src/BB/DurianBundle/Entity/MerchantBase.php" />
       <jump line="715" column="5" filename="D:/durian2/src/BB/DurianBundle/Entity/RemitAccount.php" />
-      <jump line="21" column="6" filename="D:/durian2/app/DoctrineMigrations/Version20170711114638.php" />
       <jump line="84" column="41" filename="D:/durian2/app/DoctrineMigrations/Version20170711114638.php" />
       <jump line="32" column="0" filename="D:/durian2/app/DoctrineMigrations/Version20170711114638.php" />
       <jump line="44" column="15" filename="D:/durian2/src/BB/DurianBundle/Tests/Command/ActivateRemitAccountCommandTest.php" />
@@ -324,6 +341,14 @@
       <jump line="154" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Command/ActivateRemitAccountCommandTest.php" />
       <jump line="151" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Command/ActivateRemitAccountCommandTest.php" />
       <jump line="160" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Command/ActivateRemitAccountCommandTest.php" />
+      <jump line="239" column="20" filename="D:/durian2/src/BB/DurianBundle/Monitor/Background.php" />
+      <jump line="21" column="127" filename="D:/durian2/app/DoctrineMigrations/Version20170711114638.php" />
+      <jump line="200" column="25" filename="D:/durian2/src/BB/DurianBundle/Tests/DataFixtures/ORM/LoadBackgroundProcess.php" />
+      <jump line="201" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/DataFixtures/ORM/LoadBackgroundProcess.php" />
+      <jump line="62" column="24" filename="D:/durian2/src/BB/DurianBundle/Command/ActivateRemitAccountCommand.php" />
+      <jump line="589" column="65" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" />
+      <jump line="11" column="6" filename="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountRepository.php" />
+      <jump line="583" column="12" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -335,61 +360,60 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">JHRoaXMtPmFzc2VydE5vdEVtcHR5KCRiYWNrZ3JvdW5kUHJvY2Vzcyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>執行</text>
       </register>
       <register name="-" type="4">
-        <text>NotEmpty</text>
+        <text>執行</text>
       </register>
       <register name="/" type="4">
-        <text>background</text>
+        <text>when</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CiAgICAgICAgLy8gvVS7eyBEQiClv7FgrPa//SBjb21tYW5kILHSsLGlzgogICAgICAgICRub3cgPSBuZXcgRGF0ZVRpbWUoKTsKICAgICAgICAkYmFja2dyb3VuZFByb2Nlc3MgPSAkZW0tPmdldFJlcG9zaXRvcnkoJ0JCRHVyaWFuQnVuZGxlOkJhY2tncm91bmRQcm9jZXNzJyktPmZpbmRPbmVCeShbCiAgICAgICAgICAgICdiZWdpbkF0JyA9PiAkbm93LAogICAgICAgICAgICAnZW5kQXQnID0+ICRub3csCiAgICAgICAgICAgICdtc2dOdW0nID0+ICcyJywKICAgICAgICAgICAgJ25hbWUnID0+ICdhY3RpdmF0ZS1yZW1pdC1hY2NvdW50JywKICAgICAgICBdKTsKCiAgICAgICAgJHRoaXMtPmFzc2VydE5vdE51bGwoJGJhY2tncm91bmRQcm9jZXNzKTsK</text>
+      <register name="0" type="4">
+        <text>恢復公司入款帳號額度</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">JHRoaXMtPmFzc2VydE5vdEVtcHR5KCRiYWNrZ3JvdW5kUHJvY2Vzcyk7Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgLy8gvVS7e6hTprOwT7/9pfSm8yBsb2cKICAgICAgICAkdGhpcy0+YXNzZXJ0RmlsZU5vdEV4aXN0cygkdGhpcy0+bG9nKTsKCiAgICAgICAgJG5vdyA9IG5ldyBEYXRlVGltZSgpOwogICAgICAgICRiYWNrZ3JvdW5kUHJvY2VzcyA9ICRlbVNoYXJlLT5nZXRSZXBvc2l0b3J5KCdCQkR1cmlhbkJ1bmRsZTpCYWNrZ3JvdW5kUHJvY2VzcycpLT5maW5kQnkoWwogICAgICAgICAgICAnYmVnaW5BdCcgPT4gJG5vdywKICAgICAgICAgICAgJ2VuZEF0JyA9PiAkbm93LAogICAgICAgICAgICAnbnVtJyA9PiAnMicsCiAgICAgICAgICAgICduYW1lJyA9PiAnYWN0aXZhdGUtcmVtaXQtYWNjb3VudCcsCiAgICAgICAgXSk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJycK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJycK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ0JCXER1cmlhbkJ1bmRsZVxUZXN0c1xEYXRhRml4dHVyZXNcT1JNXExvYWRSZW1pdEFjY291bnREYXRhJywK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XFZhbGlkYXRvclxDb25zdHJhaW50c1xEYXRlVGltZTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="8">
+        <text encoding="base64">JGVtLT5nZXRSZXBvc2l0b3J5KCdCQkR1cmlhbkJ1bmRsZTpSZW1pdEFjY291bnRTdGF0JykKJGVtLT5nZXRSZXBvc2l0b3J5KCdCQkR1cmlhbkJ1bmRsZTpSZW1pdEFjY291bnRTdGF0Jyk=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gbG9nCiAgICAgICAgICAgIGlmICgkYWNjb3VudC0+aXNTdXNwZW5kZWQoKSkgewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJGVtLT5nZXRSZXBvc2l0b3J5KCdCQkR1cmlhbkJ1bmRsZTpSZW1pdEFjY291bnQnKQogICAgICAgICAgICAgICAgLT5zdXNwZW5kSWZCYW5rTGltaXRSZWFjaGVkKCRhY2NvdW50KTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkaGFuZGxlci0+Y2xvc2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5maW5kT25lQnkoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>background</last-search>
+      <last-search>when</last-search>
       <last-offset />
-      <last-pattern>background</last-pattern>
+      <last-pattern>when</last-pattern>
       <last-replace>85</last-replace>
       <last-substitute>83</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>150</entry>
         <entry>670</entry>
         <entry>from</entry>
         <entry>ma</entry>
@@ -409,6 +433,7 @@
         <entry>get</entry>
         <entry>datet</entry>
         <entry>background</entry>
+        <entry>when</entry>
       </history-search>
       <history-cmd>
         <entry>5,12d</entry>
