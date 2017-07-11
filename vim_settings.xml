@@ -6,11 +6,41 @@
       <file name="D:/durian2/src/BB/DurianBundle/Entity/LevelWithdrawBankCurrency.php" timestamp="1498463678373">
         <mark key="'" line="13" column="6" />
       </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Tests/Payment/TelepayTest.php" timestamp="1499737135908">
+        <mark key="'" line="38" column="26" />
+        <mark key="[" line="334" column="30" />
+        <mark key="]" line="335" column="7" />
+        <mark key="." line="335" column="7" />
+        <mark key="^" line="335" column="7" />
+      </file>
       <file name="/a.dummy" timestamp="1499334338857">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" timestamp="1499675571553">
+        <mark key="'" line="36" column="4" />
+        <mark key="[" line="1710" column="0" />
+        <mark key="]" line="1710" column="0" />
+        <mark key="^" line="1710" column="21" />
+        <mark key="." line="1710" column="0" />
+      </file>
       <file name="D:/durian2/src/BB/DurianBundle/Entity/RemitEntry.php" timestamp="1497927301579">
         <mark key="'" line="1273" column="0" />
+      </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Controller/DepositController.php" timestamp="1499667942558">
+        <mark key="'" line="826" column="13" />
+        <mark key="[" line="945" column="0" />
+        <mark key="]" line="945" column="81" />
+        <mark key="^" line="945" column="81" />
+        <mark key="." line="945" column="81" />
+      </file>
+      <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_8.php" timestamp="1498201286165">
+        <mark key="'" line="621" column="19" />
+      </file>
+      <file name="D:/durian2/vendor/illuminate/support/Illuminate/Support/helpers.php" timestamp="1499321705210">
+        <mark key="'" line="240" column="13" />
+      </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Tests/Payment/UPayTest.php" timestamp="1498609223580">
+        <mark key="'" line="8" column="6" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Payment/ChiFu.php" timestamp="1499661089627">
         <mark key="'" line="165" column="32" />
@@ -27,12 +57,31 @@
         <mark key="." line="4" column="38" />
         <mark key="^" line="4" column="38" />
       </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Payment/Neteller.php" timestamp="1499680709686">
+        <mark key="'" line="93" column="20" />
+        <mark key="[" line="93" column="53" />
+        <mark key="]" line="93" column="52" />
+        <mark key="^" line="93" column="52" />
+        <mark key="." line="93" column="52" />
+      </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Resources/translations/messages.zh_CN.yml" timestamp="1498708804324">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Payment/HeYiPay.php" timestamp="1499668822005">
+        <mark key="'" line="619" column="8" />
+      </file>
       <file name="D:/durian2/src/BB/DurianBundle/Resources/doc/exception_map.md" timestamp="1499666927934">
         <mark key="'" line="2094" column="67" />
         <mark key="[" line="2100" column="0" />
         <mark key="]" line="2100" column="0" />
         <mark key="^" line="2093" column="0" />
         <mark key="." line="2100" column="0" />
+      </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Tests/Controller/PaymentGatewayControllerTest.php" timestamp="1498444985801">
+        <mark key="'" line="967" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1499679067404">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Entity/RemitAccountStat.php" timestamp="1499657907929">
         <mark key="'" line="69" column="36" />
@@ -47,76 +96,6 @@
       <file name="D:/durian2/src/BB/DurianBundle/Entity/Cash.php" timestamp="1499395986004">
         <mark key="'" line="19" column="6" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Controller/RewardController.php" timestamp="1499666944766" />
-      <file name="D:/durian2/src/BB/DurianBundle/Resources/views/Default/Demo/AutoConfirm/listEntry.html.twig" timestamp="1498710702794">
-        <mark key="'" line="358" column="0" />
-      </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Command/ActivateMerchantCommand.php" timestamp="1499650093886" />
-      <file name="D:/payment/pay.php" timestamp="1499666746734">
-        <mark key="'" line="51" column="5" />
-      </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Controller/AutoConfirmController.php" timestamp="1499651428082">
-        <mark key="'" line="1338" column="0" />
-        <mark key="[" line="732" column="39" />
-        <mark key="]" line="732" column="49" />
-        <mark key="^" line="732" column="49" />
-        <mark key="." line="732" column="49" />
-      </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Payment/Bill99.php" timestamp="1499656704236" />
-      <file name="D:/durian2/src/BB/DurianBundle/Payment/AliPayApp.php" timestamp="1499655409208" />
-      <file name="D:/durian2/src/BB/DurianBundle/Payment/BeeePay.php" timestamp="1498618647648">
-        <mark key="'" line="10" column="6" />
-      </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Payment/WeiXin.php" timestamp="1499321128557">
-        <mark key="'" line="837" column="4" />
-      </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Payment/LefuPay.php" timestamp="1499670936308" />
-      <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" timestamp="1499675571553">
-        <mark key="'" line="36" column="4" />
-        <mark key="[" line="1710" column="0" />
-        <mark key="]" line="1710" column="0" />
-        <mark key="^" line="1710" column="21" />
-        <mark key="." line="1710" column="0" />
-      </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Payment/Eboopay.php" timestamp="1499659373408" />
-      <file name="D:/durian2/src/BB/DurianBundle/Controller/DepositController.php" timestamp="1499667942558">
-        <mark key="'" line="826" column="13" />
-        <mark key="[" line="945" column="0" />
-        <mark key="]" line="945" column="81" />
-        <mark key="^" line="945" column="81" />
-        <mark key="." line="945" column="81" />
-      </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Payment/AliPay.php" timestamp="1499655397044" />
-      <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_8.php" timestamp="1498201286165">
-        <mark key="'" line="621" column="19" />
-      </file>
-      <file name="D:/durian2/vendor/illuminate/support/Illuminate/Support/helpers.php" timestamp="1499321705210">
-        <mark key="'" line="240" column="13" />
-      </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Tests/Payment/UPayTest.php" timestamp="1498609223580">
-        <mark key="'" line="8" column="6" />
-      </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Payment/Neteller.php" timestamp="1499680709686">
-        <mark key="'" line="93" column="20" />
-        <mark key="[" line="93" column="53" />
-        <mark key="]" line="93" column="52" />
-        <mark key="^" line="93" column="52" />
-        <mark key="." line="93" column="52" />
-      </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Resources/translations/messages.zh_CN.yml" timestamp="1498708804324">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Payment/NewEhking.php" timestamp="1499654427485" />
-      <file name="D:/durian2/src/BB/DurianBundle/Payment/HeYiPay.php" timestamp="1499668822005">
-        <mark key="'" line="619" column="8" />
-      </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Payment/Befpay.php" timestamp="1499656362262" />
-      <file name="D:/durian2/src/BB/DurianBundle/Tests/Controller/PaymentGatewayControllerTest.php" timestamp="1498444985801">
-        <mark key="'" line="967" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1499679067404">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/durian2/src/BB/DurianBundle/Controller/PaymentGatewayController.php" timestamp="1498465531989">
         <mark key="'" line="1361" column="33" />
       </file>
@@ -129,23 +108,39 @@
       <file name="D:/durian2/src/BB/DurianBundle/AutoConfirm/MatchMaker.php" timestamp="1498718523218">
         <mark key="'" line="9" column="6" />
       </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Resources/views/Default/Demo/AutoConfirm/listEntry.html.twig" timestamp="1498710702794">
+        <mark key="'" line="358" column="0" />
+      </file>
       <file name="D:/durian2/src/BB/DurianBundle/Entity/DomainWithdrawBankCurrency.php" timestamp="1498442233910">
         <mark key="'" line="33" column="0" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Payment/Betwinpay.php" timestamp="1499656604583" />
+      <file name="D:/payment/pay.php" timestamp="1499666746734">
+        <mark key="'" line="51" column="5" />
+      </file>
       <file name="D:/durian2/src/BB/DurianBundle/Resources/translations/messages.zh_TW.yml" timestamp="1498787657284">
         <mark key="'" line="20" column="21" />
       </file>
       <file name="D:/durian2/vendor/doctrine/collections/lib/Doctrine/Common/Collections/ArrayCollection.php" timestamp="1498448564994">
         <mark key="'" line="33" column="45" />
       </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Controller/AutoConfirmController.php" timestamp="1499651428082">
+        <mark key="'" line="1338" column="0" />
+        <mark key="[" line="732" column="39" />
+        <mark key="]" line="732" column="49" />
+        <mark key="^" line="732" column="49" />
+        <mark key="." line="732" column="49" />
+      </file>
       <file name="D:/durian2/src/BB/DurianBundle/Entity/BankCurrency.php" timestamp="1498440360658">
         <mark key="'" line="14" column="6" />
       </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Payment/BeeePay.php" timestamp="1498618647648">
+        <mark key="'" line="10" column="6" />
+      </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Payment/WeiXin.php" timestamp="1499321128557">
+        <mark key="'" line="837" column="4" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="6" filename="D:/durian2/src/BB/DurianBundle/Command/SendDepositTrackingRequestCommand.php" />
-      <jump line="21" column="0" filename="D:/durian2/src/BB/DurianBundle/Command/SendDepositTrackingRequestCommand.php" />
       <jump line="26" column="0" filename="D:/durian2/src/BB/DurianBundle/Command/SendDepositTrackingRequestCommand.php" />
       <jump line="31" column="0" filename="D:/durian2/src/BB/DurianBundle/Command/SendDepositTrackingRequestCommand.php" />
       <jump line="0" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/TelepayTest.php" />
@@ -244,6 +239,8 @@
       <jump line="36" column="4" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" />
       <jump line="18" column="29" filename="D:/durian2/src/BB/DurianBundle/Payment/Neteller.php" />
       <jump line="93" column="20" filename="D:/durian2/src/BB/DurianBundle/Payment/Neteller.php" />
+      <jump line="24" column="65" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/TelepayTest.php" />
+      <jump line="38" column="26" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/TelepayTest.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -274,10 +271,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>secret'];
-
-        $clientData = $clientId . ':' . $client</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ21lcmNoYW50SWQnID0+ICcxMDg0JywKICAgICAgICAgICAgJ2RvbWFpbicgPT4gJzYnLAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">aW1wbG9kZSgnJicsICRhcnIp</text>
@@ -288,39 +283,39 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkbm93ID0gbmV3IFxEYXRlVGltZSgnbm93Jyk7CiAgICAgICAgJGNyb24gPSBcQ3JvblxDcm9uRXhwcmVzc2lvbjo6ZmFjdG9yeSgnMCAwICogKiAqJyk7IC8vqEOk0aTIqV0xMsJJCiAgICAgICAgJGF0T2JqZWN0ID0gJGNyb24tPmdldFByZXZpb3VzUnVuRGF0ZSgkbm93LT5mb3JtYXQoJ1ktbS1kIEg6aTpzJyksIDAsIHRydWUpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>secret'];
-
-        $clientData = $clientId . ':' . $client</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ21lcmNoYW50SWQnID0+ICcxMDg0JywKICAgICAgICAgICAgJ2RvbWFpbicgPT4gJzYnLAo=</text>
       </register>
       <register name="2" type="4">
         <text>secret'];
 
         $clientData = $clientId . ':' . $client</text>
       </register>
-      <register name="3" type="8">
+      <register name="3" type="4">
+        <text>secret'];
+
+        $clientData = $clientId . ':' . $client</text>
+      </register>
+      <register name="4" type="8">
         <text>*
 *
 *
 *</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">JGFyciA9IFsKICAgICdhJyA9PiAnYScsCiAgICAnYicgPT4gbnVsbCwKICAgICdjJyA9PiAnYycKXTsKCnZhcl9kdW1wKGh0dHBfYnVpbGRfcXVlcnkoJGFycikpOw==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">Zm9yZWFjaCAoJGFyciBhcyAka2V5ID0+JGEpIHsKICAgIGlmIChpc3NldCgkYSkpCn0=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">dmFyX2R1bXAoYmFzZTY0X2VuY29kZSgnJykpOwo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">dHJ5IHsKICAgICRzb21ldGhpbmcgPSBudWxsOwogICAgJHNvbWV0aGluZy0+Z2V0TGV2ZWxJZCgpOwp9IGNhdGNoIChcRXhjZXB0aW9uICRlKSB7CiAgICBlY2hvICdoaSc7Cn0=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhcl9kdW1wKGRhdGVfcGFyc2UoMTIzMTIzMDk4MTAyMzk4MTIpKTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhcl9kdW1wKGRhdGVfcGFyc2UoMTIzMTIzMDk4MTAyMzk4MTIpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
