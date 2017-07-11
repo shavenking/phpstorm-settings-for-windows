@@ -108,12 +108,9 @@
         <mark key="." line="325" column="0" />
         <mark key="^" line="323" column="7" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Controller/AutoConfirmController.php" timestamp="1499763355179">
-        <mark key="'" line="820" column="20" />
-        <mark key="[" line="819" column="0" />
-        <mark key="]" line="821" column="60" />
-        <mark key="." line="820" column="73" />
-        <mark key="^" line="820" column="73" />
+      <file name="D:/durian2/src/BB/DurianBundle/Controller/AutoConfirmController.php" timestamp="1499766131546">
+        <mark key="'" line="822" column="20" />
+        <mark key="[" line="819" column="45" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountStatRepository.php" timestamp="1499761743240">
         <mark key="[" line="140" column="0" />
@@ -361,10 +358,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>account</text>
+        <text encoding="base64">JHJlbWl0QWNjb3VudC0+aXNTdXNwZW5kZWQoKQ==</text>
       </register>
       <register name="-" type="4">
-        <text>account</text>
+        <text encoding="base64">JHJlbWl0QWNjb3VudC0+aXNTdXNwZW5kZWQoKQ==</text>
       </register>
       <register name="/" type="4">
         <text>acc</text>
