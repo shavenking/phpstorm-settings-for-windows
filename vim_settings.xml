@@ -108,12 +108,12 @@
         <mark key="." line="325" column="0" />
         <mark key="^" line="323" column="7" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Controller/AutoConfirmController.php" timestamp="1499651428082">
-        <mark key="'" line="1338" column="0" />
-        <mark key="[" line="732" column="39" />
-        <mark key="]" line="732" column="49" />
-        <mark key="^" line="732" column="49" />
-        <mark key="." line="732" column="49" />
+      <file name="D:/durian2/src/BB/DurianBundle/Controller/AutoConfirmController.php" timestamp="1499763355179">
+        <mark key="'" line="820" column="20" />
+        <mark key="[" line="819" column="0" />
+        <mark key="]" line="821" column="60" />
+        <mark key="." line="820" column="73" />
+        <mark key="^" line="820" column="73" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountStatRepository.php" timestamp="1499761743240">
         <mark key="[" line="140" column="0" />
@@ -155,12 +155,12 @@
         <mark key="^" line="80" column="15" />
         <mark key="." line="80" column="15" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" timestamp="1499762434610">
-        <mark key="'" line="583" column="12" />
-        <mark key="[" line="598" column="0" />
-        <mark key="]" line="598" column="0" />
-        <mark key="." line="598" column="0" />
-        <mark key="^" line="586" column="19" />
+      <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" timestamp="1499763369416">
+        <mark key="'" line="594" column="71" />
+        <mark key="[" line="594" column="91" />
+        <mark key="]" line="594" column="102" />
+        <mark key="." line="594" column="102" />
+        <mark key="^" line="594" column="102" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Controller/DepositController.php" timestamp="1499667942558">
         <mark key="'" line="826" column="13" />
@@ -249,8 +249,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="826" column="13" filename="D:/durian2/src/BB/DurianBundle/Controller/DepositController.php" />
-      <jump line="165" column="32" filename="D:/durian2/src/BB/DurianBundle/Payment/ChiFu.php" />
       <jump line="51" column="5" filename="D:/payment/pay.php" />
       <jump line="0" column="0" filename="D:/payment/return.php" />
       <jump line="619" column="8" filename="D:/durian2/src/BB/DurianBundle/Payment/HeYiPay.php" />
@@ -349,6 +347,8 @@
       <jump line="589" column="65" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" />
       <jump line="11" column="6" filename="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountRepository.php" />
       <jump line="583" column="12" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" />
+      <jump line="820" column="20" filename="D:/durian2/src/BB/DurianBundle/Controller/AutoConfirmController.php" />
+      <jump line="594" column="71" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -361,61 +361,59 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>執行</text>
+        <text>account</text>
       </register>
       <register name="-" type="4">
-        <text>執行</text>
+        <text>account</text>
       </register>
       <register name="/" type="4">
-        <text>when</text>
+        <text>acc</text>
       </register>
-      <register name="0" type="4">
-        <text>恢復公司入款帳號額度</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkcmVtaXRBY2NvdW50TG9nID0gJG9wZXJhdGlvbkxvZ2dlci0+Y3JlYXRlKCdyZW1pdF9hY2NvdW50JywgWydpZCcgPT4gJGFjY291bnQtPmdldElkKCldKTsKICAgICAgICAgICAgICAgICAgICAkcmVtaXRBY2NvdW50TG9nLT5hZGRNZXNzYWdlKCdzdXNwZW5kJywgJ2ZhbHNlJywgJ3RydWUnKTsKICAgICAgICAgICAgICAgICAgICAkb3BlcmF0aW9uTG9nZ2VyLT5zYXZlKCRyZW1pdEFjY291bnRMb2cpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGxvZwo=</text>
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">JGVtLT5nZXRSZXBvc2l0b3J5KCdCQkR1cmlhbkJ1bmRsZTpSZW1pdEFjY291bnRTdGF0JykKJGVtLT5nZXRSZXBvc2l0b3J5KCdCQkR1cmlhbkJ1bmRsZTpSZW1pdEFjY291bnRTdGF0Jyk=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyB0b2RvOiBsb2cK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGNyaXRlcmlhID0gWwogICAgICAgICAgICAgICAgJ3JlbWl0QWNjb3VudCcgPT4gJGFjY291bnQsCiAgICAgICAgICAgICAgICAnYXQnID0+IGRhdGUoJ1ltZEhpcycsIG1rdGltZSgwLCAwLCAwKSksCiAgICAgICAgICAgIF07CiAgICAgICAgICAgICRyZW1pdEFjY291bnRTdGF0ID0gJGVtLT5nZXRSZXBvc2l0b3J5KCdCQkR1cmlhbkJ1bmRsZTpSZW1pdEFjY291bnRTdGF0JykKICAgICAgICAgICAgICAgIC0+ZmluZE9uZUJ5KCRjcml0ZXJpYSk7CgogICAgICAgICAgICAkYmFua0xpbWl0ID0gJGFjY291bnQtPmdldEJhbmtMaW1pdCgpOwoKICAgICAgICAgICAgaWYgKCRiYW5rTGltaXQgJiYgJHJlbWl0QWNjb3VudFN0YXQtPmdldEluY29tZSgpID49ICRiYW5rTGltaXQgJiYgJGFjY291bnQtPmlzRW5hYmxlZCgpKSB7CiAgICAgICAgICAgICAgICAkYWNjb3VudC0+ZGlzYWJsZSgpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyB0b2RvIGxvZwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gbG9nCiAgICAgICAgICAgIGlmICgkYWNjb3VudC0+aXNTdXNwZW5kZWQoKSkgewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRyZW1pdEFjY291bnRMb2cgPSAkb3BlcmF0aW9uTG9nZ2VyLT5jcmVhdGUoJ3JlbWl0X2FjY291bnQnLCBbJ2lkJyA9PiAkYWNjb3VudC0+Z2V0SWQoKV0pOwogICAgICAgICAgICAgICAgJHJlbWl0QWNjb3VudExvZy0+YWRkTWVzc2FnZSgnZW5hYmxlJywgJ3RydWUnLCAnZmFsc2UnKTsKICAgICAgICAgICAgICAgICRvcGVyYXRpb25Mb2dnZXItPnNhdmUoJHJlbWl0QWNjb3VudExvZyk7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGVtLT5nZXRSZXBvc2l0b3J5KCdCQkR1cmlhbkJ1bmRsZTpSZW1pdEFjY291bnQnKQogICAgICAgICAgICAgICAgLT5zdXNwZW5kSWZCYW5rTGltaXRSZWFjaGVkKCRhY2NvdW50KTsK</text>
+      <register name="7" type="8">
+        <text encoding="base64">JGVtLT5nZXRSZXBvc2l0b3J5KCdCQkR1cmlhbkJ1bmRsZTpSZW1pdEFjY291bnRTdGF0JykKJGVtLT5nZXRSZXBvc2l0b3J5KCdCQkR1cmlhbkJ1bmRsZTpSZW1pdEFjY291bnRTdGF0Jyk=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5maW5kT25lQnkoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>when</last-search>
+      <last-search>acc</last-search>
       <last-offset />
-      <last-pattern>when</last-pattern>
+      <last-pattern>acc</last-pattern>
       <last-replace>85</last-replace>
       <last-substitute>83</last-substitute>
-      <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>670</entry>
-        <entry>from</entry>
         <entry>ma</entry>
         <entry>repo</entry>
         <entry>arr</entry>
@@ -434,6 +432,8 @@
         <entry>datet</entry>
         <entry>background</entry>
         <entry>when</entry>
+        <entry>ena</entry>
+        <entry>acc</entry>
       </history-search>
       <history-cmd>
         <entry>5,12d</entry>
@@ -451,10 +451,10 @@
         <entry>504,525y</entry>
         <entry>set fileformat=unix</entry>
         <entry encoding="base64">JzwsJz5zLzgzLzg1L2c=</entry>
-        <entry>Noh</entry>
         <entry>34y</entry>
         <entry>24,26y</entry>
         <entry>NOH</entry>
+        <entry>Noh</entry>
         <entry>noh</entry>
       </history-cmd>
       <history-expr />
