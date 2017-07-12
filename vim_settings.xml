@@ -219,22 +219,22 @@
       <file name="/Dummy.txt" timestamp="1499818189075">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" timestamp="1499827685137">
-        <mark key="'" line="3914" column="0" />
-        <mark key="[" line="3468" column="5" />
-        <mark key="]" line="4024" column="65" />
-        <mark key="." line="4016" column="0" />
-        <mark key="^" line="4015" column="7" />
+      <file name="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" timestamp="1499829396387">
+        <mark key="'" line="3706" column="7" />
+        <mark key="[" line="3835" column="64" />
+        <mark key="]" line="3835" column="65" />
+        <mark key="." line="3835" column="65" />
+        <mark key="^" line="3768" column="7" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Controller/PaymentGatewayController.php" timestamp="1498465531989">
         <mark key="'" line="1361" column="33" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountRepository.php" timestamp="1499821326669">
+      <file name="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountRepository.php" timestamp="1499828648569">
         <mark key="'" line="299" column="20" />
-        <mark key="[" line="310" column="0" />
-        <mark key="]" line="310" column="0" />
-        <mark key="." line="310" column="0" />
-        <mark key="^" line="310" column="0" />
+        <mark key="[" line="314" column="0" />
+        <mark key="]" line="314" column="0" />
+        <mark key="." line="314" column="0" />
+        <mark key="^" line="314" column="0" />
       </file>
       <file name="/__dummy.css" timestamp="1496713099045">
         <mark key="[" line="0" column="0" />
@@ -284,13 +284,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="148" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Command/ActivateRemitAccountCommandTest.php" />
-      <jump line="39" column="0" filename="D:/durian2/src/BB/DurianBundle/Command/ActivateRemitAccountCommand.php" />
-      <jump line="65" column="51" filename="D:/durian2/src/BB/DurianBundle/Command/ActivateRemitAccountCommand.php" />
-      <jump line="89" column="0" filename="D:/durian2/src/BB/DurianBundle/Command/ActivateRemitAccountCommand.php" />
-      <jump line="86" column="0" filename="D:/durian2/src/BB/DurianBundle/Command/ActivateRemitAccountCommand.php" />
-      <jump line="37" column="31" filename="D:/durian2/src/BB/DurianBundle/Command/ActivateRemitAccountCommand.php" />
-      <jump line="107" column="8" filename="D:/durian2/src/BB/DurianBundle/Command/ActivateRemitAccountCommand.php" />
       <jump line="17" column="0" filename="D:/durian2/src/BB/DurianBundle/Command/ActivateRemitAccountCommand.php" />
       <jump line="41" column="15" filename="D:/durian2/src/BB/DurianBundle/Command/ActivateRemitAccountCommand.php" />
       <jump line="146" column="48" filename="D:/durian2/src/BB/DurianBundle/Tests/Command/ActivateRemitAccountCommandTest.php" />
@@ -384,6 +377,13 @@
       <jump line="3898" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
       <jump line="3902" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
       <jump line="3906" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
+      <jump line="3478" column="46" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
+      <jump line="3488" column="18" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
+      <jump line="3486" column="56" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
+      <jump line="3709" column="36" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
+      <jump line="3705" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
+      <jump line="3702" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
+      <jump line="3706" column="7" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -396,61 +396,59 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDAy6xkpL2lcaRKtNqxYri5ss6tcLjqrsYKICAgICAgICAkcmVtaXRBY2NvdW50U3RhdCA9ICRlbS0+Z2V0UmVwb3NpdG9yeSgnQkJEdXJpYW5CdW5kbGU6UmVtaXRBY2NvdW50U3RhdCcpLT5maW5kT25lQnkoWwogICAgICAgICAgICAncmVtaXRBY2NvdW50JyA9PiAxLAogICAgICAgICAgICAnYXQnID0+IGRhdGUoJ1ltZEhpcycsIG1rdGltZSgwLCAwLCAwKSkKICAgICAgICBdKTsKCiAgICAgICAgJHRoaXMtPmFzc2VydE5vdE51bGwoJHJlbWl0QWNjb3VudFN0YXQpOwogICAgICAgICR0aGlzLT5hc3NlcnRFcXVhbHMoMSwgJHJlbWl0QWNjb3VudFN0YXQtPmdldENvdW50KCkpOwogICAgICAgICR0aGlzLT5hc3NlcnRFcXVhbHMoMTAwLCAkcmVtaXRBY2NvdW50U3RhdC0+Z2V0SW5jb21lKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>999</text>
+        <text>987</text>
       </register>
       <register name="/" type="4">
-        <text>10</text>
+        <text>1</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDAy6xkpL2lcaRKtNqxYri5ss6tcLjqrsYKICAgICAgICAkcmVtaXRBY2NvdW50U3RhdCA9ICRlbS0+Z2V0UmVwb3NpdG9yeSgnQkJEdXJpYW5CdW5kbGU6UmVtaXRBY2NvdW50U3RhdCcpLT5maW5kT25lQnkoWwogICAgICAgICAgICAncmVtaXRBY2NvdW50JyA9PiAxLAogICAgICAgICAgICAnYXQnID0+IGRhdGUoJ1ltZEhpcycsIG1rdGltZSgwLCAwLCAwKSkKICAgICAgICBdKTsKCiAgICAgICAgJHRoaXMtPmFzc2VydE5vdE51bGwoJHJlbWl0QWNjb3VudFN0YXQpOwogICAgICAgICR0aGlzLT5hc3NlcnRFcXVhbHMoMSwgJHJlbWl0QWNjb3VudFN0YXQtPmdldENvdW50KCkpOwogICAgICAgICR0aGlzLT5hc3NlcnRFcXVhbHMoMTAwLCAkcmVtaXRBY2NvdW50U3RhdC0+Z2V0SW5jb21lKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyCkSrTasWK4uaWytrezUbzIsLEKICAgICAgICAkZW0tPnJlZnJlc2goJHJlbWl0QWNjb3VudCk7CgogICAgICAgICR0aGlzLT5hc3NlcnRUcnVlKCRyZW1pdEFjY291bnQtPmlzRW5hYmxlZCgpKTsKICAgICAgICAkdGhpcy0+YXNzZXJ0VHJ1ZSgkcmVtaXRBY2NvdW50LT5pc1N1c3BlbmRlZCgpKTsKCiAgICAgICAgJGxvZ09wID0gJGVtU2hhcmUtPmdldFJlcG9zaXRvcnkoJ0JCRHVyaWFuQnVuZGxlOkxvZ09wZXJhdGlvbicpLT5maW5kT25lQnkoWwogICAgICAgICAgICAndGFibGVOYW1lJyA9PiAncmVtaXRfYWNjb3VudCcsCiAgICAgICAgICAgICdtYWpvcktleScgPT4gJ0BpZDoxJywKICAgICAgICAgICAgJ21lc3NhZ2UnID0+ICdAc3VzcGVuZDpmYWxzZT0+dHJ1ZScsCiAgICAgICAgXSk7CgogICAgICAgICR0aGlzLT5hc3NlcnROb3ROdWxsKCRsb2dPcCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAnYXQnID0+IGRhdGVfY3JlYXRlKCktPmZvcm1hdCgnWW1kMDAwJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVtaXRBY2NvdW50ID0gJGVtLT5maW5kKCdCQkR1cmlhbkJ1bmRsZTpSZW1pdEFjY291bnQnLCAkcmVtaXRFbnRyeS0+Z2V0UmVtaXRBY2NvdW50SWQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkbG9nT3AgPSAkZW1TaGFyZS0+Z2V0UmVwb3NpdG9yeSgnQkJEdXJpYW5CdW5kbGU6TG9nT3BlcmF0aW9uJyktPmZpbmRPbmVCeShbCiAgICAgICAgICAgIAogICAgICAgIF0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkbG9nT3AxLT5nZXRNZXNzYWdhZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ21lc3NhZ2UnID0+ICRtc2cK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCRyZXF1ZXN0LT5oYXMoJ3RyYW5zY3JpYmVfZW50cnlfaWQnKSkgewogICAgICAgICAgICAgICAgJHJhc1JlcG8tPnVwZGF0ZUluY29tZSgkcmVtaXRBY2NvdW50LCAkYW1vdW50KTsKICAgICAgICAgICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkbG9nT3AxLT5nZXRNZXNzYWdlKCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKCd1c2VyX3N0YXQnLCAkbG9nT3AxLT5nZXRUYWJsZU5hbWUoKSk7CiAgICAgICAgJHRoaXMtPmFzc2VydEVxdWFscygnQHVzZXJfaWQ6OCcsICRsb2dPcDEtPmdldE1ham9yS2V5KCkpOwogICAgICAgICR0aGlzLT5hc3NlcnRDb250YWlucygkbXNnLCAkbG9nT3AxLT5nZXRNZXNzYWdlKCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkanNvbiA9ICRjbGllbnQtPmdldFJlc3BvbnNlKCktPmdldENvbnRlbnQoKTsKICAgICAgICAkb3V0cHV0ID0ganNvbl9kZWNvZGUoJGpzb24sIHRydWUpOwogICAgICAgIHZhcl9kdW1wKDEsICRvdXRwdXQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkbXNnID0gJ0ByZW1pdF9jb3VudDowPT4xLCBAcmVtaXRfdG90YWw6MD0+MTAwLCBAcmVtaXRfbWF4OjA9PjEwMC4wMDAwJzsKICAgICAgICAkbXNnIC49ICcsIEBmaXJzdF9kZXBvc2l0X2F0OicgLiAkdXNlclN0YXQtPmdldEZpcnN0RGVwb3NpdEF0KCktPmZvcm1hdChcRGF0ZVRpbWU6OklTTzg2MDEpOwogICAgICAgICRtc2cgLj0gJywgQGZpcnN0X2RlcG9zaXRfYW1vdW50OjEwMC4wMDAwLCBAbW9kaWZpZWRfYXQ6JzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkbG9nT3AxID0gJGVtU2hhcmUtPmZpbmQoJ0JCRHVyaWFuQnVuZGxlOkxvZ09wZXJhdGlvbicsIDEpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>10</last-search>
+      <last-search>1</last-search>
       <last-offset />
-      <last-pattern>10</last-pattern>
+      <last-pattern>1</last-pattern>
       <last-replace>85</last-replace>
       <last-substitute>nul</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>hao</entry>
-        <entry>reop</entry>
         <entry>83</entry>
         <entry>se</entry>
         <entry>cl</entry>
@@ -469,6 +467,8 @@
         <entry>get</entry>
         <entry>find</entry>
         <entry>10</entry>
+        <entry>ed</entry>
+        <entry>1</entry>
       </history-search>
       <history-cmd>
         <entry>5,12d</entry>
