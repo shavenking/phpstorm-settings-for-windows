@@ -9,7 +9,7 @@
       <file name="/a.dummy" timestamp="1499334338857">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Entity/RemitEntry.php" timestamp="1499846349383">
+      <file name="D:/durian2/src/BB/DurianBundle/Entity/RemitEntry.php" timestamp="1499847925123">
         <mark key="'" line="399" column="5" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Payment/ShangYinXin.php" timestamp="1499842136220">
@@ -55,6 +55,7 @@
       <file name="D:/durian2/vendor/doctrine/orm/lib/Doctrine/ORM/EntityManager.php" timestamp="1499743289067">
         <mark key="'" line="507" column="20" />
       </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Payment/JeanPay.php" timestamp="1499847495471" />
       <file name="D:/durian2/app/DoctrineMigrations/Version20170711114638.php" timestamp="1499759162957">
         <mark key="[" line="21" column="250" />
         <mark key="]" line="21" column="250" />
@@ -222,6 +223,9 @@
         <mark key="^" line="93" column="52" />
         <mark key="." line="93" column="52" />
       </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Payment/SwiftPass.php" timestamp="1499847544680">
+        <mark key="'" line="263" column="0" />
+      </file>
       <file name="D:/durian2/src/BB/DurianBundle/Resources/translations/messages.zh_CN.yml" timestamp="1499833170068">
         <mark key="'" line="498" column="19" />
         <mark key="[" line="531" column="0" />
@@ -229,6 +233,7 @@
         <mark key="." line="531" column="11" />
         <mark key="^" line="531" column="11" />
       </file>
+      <file name="D:/durian2/app/DoctrineMigrations/Version20170707084858.php" timestamp="1499847681008" />
       <file name="D:/durian2/src/BB/DurianBundle/Payment/HeYiPay.php" timestamp="1499668822005">
         <mark key="'" line="619" column="8" />
       </file>
@@ -323,8 +328,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="26" filename="D:/durian2/src/BB/DurianBundle/Command/ActivateRemitAccountCommand.php" />
-      <jump line="14" column="12" filename="D:/durian2/src/BB/DurianBundle/Command/ActivateRemitAccountCommand.php" />
       <jump line="55" column="17" filename="D:/durian2/src/BB/DurianBundle/Tests/Command/ActivateRemitAccountCommandTest.php" />
       <jump line="240" column="4" filename="D:/durian2/vendor/symfony/symfony/src/Symfony/Component/Console/Formatter/OutputFormatter.php" />
       <jump line="69" column="7" filename="D:/durian2/src/BB/DurianBundle/Tests/Command/ActivateRemitAccountCommandTest.php" />
@@ -423,6 +426,8 @@
       <jump line="469" column="5" filename="D:/durian2/src/BB/DurianBundle/Payment/ShangYinXin.php" />
       <jump line="0" column="0" filename="D:/durian2/src/BB/DurianBundle/Payment/NewIPS7.php" />
       <jump line="399" column="5" filename="D:/durian2/src/BB/DurianBundle/Entity/RemitEntry.php" />
+      <jump line="10" column="6" filename="D:/durian2/src/BB/DurianBundle/Payment/SwiftPass.php" />
+      <jump line="263" column="0" filename="D:/durian2/src/BB/DurianBundle/Payment/SwiftPass.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
