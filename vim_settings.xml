@@ -12,6 +12,9 @@
       <file name="D:/durian2/src/BB/DurianBundle/Entity/RemitEntry.php" timestamp="1497927301579">
         <mark key="'" line="1270" column="0" />
       </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Payment/ShangYinXin.php" timestamp="1499842136220">
+        <mark key="'" line="469" column="5" />
+      </file>
       <file name="D:/durian2/src/BB/DurianBundle/Tests/Controller/RemitControllerTest.php" timestamp="1499833230044">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -180,6 +183,9 @@
         <mark key="." line="697" column="20" />
         <mark key="^" line="697" column="20" />
       </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Payment/PayEase.php" timestamp="1499841540987">
+        <mark key="'" line="21" column="6" />
+      </file>
       <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_8.php" timestamp="1498201286165">
         <mark key="'" line="621" column="19" />
       </file>
@@ -310,8 +316,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Command/ActivateRemitAccountCommandTest.php" />
-      <jump line="29" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Command/ActivateRemitAccountCommandTest.php" />
       <jump line="23" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Command/ActivateRemitAccountCommandTest.php" />
       <jump line="47" column="29" filename="D:/durian2/src/BB/DurianBundle/Tests/Command/ActivateRemitAccountCommandTest.php" />
       <jump line="60" column="26" filename="D:/durian2/src/BB/DurianBundle/Command/ActivateRemitAccountCommand.php" />
@@ -410,6 +414,8 @@
       <jump line="223" column="35" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
       <jump line="509" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
       <jump line="849" column="6" filename="D:/durian2/src/BB/DurianBundle/Resources/doc/exception_map.md" />
+      <jump line="21" column="6" filename="D:/durian2/src/BB/DurianBundle/Payment/PayEase.php" />
+      <jump line="469" column="5" filename="D:/durian2/src/BB/DurianBundle/Payment/ShangYinXin.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
