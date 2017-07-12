@@ -9,8 +9,8 @@
       <file name="/a.dummy" timestamp="1499334338857">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Entity/RemitEntry.php" timestamp="1497927301579">
-        <mark key="'" line="1270" column="0" />
+      <file name="D:/durian2/src/BB/DurianBundle/Entity/RemitEntry.php" timestamp="1499846349383">
+        <mark key="'" line="399" column="5" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Payment/ShangYinXin.php" timestamp="1499842136220">
         <mark key="'" line="469" column="5" />
@@ -323,7 +323,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="29" filename="D:/durian2/src/BB/DurianBundle/Tests/Command/ActivateRemitAccountCommandTest.php" />
       <jump line="60" column="26" filename="D:/durian2/src/BB/DurianBundle/Command/ActivateRemitAccountCommand.php" />
       <jump line="14" column="12" filename="D:/durian2/src/BB/DurianBundle/Command/ActivateRemitAccountCommand.php" />
       <jump line="55" column="17" filename="D:/durian2/src/BB/DurianBundle/Tests/Command/ActivateRemitAccountCommandTest.php" />
@@ -423,6 +422,7 @@
       <jump line="21" column="6" filename="D:/durian2/src/BB/DurianBundle/Payment/PayEase.php" />
       <jump line="469" column="5" filename="D:/durian2/src/BB/DurianBundle/Payment/ShangYinXin.php" />
       <jump line="0" column="0" filename="D:/durian2/src/BB/DurianBundle/Payment/NewIPS7.php" />
+      <jump line="399" column="5" filename="D:/durian2/src/BB/DurianBundle/Entity/RemitEntry.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
