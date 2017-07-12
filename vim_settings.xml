@@ -42,6 +42,7 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Payment/Baokimpay.php" timestamp="1499843740487" />
       <file name="D:/durian2/vendor/symfony/symfony/src/Symfony/Component/Console/Formatter/OutputFormatter.php" timestamp="1499755384775">
         <mark key="'" line="240" column="4" />
       </file>
@@ -237,7 +238,7 @@
       <file name="D:/durian2/src/BB/DurianBundle/Tests/Controller/PaymentGatewayControllerTest.php" timestamp="1498444985801">
         <mark key="'" line="967" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499839939953">
+      <file name="/Dummy.txt" timestamp="1499843741140">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" timestamp="1499839264771">
@@ -322,7 +323,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Command/ActivateRemitAccountCommandTest.php" />
       <jump line="47" column="29" filename="D:/durian2/src/BB/DurianBundle/Tests/Command/ActivateRemitAccountCommandTest.php" />
       <jump line="60" column="26" filename="D:/durian2/src/BB/DurianBundle/Command/ActivateRemitAccountCommand.php" />
       <jump line="14" column="12" filename="D:/durian2/src/BB/DurianBundle/Command/ActivateRemitAccountCommand.php" />
@@ -422,6 +422,7 @@
       <jump line="849" column="6" filename="D:/durian2/src/BB/DurianBundle/Resources/doc/exception_map.md" />
       <jump line="21" column="6" filename="D:/durian2/src/BB/DurianBundle/Payment/PayEase.php" />
       <jump line="469" column="5" filename="D:/durian2/src/BB/DurianBundle/Payment/ShangYinXin.php" />
+      <jump line="0" column="0" filename="D:/durian2/src/BB/DurianBundle/Payment/NewIPS7.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
