@@ -156,11 +156,11 @@
         <mark key="^" line="80" column="15" />
         <mark key="." line="80" column="15" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" timestamp="1499833727636">
-        <mark key="[" line="2146" column="25" />
-        <mark key="]" line="2146" column="26" />
-        <mark key="." line="2146" column="26" />
-        <mark key="^" line="2148" column="30" />
+      <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" timestamp="1499838323709">
+        <mark key="[" line="2151" column="0" />
+        <mark key="]" line="2151" column="0" />
+        <mark key="." line="2151" column="0" />
+        <mark key="^" line="2151" column="23" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Controller/DepositController.php" timestamp="1499667942558">
         <mark key="'" line="826" column="13" />
@@ -221,8 +221,8 @@
       <file name="D:/durian2/src/BB/DurianBundle/Tests/Controller/PaymentGatewayControllerTest.php" timestamp="1498444985801">
         <mark key="'" line="967" column="0" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" timestamp="1499833601389">
-        <mark key="'" line="3745" column="7" />
+      <file name="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" timestamp="1499838444367">
+        <mark key="'" line="223" column="35" />
         <mark key="[" line="1570" column="0" />
         <mark key="]" line="1570" column="0" />
         <mark key="." line="1570" column="0" />
@@ -237,12 +237,12 @@
       <file name="D:/durian2/src/BB/DurianBundle/Controller/PaymentGatewayController.php" timestamp="1498465531989">
         <mark key="'" line="1361" column="33" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountRepository.php" timestamp="1499828648569">
-        <mark key="'" line="299" column="20" />
-        <mark key="[" line="314" column="0" />
-        <mark key="]" line="314" column="0" />
-        <mark key="." line="314" column="0" />
-        <mark key="^" line="314" column="0" />
+      <file name="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountRepository.php" timestamp="1499837883185">
+        <mark key="'" line="304" column="20" />
+        <mark key="[" line="155" column="15" />
+        <mark key="]" line="155" column="15" />
+        <mark key="." line="155" column="15" />
+        <mark key="^" line="155" column="15" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Tests/Functional/AutoConfirmFunctionalTest.php" timestamp="1499821857452">
         <mark key="'" line="488" column="56" />
@@ -297,7 +297,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="27" filename="D:/durian2/src/BB/DurianBundle/Tests/Command/ActivateRemitAccountCommandTest.php" />
       <jump line="116" column="8" filename="D:/durian2/src/BB/DurianBundle/Command/ActivateRemitAccountCommand.php" />
       <jump line="63" column="74" filename="D:/durian2/src/BB/DurianBundle/Tests/Command/ActivateRemitAccountCommandTest.php" />
       <jump line="34" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Command/ActivateRemitAccountCommandTest.php" />
@@ -397,6 +396,7 @@
       <jump line="498" column="19" filename="D:/durian2/src/BB/DurianBundle/Resources/translations/messages.zh_CN.yml" />
       <jump line="54" column="14" filename="D:/durian2/src/BB/DurianBundle/Tests/Command/ActivateRemitAccountCommandTest.php" />
       <jump line="141" column="45" filename="D:/durian2/src/BB/DurianBundle/Tests/Command/ActivateRemitAccountCommandTest.php" />
+      <jump line="223" column="35" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -408,11 +408,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JlYWNoICgkcmVtaXRBY2NvdW50cyBhcyAkcmVtaXRBY2NvdW50KSB7CiAgICAgICAgICAgICR0aGlzLT5hc3NlcnRUcnVlKCRyZW1pdEFjY291bnQtPmlzRW5hYmxlZCgpKTsKICAgICAgICAgICAgJHRoaXMtPmFzc2VydEZhbHNlKCRyZW1pdEFjY291bnQtPmlzU3VzcGVuZGVkKCkpOwogICAgICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>print_r($remitAccounts);</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>print_r($remitAccounts);</text>
       </register>
       <register name="/" type="4">
         <text>dis</text>
