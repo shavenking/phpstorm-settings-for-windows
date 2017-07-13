@@ -85,8 +85,8 @@
         <mark key="^" line="5" column="42" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountController.php" timestamp="1499060832852">
-        <mark key="'" line="677" column="4" />
+      <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountController.php" timestamp="1499927069918">
+        <mark key="'" line="24" column="18" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Entity/Cash.php" timestamp="1499395986004">
         <mark key="'" line="19" column="6" />
@@ -317,8 +317,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="820" column="20" filename="D:/durian2/src/BB/DurianBundle/Controller/AutoConfirmController.php" />
-      <jump line="594" column="71" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" />
       <jump line="220" column="8" filename="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountRepository.php" />
       <jump line="132" column="0" filename="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountStatRepository.php" />
       <jump line="61" column="0" filename="D:/durian2/src/BB/DurianBundle/Resources/doc/exception_map.md" />
@@ -417,6 +415,8 @@
       <jump line="91" column="39" filename="D:/durian2/src/BB/DurianBundle/Command/ActivateRemitAccountCommand.php" />
       <jump line="0" column="0" filename="D:/durian2/src/BB/DurianBundle/Command/ActivateRemitAccountCommand.php" />
       <jump line="15" column="6" filename="D:/durian2/src/BB/DurianBundle/Controller/AutoConfirmController.php" />
+      <jump line="443" column="12" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountController.php" />
+      <jump line="24" column="18" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
