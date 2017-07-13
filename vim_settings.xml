@@ -33,12 +33,12 @@
         <mark key="." line="585" column="37" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Tests/Payment/JeanPayTest.php" timestamp="1499919789579" />
-      <file name="D:/durian2/test.php" timestamp="1499915577144">
+      <file name="D:/durian2/test.php" timestamp="1499930058774">
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="4" column="35" />
-        <mark key="]" line="4" column="36" />
-        <mark key="." line="4" column="36" />
-        <mark key="^" line="4" column="30" />
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="4" column="9" />
+        <mark key="." line="4" column="9" />
+        <mark key="^" line="4" column="9" />
       </file>
       <file name="D:/durian2/vendor/symfony/symfony/src/Symfony/Component/Console/Formatter/OutputFormatter.php" timestamp="1499755384775">
         <mark key="'" line="240" column="4" />
@@ -418,10 +418,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>!0.0001</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>!0.0001</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
