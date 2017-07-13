@@ -36,6 +36,7 @@
         <mark key="^" line="585" column="37" />
         <mark key="." line="585" column="37" />
       </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Tests/Payment/JeanPayTest.php" timestamp="1499919789579" />
       <file name="D:/durian2/test.php" timestamp="1499915577144">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="4" column="35" />
@@ -54,6 +55,9 @@
       </file>
       <file name="D:/durian2/vendor/doctrine/orm/lib/Doctrine/ORM/EntityManager.php" timestamp="1499743289067">
         <mark key="'" line="507" column="20" />
+      </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Payment/JeanPay.php" timestamp="1499919309787">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="D:/durian2/app/DoctrineMigrations/Version20170711114638.php" timestamp="1499759162957">
         <mark key="[" line="21" column="250" />
@@ -244,19 +248,6 @@
       <file name="/Dummy.txt" timestamp="1499913088385">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" timestamp="1499917563811">
-        <mark key="'" line="3699" column="45" />
-        <mark key="[" line="3691" column="42" />
-        <mark key="]" line="3691" column="43" />
-        <mark key="." line="3691" column="43" />
-        <mark key="^" line="3691" column="43" />
-      </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Tests/DataFixtures/ORM/LoadRemitAccountData.php" timestamp="1499832711232">
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
-      </file>
       <file name="D:/durian2/src/BB/DurianBundle/Controller/PaymentGatewayController.php" timestamp="1498465531989">
         <mark key="'" line="1361" column="33" />
       </file>
@@ -326,8 +317,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="201" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/DataFixtures/ORM/LoadBackgroundProcess.php" />
-      <jump line="62" column="24" filename="D:/durian2/src/BB/DurianBundle/Command/ActivateRemitAccountCommand.php" />
       <jump line="589" column="65" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" />
       <jump line="11" column="6" filename="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountRepository.php" />
       <jump line="583" column="12" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" />
@@ -426,6 +415,8 @@
       <jump line="3686" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
       <jump line="4003" column="18" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
       <jump line="3699" column="45" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
+      <jump line="187" column="40" filename="D:/durian2/src/BB/DurianBundle/Payment/JeanPay.php" />
+      <jump line="0" column="0" filename="D:/durian2/src/BB/DurianBundle/Payment/JeanPay.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
