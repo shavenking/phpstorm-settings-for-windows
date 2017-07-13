@@ -87,7 +87,7 @@
       <file name="D:/durian2/src/BB/DurianBundle/Tests/DataFixtures/ORM/LoadRemitEntryData.php" timestamp="1499823262383">
         <mark key="'" line="169" column="0" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Controller/AutoConfirmController.php" timestamp="1499933056616">
+      <file name="D:/durian2/src/BB/DurianBundle/Controller/AutoConfirmController.php" timestamp="1499934931431">
         <mark key="'" line="708" column="4" />
         <mark key="[" line="929" column="0" />
         <mark key="]" line="929" column="12" />
@@ -187,9 +187,6 @@
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Tests/Functional/AutoConfirmFunctionalTest.php" timestamp="1499933113210">
         <mark key="'" line="488" column="56" />
-        <mark key="[" line="1491" column="0" />
-        <mark key="]" line="1491" column="0" />
-        <mark key="." line="1491" column="0" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/AutoConfirm/MatchMaker.php" timestamp="1498718523218">
         <mark key="'" line="9" column="6" />
@@ -323,10 +320,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>!0.0001</text>
+        <text>$isBankLimitReached</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
@@ -335,10 +332,10 @@
         <text encoding="base64">ICAgICAgICAvLyDAy6xkss6tcKRKtNqq98NCcXVldWUKICAgICAgICAkc3RhdERlcG9zaXQgPSBqc29uX2RlY29kZSgkcmVkaXMtPnJwb3AoJ3N0YXRfZG9tYWluX2RlcG9zaXRfcXVldWUnKSwgdHJ1ZSk7CiAgICAgICAgJHRoaXMtPmFzc2VydEVxdWFscygyLCAkc3RhdERlcG9zaXRbJ2RvbWFpbiddKTsKICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKCcxMDAwLjAwMDAnLCAkc3RhdERlcG9zaXRbJ2Ftb3VudCddKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCEkZGIpIHsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKCEkaXNCYW5rTGltaXRSZWFjaGVkKSB7Cg==</text>
@@ -347,19 +344,19 @@
         <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCEkaXNCYW5rTGltaXRSZWFjaGVkKSB7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJlZGlzLT5ycHVzaCgnc3RhdF9kb21haW5fZGVwb3NpdF9xdWV1ZScsIGpzb25fZW5jb2RlKCRzdGF0RGVwb3NpdCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCEkaXNCYW5rTGltaXRSZWFjaGVkKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gdGVzdEF1dG9Db25maXJtUmVtaXRXaWxsVGFrZUJiUmVtaXRBY2NvdW50SW50b0FjY291bnQoKQogICAgewoKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcmVtaXRBY2NvdW50LT5nZXRCYW5rTGltaXQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCEkaXNCYW5rTGltaXRSZWFjaGVkKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
