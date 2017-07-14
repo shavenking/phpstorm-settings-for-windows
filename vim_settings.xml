@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/durian2/vendor/symfony/symfony/src/Symfony/Component/Console/Tester/CommandTester.php" timestamp="1499928804392" />
       <file name="D:/durian2/src/BB/DurianBundle/Entity/LevelWithdrawBankCurrency.php" timestamp="1498463678373">
         <mark key="'" line="13" column="6" />
       </file>
@@ -25,7 +24,6 @@
         <mark key="^" line="585" column="37" />
         <mark key="." line="585" column="37" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Tests/Payment/JeanPayTest.php" timestamp="1499919789579" />
       <file name="D:/durian2/test.php" timestamp="1499930058774">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="4" column="4" />
@@ -111,12 +109,11 @@
         <mark key="." line="218" column="5" />
         <mark key="^" line="218" column="5" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Command/ActivateRemitAccountCommand.php" timestamp="1499926197092">
+      <file name="D:/durian2/src/BB/DurianBundle/Command/ActivateRemitAccountCommand.php" timestamp="1499995944834">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="118" column="13" />
-        <mark key="]" line="118" column="16" />
-        <mark key="." line="118" column="16" />
-        <mark key="^" line="118" column="16" />
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="." line="105" column="0" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" timestamp="1499916916096">
         <mark key="[" line="589" column="0" />
@@ -185,7 +182,7 @@
       <file name="/fragment.php" timestamp="1499767151280">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Tests/Functional/AutoConfirmFunctionalTest.php" timestamp="1499933113210">
+      <file name="D:/durian2/src/BB/DurianBundle/Tests/Functional/AutoConfirmFunctionalTest.php" timestamp="1499995528986">
         <mark key="'" line="488" column="56" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/AutoConfirm/MatchMaker.php" timestamp="1498718523218">
@@ -320,7 +317,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAkCg==</text>
       </register>
       <register name="-" type="4">
         <text>$isBankLimitReached</text>
@@ -332,31 +329,31 @@
         <text encoding="base64">ICAgICAgICAvLyDAy6xkss6tcKRKtNqq98NCcXVldWUKICAgICAgICAkc3RhdERlcG9zaXQgPSBqc29uX2RlY29kZSgkcmVkaXMtPnJwb3AoJ3N0YXRfZG9tYWluX2RlcG9zaXRfcXVldWUnKSwgdHJ1ZSk7CiAgICAgICAgJHRoaXMtPmFzc2VydEVxdWFscygyLCAkc3RhdERlcG9zaXRbJ2RvbWFpbiddKTsKICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKCcxMDAwLjAwMDAnLCAkc3RhdERlcG9zaXRbJ2Ftb3VudCddKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCEkZGIpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCEkaXNCYW5rTGltaXRSZWFjaGVkKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCEkZGIpIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCEkaXNCYW5rTGltaXRSZWFjaGVkKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCEkaXNCYW5rTGltaXRSZWFjaGVkKSB7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKCEkaXNCYW5rTGltaXRSZWFjaGVkKSB7Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
@@ -369,7 +366,7 @@
       <last-replace>85</last-replace>
       <last-substitute>nul</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
