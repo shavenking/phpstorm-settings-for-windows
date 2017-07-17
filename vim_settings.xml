@@ -12,10 +12,6 @@
       <file name="D:/durian2/src/BB/DurianBundle/Payment/ShangYinXin.php" timestamp="1499842136220">
         <mark key="'" line="469" column="5" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Controller/MerchantCardController.php" timestamp="1500017473233">
-        <mark key="[" line="712" column="0" />
-        <mark key="]" line="712" column="27" />
-      </file>
       <file name="D:/durian2/src/BB/DurianBundle/Payment/ChiFu.php" timestamp="1499661089627">
         <mark key="'" line="165" column="32" />
       </file>
@@ -61,9 +57,9 @@
         <mark key="^" line="1395" column="76" />
         <mark key="." line="1395" column="76" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountLevelController.php" timestamp="1499818202952">
-        <mark key="[" line="148" column="79" />
-        <mark key="]" line="148" column="78" />
+      <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountLevelController.php" timestamp="1500261923697">
+        <mark key="[" line="16" column="15" />
+        <mark key="]" line="16" column="50" />
         <mark key="^" line="148" column="78" />
         <mark key="." line="148" column="78" />
       </file>
@@ -79,8 +75,8 @@
         <mark key="^" line="43" column="68" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountController.php" timestamp="1500257014662">
-        <mark key="'" line="642" column="0" />
+      <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountController.php" timestamp="1500261678933">
+        <mark key="'" line="647" column="40" />
         <mark key="[" line="664" column="49" />
         <mark key="]" line="664" column="49" />
         <mark key="." line="664" column="49" />
@@ -276,7 +272,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="211" column="4" filename="D:/durian2/src/BB/DurianBundle/Tests/Command/ActivateRemitAccountCommandTest.php" />
       <jump line="213" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Command/ActivateRemitAccountCommandTest.php" />
       <jump line="215" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Command/ActivateRemitAccountCommandTest.php" />
       <jump line="34" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Command/ActivateRemitAccountCommandTest.php" />
@@ -376,6 +371,7 @@
       <jump line="2182" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitAccountFunctionalTest.php" />
       <jump line="435" column="26" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
       <jump line="302" column="21" filename="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountRepository.php" />
+      <jump line="647" column="40" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -388,7 +384,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>/level/{levelId}/remit_account_level</text>
       </register>
       <register name="-" type="4">
         <text>false</text>
@@ -396,8 +392,8 @@
       <register name="/" type="4">
         <text>fal</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkY2xpZW50ID0gJHRoaXMtPmNyZWF0ZUNsaWVudCgpOwogICAgICAgIAo=</text>
+      <register name="0" type="4">
+        <text>/level/{levelId}/remit_account_level</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcmVtaXRBY2NvdW50KTsK</text>
