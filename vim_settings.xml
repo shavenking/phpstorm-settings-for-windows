@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/durian2/vendor/phpunit/phpunit-mock-objects/src/Framework/MockObject/MockBuilder.php" timestamp="1500022146280" />
       <file name="D:/durian2/src/BB/DurianBundle/Entity/LevelWithdrawBankCurrency.php" timestamp="1498463678373">
         <mark key="'" line="13" column="6" />
       </file>
@@ -73,13 +72,6 @@
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Tests/Command/ActivateMerchantTest.php" timestamp="1499928317815">
         <mark key="'" line="100" column="0" />
-      </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountController.php" timestamp="1500026212668">
-        <mark key="'" line="619" column="40" />
-        <mark key="[" line="592" column="51" />
-        <mark key="]" line="592" column="51" />
-        <mark key="^" line="588" column="8" />
-        <mark key="." line="592" column="51" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Entity/Cash.php" timestamp="1499395986004">
         <mark key="'" line="19" column="6" />
