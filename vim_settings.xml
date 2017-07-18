@@ -140,12 +140,12 @@
         <mark key="." line="151" column="32" />
         <mark key="^" line="151" column="30" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" timestamp="1500019256814">
+      <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitController.php" timestamp="1500346201086">
         <mark key="'" line="207" column="0" />
-        <mark key="[" line="594" column="45" />
-        <mark key="]" line="594" column="74" />
-        <mark key="." line="594" column="74" />
-        <mark key="^" line="594" column="74" />
+        <mark key="[" line="595" column="22" />
+        <mark key="]" line="595" column="23" />
+        <mark key="." line="595" column="23" />
+        <mark key="^" line="596" column="36" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Command/CheckDepositTrackingCommand.php" timestamp="1500279145459">
         <mark key="'" line="73" column="8" />
@@ -389,10 +389,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>isBankLimitReached</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>isBankLimitReached</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
