@@ -28,11 +28,11 @@
       <file name="D:/durian2/src/BB/DurianBundle/Controller/MerchantWithdrawController.php" timestamp="1500428137900">
         <mark key="'" line="428" column="29" />
       </file>
-      <file name="D:/durian2/test.php" timestamp="1500525655376">
-        <mark key="[" line="5" column="23" />
-        <mark key="]" line="5" column="24" />
-        <mark key="." line="5" column="24" />
-        <mark key="^" line="5" column="24" />
+      <file name="D:/durian2/test.php" timestamp="1500532076501">
+        <mark key="[" line="6" column="18" />
+        <mark key="]" line="6" column="21" />
+        <mark key="." line="6" column="21" />
+        <mark key="^" line="6" column="21" />
       </file>
       <file name="D:/durian2/vendor/symfony/symfony/src/Symfony/Component/Console/Formatter/OutputFormatter.php" timestamp="1499755384775">
         <mark key="'" line="240" column="4" />
@@ -407,10 +407,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;&quot;</text>
+        <text>mb_strlen($str)</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;&quot;</text>
+        <text>mb_strlen($str)</text>
       </register>
       <register name="/" type="4">
         <text>weixin</text>
@@ -419,32 +419,32 @@
         <text>庆</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Zm9yZWFjaCAobWJfc3BsaXQoJycsICkgYXMgJGNoYXJhY3RlcikgewogICAgdmFyX2R1bXAoJGNoYXJhY3Rlcik7Cn0K</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CnZhcl9kdW1wKEludGxDaGFyOjpvcmQoJ0EnKSk7Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">dmFyX2R1bXAoSW50bENoYXI6Om9yZCgnPycpKTsK</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>var_dump(IntlChar::ord('昦'));
 var_dump(IntlChar::ord('庆'));</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CmlmICgwLjAwMDApIHsKICAgIGVjaG8gJ2hpJzsKfQ==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICRpc0JhbmtMaW1pdFJlYWNoZWQgPSAkZW0tPmdldFJlcG9zaXRvcnkoJ0JCRHVyaWFuQnVuZGxlOlJlbWl0QWNjb3VudCcpCiAgICAgICAgICAgICAgICAgICAgLT5pc0JhbmtMaW1pdFJlYWNoZWQoJHJlbWl0QWNjb3VudCk7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICRpc0JhbmtMaW1pdFJlYWNoZWQgPSA7CiAgICAgICAgICAgICAgICAkaXNCYW5rTGltaXRSZWFjaGVkID0gJGVtLT5nZXRSZXBvc2l0b3J5KCdCQkR1cmlhbkJ1bmRsZTpSZW1pdEFjY291bnQnKQogICAgICAgICAgICAgICAgICAgIC0+aXNCYW5rTGltaXRSZWFjaGVkKCRyZW1pdEFjY291bnQpOwo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">JHJlbWl0QWNjb3VudC0+Z2V0QmFua0xpbWl0KCkgPiAwICYmCiAgICAgICAgICAgICAgICAgICAgJHJlbWl0QWNjb3VudFN0YXQgJiY=</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CgogICAgLyoqCiAgICAgKiDAy6xkpL2lcaRKtNqxYri5rE+nX7lGqOytrcNCCiAgICAgKgogICAgICogQHBhcmFtIFJlbWl0QWNjb3VudCAkcmVtaXRBY2NvdW50CiAgICAgKiBAcmV0dXJuIGJvb2xlYW4KICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGlzQmFua0xpbWl0UmVhY2hlZChSZW1pdEFjY291bnQgJHJlbWl0QWNjb3VudCkKICAgIHsKICAgICAgICAvLyBiYW5rbGltaXQgMCClTqrtqFOms62tw0IKICAgICAgICBpZiAoJHJlbWl0QWNjb3VudC0+Z2V0QmFua0xpbWl0KCkgPT0gMCkgewogICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQoKICAgICAgICAvLyCo+rFvpdirZbLOrXC46q7GCiAgICAgICAgJHJlbWl0QWNjb3VudFN0YXQgPSAkdGhpcy0+Z2V0RW50aXR5TWFuYWdlcigpCiAgICAgICAgICAgIC0+Z2V0UmVwb3NpdG9yeSgnQkJEdXJpYW5CdW5kbGU6UmVtaXRBY2NvdW50U3RhdCcpCiAgICAgICAgICAgIC0+Z2V0Q3VycmVudFN0YXQoJHJlbWl0QWNjb3VudCk7CgogICAgICAgIGlmICghJHJlbWl0QWNjb3VudFN0YXQpIHsKICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIH0KCiAgICAgICAgLy8gwMusZKaspEqsT6dfuUao7K2tw0IKICAgICAgICBpZiAoJHJlbWl0QWNjb3VudFN0YXQtPmdldEluY29tZSgpID49ICRyZW1pdEFjY291bnQtPmdldEJhbmtMaW1pdCgpKSB7CiAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgIH0KCiAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgfQ==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGlzQmFua0xpbWl0UmVhY2hlZAo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Q2Fubm90IGNoYW5nZSB3aGVuIFJlbWl0QWNjb3VudCBkaXNhYmxlZDogsWK4ubCxpc6uybVMqmvF3LDKCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
