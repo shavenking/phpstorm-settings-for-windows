@@ -15,6 +15,7 @@
       <file name="D:/durian2/src/BB/DurianBundle/Payment/ShangYinXin.php" timestamp="1499842136220">
         <mark key="'" line="469" column="5" />
       </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Command/WeixinNotifyCommand.php" timestamp="1500515652415" />
       <file name="D:/payment/pay_response.php" timestamp="1500279245362">
         <mark key="[" line="171" column="0" />
         <mark key="]" line="171" column="0" />
@@ -69,6 +70,10 @@
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Tests/Command/ActivateMerchantTest.php" timestamp="1499928317815">
         <mark key="'" line="100" column="0" />
+      </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Controller/MerchantController.php" timestamp="1500516077407">
+        <mark key="'" line="2451" column="0" />
+        <mark key="o" line="52" column="14" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Entity/Cash.php" timestamp="1499395986004">
         <mark key="'" line="19" column="6" />
@@ -154,7 +159,8 @@
         <mark key="." line="71" column="61" />
         <mark key="^" line="109" column="42" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Monitor/Background.php" timestamp="1500279606154">
+      <file name="D:/durian2/src/BB/DurianBundle/Monitor/Background.php" timestamp="1500516111432">
+        <mark key="'" line="92" column="16" />
         <mark key="[" line="151" column="32" />
         <mark key="]" line="151" column="32" />
         <mark key="." line="151" column="32" />
@@ -193,7 +199,6 @@
       <file name="D:/durian2/src/BB/DurianBundle/Tests/Payment/UPayTest.php" timestamp="1498609223580">
         <mark key="'" line="8" column="6" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Tests/Functional/PaymentGatewayFunctionalTest.php" timestamp="1500431897886" />
       <file name="D:/durian2/vendor/symfony/symfony/src/Symfony/Component/BrowserKit/Client.php" timestamp="1500022177445">
         <mark key="'" line="277" column="20" />
       </file>
@@ -309,15 +314,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="607" column="53" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountController.php" />
-      <jump line="609" column="57" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountController.php" />
-      <jump line="612" column="12" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountController.php" />
-      <jump line="662" column="45" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountController.php" />
-      <jump line="2039" column="13" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitAccountFunctionalTest.php" />
-      <jump line="2067" column="40" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitAccountFunctionalTest.php" />
-      <jump line="2118" column="21" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitAccountFunctionalTest.php" />
-      <jump line="17" column="16" filename="D:/durian2/src/BB/DurianBundle/Resources/views/Default/Demo/RemitAccount/recover.html.twig" />
-      <jump line="16" column="69" filename="D:/durian2/src/BB/DurianBundle/Resources/views/Default/Demo/RemitAccount/suspend.html.twig" />
       <jump line="17" column="60" filename="D:/durian2/src/BB/DurianBundle/Resources/views/Default/Demo/RemitAccount/suspend.html.twig" />
       <jump line="20" column="17" filename="D:/durian2/src/BB/DurianBundle/Resources/views/Default/Demo/RemitAccount/suspend.html.twig" />
       <jump line="21" column="80" filename="D:/durian2/src/BB/DurianBundle/Resources/views/Default/Demo/RemitAccount/suspend.html.twig" />
@@ -409,6 +405,15 @@
       <jump line="2037" column="0" filename="D:/durian2/src/BB/DurianBundle/Resources/doc/exception_map.md" />
       <jump line="337" column="56" filename="D:/durian2/src/BB/DurianBundle/Controller/WithdrawController.php" />
       <jump line="42" column="8" filename="D:/durian2/src/BB/DurianBundle/Controller/WithdrawController.php" />
+      <jump line="2429" column="33" filename="D:/durian2/src/BB/DurianBundle/Controller/MerchantController.php" />
+      <jump line="2451" column="0" filename="D:/durian2/src/BB/DurianBundle/Controller/MerchantController.php" />
+      <jump line="159" column="33" filename="D:/durian2/src/BB/DurianBundle/Monitor/Background.php" />
+      <jump line="188" column="9" filename="D:/durian2/src/BB/DurianBundle/Monitor/Background.php" />
+      <jump line="189" column="9" filename="D:/durian2/src/BB/DurianBundle/Monitor/Background.php" />
+      <jump line="190" column="16" filename="D:/durian2/src/BB/DurianBundle/Monitor/Background.php" />
+      <jump line="90" column="9" filename="D:/durian2/src/BB/DurianBundle/Monitor/Background.php" />
+      <jump line="91" column="9" filename="D:/durian2/src/BB/DurianBundle/Monitor/Background.php" />
+      <jump line="92" column="16" filename="D:/durian2/src/BB/DurianBundle/Monitor/Background.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -427,7 +432,7 @@
         <text encoding="base64">Ym9vbGVhbiA=</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;</text>
+        <text>weixin</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICRoZWxwZXIgPSAkdGhpcy0+Z2V0KCdkdXJpYW4ucmVtaXRfaGVscGVyJyk7CiAgICAgICAgICAgICAgICAkaXNCYW5rTGltaXRSZWFjaGVkID0gJGhlbHBlci0+aXNCYW5rTGltaXRSZWFjaGVkKCRyZW1pdEFjY291bnQpOwo=</text>
@@ -464,17 +469,16 @@
       </register>
     </registers>
     <search>
-      <last-search>&quot;</last-search>
+      <last-search>weixin</last-search>
       <last-offset />
-      <last-pattern>&quot;</last-pattern>
+      <last-pattern>weixin</last-pattern>
       <last-replace>85</last-replace>
       <last-substitute>fal</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx7XD4=</entry>
         <entry>as</entry>
         <entry>\.</entry>
         <entry>tr</entry>
@@ -494,6 +498,7 @@
         <entry>fal</entry>
         <entry>f</entry>
         <entry>&quot;</entry>
+        <entry>weixin</entry>
       </history-search>
       <history-cmd>
         <entry>37,58d</entry>
