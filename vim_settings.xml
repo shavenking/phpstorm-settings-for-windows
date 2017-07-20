@@ -28,11 +28,10 @@
       <file name="D:/durian2/src/BB/DurianBundle/Controller/MerchantWithdrawController.php" timestamp="1500428137900">
         <mark key="'" line="428" column="29" />
       </file>
-      <file name="D:/durian2/test.php" timestamp="1500535881154">
-        <mark key="[" line="4" column="9" />
-        <mark key="]" line="4" column="38" />
-        <mark key="." line="4" column="38" />
-        <mark key="^" line="4" column="38" />
+      <file name="D:/durian2/test.php" timestamp="1500536827224">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="D:/durian2/vendor/symfony/symfony/src/Symfony/Component/Console/Formatter/OutputFormatter.php" timestamp="1499755384775">
         <mark key="'" line="240" column="4" />
@@ -413,11 +412,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>strlen('昦')</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dmFyX2R1bXAob3JkKCc/JykpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>strlen('昦')</text>
+        <text>&quot;\xf0\xa6\x98\xa6\xe5\xba\x86&quot;</text>
       </register>
       <register name="/" type="4">
         <text>weixin</text>
@@ -426,32 +425,31 @@
         <text encoding="base64">ICAgICAgICAgICAgJGxlbiA9IG1iX3N0cmxlbigkdmFsdWUpOwogICAgICAgICAgICBmb3IgKCRpID0gMDsgJGkgPCAkbGVuOyAkaSsrKSB7CiAgICAgICAgICAgICAgICAkd29yZCA9IG1iX3N1YnN0cigkdmFsdWUsICRpLCAxKTsKCiAgICAgICAgICAgICAgICBpZiAoc3RybGVuKCR3b3JkKSA+IDMpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dmFyX2R1bXAoSW50bENoYXI6OmNocigyNjE1MCkpOwo=</text>
+        <text encoding="base64">dmFyX2R1bXAob3JkKCc/JykpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dmFyX2R1bXAoanNvbl9lbmNvZGUoJ0hlbGxvJywgSlNPTl9VTkVTQ0FQRURfVU5JQ09ERSkpOwo=</text>
+        <text encoding="base64">ICAgIHN0cmxlbignPycpIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dmFyX2R1bXAoanNvbl9lbmNvZGUoJ0hlbGxvJywgVU5JQ09ERSkpOwo=</text>
+        <text encoding="base64">ICAgIEludGxDaGFyOjpvcmQoJz8nKSA+IDY1NTM1Owo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">JHN0ciA9ICfO8D8nOwokbGVuID0gbWJfc3RybGVuKCRzdHIpOwp2YXJfZHVtcCgkbGVuKTsKZm9yICgkaSA9IDA7ICRpIDwgJGxlbjsgJGkrKykgewogICAgJHN0clskaV07Cn0KJGxlbiA9IG1iX3N0cmxlbigkdmFsdWUpOwpmb3IgKCRpID0gMDsgJGkgPCAkbGVuOyAkaSsrKSB7CiAgICAkd29yZCA9IG1iX3N1YnN0cigkdmFsdWUsICRpLCAxKTsKCiAgICBpZiAoc3RybGVuKCR3b3JkKSA+IDMpIHs=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Zm9yZWFjCnZhcl9kdW1wKEludGxDaGFyOjpvcmQoJz8nKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Zm9yZWFjaCAobWJfc3BsaXQoJycsICkgYXMgJGNoYXJhY3RlcikgewogICAgdmFyX2R1bXAoJGNoYXJhY3Rlcik7Cn0K</text>
+        <text encoding="base64">dmFyX2R1bXAoSW50bENoYXI6OmNocigyNjE1MCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CnZhcl9kdW1wKEludGxDaGFyOjpvcmQoJ0EnKSk7Cg==</text>
+        <text encoding="base64">dmFyX2R1bXAoanNvbl9lbmNvZGUoJ0hlbGxvJywgSlNPTl9VTkVTQ0FQRURfVU5JQ09ERSkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dmFyX2R1bXAoSW50bENoYXI6Om9yZCgnPycpKTsK</text>
+        <text encoding="base64">dmFyX2R1bXAoanNvbl9lbmNvZGUoJ0hlbGxvJywgVU5JQ09ERSkpOwo=</text>
       </register>
       <register name="8" type="4">
-        <text>var_dump(IntlChar::ord('昦'));
-var_dump(IntlChar::ord('庆'));</text>
+        <text encoding="base64">JHN0ciA9ICfO8D8nOwokbGVuID0gbWJfc3RybGVuKCRzdHIpOwp2YXJfZHVtcCgkbGVuKTsKZm9yICgkaSA9IDA7ICRpIDwgJGxlbjsgJGkrKykgewogICAgJHN0clskaV07Cn0KJGxlbiA9IG1iX3N0cmxlbigkdmFsdWUpOwpmb3IgKCRpID0gMDsgJGkgPCAkbGVuOyAkaSsrKSB7CiAgICAkd29yZCA9IG1iX3N1YnN0cigkdmFsdWUsICRpLCAxKTsKCiAgICBpZiAoc3RybGVuKCR3b3JkKSA+IDMpIHs=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CmlmICgwLjAwMDApIHsKICAgIGVjaG8gJ2hpJzsKfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Zm9yZWFjaCAobWJfc3BsaXQoJycsICkgYXMgJGNoYXJhY3RlcikgewogICAgdmFyX2R1bXAoJGNoYXJhY3Rlcik7Cn0K</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
