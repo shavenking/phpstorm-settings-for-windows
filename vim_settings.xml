@@ -28,10 +28,10 @@
       <file name="D:/durian2/src/BB/DurianBundle/Controller/MerchantWithdrawController.php" timestamp="1500428137900">
         <mark key="'" line="428" column="29" />
       </file>
-      <file name="D:/durian2/test.php" timestamp="1500532076501">
-        <mark key="[" line="6" column="18" />
-        <mark key="]" line="6" column="21" />
-        <mark key="." line="6" column="21" />
+      <file name="D:/durian2/test.php" timestamp="1500533230183">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="13" column="28" />
+        <mark key="." line="9" column="0" />
         <mark key="^" line="6" column="21" />
       </file>
       <file name="D:/durian2/vendor/symfony/symfony/src/Symfony/Component/Console/Formatter/OutputFormatter.php" timestamp="1499755384775">
@@ -64,6 +64,9 @@
         <mark key="'" line="2451" column="0" />
         <mark key="o" line="52" column="14" />
       </file>
+      <file name="D:/durian2/vendor/symfony/symfony/src/Symfony/Component/Routing/Route.php" timestamp="1500532844746">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="D:/durian2/src/BB/DurianBundle/Entity/Cash.php" timestamp="1499395986004">
         <mark key="'" line="19" column="6" />
       </file>
@@ -84,6 +87,10 @@
         <mark key="]" line="25" column="62" />
         <mark key="." line="25" column="62" />
         <mark key="^" line="25" column="62" />
+      </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Validator.php" timestamp="1500533225356">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="26" column="39" />
       </file>
       <file name="D:/payment/pay.php" timestamp="1499666746734">
         <mark key="'" line="51" column="5" />
@@ -295,8 +302,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="123" filename="D:/durian2/src/BB/DurianBundle/Resources/views/Default/Demo/RemitAccount/resume.html.twig" />
-      <jump line="21" column="80" filename="D:/durian2/src/BB/DurianBundle/Resources/views/Default/Demo/RemitAccount/resume.html.twig" />
       <jump line="25" column="53" filename="D:/durian2/src/BB/DurianBundle/Resources/views/Default/Demo/RemitAccount/resume.html.twig" />
       <jump line="25" column="62" filename="D:/durian2/src/BB/DurianBundle/Resources/views/Default/Demo/RemitAccount/suspend.html.twig" />
       <jump line="6184" column="39" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
@@ -395,6 +400,8 @@
       <jump line="1692" column="23" filename="D:/durian2/src/BB/DurianBundle/Payment/Operator.php" />
       <jump line="1581" column="40" filename="D:/durian2/src/BB/DurianBundle/Payment/Operator.php" />
       <jump line="1602" column="23" filename="D:/durian2/src/BB/DurianBundle/Payment/Operator.php" />
+      <jump line="82" column="14" filename="D:/durian2/vendor/symfony/symfony/src/Symfony/Component/Routing/Route.php" />
+      <jump line="0" column="0" filename="D:/durian2/vendor/symfony/symfony/src/Symfony/Component/Routing/Route.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -406,8 +413,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>mb_strlen($str)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJGxlbiA9IG1iX3N0cmxlbigkdmFsdWUpOwogICAgICAgICAgICBmb3IgKCRpID0gMDsgJGkgPCAkbGVuOyAkaSsrKSB7CiAgICAgICAgICAgICAgICAkd29yZCA9IG1iX3N1YnN0cigkdmFsdWUsICRpLCAxKTsKCiAgICAgICAgICAgICAgICBpZiAoc3RybGVuKCR3b3JkKSA+IDMpIHsK</text>
       </register>
       <register name="-" type="4">
         <text>mb_strlen($str)</text>
@@ -415,8 +422,8 @@
       <register name="/" type="4">
         <text>weixin</text>
       </register>
-      <register name="0" type="4">
-        <text>庆</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJGxlbiA9IG1iX3N0cmxlbigkdmFsdWUpOwogICAgICAgICAgICBmb3IgKCRpID0gMDsgJGkgPCAkbGVuOyAkaSsrKSB7CiAgICAgICAgICAgICAgICAkd29yZCA9IG1iX3N1YnN0cigkdmFsdWUsICRpLCAxKTsKCiAgICAgICAgICAgICAgICBpZiAoc3RybGVuKCR3b3JkKSA+IDMpIHsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Zm9yZWFjaCAobWJfc3BsaXQoJycsICkgYXMgJGNoYXJhY3RlcikgewogICAgdmFyX2R1bXAoJGNoYXJhY3Rlcik7Cn0K</text>
