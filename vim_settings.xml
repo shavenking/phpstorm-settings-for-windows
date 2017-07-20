@@ -28,20 +28,14 @@
       <file name="D:/durian2/src/BB/DurianBundle/Controller/MerchantWithdrawController.php" timestamp="1500428137900">
         <mark key="'" line="428" column="29" />
       </file>
-      <file name="D:/durian2/test.php" timestamp="1500535223317">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="4" column="14" />
+      <file name="D:/durian2/test.php" timestamp="1500535881154">
+        <mark key="[" line="4" column="9" />
+        <mark key="]" line="4" column="38" />
+        <mark key="." line="4" column="38" />
+        <mark key="^" line="4" column="38" />
       </file>
       <file name="D:/durian2/vendor/symfony/symfony/src/Symfony/Component/Console/Formatter/OutputFormatter.php" timestamp="1499755384775">
         <mark key="'" line="240" column="4" />
-      </file>
-      <file name="D:/durian2/app/config/config_test.yml" timestamp="1500258434729">
-        <mark key="[" line="45" column="53" />
-        <mark key="]" line="45" column="38" />
-        <mark key="^" line="45" column="38" />
-        <mark key="." line="45" column="38" />
       </file>
       <file name="D:/durian2/vendor/symfony/phpunit-bridge/composer.json" timestamp="1500520781984" />
       <file name="D:/durian2/vendor/doctrine/orm/lib/Doctrine/ORM/EntityManager.php" timestamp="1499928190203">
@@ -56,12 +50,6 @@
         <mark key="]" line="1394" column="75" />
         <mark key="^" line="1395" column="76" />
         <mark key="." line="1395" column="76" />
-      </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountLevelController.php" timestamp="1500264392557">
-        <mark key="[" line="16" column="15" />
-        <mark key="]" line="16" column="50" />
-        <mark key="^" line="148" column="78" />
-        <mark key="." line="148" column="78" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Command/SendDepositTrackingRequestCommand.php" timestamp="1500279160360">
         <mark key="'" line="91" column="8" />
@@ -281,12 +269,6 @@
         <mark key="]" line="818" column="0" />
         <mark key="." line="818" column="0" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Remit/Helper.php" timestamp="1500348020840">
-        <mark key="[" line="334" column="0" />
-        <mark key="]" line="363" column="4" />
-        <mark key="." line="363" column="4" />
-        <mark key="^" line="363" column="4" />
-      </file>
       <file name="D:/payment/card_return.php" timestamp="1500279230695">
         <mark key="[" line="171" column="0" />
         <mark key="]" line="171" column="0" />
@@ -431,11 +413,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dmFyX2R1bXAoSW50bENoYXI6OmNocigyNjE1MCkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>strlen('昦')</text>
       </register>
       <register name="-" type="4">
-        <text>IntlChar::ord</text>
+        <text>strlen('昦')</text>
       </register>
       <register name="/" type="4">
         <text>weixin</text>
