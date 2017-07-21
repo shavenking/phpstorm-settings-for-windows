@@ -26,11 +26,11 @@
       <file name="D:/durian2/src/BB/DurianBundle/Controller/MerchantWithdrawController.php" timestamp="1500428137900">
         <mark key="'" line="428" column="29" />
       </file>
-      <file name="D:/durian2/test.php" timestamp="1500615414524">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="4" column="28" />
+      <file name="D:/durian2/test.php" timestamp="1500622428152">
+        <mark key="[" line="4" column="33" />
+        <mark key="]" line="5" column="34" />
+        <mark key="." line="5" column="34" />
+        <mark key="^" line="5" column="34" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Command/AccountLogCommand.php" timestamp="1500601961243">
         <mark key="'" line="34" column="0" />
@@ -56,6 +56,11 @@
         <mark key="[" line="104" column="0" />
         <mark key="]" line="104" column="0" />
         <mark key="." line="104" column="0" />
+      </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Tests/Payment/YunFuxPayTest.php" timestamp="1500622091608">
+        <mark key="[" line="402" column="26" />
+        <mark key="]" line="402" column="27" />
+        <mark key="." line="402" column="27" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Tests/Command/ActivateMerchantTest.php" timestamp="1499928317815">
         <mark key="'" line="100" column="0" />
@@ -223,7 +228,7 @@
       <file name="D:/durian2/src/BB/DurianBundle/Tests/Controller/PaymentGatewayControllerTest.php" timestamp="1498444985801">
         <mark key="'" line="967" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500607715756">
+      <file name="/Dummy.txt" timestamp="1500621735144">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" timestamp="1500279808594">
@@ -421,7 +426,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">JGZ1Y2sgPSBqc29uX2RlY29kZSgnJyk7Cgp0cnkgewogICAgZWNobyAkZnVjay0+cmVzdWx0Owp9IGNhdGNoIChcRXhjZXB0aW9uICRlKSB7CiAgICBlY2hvICdjYXRjaCc7Cn0K</text>
+        <text encoding="base64">ICAgIGJjY29tcCgnMS4xMScsICcxLjExMScsIDIpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>''</text>
@@ -433,39 +438,31 @@
         <text encoding="base64">ICAgICAgICAgICAgJGxlbiA9IG1iX3N0cmxlbigkdmFsdWUpOwogICAgICAgICAgICBmb3IgKCRpID0gMDsgJGkgPCAkbGVuOyAkaSsrKSB7CiAgICAgICAgICAgICAgICAkd29yZCA9IG1iX3N1YnN0cigkdmFsdWUsICRpLCAxKTsKCiAgICAgICAgICAgICAgICBpZiAoc3RybGVuKCR3b3JkKSA+IDMpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">JGZ1Y2sgPSBqc29uX2RlY29kZSgnJyk7Cgp0cnkgewogICAgZWNobyAkZnVjay0+cmVzdWx0Owp9IGNhdGNoIChcRXhjZXB0aW9uICRlKSB7CiAgICBlY2hvICdjYXRjaCc7Cn0K</text>
+        <text encoding="base64">ICAgIGJjY29tcCgnMS4xMScsICcxLjExMScsIDIpOwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+cmVxdWVzdERhdGFbJ3NpZ24nXSA9ICR0aGlzLT5lbmNvZGUoKTsKCiAgICAgICAgcmV0dXJuICR0aGlzLT5yZXF1ZXN0RGF0YTsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">CnZhcl9kdW1wKGJjYWRkKCcxLjMxJywgJzEuMzQnLCAxKSk7</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+cmVxdWVzdERhdGFbJ2Ftb3VudCddID0gc3ByaW50ZignJS4yZicsICR0aGlzLT5yZXF1ZXN0RGF0YVsnYW1vdW50J10pOwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">CnRocm93IG5ldyBcRXhjZXB0aW9uKCdmdWNrJyk7</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">JGZ1Y2sgPSBqc29uX2RlY29kZSgnJyk7Cgp0cnkgewogICAgZWNobyAkZnVjay0+cmVzdWx0Owp9IGNhdGNoIChcRXhjZXB0aW9uICRlKSB7CiAgICBlY2hvICdjYXRjaCc7Cn0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAnb3JkZXJpZCcgPT4gJ29yZGVySWQnLAo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+cmVxdWVzdERhdGFbJ3NpZ24nXSA9ICR0aGlzLT5lbmNvZGUoKTsKCiAgICAgICAgcmV0dXJuICR0aGlzLT5yZXF1ZXN0RGF0YTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAnc2lnbicgPT4gJycsIC8vIMOxplcK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+cmVxdWVzdERhdGFbJ2Ftb3VudCddID0gc3ByaW50ZignJS4yZicsICR0aGlzLT5yZXF1ZXN0RGF0YVsnYW1vdW50J10pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICAnc2NvZGUnID0+ICcnLCAvLyCw065hpU64uQogICAgICAgICdvcmRlcmlkJyA9PiAnJywgLy8grXGz5ri5CiAgICAgICAgJ3BheXR5cGUnID0+ICcnLCAvLyCk5KVJpOimoQogICAgICAgICdhbW91bnQnID0+ICcnLCAvLyCk5KVJqvfDQiikcLzGwkmr4ajipuwpCiAgICAgICAgJ3Byb2R1Y3RuYW1lJyA9PiAnJywgLy8gsNOrfqZXutkodXNlcm5hbWUpCiAgICAgICAgJ2N1cnJjb2RlJyA9PiAnQ05ZJywgLy8gpOSlSbn0p0+hQalUqXetyAogICAgICAgICd1c2VyaWQnID0+ICcnLCAvLyClzqThvXO4uanOsWK4uaFBpWmqxQogICAgICAgICdtZW1vJyA9PiAnJywgLy8gs8a1+aFBpWmqxQogICAgICAgICdjYWxsYmFja3VybCcgPT4gJycsIC8vILDTrmGxtaaspeap9rWyqke69Kd9</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAnb3JkZXJpZCcgPT4gJ29yZGVySWQnLAo=</text>
       </register>
-      <register name="9" type="4">
-        <text>$_POST['username'] = chr(0xbf) .
-    chr(0x27) .
-    ' OR username = username /*';
-
-$username = addslashes($_POST['username']);
-
-$sql = &quot;select * from users where username = '$username''&quot;;
-
-var_dump($sql);</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAnc2lnbicgPT4gJycsIC8vIMOxplcK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
