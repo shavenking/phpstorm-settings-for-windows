@@ -26,11 +26,14 @@
       <file name="D:/durian2/src/BB/DurianBundle/Controller/MerchantWithdrawController.php" timestamp="1500428137900">
         <mark key="'" line="428" column="29" />
       </file>
-      <file name="D:/durian2/test.php" timestamp="1500544622953">
-        <mark key="[" line="10" column="59" />
-        <mark key="]" line="12" column="14" />
-        <mark key="." line="12" column="14" />
-        <mark key="^" line="12" column="14" />
+      <file name="D:/durian2/test.php" timestamp="1500602293317">
+        <mark key="[" line="4" column="21" />
+        <mark key="]" line="4" column="21" />
+        <mark key="." line="4" column="21" />
+        <mark key="^" line="4" column="22" />
+      </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Command/AccountLogCommand.php" timestamp="1500601961243">
+        <mark key="'" line="34" column="0" />
       </file>
       <file name="D:/durian2/vendor/symfony/symfony/src/Symfony/Component/Console/Formatter/OutputFormatter.php" timestamp="1499755384775">
         <mark key="'" line="240" column="4" />
@@ -300,7 +303,6 @@
       <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/xml/xml.php" timestamp="1500599361602" />
     </filemarks>
     <jumps>
-      <jump line="25" column="53" filename="D:/durian2/src/BB/DurianBundle/Resources/views/Default/Demo/RemitAccount/resume.html.twig" />
       <jump line="25" column="62" filename="D:/durian2/src/BB/DurianBundle/Resources/views/Default/Demo/RemitAccount/suspend.html.twig" />
       <jump line="6184" column="39" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
       <jump line="99" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
@@ -400,6 +402,7 @@
       <jump line="1602" column="23" filename="D:/durian2/src/BB/DurianBundle/Payment/Operator.php" />
       <jump line="82" column="14" filename="D:/durian2/vendor/symfony/symfony/src/Symfony/Component/Routing/Route.php" />
       <jump line="0" column="0" filename="D:/durian2/vendor/symfony/symfony/src/Symfony/Component/Routing/Route.php" />
+      <jump line="34" column="0" filename="D:/durian2/src/BB/DurianBundle/Command/AccountLogCommand.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -412,10 +415,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>[]</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>[]</text>
       </register>
       <register name="/" type="4">
         <text>weixin</text>
@@ -424,31 +427,39 @@
         <text encoding="base64">ICAgICAgICAgICAgJGxlbiA9IG1iX3N0cmxlbigkdmFsdWUpOwogICAgICAgICAgICBmb3IgKCRpID0gMDsgJGkgPCAkbGVuOyAkaSsrKSB7CiAgICAgICAgICAgICAgICAkd29yZCA9IG1iX3N1YnN0cigkdmFsdWUsICRpLCAxKTsKCiAgICAgICAgICAgICAgICBpZiAoc3RybGVuKCR3b3JkKSA+IDMpIHsK</text>
       </register>
       <register name="1" type="4">
+        <text>$_POST['username'] = chr(0xbf) .
+    chr(0x27) .
+    ' OR username = username /*';
+
+$username = addslashes($_POST['username']);
+
+$sql = &quot;select * from users where username = '$username''&quot;;
+
+var_dump($sql);</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">CiRfUE9TVFsndXNlcm5hbWUnXSA9IGNocigweGJmKSAuICAgICAgICAgICAgICAgICAgICAgY2hyKDB4MjcpIC4gICAgICAgICAgICAgICAgICAgICAnIE9SIHVzZXJuYW1lID0gdXNlcm5hbWUgLyonOyRfUE9TVFsncGFzc3dvcmQnXSA9ICdndWVzcyc7ICRteXNxbFsndXNlcm5hbWUnXSA9IGFkZHNsYXNoZXMoJF9QT1NUWyd1c2VybmFtZSddKTskbXlzcWxbJ3Bhc3N3b3JkJ10gPSBhZGRzbGFzaGVzKCRfUE9TVFsncGFzc3dvcmQnXSk7ICRzcWwgPSAiU0VMRUNUICogICAgICAgIEZST00gICB1c2VycyAgICAgICAgV0hFUkUgIHVzZXJuYW1lID0gJ3skbXlzcWxbJ3VzZXJuYW1lJ119JyAgICAgICAgQU5EICAgIHBhc3N3b3JkID0gJ3skbXlzcWxbJ3Bhc3N3b3JkJ119JyI7Cgp2YXJfZHVtcCgkc3FsKTs=</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">JF9QT1NUWyd1c2VybmFtZSddID0gY2hyKDB4YmYpIC4gICAgICAgICAgICAgICAgICAgICBjaHIoMHgyNykgLiAgICAgICAgICAgICAgICAgICAgICcgT1IgdXNlcm5hbWUgPSB1c2VybmFtZSAvKic7JF9QT1NUWydwYXNzd29yZCddID0gJ2d1ZXNzJzsgJG15c3FsWyd1c2VybmFtZSddID0gYWRkc2xhc2hlcygkX1BPU1RbJ3VzZXJuYW1lJ10pOyRteXNxbFsncGFzc3dvcmQnXSA9IGFkZHNsYXNoZXMoJF9QT1NUWydwYXNzd29yZCddKTsgJHNxbCA9ICJTRUxFQ1QgKiAgICAgICAgRlJPTSAgIHVzZXJzICAgICAgICBXSEVSRSAgdXNlcm5hbWUgPSAneyRteXNxbFsndXNlcm5hbWUnXX0nICAgICAgICBBTkQgICAgcGFzc3dvcmQgPSAneyRteXNxbFsncGFzc3dvcmQnXX0nIjsK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CnZhcl9kdW1wKHV0ZjhfZW5jb2RlKDB4NUMpKTs=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">Zm9yZWFjaCAocmFuZ2UoMCwgMTAwMDAwKSBhcyAkaSkgeyBJbnRsQ2hhcjo6b3JkKCc/JykgPiA2NTUzNTsKfQ==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">dmFyX2R1bXAob3JkKCc/JykpOwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHN0cmxlbignPycpIAo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIEludGxDaGFyOjpvcmQoJz8nKSA+IDY1NTM1Owo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Zm9yZWFjCnZhcl9kdW1wKEludGxDaGFyOjpvcmQoJz8nKSk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">dmFyX2R1bXAoSW50bENoYXI6OmNocigyNjE1MCkpOwo=</text>
+        <text encoding="base64">Zm9yZWFjCnZhcl9kdW1wKEludGxDaGFyOjpvcmQoJz8nKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
