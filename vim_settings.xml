@@ -38,6 +38,12 @@
       <file name="D:/durian2/vendor/symfony/symfony/src/Symfony/Component/Console/Formatter/OutputFormatter.php" timestamp="1499755384775">
         <mark key="'" line="240" column="4" />
       </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Payment/NewEPay.php" timestamp="1500627969327">
+        <mark key="[" line="17" column="30" />
+        <mark key="]" line="19" column="7" />
+        <mark key="^" line="19" column="7" />
+        <mark key="." line="19" column="7" />
+      </file>
       <file name="D:/durian2/vendor/doctrine/orm/lib/Doctrine/ORM/EntityManager.php" timestamp="1499928190203">
         <mark key="'" line="507" column="20" />
       </file>
@@ -426,10 +432,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>20170721161053123168</text>
+        <text>Telepay</text>
       </register>
       <register name="-" type="4">
-        <text>20170721161053123168</text>
+        <text>Telepay</text>
       </register>
       <register name="/" type="4">
         <text>weixin</text>
