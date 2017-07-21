@@ -15,7 +15,6 @@
       <file name="D:/durian2/src/BB/DurianBundle/Payment/ShangYinXin.php" timestamp="1499842136220">
         <mark key="'" line="469" column="5" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Command/WeixinNotifyCommand.php" timestamp="1500515652415" />
       <file name="D:/payment/pay_response.php" timestamp="1500279245362">
         <mark key="[" line="171" column="0" />
         <mark key="]" line="171" column="0" />
@@ -24,7 +23,6 @@
       <file name="D:/durian2/src/BB/DurianBundle/Payment/ChiFu.php" timestamp="1499661089627">
         <mark key="'" line="165" column="32" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Controller/MerchantLevelController.php" timestamp="1500531146124" />
       <file name="D:/durian2/src/BB/DurianBundle/Controller/MerchantWithdrawController.php" timestamp="1500428137900">
         <mark key="'" line="428" column="29" />
       </file>
@@ -37,7 +35,6 @@
       <file name="D:/durian2/vendor/symfony/symfony/src/Symfony/Component/Console/Formatter/OutputFormatter.php" timestamp="1499755384775">
         <mark key="'" line="240" column="4" />
       </file>
-      <file name="D:/durian2/vendor/symfony/phpunit-bridge/composer.json" timestamp="1500520781984" />
       <file name="D:/durian2/vendor/doctrine/orm/lib/Doctrine/ORM/EntityManager.php" timestamp="1499928190203">
         <mark key="'" line="507" column="20" />
       </file>
@@ -300,6 +297,7 @@
         <mark key="." line="5" column="47" />
         <mark key="^" line="5" column="47" />
       </file>
+      <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/xml/xml.php" timestamp="1500599361602" />
     </filemarks>
     <jumps>
       <jump line="25" column="53" filename="D:/durian2/src/BB/DurianBundle/Resources/views/Default/Demo/RemitAccount/resume.html.twig" />
@@ -463,7 +461,7 @@
       <last-replace>85</last-replace>
       <last-substitute>fal</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
