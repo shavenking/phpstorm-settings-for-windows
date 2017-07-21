@@ -26,11 +26,11 @@
       <file name="D:/durian2/src/BB/DurianBundle/Controller/MerchantWithdrawController.php" timestamp="1500428137900">
         <mark key="'" line="428" column="29" />
       </file>
-      <file name="D:/durian2/test.php" timestamp="1500622428152">
-        <mark key="[" line="4" column="33" />
-        <mark key="]" line="5" column="34" />
-        <mark key="." line="5" column="34" />
-        <mark key="^" line="5" column="34" />
+      <file name="D:/durian2/test.php" timestamp="1500624919113">
+        <mark key="[" line="22" column="16" />
+        <mark key="]" line="22" column="32" />
+        <mark key="." line="22" column="32" />
+        <mark key="^" line="22" column="32" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Command/AccountLogCommand.php" timestamp="1500601961243">
         <mark key="'" line="34" column="0" />
@@ -425,44 +425,46 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJjY29tcCgnMS4xMScsICcxLjExMScsIDIpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICRkYXRhWydtZXJjaElkJ10=</text>
       </register>
       <register name="-" type="4">
-        <text>''</text>
+        <text encoding="base64">ICRkYXRhWydtZXJjaElkJ10=</text>
       </register>
       <register name="/" type="4">
         <text>weixin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGxlbiA9IG1iX3N0cmxlbigkdmFsdWUpOwogICAgICAgICAgICBmb3IgKCRpID0gMDsgJGkgPCAkbGVuOyAkaSsrKSB7CiAgICAgICAgICAgICAgICAkd29yZCA9IG1iX3N1YnN0cigkdmFsdWUsICRpLCAxKTsKCiAgICAgICAgICAgICAgICBpZiAoc3RybGVuKCR3b3JkKSA+IDMpIHsK</text>
+        <text encoding="base64">Ly8gICAgJ21lcmNoSWQnID0+ICcwMjUwMDAwMDAwMDAwMzknLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJjY29tcCgnMS4xMScsICcxLjExMScsIDIpOwo=</text>
+        <text encoding="base64">ICAgICdyZXNwQ29kZScgPT4gCg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CnZhcl9kdW1wKGJjYWRkKCcxLjMxJywgJzEuMzQnLCAxKSk7</text>
+      <register name="2" type="2">
+        <text encoding="base64">dmFyX2R1bXAoanNvbl9lbmNvZGUoJGRhdGEpKTsKCnZhcl9kdW1wKG1kNShqc29uX2VuY29kZSgkZGF0YSkgLiAka2V5KSk7CgoKCgo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CnRocm93IG5ldyBcRXhjZXB0aW9uKCdmdWNrJyk7</text>
+      <register name="3" type="2">
+        <text encoding="base64">CnZhcl9kdW1wKGJhc2U2NF9kZWNvZGUoJ2V5SnlaWE53UTI5a1pTSTZJakF3TURBaUxDSnhja052WkdVaU9pSjNaV2w0YVc0Nkx5OTNlSEJoZVM5aWFYcHdZWGwxY213L2NISTlNV0pCYzFwQmVpSXNJbkpsYzNCTmMyY2lPaUxtaUpEbGlwOGlMQ0p3WVhsVWNtRnVjMGxrSWpvaU1qQXhOekEzTWpFeE5qRXdOVE14TWpNeE5qZ2lMQ0p2Y21SbGNrbGtJam9pTVRVd01EWXlORFl5TlNKOScpKTsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">JGZ1Y2sgPSBqc29uX2RlY29kZSgnJyk7Cgp0cnkgewogICAgZWNobyAkZnVjay0+cmVzdWx0Owp9IGNhdGNoIChcRXhjZXB0aW9uICRlKSB7CiAgICBlY2hvICdjYXRjaCc7Cn0K</text>
+      <register name="4" type="4">
+        <text>foreach (range(0, 10000) as $i) {
+    '1.11' == round('1.111' * 10, 2);
+}</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+cmVxdWVzdERhdGFbJ3NpZ24nXSA9ICR0aGlzLT5lbmNvZGUoKTsKCiAgICAgICAgcmV0dXJuICR0aGlzLT5yZXF1ZXN0RGF0YTsK</text>
+        <text encoding="base64">ICAgIGJjY29tcCgnMS4xMScsICcxLjExMScsIDIpOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+cmVxdWVzdERhdGFbJ2Ftb3VudCddID0gc3ByaW50ZignJS4yZicsICR0aGlzLT5yZXF1ZXN0RGF0YVsnYW1vdW50J10pOwo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">CnZhcl9kdW1wKGJjYWRkKCcxLjMxJywgJzEuMzQnLCAxKSk7</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="7" type="4">
+        <text encoding="base64">CnRocm93IG5ldyBcRXhjZXB0aW9uKCdmdWNrJyk7</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAnb3JkZXJpZCcgPT4gJ29yZGVySWQnLAo=</text>
+        <text encoding="base64">JGZ1Y2sgPSBqc29uX2RlY29kZSgnJyk7Cgp0cnkgewogICAgZWNobyAkZnVjay0+cmVzdWx0Owp9IGNhdGNoIChcRXhjZXB0aW9uICRlKSB7CiAgICBlY2hvICdjYXRjaCc7Cn0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAnc2lnbicgPT4gJycsIC8vIMOxplcK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+cmVxdWVzdERhdGFbJ3NpZ24nXSA9ICR0aGlzLT5lbmNvZGUoKTsKCiAgICAgICAgcmV0dXJuICR0aGlzLT5yZXF1ZXN0RGF0YTsK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
