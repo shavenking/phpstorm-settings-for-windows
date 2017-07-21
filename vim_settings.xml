@@ -38,17 +38,20 @@
       <file name="D:/durian2/vendor/symfony/symfony/src/Symfony/Component/Console/Formatter/OutputFormatter.php" timestamp="1499755384775">
         <mark key="'" line="240" column="4" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Payment/NewEPay.php" timestamp="1500627969327">
-        <mark key="[" line="17" column="30" />
-        <mark key="]" line="19" column="7" />
-        <mark key="^" line="19" column="7" />
-        <mark key="." line="19" column="7" />
+      <file name="D:/durian2/src/BB/DurianBundle/Payment/NewEPay.php" timestamp="1500631038266">
+        <mark key="'" line="173" column="8" />
+        <mark key="[" line="208" column="0" />
+        <mark key="]" line="207" column="55" />
+        <mark key="^" line="208" column="0" />
+        <mark key="." line="207" column="55" />
       </file>
       <file name="D:/durian2/vendor/doctrine/orm/lib/Doctrine/ORM/EntityManager.php" timestamp="1499928190203">
         <mark key="'" line="507" column="20" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Payment/JeanPay.php" timestamp="1499919309787">
+      <file name="D:/durian2/src/BB/DurianBundle/Payment/JeanPay.php" timestamp="1500629008111">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="247" column="0" />
+        <mark key="]" line="257" column="51" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Resources/doc/exception_map.md" timestamp="1500430650475">
         <mark key="'" line="2037" column="0" />
@@ -56,12 +59,6 @@
         <mark key="]" line="1394" column="75" />
         <mark key="^" line="1395" column="76" />
         <mark key="." line="1395" column="76" />
-      </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Command/SendDepositTrackingRequestCommand.php" timestamp="1500279160360">
-        <mark key="'" line="91" column="8" />
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="0" />
-        <mark key="." line="104" column="0" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Tests/Payment/YunFuxPayTest.php" timestamp="1500622091608">
         <mark key="[" line="402" column="26" />
@@ -210,6 +207,13 @@
       <file name="D:/durian2/src/BB/DurianBundle/Tests/Payment/UPayTest.php" timestamp="1498609223580">
         <mark key="'" line="8" column="6" />
       </file>
+      <file name="D:/durian2/app/DoctrineMigrations/Version20170721094443.php" timestamp="1500630555665">
+        <mark key="'" line="24" column="116" />
+        <mark key="[" line="37" column="136" />
+        <mark key="]" line="37" column="136" />
+        <mark key="." line="37" column="136" />
+        <mark key="^" line="37" column="131" />
+      </file>
       <file name="D:/durian2/vendor/symfony/symfony/src/Symfony/Component/BrowserKit/Client.php" timestamp="1500022177445">
         <mark key="'" line="277" column="20" />
       </file>
@@ -218,12 +222,6 @@
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Payment/Neteller.php" timestamp="1500360414470">
         <mark key="'" line="209" column="20" />
-      </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Resources/translations/messages.zh_CN.yml" timestamp="1500430619612">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="818" column="0" />
-        <mark key="]" line="818" column="0" />
-        <mark key="." line="818" column="0" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Payment/HeYiPay.php" timestamp="1499668822005">
         <mark key="'" line="619" column="8" />
@@ -244,26 +242,14 @@
         <mark key="^" line="4089" column="24" />
         <mark key="." line="4094" column="41" />
       </file>
-      <file name="D:/payment/RequestReturn.php" timestamp="1500279214632">
-        <mark key="'" line="160" column="8" />
-        <mark key="[" line="171" column="0" />
-        <mark key="]" line="171" column="0" />
-        <mark key="." line="171" column="0" />
-      </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Tests/DataFixtures/ORM/LoadRemitAccountData.php" timestamp="1500019903016">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="19" column="44" />
-        <mark key="." line="20" column="0" />
-      </file>
       <file name="D:/durian2/src/BB/DurianBundle/Controller/PaymentGatewayController.php" timestamp="1500431980763">
         <mark key="'" line="1433" column="33" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountRepository.php" timestamp="1500348064518">
-        <mark key="'" line="94" column="20" />
-        <mark key="[" line="296" column="5" />
-        <mark key="]" line="296" column="5" />
-        <mark key="." line="296" column="5" />
+      <file name="D:/payment/lib.php" timestamp="1500630762121">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="17" />
+        <mark key="^" line="61" column="17" />
+        <mark key="." line="61" column="17" />
       </file>
       <file name="/__dummy.css" timestamp="1496713099045">
         <mark key="[" line="0" column="0" />
@@ -279,12 +265,6 @@
       </file>
       <file name="D:/durian2/vendor/doctrine/collections/lib/Doctrine/Common/Collections/ArrayCollection.php" timestamp="1498448564994">
         <mark key="'" line="33" column="45" />
-      </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Resources/translations/messages.zh_TW.yml" timestamp="1500279714296">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="818" column="0" />
-        <mark key="]" line="818" column="0" />
-        <mark key="." line="818" column="0" />
       </file>
       <file name="D:/payment/card_return.php" timestamp="1500279230695">
         <mark key="[" line="171" column="0" />
@@ -320,11 +300,6 @@
       <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/xml/xml.php" timestamp="1500599361602" />
     </filemarks>
     <jumps>
-      <jump line="6184" column="39" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
-      <jump line="99" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" />
-      <jump line="2051" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitAccountFunctionalTest.php" />
-      <jump line="15" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/DataFixtures/ORM/LoadRemitAccountData.php" />
-      <jump line="277" column="20" filename="D:/durian2/vendor/symfony/symfony/src/Symfony/Component/BrowserKit/Client.php" />
       <jump line="619" column="40" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountController.php" />
       <jump line="820" column="13" filename="D:/durian2/src/BB/DurianBundle/Controller/AutoConfirmController.php" />
       <jump line="1423" column="5" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/AutoConfirmFunctionalTest.php" />
@@ -420,6 +395,11 @@
       <jump line="0" column="0" filename="D:/durian2/vendor/symfony/symfony/src/Symfony/Component/Routing/Route.php" />
       <jump line="34" column="0" filename="D:/durian2/src/BB/DurianBundle/Command/AccountLogCommand.php" />
       <jump line="5" column="23" filename="D:/durian2/test.php" />
+      <jump line="179" column="65" filename="D:/durian2/src/BB/DurianBundle/Payment/NewEPay.php" />
+      <jump line="70" column="8" filename="D:/durian2/src/BB/DurianBundle/Payment/NewEPay.php" />
+      <jump line="9" column="1" filename="D:/durian2/src/BB/DurianBundle/Payment/NewEPay.php" />
+      <jump line="24" column="116" filename="D:/durian2/app/DoctrineMigrations/Version20170721094443.php" />
+      <jump line="173" column="8" filename="D:/durian2/src/BB/DurianBundle/Payment/NewEPay.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -432,63 +412,59 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Telepay</text>
+        <text>, true)</text>
       </register>
       <register name="-" type="4">
-        <text>Telepay</text>
+        <text>, true)</text>
       </register>
       <register name="/" type="4">
-        <text>weixin</text>
+        <text>paytyp</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgJ21lcmNoSWQnID0+ICcwMjUwMDAwMDAwMDAwMzknLAo=</text>
+        <text encoding="base64">dGhyb3cgbmV3IFxFeGNlcHRpb24oJ2hpJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICdvcmRlcklkJyA9PiAnMTUwMDYyNDY3NCcsCg==</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgXEV4Y2VwdGlvbignaGknKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICdyZXNwQ29kZScgPT4gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dmFyX2R1bXAoanNvbl9lbmNvZGUoJGRhdGEpKTsKCnZhcl9kdW1wKG1kNShqc29uX2VuY29kZSgkZGF0YSkgLiAka2V5KSk7CgoKCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CnZhcl9kdW1wKGJhc2U2NF9kZWNvZGUoJ2V5SnlaWE53UTI5a1pTSTZJakF3TURBaUxDSnhja052WkdVaU9pSjNaV2w0YVc0Nkx5OTNlSEJoZVM5aWFYcHdZWGwxY213L2NISTlNV0pCYzFwQmVpSXNJbkpsYzNCTmMyY2lPaUxtaUpEbGlwOGlMQ0p3WVhsVWNtRnVjMGxrSWpvaU1qQXhOekEzTWpFeE5qRXdOVE14TWpNeE5qZ2lMQ0p2Y21SbGNrbGtJam9pTVRVd01EWXlORFl5TlNKOScpKTsK</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgXEV4Y2VwdGlvbignaGknKTsK</text>
       </register>
-      <register name="5" type="4">
-        <text>foreach (range(0, 10000) as $i) {
-    '1.11' == round('1.111' * 10, 2);
-}</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgXEV4Y2VwdGlvbignaGknKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJjY29tcCgnMS4xMScsICcxLjExMScsIDIpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgXEV4Y2VwdGlvbignaGknKTsK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CnZhcl9kdW1wKGJjYWRkKCcxLjMxJywgJzEuMzQnLCAxKSk7</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CnRocm93IG5ldyBcRXhjZXB0aW9uKCdmdWNrJyk7</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">JGZ1Y2sgPSBqc29uX2RlY29kZSgnJyk7Cgp0cnkgewogICAgZWNobyAkZnVjay0+cmVzdWx0Owp9IGNhdGNoIChcRXhjZXB0aW9uICRlKSB7CiAgICBlY2hvICdjYXRjaCc7Cn0K</text>
+        <text encoding="base64">ICAgICAgICAvLyCzXal3pOSlSaWtpXi73a1uqrqlW7FLpuoKLy8gICAgICAgICR0aGlzLT5yZXF1ZXN0RGF0YVsnc2lnbiddID0gJHRoaXMtPmVuY29kZSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>weixin</last-search>
+      <last-search>paytyp</last-search>
       <last-offset />
-      <last-pattern>weixin</last-pattern>
+      <last-pattern>paytyp</last-pattern>
       <last-replace>85</last-replace>
       <last-substitute>fal</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>as</entry>
-        <entry>\.</entry>
         <entry>tr</entry>
         <entry>reco</entry>
         <entry>dis</entry>
@@ -507,9 +483,10 @@
         <entry>f</entry>
         <entry>&quot;</entry>
         <entry>weixin</entry>
+        <entry>195</entry>
+        <entry>paytyp</entry>
       </history-search>
       <history-cmd>
-        <entry>37,58d</entry>
         <entry>5,11c</entry>
         <entry>5,11d</entry>
         <entry>1343d</entry>
@@ -526,9 +503,10 @@
         <entry>34y</entry>
         <entry>24,26y</entry>
         <entry>NOH</entry>
-        <entry>Noh</entry>
         <entry>614y</entry>
+        <entry>244,246y</entry>
         <entry>noh</entry>
+        <entry>Noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
