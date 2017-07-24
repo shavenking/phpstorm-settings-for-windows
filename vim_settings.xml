@@ -38,12 +38,12 @@
       <file name="D:/durian2/vendor/symfony/symfony/src/Symfony/Component/Console/Formatter/OutputFormatter.php" timestamp="1499755384775">
         <mark key="'" line="240" column="4" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Payment/NewEPay.php" timestamp="1500631038266">
-        <mark key="'" line="173" column="8" />
-        <mark key="[" line="208" column="0" />
-        <mark key="]" line="207" column="55" />
-        <mark key="^" line="208" column="0" />
-        <mark key="." line="207" column="55" />
+      <file name="D:/durian2/src/BB/DurianBundle/Payment/NewEPay.php" timestamp="1500860638641">
+        <mark key="'" line="273" column="8" />
+        <mark key="[" line="349" column="66" />
+        <mark key="]" line="349" column="66" />
+        <mark key="^" line="349" column="66" />
+        <mark key="." line="349" column="66" />
       </file>
       <file name="D:/durian2/vendor/doctrine/orm/lib/Doctrine/ORM/EntityManager.php" timestamp="1499928190203">
         <mark key="'" line="507" column="20" />
@@ -59,6 +59,11 @@
         <mark key="]" line="1394" column="75" />
         <mark key="^" line="1395" column="76" />
         <mark key="." line="1395" column="76" />
+      </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Payment/UnionPay.php" timestamp="1500860151552">
+        <mark key="'" line="298" column="27" />
+        <mark key="[" line="293" column="0" />
+        <mark key="]" line="298" column="79" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Tests/Payment/YunFuxPayTest.php" timestamp="1500622091608">
         <mark key="[" line="402" column="26" />
@@ -297,15 +302,8 @@
         <mark key="." line="5" column="47" />
         <mark key="^" line="5" column="47" />
       </file>
-      <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/xml/xml.php" timestamp="1500599361602" />
     </filemarks>
     <jumps>
-      <jump line="619" column="40" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountController.php" />
-      <jump line="820" column="13" filename="D:/durian2/src/BB/DurianBundle/Controller/AutoConfirmController.php" />
-      <jump line="1423" column="5" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/AutoConfirmFunctionalTest.php" />
-      <jump line="1473" column="8" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/AutoConfirmFunctionalTest.php" />
-      <jump line="542" column="51" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountController.php" />
-      <jump line="699" column="12" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountController.php" />
       <jump line="644" column="0" filename="D:/durian2/src/BB/DurianBundle/Controller/RemitAccountController.php" />
       <jump line="12" column="6" filename="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountRepository.php" />
       <jump line="12" column="6" filename="D:/durian2/src/BB/DurianBundle/Tests/Command/ActivateRemitAccountCommandTest.php" />
@@ -400,6 +398,12 @@
       <jump line="9" column="1" filename="D:/durian2/src/BB/DurianBundle/Payment/NewEPay.php" />
       <jump line="24" column="116" filename="D:/durian2/app/DoctrineMigrations/Version20170721094443.php" />
       <jump line="173" column="8" filename="D:/durian2/src/BB/DurianBundle/Payment/NewEPay.php" />
+      <jump line="280" column="8" filename="D:/durian2/src/BB/DurianBundle/Payment/NewEPay.php" />
+      <jump line="290" column="0" filename="D:/durian2/src/BB/DurianBundle/Payment/NewEPay.php" />
+      <jump line="284" column="0" filename="D:/durian2/src/BB/DurianBundle/Payment/NewEPay.php" />
+      <jump line="298" column="27" filename="D:/durian2/src/BB/DurianBundle/Payment/UnionPay.php" />
+      <jump line="111" column="31" filename="D:/durian2/src/BB/DurianBundle/Payment/NewEPay.php" />
+      <jump line="273" column="8" filename="D:/durian2/src/BB/DurianBundle/Payment/NewEPay.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -412,46 +416,46 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>, true)</text>
+        <text encoding="base64">dGhyb3cgbmV3IFxFeGNlcHRpb24oJHRoaXMtPm9wdGlvbnNbJ2NvbnRlbnQnXSk7</text>
       </register>
       <register name="-" type="4">
-        <text>, true)</text>
+        <text encoding="base64">dGhyb3cgbmV3IFxFeGNlcHRpb24oJHRoaXMtPm9wdGlvbnNbJ2NvbnRlbnQnXSk7</text>
       </register>
       <register name="/" type="4">
         <text>paytyp</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dGhyb3cgbmV3IFxFeGNlcHRpb24oJ2hpJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3BhcnRuZXInID0+ICR0aGlzLT5yZXF1ZXN0RGF0YVsnbWVyY2hJZCddLAogICAgICAgICAgICAnZW5jcnlwdFR5cGUnID0+ICdtZDUnLAogICAgICAgICAgICAnbXNnRGF0YScgPT4gYmFzZTY0X2VuY29kZShqc29uX2VuY29kZSgkdGhpcy0+cmVxdWVzdERhdGEpKSwKICAgICAgICAgICAgJ3NpZ25EYXRhJyA9PiAkdGhpcy0+ZW5jb2RlKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgXEV4Y2VwdGlvbignaGknKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyCzXal3pVuxS8OxplcKICAgICAgICAkdGhpcy0+dHJhY2tpbmdSZXF1ZXN0RGF0YVsnc2lnbiddID0gJHRoaXMtPnRyYWNraW5nRW5jb2RlKCk7Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyClW7FLruamoSBzY29kZSB8IG9yZGVyaWQgJiBrZXkKICAgICAgICAkZW5jb2RlU3RyID0gc3ByaW50ZigKICAgICAgICAgICAgJyVzfCVzJiVzJywKICAgICAgICAgICAgJHRoaXMtPnRyYWNraW5nUmVxdWVzdERhdGFbJ3Njb2RlJ10sCiAgICAgICAgICAgICR0aGlzLT50cmFja2luZ1JlcXVlc3REYXRhWydvcmRlcmlkJ10sCiAgICAgICAgICAgICR0aGlzLT5wcml2YXRlS2V5CiAgICAgICAgKTsKCiAgICAgICAgcmV0dXJuIG1kNSgkZW5jb2RlU3RyKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgXEV4Y2VwdGlvbignaGknKTsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICAnc2NvZGUnLAogICAgICAgICdvcmRlcmlkJyw=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgXEV4Y2VwdGlvbignaGknKTsK</text>
+        <text encoding="base64">ICAgICAgICAnc2NvZGUnID0+ICdudW1iZXInLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgXEV4Y2VwdGlvbignaGknKTsK</text>
+        <text encoding="base64">ICAgICAgICAnc2NvZGUnID0+ICcnLCAvLyCw065hpU64uQogICAgICAgICdvcmRlcmlkJyA9PiAnJywgLy8grXGz5ri5CiAgICAgICAgJ3NpZ24nID0+ICcnLCAvLyDDsaZXCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyCmXbNxuUy576V+vvcgcHJveHkgt3wgdGltZW91dKFBp++ssKa5pOimobnvpX4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcGFyYW1zID0gWwogICAgICAgICAgICAndXJsJyA9PiAkdGhpcy0+b3B0aW9uc1sncmVvcFVybCddLAogICAgICAgICAgICAnZGF0YScgPT4gaHR0cF9idWlsZF9xdWVyeSgkdGhpcy0+dHJhY2tpbmdSZXF1ZXN0RGF0YSksCiAgICAgICAgXTsKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyCzXal3pOSlSaWtpXi73a1uqrqlW7FLpuoKLy8gICAgICAgICR0aGlzLT5yZXF1ZXN0RGF0YVsnc2lnbiddID0gJHRoaXMtPmVuY29kZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>285,289d</text>
       </register>
     </registers>
     <search>
@@ -461,7 +465,7 @@
       <last-replace>85</last-replace>
       <last-substitute>fal</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -487,7 +491,6 @@
         <entry>paytyp</entry>
       </history-search>
       <history-cmd>
-        <entry>5,11c</entry>
         <entry>5,11d</entry>
         <entry>1343d</entry>
         <entry>148,157y</entry>
@@ -507,6 +510,7 @@
         <entry>244,246y</entry>
         <entry>noh</entry>
         <entry>Noh</entry>
+        <entry>285,289d</entry>
       </history-cmd>
       <history-expr />
       <history-input />
