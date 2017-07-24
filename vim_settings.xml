@@ -44,12 +44,12 @@
       <file name="D:/durian2/vendor/symfony/symfony/src/Symfony/Component/Console/Formatter/OutputFormatter.php" timestamp="1499755384775">
         <mark key="'" line="240" column="4" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Payment/NewEPay.php" timestamp="1500867183530">
-        <mark key="'" line="270" column="0" />
-        <mark key="[" line="177" column="15" />
-        <mark key="]" line="177" column="33" />
-        <mark key="^" line="177" column="33" />
-        <mark key="." line="177" column="33" />
+      <file name="D:/durian2/src/BB/DurianBundle/Payment/NewEPay.php" timestamp="1500869930022">
+        <mark key="'" line="379" column="0" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="64" column="17" />
       </file>
       <file name="D:/durian2/vendor/doctrine/orm/lib/Doctrine/ORM/EntityManager.php" timestamp="1499928190203">
         <mark key="'" line="507" column="20" />
@@ -316,9 +316,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="221" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Command/ActivateRemitAccountCommandTest.php" />
-      <jump line="61" column="20" filename="D:/durian2/src/BB/DurianBundle/Tests/Command/ActivateRemitAccountCommandTest.php" />
-      <jump line="97" column="20" filename="D:/durian2/src/BB/DurianBundle/Tests/Command/ActivateRemitAccountCommandTest.php" />
       <jump line="188" column="14" filename="D:/durian2/src/BB/DurianBundle/Tests/Command/ActivateRemitAccountCommandTest.php" />
       <jump line="1386" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitAccountFunctionalTest.php" />
       <jump line="2103" column="24" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitAccountFunctionalTest.php" />
@@ -416,6 +413,9 @@
       <jump line="269" column="0" filename="D:/durian2/src/BB/DurianBundle/Payment/NewEPay.php" />
       <jump line="266" column="0" filename="D:/durian2/src/BB/DurianBundle/Payment/NewEPay.php" />
       <jump line="0" column="0" filename="D:/payment/pay.php" />
+      <jump line="189" column="26" filename="D:/durian2/src/BB/DurianBundle/Payment/NewEPay.php" />
+      <jump line="71" column="17" filename="D:/durian2/src/BB/DurianBundle/Payment/NewEPay.php" />
+      <jump line="389" column="0" filename="D:/durian2/src/BB/DurianBundle/Payment/NewEPay.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -427,8 +427,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>json_enocde</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAncmV0dXJuVXJsJyA9PiAnbm90aWZ5X3VybCcsCg==</text>
       </register>
       <register name="-" type="4">
         <text>json_enocde</text>
@@ -439,7 +439,19 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ3BhcnRuZXInID0+ICR0aGlzLT5yZXF1ZXN0RGF0YVsnbWVyY2hJZCddLAogICAgICAgICAgICAnZW5jcnlwdFR5cGUnID0+ICdtZDUnLAogICAgICAgICAgICAnbXNnRGF0YScgPT4gYmFzZTY0X2VuY29kZShqc29uX2VuY29kZSgkdGhpcy0+cmVxdWVzdERhdGEpKSwKICAgICAgICAgICAgJ3NpZ25EYXRhJyA9PiAkdGhpcy0+ZW5jb2RlKCkK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAncmV0dXJuVXJsJyA9PiAnbm90aWZ5X3VybCcsCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAncmV0dXJuVXJsJyA9PiAnJywgLy8gplCoQrNxqr4K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CgoKICAgICAgICAnc2NvZGUnLAogICAgICAgICdvcmRlcmlkJywKICAgICAgICAnYW1vdW50JywKICAgICAgICAnY3VycmNvZGUnLAogICAgICAgICdjYWxsYmFja3VybCcsCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAncXJDb2RlJwo=</text>
+      </register>
+      <register name="5" type="4">
         <text>// {
 //     &quot;encryptType&quot;:&quot;md5&quot;,
 //     &quot;msgData&quot;:&quot;eyJyZXNwQ29kZSI6IjAwMDAiLCJzZXR0bGVEYXRlIjoiMjAxNzA3MjQiLCJwYXlUcmFuc0lkIjoiMjAxNzA3MjQxMDA1MDAxMDE1NzUiLCJwYXlUaW1lIjoiMjAxNzA3MjQxMDA1MTciLCJvcmRlcklkIjoiMjAxNzA3MjQwMDAwMDAyMjc4In0=&quot;,
@@ -453,29 +465,17 @@ $decoded = $msgData; //base64_decode($msgData);
 
 var_dump($decoded, md5($decoded . '12345'));</text>
       </register>
-      <register name="2" type="4">
+      <register name="6" type="4">
         <text encoding="base64">Ly8kZGF0YSA9IFsKLy8gICAgJ2N1clR5cGUnID0+ICdDTlknLAovLyAgICAnbWVyY2hJZCcgPT4gJzAyNTAwMDAwMDAwMDAzOScsCi8vICAgICdub3RpZnlVcmwnID0+ICdodHRwOi8vcGF5bWVudC5wei1oZXJvLmNvbS9wYXkvcmV0dXJuLnBocCcsCi8vICAgICdvcmRlcklkJyA9PiB0aW1lKCksCi8vICAgICdwYXlXYXknID0+ICd3ZWl4aW4nLAovLyAgICAndGl0bGUnID0+ICd0ZXN0JywKLy8gICAgJ3RvdGFsQW10JyA9PiAnMTAwJywKLy8gICAgJ3RyYW5UaW1lJyA9PiBkYXRlX2NyZWF0ZSgpLT5mb3JtYXQoJ1ltZEhpcycpCi8vXTsKCiRkYXRhID0gWwogICAgJ29yZGVySWQnID0+ICcxNTAwNjI1OTY5JywKICAgICdleHRlbmQxJyA9PiAnJywKICAgICdleHRlbmQyJyA9PiAnJywKICAgICdleHRlbmQzJyA9PiAnJwpdOwoKJGtleSA9ICcxMjM0NSc7Cgp2YXJfZHVtcChbCiAgICAncGFydG5lcicgPT4gJzAyNTAwMDAwMDAwMDAzOScsCiAgICAnZW5jcnlwdFR5cGUnID0+ICdtZDUnLAogICAgJ21zZ0RhdGEnID0+IGJhc2U2NF9lbmNvZGUoanNvbl9lbmNvZGUoJGRhdGEpKSwKICAgICdzaWduRGF0YScgPT4gbWQ1KGpzb25fZW5jb2RlKCRkYXRhKSAuICRrZXkpCl0pOw==</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAncmVxTXNnSWQnID0+IDEsCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAkZW5jb2RlU3RyID0gc3ByaW50ZigKICAgICAgICAgICAgJyVzfCVzJiVzJiVzfCVzJiVzJiVzfCVzJywKICAgICAgICAgICAgJGRhdGFbJ3Njb2RlJ10sCiAgICAgICAgICAgICRkYXRhWydvcmRlcm5vJ10sCiAgICAgICAgICAgICRkYXRhWydvcmRlcmlkJ10sCiAgICAgICAgICAgICRkYXRhWydhbW91bnQnXSwKICAgICAgICAgICAgJGRhdGFbJ2N1cnJjb2RlJ10sCiAgICAgICAgICAgICRkYXRhWydzdGF0dXMnXSwKICAgICAgICAgICAgJGRhdGFbJ3Jlc3Bjb2RlJ10sCiAgICAgICAgICAgICR0aGlzLT5wcml2YXRlS2V5CiAgICAgICAgKTsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">dGhyb3cgbmV3IFxFeGNlcHRpb24oanNvbl9lbmNvZGUoYmFzZTY0X2RlY29kZSgkZGF0YVsnbXNnRGF0YSddKSkpOyAgICAgICAgLy8gpVuxS6TopqEgc2NvZGUgfCBvcmRlcm5vICYgb3JkZXJpZCAmIGFtb3VudCB8IGN1cnJjb2RlICYgc3RhdHVzICYgcmVzcGNvZGUgfCBrZXkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAnc2NvZGUnID0+IDEsCiAgICAgICAgJ29yZGVyaWQnID0+IDEsCiAgICAgICAgJ29yZGVybm8nID0+IDEsCiAgICAgICAgJ3BheXR5cGUnID0+IDEsCiAgICAgICAgJ3Byb2R1Y3RuYW1lJyA9PiAxLAogICAgICAgICdhbW91bnQnID0+IDEsCiAgICAgICAgJ2N1cnJjb2RlJyA9PiAxLAogICAgICAgICdtZW1vJyA9PiAwLAogICAgICAgICdyZXNwdGltZScgPT4gMCwKICAgICAgICAnc3RhdHVzJyA9PiAxLAogICAgICAgICdyZXNwY29kZScgPT4gMSwKICAgICAgICAncm1icmF0ZScgPT4gMCwK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJHRoaXMtPm9wdGlvbnNbJ3NpZ24nXSAhPSBtZDUoJGVuY29kZVN0cikpIHsKICAgICAgICB9Cgo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFBheW1lbnRDb25uZWN0aW9uRXhjZXB0aW9uKCdTaWduYXR1cmUgdmVyaWZpY2F0aW9uIGZhaWxlZCcsIDE4MDAzNCwgJHRoaXMtPmdldEVudHJ5SWQoKSk7Cg==</text>
+        <text encoding="base64">dGhyb3cgbmV3IFxFeGNlcHRpb24oanNvbl9lbmNvZGUoYmFzZTY0X2RlY29kZSgkZGF0YVsnbXNnRGF0YSddKSkpOyAgICAgICAgLy8gpVuxS6TopqEgc2NvZGUgfCBvcmRlcm5vICYgb3JkZXJpZCAmIGFtb3VudCB8IGN1cnJjb2RlICYgc3RhdHVzICYgcmVzcGNvZGUgfCBrZXkK</text>
       </register>
       <register name=":" type="4">
         <text>285,289d</text>
