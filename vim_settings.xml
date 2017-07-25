@@ -33,7 +33,7 @@
         <mark key="." line="5" column="14" />
         <mark key="^" line="5" column="14" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Payment/NewEPay.php" timestamp="1500973073931">
+      <file name="D:/durian2/src/BB/DurianBundle/Payment/NewEPay.php" timestamp="1500973849987">
         <mark key="[" line="385" column="0" />
         <mark key="]" line="385" column="0" />
         <mark key="." line="385" column="0" />
@@ -55,22 +55,12 @@
         <mark key="[" line="376" column="0" />
         <mark key="]" line="391" column="25" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Tests/Payment/YunFuxPayTest.php" timestamp="1500622091608">
-        <mark key="[" line="402" column="26" />
-        <mark key="]" line="402" column="27" />
-        <mark key="." line="402" column="27" />
-      </file>
       <file name="D:/durian2/src/BB/DurianBundle/Command/SendDepositTrackingRequestCommand.php" timestamp="1500967946322">
         <mark key="'" line="75" column="8" />
         <mark key="[" line="106" column="0" />
         <mark key="]" line="106" column="0" />
         <mark key="." line="106" column="0" />
         <mark key="^" line="180" column="36" />
-      </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Tests/Controller/MerchantWithdrawControllerTest.php" timestamp="1500431160767">
-        <mark key="[" line="1616" column="42" />
-        <mark key="]" line="1616" column="50" />
-        <mark key="." line="1616" column="42" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Command/DepositTrackingVerifyCommand.php" timestamp="1500967307035" />
       <file name="D:/durian2/src/BB/DurianBundle/Resources/views/Default/Demo/RemitAccount/resume.html.twig" timestamp="1500018901536">
@@ -85,11 +75,6 @@
         <mark key="]" line="184" column="29" />
         <mark key="." line="170" column="79" />
         <mark key="^" line="184" column="29" />
-      </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Controller/AutoConfirmController.php" timestamp="1500348211599">
-        <mark key="[" line="818" column="0" />
-        <mark key="]" line="819" column="81" />
-        <mark key="." line="818" column="0" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountStatRepository.php" timestamp="1500279681913">
         <mark key="'" line="140" column="32" />
