@@ -304,13 +304,13 @@
       <file name="D:/durian2/src/BB/DurianBundle/Tests/Entity/AutoConfirmConfigTest.php" timestamp="1499820527376">
         <mark key="'" line="7" column="6" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" timestamp="1500886777607">
+      <file name="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" timestamp="1500948759223">
         <mark key="a" line="843" column="4" />
         <mark key="'" line="1172" column="8" />
-        <mark key="[" line="1332" column="25" />
-        <mark key="]" line="1332" column="43" />
-        <mark key="^" line="1332" column="43" />
-        <mark key="." line="1332" column="43" />
+        <mark key="[" line="634" column="38" />
+        <mark key="]" line="624" column="46" />
+        <mark key="." line="624" column="46" />
+        <mark key="^" line="624" column="46" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Entity/BankCurrency.php" timestamp="1498440360658">
         <mark key="'" line="14" column="6" />
@@ -337,7 +337,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1264" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
       <jump line="1275" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
       <jump line="1280" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
       <jump line="1287" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
@@ -437,6 +436,7 @@
       <jump line="84" column="41" filename="D:/durian2/src/BB/DurianBundle/EventListener/ExceptionListener.php" />
       <jump line="265" column="0" filename="D:/durian2/src/BB/DurianBundle/Payment/NewEPay.php" />
       <jump line="274" column="14" filename="D:/durian2/src/BB/DurianBundle/Payment/NewEPay.php" />
+      <jump line="0" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -448,8 +448,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHx8ICFpc3NldCgkbXNnRGF0YVsnb3JkZXJJZCddKSB8fCAhaXNzZXQoJG1zZ0RhdGFbJ3RvdGFsQW1vdW50J10p</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJycK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IHx8ICFpc3NldCgkbXNnRGF0YVsnb3JkZXJJZCddKSB8fCAhaXNzZXQoJG1zZ0RhdGFbJ3RvdGFsQW1vdW50J10p</text>
@@ -461,19 +461,19 @@
         <text encoding="base64">ICAgICAgICBpZiAoIWlzc2V0KCRtc2dEYXRhWydvcmRlcklkJ10pKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBQYXltZW50RXhjZXB0aW9uKCdObyByZXR1cm4gcGFyYW1ldGVyIHNwZWNpZmllZCcsIDE4MDEzNyk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJycK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAxMTAzID0+ICdxcXBheScsIC8vIFFRX6RHuvsKICAgICAgICAxMTA3ID0+ICdqZHBheScsIC8vIKjKqka/+qVdX6RHuvsKICAgICAgICAxMTA5ID0+ICdiZHBheScsIC8vIKbKq9e/+qVdX6RHuvsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkb3B0aW9ucyA9IFsnb3JkZXJJZCcgPT4gJzIwMTcwNzI0MDAwMDAwMjI3OCddOwoKICAgICAgICAkbmV3RVBheSA9IG5ldyBOZXdFUGF5KCk7CiAgICAgICAgJG5ld0VQYXktPnNldENvbnRhaW5lcigkdGhpcy0+Y29udGFpbmVyKTsKICAgICAgICAkbmV3RVBheS0+c2V0Q2xpZW50KCR0aGlzLT5jbGllbnQpOwogICAgICAgICRuZXdFUGF5LT5zZXRSZXNwb25zZSgkcmVzcG9uc2UpOwogICAgICAgICRuZXdFUGF5LT5zZXRQcml2YXRlS2V5KCd0ZXN0Jyk7CiAgICAgICAgJG5ld0VQYXktPnNldE9wdGlvbnMoJG9wdGlvbnMpOwogICAgICAgICRuZXdFUGF5LT5wYXltZW50VHJhY2tpbmcoKTsK</text>
+        <text encoding="base64">ICAgICAgICAxMTAzID0+ICdxcXBheScsIC8vIFFRX6RHuvsKICAgICAgICAxMTA3ID0+ICdqZHBheScsIC8vIKjKqka/+qVdX6RHuvsKICAgICAgICAxMTA5ID0+ICdiZHBheScsIC8vIKbKq9e/+qVdX6RHuvsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAkb3B0aW9ucyA9IFsnb3JkZXJJZCcgPT4gJzIwMTcwNzI0MDAwMDAwMjI3OCddOwoKICAgICAgICAkbmV3RVBheSA9IG5ldyBOZXdFUGF5KCk7CiAgICAgICAgJG5ld0VQYXktPnNldENvbnRhaW5lcigkdGhpcy0+Y29udGFpbmVyKTsKICAgICAgICAkbmV3RVBheS0+c2V0Q2xpZW50KCR0aGlzLT5jbGllbnQpOwogICAgICAgICRuZXdFUGF5LT5zZXRSZXNwb25zZSgkcmVzcG9uc2UpOwogICAgICAgICRuZXdFUGF5LT5zZXRQcml2YXRlS2V5KCd0ZXN0Jyk7CiAgICAgICAgJG5ld0VQYXktPnNldE9wdGlvbnMoJG9wdGlvbnMpOwogICAgICAgICRuZXdFUGF5LT5wYXltZW50VHJhY2tpbmcoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkbmV3RVBheSA9IG5ldyBOZXdFUGF5KCk7CiAgICAgICAgJG5ld0VQYXktPnNldENvbnRhaW5lcigkdGhpcy0+Y29udGFpbmVyKTsKICAgICAgICAkbmV3RVBheS0+c2V0Q2xpZW50KCR0aGlzLT5jbGllbnQpOwogICAgICAgICRuZXdFUGF5LT5zZXRSZXNwb25zZSgkcmVzcG9uc2UpOwogICAgICAgICRuZXdFUGF5LT5zZXRQcml2YXRlS2V5KCd0ZXN0Jyk7CiAgICAgICAgJG5ld0VQYXktPnNldE9wdGlvbnMoW10pOwogICAgICAgICRuZXdFUGF5LT5wYXltZW50VHJhY2tpbmcoKTsK</text>
+        <text encoding="base64">ICAgICAgICAkb3B0aW9ucyA9IFsnb3JkZXJJZCcgPT4gJzIwMTcwNzI0MDAwMDAwMjI3OCddOwoKICAgICAgICAkbmV3RVBheSA9IG5ldyBOZXdFUGF5KCk7CiAgICAgICAgJG5ld0VQYXktPnNldENvbnRhaW5lcigkdGhpcy0+Y29udGFpbmVyKTsKICAgICAgICAkbmV3RVBheS0+c2V0Q2xpZW50KCR0aGlzLT5jbGllbnQpOwogICAgICAgICRuZXdFUGF5LT5zZXRSZXNwb25zZSgkcmVzcG9uc2UpOwogICAgICAgICRuZXdFUGF5LT5zZXRQcml2YXRlS2V5KCd0ZXN0Jyk7CiAgICAgICAgJG5ld0VQYXktPnNldE9wdGlvbnMoJG9wdGlvbnMpOwogICAgICAgICRuZXdFUGF5LT5wYXltZW50VHJhY2tpbmcoKTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAkbmV3RVBheSA9IG5ldyBOZXdFUGF5KCk7CiAgICAgICAgJG5ld0VQYXktPnNldENvbnRhaW5lcigkdGhpcy0+Y29udGFpbmVyKTsKICAgICAgICAkbmV3RVBheS0+c2V0Q2xpZW50KCR0aGlzLT5jbGllbnQpOwogICAgICAgICRuZXdFUGF5LT5zZXRSZXNwb25zZSgkcmVzcG9uc2UpOwogICAgICAgICRuZXdFUGF5LT5zZXRQcml2YXRlS2V5KCd0ZXN0Jyk7CiAgICAgICAgJG5ld0VQYXktPnNldE9wdGlvbnMoW10pOwogICAgICAgICRuZXdFUGF5LT5wYXltZW50VHJhY2tpbmcoKTsK</text>
