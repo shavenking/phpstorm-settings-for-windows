@@ -1,7 +1,7 @@
 <scheme name="FreshCut" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="modified">2017-07-25T13:51:31</property>
+    <property name="modified">2017-07-25T14:44:08</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.5" />
   <font>
@@ -1127,7 +1127,7 @@
     </option>
     <option name="PHP_EXEC_COMMAND_ID">
       <value>
-        <option name="FOREGROUND" value="a5c25c" />
+        <option name="FOREGROUND" value="9ea300" />
         <option name="BACKGROUND" value="2f3030" />
       </value>
     </option>
@@ -1149,7 +1149,7 @@
     </option>
     <option name="PHP_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="c2c700" />
+        <option name="FOREGROUND" value="9ea300" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -1170,7 +1170,7 @@
     </option>
     <option name="PHP_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="c2c700" />
+        <option name="FOREGROUND" value="9ea300" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
