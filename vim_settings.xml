@@ -47,12 +47,12 @@
       <file name="D:/durian2/vendor/symfony/symfony/src/Symfony/Component/Console/Formatter/OutputFormatter.php" timestamp="1499755384775">
         <mark key="'" line="240" column="4" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Payment/NewEPay.php" timestamp="1500886246052">
-        <mark key="'" line="128" column="38" />
-        <mark key="[" line="401" column="0" />
-        <mark key="]" line="401" column="89" />
-        <mark key="." line="401" column="0" />
-        <mark key="^" line="199" column="7" />
+      <file name="D:/durian2/src/BB/DurianBundle/Payment/NewEPay.php" timestamp="1500947569872">
+        <mark key="'" line="275" column="14" />
+        <mark key="[" line="410" column="0" />
+        <mark key="]" line="411" column="15" />
+        <mark key="." line="411" column="15" />
+        <mark key="^" line="411" column="15" />
       </file>
       <file name="D:/durian2/vendor/doctrine/orm/lib/Doctrine/ORM/EntityManager.php" timestamp="1499928190203">
         <mark key="'" line="507" column="20" />
@@ -337,8 +337,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1244" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
-      <jump line="1253" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
       <jump line="1264" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
       <jump line="1275" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
       <jump line="1280" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
@@ -437,6 +435,8 @@
       <jump line="1172" column="8" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
       <jump line="1335" column="72" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
       <jump line="84" column="41" filename="D:/durian2/src/BB/DurianBundle/EventListener/ExceptionListener.php" />
+      <jump line="265" column="0" filename="D:/durian2/src/BB/DurianBundle/Payment/NewEPay.php" />
+      <jump line="274" column="14" filename="D:/durian2/src/BB/DurianBundle/Payment/NewEPay.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -449,28 +449,28 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>encodedMsgData</text>
+        <text encoding="base64">IHx8ICFpc3NldCgkbXNnRGF0YVsnb3JkZXJJZCddKSB8fCAhaXNzZXQoJG1zZ0RhdGFbJ3RvdGFsQW1vdW50J10p</text>
       </register>
       <register name="-" type="4">
-        <text>encodedMsgData</text>
+        <text encoding="base64">IHx8ICFpc3NldCgkbXNnRGF0YVsnb3JkZXJJZCddKSB8fCAhaXNzZXQoJG1zZ0RhdGFbJ3RvdGFsQW1vdW50J10p</text>
       </register>
       <register name="/" type="4">
         <text>msg</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkb3B0aW9ucyA9IFsKICAgICAgICAgICAgJ251bWJlcicgPT4gJzgwMDYwMzg0JywKICAgICAgICAgICAgJ29yZGVySWQnID0+ICcyMDE3MDMyMjAwMDAwMDEzOTcnLAogICAgICAgICAgICAndmVyaWZ5X2lwJyA9PiBbJzE3Mi4yNi41NC40MicsICcxNzIuMjYuNTQuNDEnXSwKICAgICAgICAgICAgJ3ZlcmlmeV91cmwnID0+ICdwYXltZW50Lmh0dHAudGVzdCcsCiAgICAgICAgXTsKCiAgICAgICAgJG5ld0VQYXkgPSBuZXcgTmV3RVBheSgpOwogICAgICAgICRuZXdFUGF5LT5zZXRDb250YWluZXIoJHRoaXMtPmNvbnRhaW5lcik7CiAgICAgICAgJG5ld0VQYXktPnNldENsaWVudCgkdGhpcy0+Y2xpZW50KTsKICAgICAgICAkbmV3RVBheS0+c2V0UmVzcG9uc2UoJHJlc3BvbnNlKTsKICAgICAgICAkbmV3RVBheS0+c2V0UHJpdmF0ZUtleSgndGVzdCcpOwogICAgICAgICRuZXdFUGF5LT5zZXRPcHRpb25zKCRvcHRpb25zKTsKICAgICAgICAkbmV3RVBheS0+cGF5bWVudFRyYWNraW5nKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIWlzc2V0KCRtc2dEYXRhWydvcmRlcklkJ10pKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBQYXltZW50RXhjZXB0aW9uKCdObyByZXR1cm4gcGFyYW1ldGVyIHNwZWNpZmllZCcsIDE4MDEzNyk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkb3B0aW9ucyA9IFsnb3JkZXJJZCcgPT4gJzIwMTcwNzI0MDAwMDAwMjI3OCddOwoKICAgICAgICAkbmV3RVBheSA9IG5ldyBOZXdFUGF5KCk7CiAgICAgICAgJG5ld0VQYXktPnNldENvbnRhaW5lcigkdGhpcy0+Y29udGFpbmVyKTsKICAgICAgICAkbmV3RVBheS0+c2V0Q2xpZW50KCR0aGlzLT5jbGllbnQpOwogICAgICAgICRuZXdFUGF5LT5zZXRSZXNwb25zZSgkcmVzcG9uc2UpOwogICAgICAgICRuZXdFUGF5LT5zZXRQcml2YXRlS2V5KCd0ZXN0Jyk7CiAgICAgICAgJG5ld0VQYXktPnNldE9wdGlvbnMoJG9wdGlvbnMpOwogICAgICAgICRuZXdFUGF5LT5wYXltZW50VHJhY2tpbmcoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkb3B0aW9ucyA9IFsnb3JkZXJJZCcgPT4gJzIwMTcwNzI0MDAwMDAwMjI3OCddOwoKICAgICAgICAkbmV3RVBheSA9IG5ldyBOZXdFUGF5KCk7CiAgICAgICAgJG5ld0VQYXktPnNldENvbnRhaW5lcigkdGhpcy0+Y29udGFpbmVyKTsKICAgICAgICAkbmV3RVBheS0+c2V0Q2xpZW50KCR0aGlzLT5jbGllbnQpOwogICAgICAgICRuZXdFUGF5LT5zZXRSZXNwb25zZSgkcmVzcG9uc2UpOwogICAgICAgICRuZXdFUGF5LT5zZXRQcml2YXRlS2V5KCd0ZXN0Jyk7CiAgICAgICAgJG5ld0VQYXktPnNldE9wdGlvbnMoJG9wdGlvbnMpOwogICAgICAgICRuZXdFUGF5LT5wYXltZW50VHJhY2tpbmcoKTsK</text>
+        <text encoding="base64">ICAgICAgICAxMTAzID0+ICdxcXBheScsIC8vIFFRX6RHuvsKICAgICAgICAxMTA3ID0+ICdqZHBheScsIC8vIKjKqka/+qVdX6RHuvsKICAgICAgICAxMTA5ID0+ICdiZHBheScsIC8vIKbKq9e/+qVdX6RHuvsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkbmV3RVBheSA9IG5ldyBOZXdFUGF5KCk7CiAgICAgICAgJG5ld0VQYXktPnNldENvbnRhaW5lcigkdGhpcy0+Y29udGFpbmVyKTsKICAgICAgICAkbmV3RVBheS0+c2V0Q2xpZW50KCR0aGlzLT5jbGllbnQpOwogICAgICAgICRuZXdFUGF5LT5zZXRSZXNwb25zZSgkcmVzcG9uc2UpOwogICAgICAgICRuZXdFUGF5LT5zZXRQcml2YXRlS2V5KCd0ZXN0Jyk7CiAgICAgICAgJG5ld0VQYXktPnNldE9wdGlvbnMoW10pOwogICAgICAgICRuZXdFUGF5LT5wYXltZW50VHJhY2tpbmcoKTsK</text>
+        <text encoding="base64">ICAgICAgICAkb3B0aW9ucyA9IFsnb3JkZXJJZCcgPT4gJzIwMTcwNzI0MDAwMDAwMjI3OCddOwoKICAgICAgICAkbmV3RVBheSA9IG5ldyBOZXdFUGF5KCk7CiAgICAgICAgJG5ld0VQYXktPnNldENvbnRhaW5lcigkdGhpcy0+Y29udGFpbmVyKTsKICAgICAgICAkbmV3RVBheS0+c2V0Q2xpZW50KCR0aGlzLT5jbGllbnQpOwogICAgICAgICRuZXdFUGF5LT5zZXRSZXNwb25zZSgkcmVzcG9uc2UpOwogICAgICAgICRuZXdFUGF5LT5zZXRQcml2YXRlS2V5KCd0ZXN0Jyk7CiAgICAgICAgJG5ld0VQYXktPnNldE9wdGlvbnMoJG9wdGlvbnMpOwogICAgICAgICRuZXdFUGF5LT5wYXltZW50VHJhY2tpbmcoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkbmV3RVBheSA9IG5ldyBOZXdFUGF5KCk7CiAgICAgICAgJG5ld0VQYXktPnNldENvbnRhaW5lcigkdGhpcy0+Y29udGFpbmVyKTsKICAgICAgICAkbmV3RVBheS0+c2V0Q2xpZW50KCR0aGlzLT5jbGllbnQpOwogICAgICAgICRuZXdFUGF5LT5zZXRSZXNwb25zZSgkcmVzcG9uc2UpOwogICAgICAgICRuZXdFUGF5LT5zZXRQcml2YXRlS2V5KCd0ZXN0Jyk7CiAgICAgICAgJG5ld0VQYXktPnNldE9wdGlvbnMoW10pOwogICAgICAgICRuZXdFUGF5LT5wYXltZW50VHJhY2tpbmcoKTsK</text>
+        <text encoding="base64">ICAgICAgICAkb3B0aW9ucyA9IFsnb3JkZXJJZCcgPT4gJzIwMTcwNzI0MDAwMDAwMjI3OCddOwoKICAgICAgICAkbmV3RVBheSA9IG5ldyBOZXdFUGF5KCk7CiAgICAgICAgJG5ld0VQYXktPnNldENvbnRhaW5lcigkdGhpcy0+Y29udGFpbmVyKTsKICAgICAgICAkbmV3RVBheS0+c2V0Q2xpZW50KCR0aGlzLT5jbGllbnQpOwogICAgICAgICRuZXdFUGF5LT5zZXRSZXNwb25zZSgkcmVzcG9uc2UpOwogICAgICAgICRuZXdFUGF5LT5zZXRQcml2YXRlS2V5KCd0ZXN0Jyk7CiAgICAgICAgJG5ld0VQYXktPnNldE9wdGlvbnMoJG9wdGlvbnMpOwogICAgICAgICRuZXdFUGF5LT5wYXltZW50VHJhY2tpbmcoKTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAkbmV3RVBheSA9IG5ldyBOZXdFUGF5KCk7CiAgICAgICAgJG5ld0VQYXktPnNldENvbnRhaW5lcigkdGhpcy0+Y29udGFpbmVyKTsKICAgICAgICAkbmV3RVBheS0+c2V0Q2xpZW50KCR0aGlzLT5jbGllbnQpOwogICAgICAgICRuZXdFUGF5LT5zZXRSZXNwb25zZSgkcmVzcG9uc2UpOwogICAgICAgICRuZXdFUGF5LT5zZXRQcml2YXRlS2V5KCd0ZXN0Jyk7CiAgICAgICAgJG5ld0VQYXktPnNldE9wdGlvbnMoW10pOwogICAgICAgICRuZXdFUGF5LT5wYXltZW50VHJhY2tpbmcoKTsK</text>
@@ -482,13 +482,13 @@
         <text encoding="base64">ICAgICAgICAkbmV3RVBheSA9IG5ldyBOZXdFUGF5KCk7CiAgICAgICAgJG5ld0VQYXktPnNldENvbnRhaW5lcigkdGhpcy0+Y29udGFpbmVyKTsKICAgICAgICAkbmV3RVBheS0+c2V0Q2xpZW50KCR0aGlzLT5jbGllbnQpOwogICAgICAgICRuZXdFUGF5LT5zZXRSZXNwb25zZSgkcmVzcG9uc2UpOwogICAgICAgICRuZXdFUGF5LT5zZXRQcml2YXRlS2V5KCd0ZXN0Jyk7CiAgICAgICAgJG5ld0VQYXktPnNldE9wdGlvbnMoW10pOwogICAgICAgICRuZXdFUGF5LT5wYXltZW50VHJhY2tpbmcoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UgPSBuZXcgUmVzcG9uc2UoKTsKICAgICAgICAkcmVzcG9uc2UtPnNldENvbnRlbnQoanNvbl9lbmNvZGUoJHJlc3VsdCkpOwogICAgICAgICRyZXNwb25zZS0+YWRkSGVhZGVyKCdIVFRQLzEuMSAyMDAgT0snKTsKICAgICAgICAkcmVzcG9uc2UtPmFkZEhlYWRlcignQ29udGVudC1UeXBlOmFwcGxpY2F0aW9uL2pzb247Y2hhcnNldD1VVEYtOCcpOwoKICAgICAgICAkbmV3RVBheSA9IG5ldyBOZXdFUGF5KCk7CiAgICAgICAgJG5ld0VQYXktPnNldENvbnRhaW5lcigkdGhpcy0+Y29udGFpbmVyKTsKICAgICAgICAkbmV3RVBheS0+c2V0Q2xpZW50KCR0aGlzLT5jbGllbnQpOwogICAgICAgICRuZXdFUGF5LT5zZXRSZXNwb25zZSgkcmVzcG9uc2UpOwogICAgICAgICRuZXdFUGF5LT5zZXRQcml2YXRlS2V5KCd0ZXN0Jyk7CiAgICAgICAgJG5ld0VQYXktPnNldE9wdGlvbnMoW10pOwogICAgICAgICRuZXdFUGF5LT5wYXltZW50VHJhY2tpbmcoKTsK</text>
+        <text encoding="base64">ICAgICAgICAkbmV3RVBheSA9IG5ldyBOZXdFUGF5KCk7CiAgICAgICAgJG5ld0VQYXktPnNldENvbnRhaW5lcigkdGhpcy0+Y29udGFpbmVyKTsKICAgICAgICAkbmV3RVBheS0+c2V0Q2xpZW50KCR0aGlzLT5jbGllbnQpOwogICAgICAgICRuZXdFUGF5LT5zZXRSZXNwb25zZSgkcmVzcG9uc2UpOwogICAgICAgICRuZXdFUGF5LT5zZXRQcml2YXRlS2V5KCd0ZXN0Jyk7CiAgICAgICAgJG5ld0VQYXktPnNldE9wdGlvbnMoW10pOwogICAgICAgICRuZXdFUGF5LT5wYXltZW50VHJhY2tpbmcoKTsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAkbmV3RVBheSA9IG5ldyBOZXdFUGF5KCk7CiAgICAgICAgJG5ld0VQYXktPnNldENvbnRhaW5lcigkdGhpcy0+Y29udGFpbmVyKTsKICAgICAgICAkbmV3RVBheS0+c2V0Q2xpZW50KCR0aGlzLT5jbGllbnQpOwogICAgICAgICRuZXdFUGF5LT5zZXRSZXNwb25zZSgkcmVzcG9uc2UpOwogICAgICAgICRuZXdFUGF5LT5zZXRQcml2YXRlS2V5KCd0ZXN0Jyk7CiAgICAgICAgJG5ld0VQYXktPnNldE9wdGlvbnMoW10pOwogICAgICAgICRuZXdFUGF5LT5wYXltZW50VHJhY2tpbmcoKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>1176,1189y</text>
+        <text>259y</text>
       </register>
     </registers>
     <search>
@@ -498,7 +498,7 @@
       <last-replace>85</last-replace>
       <last-substitute>paytyp</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -524,7 +524,6 @@
         <entry>msg</entry>
       </history-search>
       <history-cmd>
-        <entry>34y</entry>
         <entry>24,26y</entry>
         <entry>NOH</entry>
         <entry>614y</entry>
@@ -540,10 +539,11 @@
         <entry>1057,1094y</entry>
         <entry>1096,1136y</entry>
         <entry>1189,1203y</entry>
-        <entry>noh</entry>
         <entry>951,964y</entry>
         <entry>1083,1096y</entry>
         <entry>1176,1189y</entry>
+        <entry>noh</entry>
+        <entry>259y</entry>
       </history-cmd>
       <history-expr />
       <history-input />
