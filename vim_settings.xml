@@ -70,6 +70,9 @@
         <mark key="^" line="738" column="6" />
         <mark key="." line="738" column="6" />
       </file>
+      <file name="D:/durian2/vendor/illuminate/support/Illuminate/Support/helpers.php" timestamp="1501031877357">
+        <mark key="'" line="505" column="26" />
+      </file>
       <file name="D:/durian2/app/DoctrineMigrations/Version20170721094443.php" timestamp="1500630555665">
         <mark key="'" line="24" column="116" />
         <mark key="[" line="37" column="136" />
@@ -84,10 +87,11 @@
         <mark key="^" line="811" column="23" />
         <mark key="." line="173" column="0" />
       </file>
-      <file name="D:/durian2/test.php" timestamp="1501028561961">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="D:/durian2/test.php" timestamp="1501031897790">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="1" />
+        <mark key="." line="8" column="1" />
+        <mark key="^" line="8" column="1" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Repository/StatCashDepositWithdrawRepository.php" timestamp="1500976226482">
         <mark key="[" line="31" column="33" />
@@ -95,7 +99,7 @@
         <mark key="." line="32" column="7" />
         <mark key="^" line="32" column="7" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Payment/NewEPay.php" timestamp="1501028753341">
+      <file name="D:/durian2/src/BB/DurianBundle/Payment/NewEPay.php" timestamp="1501031657102">
         <mark key="'" line="393" column="0" />
         <mark key="[" line="385" column="0" />
         <mark key="]" line="385" column="0" />
@@ -232,7 +236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1215" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
       <jump line="1269" column="48" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
       <jump line="1270" column="80" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
       <jump line="1276" column="42" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
@@ -332,6 +335,7 @@
       <jump line="0" column="0" filename="D:/durian2/src/BB/DurianBundle/Repository/StatCashDepositWithdrawRepository.php" />
       <jump line="0" column="0" filename="D:/durian2/test.php" />
       <jump line="393" column="0" filename="D:/durian2/src/BB/DurianBundle/Payment/NewEPay.php" />
+      <jump line="505" column="26" filename="D:/durian2/vendor/illuminate/support/Illuminate/Support/helpers.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -343,11 +347,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZHVtcChiYXNlNjRfZGVjb2RlKCdleUp5WlhOd1EyOWtaU0k2SWpBd01EQWlMQ0p6WlhSMGJHVkVZWFJsSWpvaU1qQXhOekEzTWpRaUxDSndZWGxVY21GdWMwbGtJam9pTWpBeE56QTNNalF4TURBMU1EQXhNREUxTnpVaUxDSndZWGxVYVcxbElqb2lNakF4TnpBM01qUXhNREExTVRjaUxDSnZjbVJsY2tsa0lqb2lNakF4TnpBM01qUXdNREF3TURBeU1qYzRJbjA9JykpOwpkdW1wKGJjYWRkKDEsMiwzKSk7Cmljb252KCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>dump</text>
       </register>
       <register name="-" type="4">
-        <text>hi</text>
+        <text>dump</text>
       </register>
       <register name="/" type="4">
         <text>json_encod</text>
