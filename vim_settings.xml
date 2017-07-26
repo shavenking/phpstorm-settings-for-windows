@@ -87,12 +87,12 @@
         <mark key="^" line="811" column="23" />
         <mark key="." line="173" column="0" />
       </file>
-      <file name="D:/durian2/test.php" timestamp="1501033522976">
+      <file name="D:/durian2/test.php" timestamp="1501033658784">
         <mark key="'" line="4" column="75" />
-        <mark key="[" line="8" column="5" />
-        <mark key="]" line="8" column="203" />
-        <mark key="." line="8" column="203" />
-        <mark key="^" line="8" column="203" />
+        <mark key="[" line="8" column="1" />
+        <mark key="]" line="8" column="1" />
+        <mark key="." line="8" column="1" />
+        <mark key="^" line="8" column="1" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Repository/StatCashDepositWithdrawRepository.php" timestamp="1500976226482">
         <mark key="[" line="31" column="33" />
@@ -106,7 +106,7 @@
         <mark key="]" line="385" column="0" />
         <mark key="." line="385" column="0" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Resources/doc/exception_map.md" timestamp="1500874883143">
+      <file name="D:/durian2/src/BB/DurianBundle/Resources/doc/exception_map.md" timestamp="1501034694693">
         <mark key="'" line="2037" column="0" />
         <mark key="[" line="1394" column="37" />
         <mark key="]" line="1394" column="75" />
@@ -225,6 +225,9 @@
         <mark key="]" line="113" column="8" />
         <mark key="." line="113" column="8" />
       </file>
+      <file name="D:/durian2/vendor/symfony/symfony/src/Symfony/Component/VarDumper/VarDumper.php" timestamp="1501033644608">
+        <mark key="'" line="27" column="27" />
+      </file>
       <file name="D:/durian2/src/BB/DurianBundle/Resources/views/Default/Demo/RemitAccount/suspend.html.twig" timestamp="1500019019507">
         <mark key="'" line="25" column="62" />
         <mark key="[" line="5" column="34" />
@@ -237,7 +240,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1270" column="80" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
       <jump line="1276" column="42" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
       <jump line="1278" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
       <jump line="1289" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
@@ -337,6 +339,7 @@
       <jump line="393" column="0" filename="D:/durian2/src/BB/DurianBundle/Payment/NewEPay.php" />
       <jump line="505" column="26" filename="D:/durian2/vendor/illuminate/support/Illuminate/Support/helpers.php" />
       <jump line="4" column="75" filename="D:/durian2/test.php" />
+      <jump line="27" column="27" filename="D:/durian2/vendor/symfony/symfony/src/Symfony/Component/VarDumper/VarDumper.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -348,11 +351,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>http_build_query($queries)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">JHF1ZXJpZXMgPSBbJ2EnID0+ICdhJmInLCAnYicgPT4gJ2E6Ly9iJ107Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>http_build_query($queries)</text>
+        <text>dd</text>
       </register>
       <register name="/" type="4">
         <text>json_encod</text>
@@ -361,16 +364,25 @@
         <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFBheW1lbnRFeGNlcHRpb24oJ05vIHJldHVybiBwYXJhbWV0ZXIgc3BlY2lmaWVkJywgMTgwMTM3KTsK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">JHF1ZXJpZXMgPSBbJ2EnID0+ICdhJmInLCAnYicgPT4gJ2E6Ly9iJ107Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICdhd2Vzb21lJwo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ZHVtcChiYXNlNjRfZGVjb2RlKCdleUp5WlhOd1EyOWtaU0k2SWpBd01EQWlMQ0p6WlhSMGJHVkVZWFJsSWpvaU1qQXhOekEzTWpRaUxDSndZWGxVY21GdWMwbGtJam9pTWpBeE56QTNNalF4TURBMU1EQXhNREUxTnpVaUxDSndZWGxVYVcxbElqb2lNakF4TnpBM01qUXhNREExTVRjaUxDSnZjbVJsY2tsa0lqb2lNakF4TnpBM01qUXdNREF3TURBeU1qYzRJbjA9JykpOwpkdW1wKGJjYWRkKDEsMiwzKSk7Cmljb252KCk7Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text>[ 1,2,3
 ]</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CnZhcl9kdW1wKFsxLDIsM10pOwo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>$fuck = 1;
 $referer = null;
 
@@ -378,20 +390,11 @@ $fuck = $referer ?: 'home';
 
 var_dump($fuck);</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgXEV4Y2VwdGlvbignb2snKTsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly90aHJvdyBuZXcgXEV4Y2VwdGlvbigkcWItPmdldERRTCgpKTsKdGhyb3cgbmV3IFxFeGNlcHRpb24oJHFiLT5nZXRRdWVyeSgpLT5nZXRTUUwoKSk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVxdWlyZWRLZXlzID0gWydyZXNwQ29kZScsIF0KCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVxdWlyZWRLZXlzID0gWydyZXNwQ29kZScsIF0KCiAgICAgICAgaWYgKCFpc3NldCgkbXNnRGF0YVsncmVzcENvZGUnXSkpIHsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly90aHJvdyBuZXcgXEV4Y2VwdGlvbigkcWItPmdldERRTCgpKTsKdGhyb3cgbmV3IFxFeGNlcHRpb24oJHFiLT5nZXRRdWVyeSgpLT5nZXRTUUwoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
