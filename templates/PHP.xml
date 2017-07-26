@@ -58,4 +58,9 @@
     <variable name="PARAMETERS" expression="phpVar" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
+  <template name="ok" value="throw new \Exception('$END$ok');" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP Expression" value="true" />
+    </context>
+  </template>
 </templateSet>
