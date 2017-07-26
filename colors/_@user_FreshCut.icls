@@ -1,21 +1,8 @@
 <scheme name="FreshCut" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="modified">2017-07-25T14:44:08</property>
+    <property name="modified">2017-07-26T08:38:02</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.5" />
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Operator Mono Medium" />
-    <option name="EDITOR_FONT_SIZE" value="15" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Noto Sans Mono CJK TC Bold" />
-    <option name="EDITOR_FONT_SIZE" value="15" />
-  </font>
-  <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
-  <option name="CONSOLE_FONT_SIZE" value="16" />
-  <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="292d38" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
