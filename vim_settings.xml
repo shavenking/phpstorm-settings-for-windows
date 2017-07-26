@@ -87,11 +87,12 @@
         <mark key="^" line="811" column="23" />
         <mark key="." line="173" column="0" />
       </file>
-      <file name="D:/durian2/test.php" timestamp="1501031897790">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="1" />
-        <mark key="." line="8" column="1" />
-        <mark key="^" line="8" column="1" />
+      <file name="D:/durian2/test.php" timestamp="1501033522976">
+        <mark key="'" line="4" column="75" />
+        <mark key="[" line="8" column="5" />
+        <mark key="]" line="8" column="203" />
+        <mark key="." line="8" column="203" />
+        <mark key="^" line="8" column="203" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Repository/StatCashDepositWithdrawRepository.php" timestamp="1500976226482">
         <mark key="[" line="31" column="33" />
@@ -236,7 +237,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1269" column="48" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
       <jump line="1270" column="80" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
       <jump line="1276" column="42" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
       <jump line="1278" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
@@ -336,6 +336,7 @@
       <jump line="0" column="0" filename="D:/durian2/test.php" />
       <jump line="393" column="0" filename="D:/durian2/src/BB/DurianBundle/Payment/NewEPay.php" />
       <jump line="505" column="26" filename="D:/durian2/vendor/illuminate/support/Illuminate/Support/helpers.php" />
+      <jump line="4" column="75" filename="D:/durian2/test.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -348,10 +349,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>dump</text>
+        <text>http_build_query($queries)</text>
       </register>
       <register name="-" type="4">
-        <text>dump</text>
+        <text>http_build_query($queries)</text>
       </register>
       <register name="/" type="4">
         <text>json_encod</text>
