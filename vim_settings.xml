@@ -46,10 +46,10 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="31" column="6" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Repository/AccountLogRepository.php" timestamp="1501043678695">
+      <file name="D:/durian2/src/BB/DurianBundle/Repository/AccountLogRepository.php" timestamp="1501043726706">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
-        <mark key="^" line="43" column="20" />
+        <mark key="^" line="43" column="23" />
         <mark key="." line="43" column="0" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Payment/NewEPay.php" timestamp="1501031657102">
@@ -399,10 +399,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>throw new \Exception();</text>
+        <text>throw new \Exception($fi);</text>
       </register>
       <register name="-" type="4">
-        <text>throw new \Exception();</text>
+        <text>throw new \Exception($fi);</text>
       </register>
       <register name="/" type="4">
         <text>json_encod</text>
