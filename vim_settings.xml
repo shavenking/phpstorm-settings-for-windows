@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/durian2/src/BB/DurianBundle/Payment/BanksPay.php" timestamp="1501134579029">
+        <mark key="'" line="4" column="6" />
+        <mark key="[" line="10" column="6" />
+        <mark key="]" line="10" column="13" />
+        <mark key="." line="10" column="13" />
+        <mark key="^" line="10" column="13" />
+      </file>
       <file name="D:/durian2/src/BB/DurianBundle/EventListener/ExceptionListener.php" timestamp="1500963826306">
         <mark key="'" line="84" column="41" />
         <mark key="[" line="40" column="0" />
@@ -34,12 +41,12 @@
         <mark key="." line="189" column="47" />
         <mark key="^" line="189" column="47" />
       </file>
-      <file name="D:/durian2/test.php" timestamp="1501048923155">
+      <file name="D:/durian2/test.php" timestamp="1501135503435">
         <mark key="'" line="4" column="75" />
-        <mark key="[" line="7" column="31" />
-        <mark key="]" line="8" column="2" />
-        <mark key="." line="8" column="2" />
-        <mark key="^" line="8" column="2" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="6" column="24" />
+        <mark key="." line="6" column="24" />
+        <mark key="^" line="6" column="24" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Repository/StatCashDepositWithdrawRepository.php" timestamp="1501041285167">
         <mark key="'" line="41" column="7" />
@@ -187,12 +194,13 @@
         <mark key="^" line="738" column="6" />
         <mark key="." line="738" column="6" />
       </file>
-      <file name="D:/durian2/app/DoctrineMigrations/Version20170727034500.php" timestamp="1501129751163">
-        <mark key="'" line="39" column="70" />
-        <mark key="[" line="40" column="67" />
-        <mark key="]" line="40" column="67" />
-        <mark key="." line="40" column="70" />
-        <mark key="^" line="22" column="109" />
+      <file name="D:/durian2/app/DoctrineMigrations/Version20170727034500.php" timestamp="1501134538681">
+        <mark key="'" line="21" column="240" />
+        <mark key="[" line="21" column="380" />
+        <mark key="]" line="21" column="380" />
+        <mark key="m" line="26" column="4" />
+        <mark key="." line="21" column="387" />
+        <mark key="^" line="21" column="240" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Payment/PayEase.php" timestamp="1501127958651">
         <mark key="[" line="21" column="33" />
@@ -213,7 +221,7 @@
       <file name="D:/durian2/src/BB/DurianBundle/Payment/Amxmy.php" timestamp="1501038531799">
         <mark key="'" line="136" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501128295733">
+      <file name="/Dummy.txt" timestamp="1501134079391">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" timestamp="1500279808594">
@@ -295,11 +303,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1575" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
-      <jump line="1581" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
-      <jump line="1598" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
-      <jump line="1607" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
-      <jump line="1613" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
       <jump line="231" column="9" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
       <jump line="519" column="16" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
       <jump line="537" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
@@ -395,6 +398,11 @@
       <jump line="37" column="105" filename="D:/durian2/app/DoctrineMigrations/Version20170727034500.php" />
       <jump line="38" column="105" filename="D:/durian2/app/DoctrineMigrations/Version20170727034500.php" />
       <jump line="39" column="70" filename="D:/durian2/app/DoctrineMigrations/Version20170727034500.php" />
+      <jump line="19" column="0" filename="D:/durian2/app/DoctrineMigrations/Version20170727034500.php" />
+      <jump line="26" column="4" filename="D:/durian2/app/DoctrineMigrations/Version20170727034500.php" />
+      <jump line="21" column="240" filename="D:/durian2/app/DoctrineMigrations/Version20170727034500.php" />
+      <jump line="0" column="0" filename="D:/durian2/src/BB/DurianBundle/Payment/BanksPay.php" />
+      <jump line="4" column="6" filename="D:/durian2/src/BB/DurianBundle/Payment/BanksPay.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -407,52 +415,56 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>197</text>
+        <text>dump(
+    json_decode(base64_decode('eyJyZXNwQ29kZSI6IjAwMDAiLCJ0b3RhbEFtb3VudCI6MTAxLjAsInNldHRsZURhdGUiOiIyMDE3MDcyNCIsInBheVRyYW5zSWQiOiIyMDE3MDcyNDEwMDUwMDEwMTU3NSIsInBheVRpbWUiOiIyMDE3MDcyNDEwMDUxNyIsIm9yZGVySWQiOiIyMDE3MDcyNDAwMDAwMDIyNzgifQ=='))
+);</text>
       </register>
       <register name="-" type="4">
-        <text>197</text>
+        <text>HaoPay</text>
       </register>
       <register name="/" type="4">
-        <text>197</text>
+        <text>xinbao</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAncjNfcGF5VHlwZScgPT4gJ1NDQU4nLCAvLyBTQ0FOoUexvb1YCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBcRXhjZXB0aW9uKCdvaycpOwo=</text>
+      <register name="1" type="4">
+        <text>dump(
+    json_decode(base64_decode('eyJyZXNwQ29kZSI6IjAwMDAiLCJ0b3RhbEFtb3VudCI6MTAxLjAsInNldHRsZURhdGUiOiIyMDE3MDcyNCIsInBheVRyYW5zSWQiOiIyMDE3MDcyNDEwMDUwMDEwMTU3NSIsInBheVRpbWUiOiIyMDE3MDcyNDEwMDUxNyIsIm9yZGVySWQiOiIyMDE3MDcyNDAwMDAwMDIyNzgifQ=='))
+);</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgXEV4Y2VwdGlvbignb2snKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBcRXhjZXB0aW9uKCdvaycpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgXEV4Y2VwdGlvbignb2snKTsKICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgXEV4Y2VwdGlvbigkZS0+Z2V0TWVzc2FnZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgXEV4Y2VwdGlvbignb2snKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDF58PSqHDGXwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgXEV4Y2VwdGlvbignb2snKTsKICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgXEV4Y2VwdGlvbigkZS0+Z2V0TWVzc2FnZSgpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyDF58PSqHDGXwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDAy6xkrXGz5ri5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyDAy6xkrXGz5ri5Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly90aHJvdyBuZXcgXEV4Y2VwdGlvbigkcWItPmdldERRTCgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFxFeGNlcHRpb24oJ29rJyk7Cg==</text>
+        <text encoding="base64">Ly90aHJvdyBuZXcgXEV4Y2VwdGlvbigkcWItPmdldERRTCgpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>197</last-search>
+      <last-search>xinbao</last-search>
       <last-offset />
-      <last-pattern>197</last-pattern>
+      <last-pattern>xinbao</last-pattern>
       <last-replace>85</last-replace>
       <last-substitute>json_encod</last-substitute>
       <last-dir>1</last-dir>
@@ -460,7 +472,6 @@
     </search>
     <history>
       <history-search>
-        <entry>paytyp</entry>
         <entry>resul</entry>
         <entry>pse</entry>
         <entry>result</entry>
@@ -480,6 +491,7 @@
         <entry>order</entry>
         <entry>2017</entry>
         <entry>197</entry>
+        <entry>xinbao</entry>
       </history-search>
       <history-cmd>
         <entry>NOH</entry>
@@ -578,6 +590,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
