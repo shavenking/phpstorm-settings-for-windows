@@ -3,11 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/durian2/vendor/doctrine/dbal/lib/Doctrine/DBAL/Query/QueryBuilder.php" timestamp="1501040327819">
-        <mark key="[" line="302" column="0" />
-        <mark key="]" line="302" column="0" />
-        <mark key="." line="302" column="0" />
-      </file>
       <file name="D:/durian2/src/BB/DurianBundle/EventListener/ExceptionListener.php" timestamp="1500963826306">
         <mark key="'" line="84" column="41" />
         <mark key="[" line="40" column="0" />
@@ -83,22 +78,12 @@
         <mark key="[" line="226" column="0" />
         <mark key="]" line="226" column="68" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Tests/Payment/YunFuxPayTest.php" timestamp="1500622091608">
-        <mark key="[" line="402" column="26" />
-        <mark key="]" line="402" column="27" />
-        <mark key="." line="402" column="27" />
-      </file>
       <file name="D:/durian2/src/BB/DurianBundle/Command/SendDepositTrackingRequestCommand.php" timestamp="1500967946322">
         <mark key="'" line="75" column="8" />
         <mark key="[" line="106" column="0" />
         <mark key="]" line="106" column="0" />
         <mark key="." line="106" column="0" />
         <mark key="^" line="180" column="36" />
-      </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Tests/Controller/MerchantWithdrawControllerTest.php" timestamp="1500431160767">
-        <mark key="[" line="1616" column="42" />
-        <mark key="]" line="1616" column="50" />
-        <mark key="." line="1616" column="42" />
       </file>
       <file name="D:/durian2/vendor/doctrine/orm/lib/Doctrine/ORM/Query.php" timestamp="1501040812475">
         <mark key="'" line="466" column="21" />
@@ -118,11 +103,6 @@
         <mark key="]" line="184" column="29" />
         <mark key="." line="170" column="79" />
         <mark key="^" line="184" column="29" />
-      </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Controller/AutoConfirmController.php" timestamp="1500348211599">
-        <mark key="[" line="818" column="0" />
-        <mark key="]" line="819" column="81" />
-        <mark key="." line="818" column="0" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountStatRepository.php" timestamp="1500279681913">
         <mark key="'" line="140" column="32" />
@@ -150,11 +130,6 @@
       </file>
       <file name="D:/durian2/vendor/symfony/symfony/src/Symfony/Component/VarDumper/VarDumper.php" timestamp="1501033644608">
         <mark key="'" line="27" column="27" />
-      </file>
-      <file name="D:/durian2/vendor/doctrine/orm/lib/Doctrine/ORM/QueryBuilder.php" timestamp="1501040369906">
-        <mark key="[" line="239" column="0" />
-        <mark key="]" line="239" column="0" />
-        <mark key="." line="239" column="0" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Payment/PaymentBase.php" timestamp="1501120555405">
         <mark key="'" line="679" column="0" />
@@ -276,11 +251,6 @@
         <mark key="]" line="2137" column="67" />
         <mark key="^" line="2137" column="67" />
         <mark key="." line="2137" column="67" />
-      </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Controller/StatController.php" timestamp="1500976234981">
-        <mark key="[" line="113" column="8" />
-        <mark key="]" line="113" column="8" />
-        <mark key="." line="113" column="8" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Resources/views/Default/Demo/RemitAccount/suspend.html.twig" timestamp="1500019019507">
         <mark key="'" line="25" column="62" />
