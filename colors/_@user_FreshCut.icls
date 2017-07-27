@@ -1,8 +1,17 @@
 <scheme name="FreshCut" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="modified">2017-07-26T08:38:02</property>
+    <property name="modified">2017-07-27T12:12:45</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.5" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Operator Mono Medium" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Noto Sans CJK TC Medium" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
+  </font>
   <colors>
     <option name="ADDED_LINES_COLOR" value="292d38" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
@@ -1558,13 +1567,12 @@
     <option name="SQL_COLUMN">
       <value>
         <option name="FOREGROUND" value="d0d0ff" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="SQL_KEYWORD">
       <value>
         <option name="FOREGROUND" value="c8d7e8" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="SQL_NUMBER">
@@ -1575,7 +1583,6 @@
     <option name="SQL_STRING">
       <value>
         <option name="FOREGROUND" value="e9ee00" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="SQL_SYNTHETIC_ENTITY">
