@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/durian2/src/BB/DurianBundle/Payment/BanksPay.php" timestamp="1501144482606">
-        <mark key="'" line="4" column="6" />
-        <mark key="[" line="17" column="30" />
-        <mark key="]" line="10" column="13" />
-        <mark key="." line="10" column="13" />
-        <mark key="^" line="10" column="13" />
+      <file name="D:/durian2/src/BB/DurianBundle/Payment/BanksPay.php" timestamp="1501146212734">
+        <mark key="'" line="120" column="87" />
+        <mark key="[" line="95" column="9" />
+        <mark key="]" line="95" column="12" />
+        <mark key="." line="95" column="12" />
+        <mark key="^" line="95" column="12" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/EventListener/ExceptionListener.php" timestamp="1500963826306">
         <mark key="'" line="84" column="41" />
@@ -300,8 +300,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="627" column="39" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
-      <jump line="668" column="8" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
       <jump line="682" column="9" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
       <jump line="661" column="13" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
       <jump line="663" column="9" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
@@ -400,6 +398,8 @@
       <jump line="172" column="21" filename="D:/durian2/src/BB/DurianBundle/Payment/NewEPay.php" />
       <jump line="297" column="9" filename="D:/durian2/src/BB/DurianBundle/Payment/NewEPay.php" />
       <jump line="343" column="29" filename="D:/durian2/src/BB/DurianBundle/Payment/NewEPay.php" />
+      <jump line="51" column="0" filename="D:/durian2/src/BB/DurianBundle/Payment/BanksPay.php" />
+      <jump line="117" column="87" filename="D:/durian2/src/BB/DurianBundle/Payment/BanksPay.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -412,40 +412,40 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">anNvbl9lbmNvZGUoJHRoaXMtPnRyYWNraW5nUmVxdWVzdERhdGEpIC4gJHRoaXMtPnByaXZhdGVLZXk=</text>
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">anNvbl9lbmNvZGUoJHRoaXMtPnRyYWNraW5nUmVxdWVzdERhdGEpIC4gJHRoaXMtPnByaXZhdGVLZXk=</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>xinbao</text>
       </register>
-      <register name="0" type="4">
-        <text>trackingRequestParams</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAndmVyc2lvbicgPT4gJ1YxLjAnLCAvLyCxtaRmqqmluwogICAgICAgICdwYXJ0bmVyX2lkJyA9PiAnJywgLy8gsNO4uQogICAgICAgICdwYXlfdHlwZScgPT4gJycsIC8vIKTkpUnD/qusCiAgICAgICAgJ2JhbmtfY29kZScgPT4gJycsIC8vILvIpualTr1YKKVpqsUpCiAgICAgICAgJ29yZGVyX25vJyA9PiAnJywgLy8grXGz5ri5CiAgICAgICAgJ2Ftb3VudCcgPT4gJycsIC8vIKXmqfaq98NCCiAgICAgICAgJ3JldHVybl91cmwnID0+ICcnLCAvLyCrZaV4uPXC4Lr0p30opWmqxSkKICAgICAgICAnbm90aWZ5X3VybCcgPT4gJycsIC8vILKnqEKzcaq+CiAgICAgICAgJ3N1bW1hcnknID0+ICcnLCAvLyCw06t+tHmteiilaarFKQogICAgICAgICdhdHRhY2gnID0+ICcnLCAvLyCmXrbHsNG8xiilaarFKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAncmVzcFRpbWUnID0+IDEsCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3Jlc3BUaW1lJyA9PiAnJywK</text>
+        <text encoding="base64">ICAgICAgICAkcGF5VHlwZU1hcCA9IFsKICAgICAgICAgICAgJzAwMDEnID0+ICcnCiAgICAgICAgXTsKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3Jlc3BUaW1lJyA9PiAnJywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3Jlc3BUaW1lJyA9PiAnJywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3Jlc3BUaW1lJyA9PiAnJywK</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICAnc2VydmljZScsCiAgICAgICAgJ3BhcnRuZXInLAogICAgICAgICdjbGllbnRhcHAnLAogICAgICAgICdzaWduX3R5cGUnLAogICAgICAgICd0eXBlJywKICAgICAgICAnY2hhcnNldCcsCiAgICAgICAgJ3N1YmplY3QnLAogICAgICAgICdvdXRfdHJhZGVfbm8nLAogICAgICAgICd0b3RhbF9mZWUnLAogICAgICAgICdub3RpZnlfdXJsJywKICAgICAgICAncmV0dXJuX3VybCcsCiAgICAgICAgJ3Nob3dfdXJsJywKICAgICAgICAnYm9keScsCiAgICAgICAgJ2V4dHJhX2NvbW1vbl9wYXJhbScsCiAgICAgICAgJ21vdmVtZW50Jyw=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3Jlc3BUaW1lJyA9PiAnJywK</text>
+        <text encoding="base64">ICAgICAgICAnc3ViamVjdCcgPT4gJ3VzZXJuYW1lJywK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3Jlc3BUaW1lJyA9PiAnJywK</text>
+      <register name="7" type="4">
+        <text encoding="base64">CgoKCiAgICAgICAgJ3NlcnZpY2UnID0+ICdQYXkuUmVxdWVzdCcsIC8vILG1pGbD/qusCiAgICAgICAgJ3BhcnRuZXInID0+ICcnLCAvLyCw07i5CiAgICAgICAgJ2NsaWVudGFwcCcgPT4gJzEnLCAvLyDAs6XOw/6rrCipVKl3rcgpCiAgICAgICAgJ3NpZ24nID0+ICcnLCAvLyDDsaZXCiAgICAgICAgJ3NpZ25fdHlwZScgPT4gJ01ENScsIC8vIMOxplfD/qusCiAgICAgICAgJ3R5cGUnID0+ICcnLCAvLyCk5KVJsbWkZsP+q6wKICAgICAgICAnY2hhcnNldCcgPT4gJ3V0Zi04JywgLy8gvXO9WAogICAgICAgICdzdWJqZWN0JyA9PiAnJywgLy8gsNOrfrzQw0QKICAgICAgICAnb3V0X3RyYWRlX25vJyA9PiAnJywgLy8grXGz5ri5CiAgICAgICAgJ3RvdGFsX2ZlZScgPT4gJycsIC8vIKr3w0IKICAgICAgICAnbm90aWZ5X3VybCcgPT4gJycsIC8vILKnqEKzcaq+CiAgICAgICAgJ3JldHVybl91cmwnID0+ICcnLCAvLyCmUKhCs3GqviilaarFKQogICAgICAgICdzaG93X3VybCcgPT4gJycsIC8vILDTq36uaaXcpmGnfSilaarFKQogICAgICAgICdib2R5JyA9PiAnJywgLy8gsNOrfrR5rXoopWmqxSkKICAgICAgICAnZXh0cmFfY29tbW9uX3BhcmFtJyA9PiAnJywgLy8gsNOuYbzGvtoopWmqxSkKICAgICAgICAnbW92ZW1lbnQnID0+ICcnLCAvLyC90KhEtW+wX6xPuH2luyilaarFKQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3Jlc3BUaW1lJyA9PiAnJywK</text>
+        <text encoding="base64">ICAgICAgICAncmVzcFRpbWUnID0+IDEsCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ3Jlc3BUaW1lJyA9PiAnJywK</text>
