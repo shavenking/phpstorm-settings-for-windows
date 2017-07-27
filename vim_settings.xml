@@ -41,12 +41,12 @@
         <mark key="." line="189" column="47" />
         <mark key="^" line="189" column="47" />
       </file>
-      <file name="D:/durian2/test.php" timestamp="1501135503435">
+      <file name="D:/durian2/test.php" timestamp="1501136874127">
         <mark key="'" line="4" column="75" />
         <mark key="[" line="7" column="0" />
-        <mark key="]" line="6" column="24" />
-        <mark key="." line="6" column="24" />
-        <mark key="^" line="6" column="24" />
+        <mark key="]" line="10" column="67" />
+        <mark key="." line="10" column="67" />
+        <mark key="^" line="10" column="67" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Repository/StatCashDepositWithdrawRepository.php" timestamp="1501041285167">
         <mark key="'" line="41" column="7" />
@@ -61,12 +61,12 @@
         <mark key="^" line="43" column="23" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Payment/NewEPay.php" timestamp="1501117147655">
-        <mark key="'" line="396" column="0" />
-        <mark key="[" line="96" column="35" />
-        <mark key="]" line="100" column="5" />
-        <mark key="." line="100" column="5" />
-        <mark key="^" line="100" column="5" />
+      <file name="D:/durian2/src/BB/DurianBundle/Payment/NewEPay.php" timestamp="1501137509892">
+        <mark key="'" line="172" column="21" />
+        <mark key="[" line="188" column="50" />
+        <mark key="]" line="188" column="63" />
+        <mark key="." line="188" column="63" />
+        <mark key="^" line="188" column="63" />
       </file>
       <file name="D:/durian2/vendor/doctrine/orm/lib/Doctrine/ORM/EntityManager.php" timestamp="1501040414715">
         <mark key="[" line="277" column="0" />
@@ -221,7 +221,7 @@
       <file name="D:/durian2/src/BB/DurianBundle/Payment/Amxmy.php" timestamp="1501038531799">
         <mark key="'" line="136" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501134079391">
+      <file name="/Dummy.txt" timestamp="1501136841306">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" timestamp="1500279808594">
@@ -263,13 +263,10 @@
         <mark key="." line="173" column="0" />
         <mark key="^" line="588" column="3" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" timestamp="1501049286538">
-        <mark key="a" line="859" column="4" />
-        <mark key="'" line="1163" column="11" />
-        <mark key="[" line="1172" column="33" />
-        <mark key="]" line="1173" column="31" />
-        <mark key="." line="1173" column="31" />
-        <mark key="^" line="1173" column="31" />
+      <file name="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" timestamp="1501137324888">
+        <mark key="[" line="1302" column="0" />
+        <mark key="]" line="1302" column="0" />
+        <mark key="." line="1302" column="0" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitAccountFunctionalTest.php" timestamp="1500258825579">
         <mark key="'" line="2184" column="0" />
@@ -303,10 +300,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="231" column="9" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
-      <jump line="519" column="16" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
-      <jump line="537" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
-      <jump line="557" column="19" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
       <jump line="625" column="12" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
       <jump line="634" column="8" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
       <jump line="627" column="39" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
@@ -403,6 +396,10 @@
       <jump line="21" column="240" filename="D:/durian2/app/DoctrineMigrations/Version20170727034500.php" />
       <jump line="0" column="0" filename="D:/durian2/src/BB/DurianBundle/Payment/BanksPay.php" />
       <jump line="4" column="6" filename="D:/durian2/src/BB/DurianBundle/Payment/BanksPay.php" />
+      <jump line="19" column="29" filename="D:/durian2/src/BB/DurianBundle/Payment/NewEPay.php" />
+      <jump line="80" column="0" filename="D:/durian2/src/BB/DurianBundle/Payment/NewEPay.php" />
+      <jump line="100" column="0" filename="D:/durian2/src/BB/DurianBundle/Payment/NewEPay.php" />
+      <jump line="172" column="21" filename="D:/durian2/src/BB/DurianBundle/Payment/NewEPay.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -415,12 +412,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>dump(
-    json_decode(base64_decode('eyJyZXNwQ29kZSI6IjAwMDAiLCJ0b3RhbEFtb3VudCI6MTAxLjAsInNldHRsZURhdGUiOiIyMDE3MDcyNCIsInBheVRyYW5zSWQiOiIyMDE3MDcyNDEwMDUwMDEwMTU3NSIsInBheVRpbWUiOiIyMDE3MDcyNDEwMDUxNyIsIm9yZGVySWQiOiIyMDE3MDcyNDAwMDAwMDIyNzgifQ=='))
-);</text>
+        <text encoding="base64">JHRoaXMtPnJlcXVlc3REYXRh</text>
       </register>
       <register name="-" type="4">
-        <text>HaoPay</text>
+        <text encoding="base64">JHRoaXMtPnJlcXVlc3REYXRh</text>
       </register>
       <register name="/" type="4">
         <text>xinbao</text>
@@ -428,34 +423,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAncjNfcGF5VHlwZScgPT4gJ1NDQU4nLCAvLyBTQ0FOoUexvb1YCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>dump(
-    json_decode(base64_decode('eyJyZXNwQ29kZSI6IjAwMDAiLCJ0b3RhbEFtb3VudCI6MTAxLjAsInNldHRsZURhdGUiOiIyMDE3MDcyNCIsInBheVRyYW5zSWQiOiIyMDE3MDcyNDEwMDUwMDEwMTU3NSIsInBheVRpbWUiOiIyMDE3MDcyNDEwMDUxNyIsIm9yZGVySWQiOiIyMDE3MDcyNDAwMDAwMDIyNzgifQ=='))
-);</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAncmVzcFRpbWUnID0+IDEsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBcRXhjZXB0aW9uKCdvaycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3Jlc3BUaW1lJyA9PiAnJywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgXEV4Y2VwdGlvbignb2snKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3Jlc3BUaW1lJyA9PiAnJywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgXEV4Y2VwdGlvbignb2snKTsKICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgXEV4Y2VwdGlvbigkZS0+Z2V0TWVzc2FnZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3Jlc3BUaW1lJyA9PiAnJywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDF58PSqHDGXwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3Jlc3BUaW1lJyA9PiAnJywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3Jlc3BUaW1lJyA9PiAnJywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDAy6xkrXGz5ri5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3Jlc3BUaW1lJyA9PiAnJywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3Jlc3BUaW1lJyA9PiAnJywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly90aHJvdyBuZXcgXEV4Y2VwdGlvbigkcWItPmdldERRTCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3Jlc3BUaW1lJyA9PiAnJywK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
@@ -468,7 +461,7 @@
       <last-replace>85</last-replace>
       <last-substitute>json_encod</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
