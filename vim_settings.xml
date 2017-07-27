@@ -3,9 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/durian2/src/BB/DurianBundle/Payment/BanksPay.php" timestamp="1501134579029">
+      <file name="D:/durian2/src/BB/DurianBundle/Payment/BanksPay.php" timestamp="1501144482606">
         <mark key="'" line="4" column="6" />
-        <mark key="[" line="10" column="6" />
+        <mark key="[" line="17" column="30" />
         <mark key="]" line="10" column="13" />
         <mark key="." line="10" column="13" />
         <mark key="^" line="10" column="13" />
@@ -61,12 +61,12 @@
         <mark key="^" line="43" column="23" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Payment/NewEPay.php" timestamp="1501137509892">
-        <mark key="'" line="172" column="21" />
-        <mark key="[" line="188" column="50" />
-        <mark key="]" line="188" column="63" />
-        <mark key="." line="188" column="63" />
-        <mark key="^" line="188" column="63" />
+      <file name="D:/durian2/src/BB/DurianBundle/Payment/NewEPay.php" timestamp="1501144113550">
+        <mark key="'" line="343" column="29" />
+        <mark key="[" line="443" column="19" />
+        <mark key="]" line="443" column="28" />
+        <mark key="." line="443" column="28" />
+        <mark key="^" line="443" column="28" />
       </file>
       <file name="D:/durian2/vendor/doctrine/orm/lib/Doctrine/ORM/EntityManager.php" timestamp="1501040414715">
         <mark key="[" line="277" column="0" />
@@ -300,8 +300,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="625" column="12" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
-      <jump line="634" column="8" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
       <jump line="627" column="39" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
       <jump line="668" column="8" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
       <jump line="682" column="9" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
@@ -400,6 +398,8 @@
       <jump line="80" column="0" filename="D:/durian2/src/BB/DurianBundle/Payment/NewEPay.php" />
       <jump line="100" column="0" filename="D:/durian2/src/BB/DurianBundle/Payment/NewEPay.php" />
       <jump line="172" column="21" filename="D:/durian2/src/BB/DurianBundle/Payment/NewEPay.php" />
+      <jump line="297" column="9" filename="D:/durian2/src/BB/DurianBundle/Payment/NewEPay.php" />
+      <jump line="343" column="29" filename="D:/durian2/src/BB/DurianBundle/Payment/NewEPay.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -412,16 +412,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">JHRoaXMtPnJlcXVlc3REYXRh</text>
+        <text encoding="base64">anNvbl9lbmNvZGUoJHRoaXMtPnRyYWNraW5nUmVxdWVzdERhdGEpIC4gJHRoaXMtPnByaXZhdGVLZXk=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHRoaXMtPnJlcXVlc3REYXRh</text>
+        <text encoding="base64">anNvbl9lbmNvZGUoJHRoaXMtPnRyYWNraW5nUmVxdWVzdERhdGEpIC4gJHRoaXMtPnByaXZhdGVLZXk=</text>
       </register>
       <register name="/" type="4">
         <text>xinbao</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAncjNfcGF5VHlwZScgPT4gJ1NDQU4nLCAvLyBTQ0FOoUexvb1YCg==</text>
+      <register name="0" type="4">
+        <text>trackingRequestParams</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAncmVzcFRpbWUnID0+IDEsCg==</text>
