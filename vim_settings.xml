@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/durian2/src/BB/DurianBundle/Payment/BanksPay.php" timestamp="1501227818781">
+      <file name="D:/durian2/src/BB/DurianBundle/Payment/BanksPay.php" timestamp="1501231065584">
         <mark key="'" line="70" column="14" />
-        <mark key="[" line="85" column="22" />
-        <mark key="]" line="74" column="23" />
-        <mark key="." line="74" column="23" />
-        <mark key="^" line="74" column="23" />
+        <mark key="[" line="142" column="0" />
+        <mark key="]" line="142" column="92" />
+        <mark key="." line="142" column="0" />
+        <mark key="^" line="110" column="35" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/EventListener/ExceptionListener.php" timestamp="1500963826306">
         <mark key="'" line="84" column="41" />
@@ -209,7 +209,7 @@
         <mark key="^" line="2" column="42" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501227781116">
+      <file name="/Dummy.txt" timestamp="1501230936696">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" timestamp="1500279808594">
@@ -405,11 +405,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PHJlc3VsdD5TVUNDRVNTPC9yZXN1bHQ+</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPnJlcXVlc3REYXRhWydwYXlfdHlwZSddID0gJHRoaXMtPmJhbmtNYXBbJHRoaXMtPnJlcXVlc3REYXRhWydwYXlfdHlwZSddXTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PHJlc3VsdD5TVUNDRVNTPC9yZXN1bHQ+</text>
+        <text>廣發銀行</text>
       </register>
       <register name="/" type="4">
         <text>order</text>
@@ -418,31 +418,31 @@
         <text encoding="base64">ICAgIC8qKgogICAgICogwLO1qr73qO6wVK6nCiAgICAgKgogICAgICogQHZhciBzdHJpbmcKICAgICAqLwogICAgcHJvdGVjdGVkICRtc2cgPSAnPHJlc3VsdD5TVUNDRVNTPC9yZXN1bHQ+JzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vYzIyNjgxOQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPnJlcXVlc3REYXRhWydwYXlfdHlwZSddID0gJHRoaXMtPmJhbmtNYXBbJHRoaXMtPnJlcXVlc3REYXRhWydwYXlfdHlwZSddXTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPnJlcXVlc3REYXRhWydwYXlfdHlwZSddID0gJzAwMDEnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICAnMTMnID0+ICcxMDA5JywgLy8gtdiuTLvIpuYK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vYzIyNjgxOQo=</text>
+        <text encoding="base64">ICAgICAgICAnMTMnID0+ICcxMDA5JywgLy8gtdiuTLvIpuYK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAnMTk4JyA9PiAndHJhY2VubycsIC8vIFlUQmFvCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAnMTk4JyA9PiAndHJhY2VubycsIC8vIFlUQmFvCg==</text>
+        <text encoding="base64">ICAgICAgICAnMycK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vYzIyNjgxOQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vYzIyNjgxOQo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
