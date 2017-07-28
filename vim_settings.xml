@@ -262,11 +262,11 @@
         <mark key="." line="173" column="0" />
         <mark key="^" line="588" column="3" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" timestamp="1501206822873">
+      <file name="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" timestamp="1501207413060">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="1754" column="13" />
-        <mark key="]" line="1754" column="23" />
-        <mark key="." line="1754" column="23" />
+        <mark key="[" line="1586" column="44" />
+        <mark key="]" line="1586" column="44" />
+        <mark key="." line="1586" column="44" />
         <mark key="^" line="1754" column="23" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitAccountFunctionalTest.php" timestamp="1500258825579">
@@ -413,10 +413,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>amount</text>
+        <text>With</text>
       </register>
       <register name="-" type="4">
-        <text>amount</text>
+        <text>With</text>
       </register>
       <register name="/" type="4">
         <text>order</text>
