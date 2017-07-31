@@ -82,12 +82,7 @@
         <mark key="^" line="165" column="46" />
         <mark key="." line="165" column="46" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Tests/Payment/PaypalTest.php" timestamp="1501214256290">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Payment/DinDin.php" timestamp="1501480517038">
+      <file name="D:/durian2/src/BB/DurianBundle/Payment/DinDin.php" timestamp="1501481497827">
         <mark key="[" line="30" column="29" />
         <mark key="]" line="30" column="29" />
         <mark key="." line="30" column="29" />
@@ -99,11 +94,7 @@
         <mark key="." line="25" column="62" />
         <mark key="^" line="25" column="62" />
       </file>
-      <file name="D:/payment/pay.php" timestamp="1501149590086">
-        <mark key="[" line="262" column="0" />
-        <mark key="]" line="262" column="0" />
-        <mark key="." line="262" column="0" />
-      </file>
+      <file name="D:/durian2/app/DoctrineMigrations/Version20170728041136.php" timestamp="1501481542339" />
       <file name="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountStatRepository.php" timestamp="1500279681913">
         <mark key="'" line="140" column="32" />
         <mark key="[" line="142" column="43" />
@@ -138,11 +129,6 @@
         <mark key="]" line="761" column="31" />
         <mark key="^" line="761" column="38" />
         <mark key="." line="761" column="31" />
-      </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Payment/NewBaoFoo.php" timestamp="1501129002983">
-        <mark key="[" line="129" column="75" />
-        <mark key="]" line="129" column="75" />
-        <mark key="." line="129" column="75" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Command/ActivateRemitAccountCommand.php" timestamp="1500348347856">
         <mark key="'" line="3" column="0" />
@@ -192,7 +178,7 @@
         <mark key="." line="23" column="179" />
         <mark key="^" line="23" column="179" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501480517684">
+      <file name="/Dummy.txt" timestamp="1501481365610">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" timestamp="1500279808594">
@@ -219,8 +205,14 @@
       <file name="/fragment.php" timestamp="1499767151280">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/__dummy.php" timestamp="1501474748351">
+      <file name="/__dummy.php" timestamp="1501481446841">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Tests/Payment/DinDinTest.php" timestamp="1501481442762">
+        <mark key="[" line="341" column="42" />
+        <mark key="]" line="341" column="42" />
+        <mark key="^" line="341" column="42" />
+        <mark key="." line="341" column="42" />
       </file>
       <file name="D:/payment/card_return.php" timestamp="1501472279657">
         <mark key="'" line="144" column="8" />
@@ -371,10 +363,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>order</text>
