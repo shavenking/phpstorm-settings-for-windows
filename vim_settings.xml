@@ -87,6 +87,11 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Payment/DinDin.php" timestamp="1501480517038">
+        <mark key="[" line="30" column="29" />
+        <mark key="]" line="30" column="29" />
+        <mark key="." line="30" column="29" />
+      </file>
       <file name="D:/durian2/src/BB/DurianBundle/Resources/views/Default/Demo/RemitAccount/resume.html.twig" timestamp="1500018901536">
         <mark key="'" line="25" column="53" />
         <mark key="[" line="25" column="50" />
@@ -120,7 +125,7 @@
         <mark key="." line="17" column="55" />
         <mark key="^" line="17" column="55" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Payment/PaymentBase.php" timestamp="1501227713051">
+      <file name="D:/durian2/src/BB/DurianBundle/Payment/PaymentBase.php" timestamp="1501479199596">
         <mark key="'" line="679" column="0" />
         <mark key="[" line="179" column="22" />
         <mark key="]" line="179" column="21" />
@@ -187,7 +192,7 @@
         <mark key="." line="23" column="179" />
         <mark key="^" line="23" column="179" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501470834488">
+      <file name="/Dummy.txt" timestamp="1501480517684">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" timestamp="1500279808594">
@@ -365,11 +370,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAnMjAxJyA9PiAnb3JkZXJfbm8nLCAvLyBCYW5rc1BheQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>Key</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>order</text>
