@@ -10,12 +10,12 @@
         <mark key="." line="179" column="21" />
         <mark key="^" line="179" column="21" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Payment/BanksPay.php" timestamp="1501469467489">
+      <file name="D:/durian2/src/BB/DurianBundle/Payment/BanksPay.php" timestamp="1501471866866">
         <mark key="'" line="148" column="0" />
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="116" column="34" />
-        <mark key="." line="168" column="52" />
-        <mark key="^" line="168" column="52" />
+        <mark key="[" line="184" column="0" />
+        <mark key="]" line="184" column="0" />
+        <mark key="." line="184" column="0" />
+        <mark key="^" line="184" column="37" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Entity/PaymentGateway.php" timestamp="1500430359153">
         <mark key="'" line="655" column="5" />
@@ -66,12 +66,12 @@
         <mark key="]" line="97" column="0" />
         <mark key="." line="97" column="0" />
       </file>
-      <file name="D:/payment/pay_response.php" timestamp="1501466009378">
-        <mark key="'" line="612" column="0" />
-        <mark key="[" line="615" column="0" />
-        <mark key="]" line="615" column="0" />
-        <mark key="." line="615" column="0" />
-        <mark key="^" line="610" column="4" />
+      <file name="D:/payment/pay_response.php" timestamp="1501472286353">
+        <mark key="'" line="622" column="0" />
+        <mark key="[" line="172" column="0" />
+        <mark key="]" line="172" column="40" />
+        <mark key="." line="172" column="0" />
+        <mark key="^" line="592" column="3" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Entity/RemitAccount.php" timestamp="1500263031080">
         <mark key="'" line="759" column="20" />
@@ -100,11 +100,12 @@
         <mark key="." line="23" column="179" />
         <mark key="^" line="23" column="179" />
       </file>
-      <file name="D:/payment/return.php" timestamp="1501468414398">
-        <mark key="[" line="593" column="23" />
-        <mark key="]" line="593" column="26" />
-        <mark key="." line="593" column="26" />
-        <mark key="^" line="593" column="26" />
+      <file name="D:/payment/return.php" timestamp="1501472263953">
+        <mark key="'" line="593" column="0" />
+        <mark key="[" line="172" column="0" />
+        <mark key="]" line="172" column="39" />
+        <mark key="." line="172" column="39" />
+        <mark key="^" line="172" column="39" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Payment/TongDaPay.php" timestamp="1501050155381">
         <mark key="'" line="0" column="0" />
@@ -165,7 +166,7 @@
         <mark key="." line="107" column="0" />
         <mark key="^" line="174" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501469027230">
+      <file name="/Dummy.txt" timestamp="1501470834488">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" timestamp="1500279808594">
@@ -179,12 +180,19 @@
         <mark key="[" line="101" column="0" />
         <mark key="]" line="106" column="47" />
       </file>
-      <file name="D:/payment/RequestReturn.php" timestamp="1501465955711">
+      <file name="D:/durian2/src/BB/DurianBundle/Tests/Payment/BanksPayTest.php" timestamp="1501471967243">
+        <mark key="'" line="280" column="20" />
+        <mark key="[" line="165" column="37" />
+        <mark key="]" line="165" column="46" />
+        <mark key="^" line="165" column="46" />
+        <mark key="." line="165" column="46" />
+      </file>
+      <file name="D:/payment/RequestReturn.php" timestamp="1501472273247">
         <mark key="'" line="144" column="8" />
-        <mark key="[" line="615" column="0" />
-        <mark key="]" line="615" column="0" />
-        <mark key="." line="615" column="0" />
-        <mark key="^" line="610" column="4" />
+        <mark key="[" line="172" column="0" />
+        <mark key="]" line="172" column="40" />
+        <mark key="." line="172" column="0" />
+        <mark key="^" line="592" column="3" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Tests/Payment/PaypalTest.php" timestamp="1501214256290">
         <mark key="[" line="24" column="0" />
@@ -230,12 +238,12 @@
         <mark key="." line="170" column="79" />
         <mark key="^" line="184" column="29" />
       </file>
-      <file name="D:/payment/card_return.php" timestamp="1501465990806">
+      <file name="D:/payment/card_return.php" timestamp="1501472279657">
         <mark key="'" line="144" column="8" />
-        <mark key="[" line="176" column="0" />
-        <mark key="]" line="176" column="0" />
-        <mark key="^" line="610" column="8" />
-        <mark key="." line="176" column="0" />
+        <mark key="[" line="172" column="0" />
+        <mark key="]" line="172" column="40" />
+        <mark key="^" line="592" column="3" />
+        <mark key="." line="172" column="0" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountStatRepository.php" timestamp="1500279681913">
         <mark key="'" line="140" column="32" />
@@ -294,21 +302,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1179" column="13" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
-      <jump line="1227" column="13" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
-      <jump line="1275" column="13" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
-      <jump line="1317" column="13" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
-      <jump line="1382" column="25" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
-      <jump line="1388" column="16" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
-      <jump line="1395" column="13" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
-      <jump line="1413" column="13" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
-      <jump line="1434" column="38" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
-      <jump line="103" column="17" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
-      <jump line="109" column="16" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
-      <jump line="121" column="13" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
-      <jump line="149" column="13" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
-      <jump line="188" column="13" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
-      <jump line="231" column="13" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
       <jump line="322" column="13" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
       <jump line="367" column="13" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
       <jump line="413" column="13" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
@@ -394,6 +387,21 @@
       <jump line="24" column="40" filename="D:/durian2/src/BB/DurianBundle/Payment/BanksPay.php" />
       <jump line="141" column="7" filename="D:/durian2/src/BB/DurianBundle/Payment/BanksPay.php" />
       <jump line="146" column="0" filename="D:/durian2/src/BB/DurianBundle/Payment/BanksPay.php" />
+      <jump line="0" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/BanksPayTest.php" />
+      <jump line="385" column="17" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/BanksPayTest.php" />
+      <jump line="129" column="4" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/BanksPayTest.php" />
+      <jump line="117" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/BanksPayTest.php" />
+      <jump line="112" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/BanksPayTest.php" />
+      <jump line="99" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/BanksPayTest.php" />
+      <jump line="93" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/BanksPayTest.php" />
+      <jump line="206" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/BanksPayTest.php" />
+      <jump line="234" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/BanksPayTest.php" />
+      <jump line="213" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/BanksPayTest.php" />
+      <jump line="358" column="20" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/BanksPayTest.php" />
+      <jump line="123" column="8" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/BanksPayTest.php" />
+      <jump line="280" column="20" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/BanksPayTest.php" />
+      <jump line="616" column="0" filename="D:/payment/pay_response.php" />
+      <jump line="593" column="0" filename="D:/payment/return.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -405,47 +413,47 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAnMjAxJyA9PiAnb3JkZXJfbm8nLCAvLyBCYW5rc1BheQo=</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>Key</text>
       </register>
       <register name="/" type="4">
         <text>order</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnMScgPT4gJzEwMDEnLCAvLyCkdbDTu8im5gogICAgICAgICcyJyA9PiAnMTAwNScsIC8vIKXms3G7yKbmCiAgICAgICAgJzMnID0+ICcxMDAyJywgLy8guUG3frvIpuYKICAgICAgICAnNCcgPT4gJzEwMDQnLCAvLyCr2LNdu8im5gogICAgICAgICc1JyA9PiAnMTAxMicsIC8vIKnbsNO7yKbmCiAgICAgICAgJzYnID0+ICcxMDEwJywgLy8gpcGlzbvIpuYKICAgICAgICAnOCcgPT4gJzEwMTQnLCAvLyCu+rVvu8im5gogICAgICAgICc5JyA9PiAnMTAxNicsIC8vIKVfqMq7yKbmCiAgICAgICAgJzEwJyA9PiAnMTAxMycsIC8vIL+zt367yKbmCiAgICAgICAgJzExJyA9PiAnMTAwNycsIC8vIKSkq0i7yKbmCiAgICAgICAgJzEyJyA9PiAnMTAwOCcsIC8vIKX6pGq7yKbmCiAgICAgICAgJzEzJyA9PiAnMTAwOScsIC8vILXYrky7yKbmCiAgICAgICAgJzE0JyA9PiAnMTAxNycsIC8vILxztW+7yKbmCiAgICAgICAgJzE1JyA9PiAnMTAxMScsIC8vIKWtpne7yKbmCiAgICAgICAgJzE2JyA9PiAnMTAwNicsIC8vILZsrEbAeLtXu8im5gogICAgICAgICcxNycgPT4gJzEwMDMnLCAvLyCkpLDqu8im5gogICAgICAgICcxOScgPT4gJzEwMjUnLCAvLyCkV678u8im5gogICAgICAgICcyMzQnID0+ICcxMTAzJywgLy8gpV+oyrlBp/iw07d+u8im5gogICAgICAgICcxMDkwJyA9PiAnMDAwMicsIC8vILdMq0hfpEe6+wogICAgICAgICcxMDkyJyA9PiAnMDAwMycsIC8vIKTkpUnEX1+kR7r7CiAgICAgICAgJzEwOTgnID0+ICcwMDA1JywgLy8gpOSlScRfX1dBUAogICAgICAgICcxMTAzJyA9PiAnMDAwNicsIC8vIFFRX6RHuvsKICAgICAgICAnMTEwNCcgPT4gJzAwMDcnLCAvLyBRUV9XQVAK</text>
+        <text encoding="base64">ICAgICAgICAnMjAxJyA9PiAnb3JkZXJfbm8nLCAvLyBCYW5rc1BheQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0b2RvILNvtqGsZLjfqFOms6r3w0KnT7C1Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAobWQ1KCRlbmNvZGVTdHIpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgJHRoaXMtPnJlcXVlc3REYXRhID0gYXJyYXlfZmlsdGVyKCR0aGlzLT5yZXF1ZXN0RGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcChtZDUoJGVuY29kZVN0cikpOwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyC69LvIpOSlSba3sWGkSrvIpualTr1YCiAgICAgICAgaWYgKCFpbl9hcnJheSgkdGhpcy0+b3B0aW9uc1sncGF5bWVudFZlbmRvcklkJ10sIFsxMDkwLCAxMDkyLCAxMDk3LCAxMTAzLCAxMTA0XSkpIHsKICAgICAgICAgICAgJHRoaXMtPnJlcXVlc3REYXRhWydiYW5rX2NvZGUnXSA9ICR0aGlzLT5iYW5rTWFwWyR0aGlzLT5yZXF1ZXN0RGF0YVsncGF5X3R5cGUnXV07CiAgICAgICAgICAgICR0aGlzLT5yZXF1ZXN0RGF0YVsncGF5X3R5cGUnXSA9ICcwMDAxJzsKICAgICAgICB9Cgo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgJ3R5cGUnID0+ICd3ZWNoYXRuYXRpdmUnLAogICAgICAgICAgICAndHJhZGVfbm8nID0+ICc0MDAxMDEyMDAxMjAxNzA1MTUwODk0MDE3NTI1JywKICAgICAgICAgICAgJ3RvdGFsX2ZlZScgPT4gJzAuMDEnLAogICAgICAgICAgICAnZXh0cmFfY29tbW9uX3BhcmFtJyA9PiAnJywKICAgICAgICAgICAgJ21vdmVtZW50JyA9PiAnMCcsCiAgICAgICAgICAgICd0cmFkZV9zdGF0dXMnID0+ICdUUkFERV9TVUNDRVNTJywKICAgICAgICAgICAgJ291dF90cmFkZV9ubycgPT4gJzIwMTcwNTE1MDAwMDAwMjA4OCcsCiAgICAgICAgICAgICdub3RpZnlfdXJsJyA9PiAnaHR0cDovL3BheS42NjY5MTIzLmNvbS9wYXkvcmV0dXJuLnBocCcsCiAgICAgICAgICAgICdyZXR1cm5fdXJsJyA9PiAnJywKICAgICAgICAgICAgJ2NsaWVudGlkJyA9PiAnMTMyNjg5NjQ4NycsCiAgICAgICAgICAgICdzdGF0dXMnID0+ICcwJywKICAgICAgICAgICAgJ3N1YmplY3QnID0+ICdwaHAxdGVzdCcsCiAgICAgICAgICAgICdib2R5JyA9PiAnJywKICAgICAgICAgICAgJ3NpZ24nID0+ICcwMzI1ODFmNDYzZDMxMTAwZGVjMmEzYWZiODg1NzEzZCcs</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPnJlcXVlc3REYXRhWydiYW5rX2NvZGUnXSA9ICcnOwogICAgICAgICAgICAkdGhpcy0+cmVxdWVzdERhdGFbJ3BheV90eXBlJ10gPSAkdGhpcy0+YmFua01hcFskdGhpcy0+cmVxdWVzdERhdGFbJ3BheV90eXBlJ11dOwo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgJ3R5cGUnID0+ICd3ZWNoYXRuYXRpdmUnLAogICAgICAgICAgICAndHJhZGVfbm8nID0+ICc0MDAxMDEyMDAxMjAxNzA1MTUwODk0MDE3NTI1JywKICAgICAgICAgICAgJ3RvdGFsX2ZlZScgPT4gJzk0ODcnLAogICAgICAgICAgICAnZXh0cmFfY29tbW9uX3BhcmFtJyA9PiAnJywKICAgICAgICAgICAgJ21vdmVtZW50JyA9PiAnMCcsCiAgICAgICAgICAgICd0cmFkZV9zdGF0dXMnID0+ICdUUkFERV9TVUNDRVNTJywKICAgICAgICAgICAgJ291dF90cmFkZV9ubycgPT4gJzIwMTcwNTE1MDAwMDAwMjA4OCcsCiAgICAgICAgICAgICdub3RpZnlfdXJsJyA9PiAnaHR0cDovL3BheS42NjY5MTIzLmNvbS9wYXkvcmV0dXJuLnBocCcsCiAgICAgICAgICAgICdyZXR1cm5fdXJsJyA9PiAnJywKICAgICAgICAgICAgJ2NsaWVudGlkJyA9PiAnMTMyNjg5NjQ4NycsCiAgICAgICAgICAgICdzdGF0dXMnID0+ICcwJywKICAgICAgICAgICAgJ3N1YmplY3QnID0+ICdwaHAxdGVzdCcsCiAgICAgICAgICAgICdib2R5JyA9PiAnJywKICAgICAgICAgICAgJ3NpZ24nID0+ICdkYzMyZDAxYTJlNzkzMTcxNjU5OTU3NzE3YTlkYmFkZics</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3NpZ24nID0+ICc2OTIwYmJlZDZjOWZlZjk0ZmRkYTFjMzFjMDg3NGY0ZScsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vYzIyNjgxOQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgJ3R5cGUnID0+ICd3ZWNoYXRuYXRpdmUnLAogICAgICAgICAgICAndHJhZGVfbm8nID0+ICc0MDAxMDEyMDAxMjAxNzA1MTUwODk0MDE3NTI1JywKICAgICAgICAgICAgJ3RvdGFsX2ZlZScgPT4gJzAuMDEnLAogICAgICAgICAgICAnZXh0cmFfY29tbW9uX3BhcmFtJyA9PiAnJywKICAgICAgICAgICAgJ21vdmVtZW50JyA9PiAnMCcsCiAgICAgICAgICAgICd0cmFkZV9zdGF0dXMnID0+ICdUUkFERV9TVUNDRVNTJywKICAgICAgICAgICAgJ291dF90cmFkZV9ubycgPT4gJzIwMTcwNTE1MDAwMDAwMjA4OCcsCiAgICAgICAgICAgICdub3RpZnlfdXJsJyA9PiAnaHR0cDovL3BheS42NjY5MTIzLmNvbS9wYXkvcmV0dXJuLnBocCcsCiAgICAgICAgICAgICdyZXR1cm5fdXJsJyA9PiAnJywKICAgICAgICAgICAgJ2NsaWVudGlkJyA9PiAnMTMyNjg5NjQ4NycsCiAgICAgICAgICAgICdzdGF0dXMnID0+ICcwJywKICAgICAgICAgICAgJ3N1YmplY3QnID0+ICdwaHAxdGVzdCcsCiAgICAgICAgICAgICdib2R5JyA9PiAnJywKICAgICAgICAgICAgJ3NpZ24nID0+ICd3cm9uZyBzaWduJyw=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAnMTk3JyA9PiAncmVxTXNnSWQnLCAvLyBOZXdFUGF5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3R5cGUnID0+ICd3ZWNoYXRuYXRpdmUnLAogICAgICAgICAgICAndHJhZGVfbm8nID0+ICc0MDAxMDEyMDAxMjAxNzA1MTUwODk0MDE3NTI1JywKICAgICAgICAgICAgJ3RvdGFsX2ZlZScgPT4gJzAuMDEnLAogICAgICAgICAgICAnZXh0cmFfY29tbW9uX3BhcmFtJyA9PiAnJywKICAgICAgICAgICAgJ21vdmVtZW50JyA9PiAnMCcsCiAgICAgICAgICAgICd0cmFkZV9zdGF0dXMnID0+ICdUUkFERV9TVUNDRVNTJywKICAgICAgICAgICAgJ291dF90cmFkZV9ubycgPT4gJzIwMTcwNTE1MDAwMDAwMjA4OCcsCiAgICAgICAgICAgICdub3RpZnlfdXJsJyA9PiAnaHR0cDovL3BheS42NjY5MTIzLmNvbS9wYXkvcmV0dXJuLnBocCcsCiAgICAgICAgICAgICdyZXR1cm5fdXJsJyA9PiAnJywKICAgICAgICAgICAgJ2NsaWVudGlkJyA9PiAnMTMyNjg5NjQ4NycsCiAgICAgICAgICAgICdzdGF0dXMnID0+ICcwJywKICAgICAgICAgICAgJ3N1YmplY3QnID0+ICdwaHAxdGVzdCcsCiAgICAgICAgICAgICdib2R5JyA9PiAnJywKICAgICAgICAgICAgJ3NpZ24nID0+ICd3cm9uZyBzaWduJywK</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>214d</text>
       </register>
     </registers>
     <search>
@@ -481,7 +489,6 @@
         <entry>order</entry>
       </history-search>
       <history-cmd>
-        <entry>614y</entry>
         <entry>244,246y</entry>
         <entry>285,289d</entry>
         <entry>Noh</entry>
@@ -501,6 +508,7 @@
         <entry>265y</entry>
         <entry>set rnu</entry>
         <entry>noh</entry>
+        <entry>214d</entry>
       </history-cmd>
       <history-expr />
       <history-input />
