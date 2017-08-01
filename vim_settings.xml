@@ -41,11 +41,11 @@
         <mark key="." line="189" column="47" />
         <mark key="^" line="189" column="47" />
       </file>
-      <file name="D:/durian2/test.php" timestamp="1501491146948">
-        <mark key="[" line="4" column="83" />
-        <mark key="]" line="6" column="49" />
-        <mark key="." line="6" column="49" />
-        <mark key="^" line="6" column="49" />
+      <file name="D:/durian2/test.php" timestamp="1501560401077">
+        <mark key="[" line="11" column="21" />
+        <mark key="]" line="11" column="22" />
+        <mark key="." line="11" column="22" />
+        <mark key="^" line="11" column="21" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Repository/StatCashDepositWithdrawRepository.php" timestamp="1501041285167">
         <mark key="'" line="41" column="7" />
@@ -404,11 +404,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vYzIyNjk2Mgo=</text>
+      <register name="&quot;" type="4">
+        <text>implments</text>
       </register>
       <register name="-" type="4">
-        <text>=======</text>
+        <text>implments</text>
       </register>
       <register name="/" type="4">
         <text>order</text>
