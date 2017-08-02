@@ -98,6 +98,9 @@
       <file name="D:/durian2/src/BB/DurianBundle/Tests/Payment/LuoBoFuTest.php" timestamp="1501642607891">
         <mark key="'" line="285" column="39" />
       </file>
+      <file name="D:/durian2/app/DoctrineMigrations/Version20170802041300.php" timestamp="1501652167338">
+        <mark key="'" line="22" column="0" />
+      </file>
       <file name="D:/durian2/src/BB/DurianBundle/Resources/views/Default/Demo/RemitAccount/resume.html.twig" timestamp="1500018901536">
         <mark key="'" line="25" column="53" />
         <mark key="[" line="25" column="50" />
@@ -301,8 +304,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1607" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
-      <jump line="1586" column="61" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
       <jump line="1615" column="25" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
       <jump line="1613" column="4" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
       <jump line="623" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
@@ -401,6 +402,8 @@
       <jump line="607" column="0" filename="D:/payment/return.php" />
       <jump line="285" column="39" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/LuoBoFuTest.php" />
       <jump line="182" column="51" filename="D:/durian2/src/BB/DurianBundle/Payment/LuoBoFu.php" />
+      <jump line="23" column="6" filename="D:/durian2/app/DoctrineMigrations/Version20170802041300.php" />
+      <jump line="22" column="0" filename="D:/durian2/app/DoctrineMigrations/Version20170802041300.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
