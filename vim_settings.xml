@@ -126,8 +126,8 @@
       <file name="D:/durian2/src/BB/DurianBundle/Tests/Entity/PaymentGatewayTest.php" timestamp="1501554665868">
         <mark key="'" line="10" column="6" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Payment/LuoBoFu.php" timestamp="1501642626170">
-        <mark key="'" line="182" column="51" />
+      <file name="D:/durian2/src/BB/DurianBundle/Payment/LuoBoFu.php" timestamp="1501728910942">
+        <mark key="'" line="10" column="8" />
         <mark key="[" line="103" column="25" />
         <mark key="]" line="105" column="32" />
         <mark key="^" line="105" column="32" />
@@ -274,7 +274,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1701" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
       <jump line="1696" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
       <jump line="1688" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
       <jump line="1683" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/NewEPayTest.php" />
@@ -374,6 +373,7 @@
       <jump line="0" column="0" filename="D:/durian2/src/BB/DurianBundle/Resources/translations/messages.zh_TW.yml" />
       <jump line="9" column="6" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/WithdrawFunctionalTest.php" />
       <jump line="51" column="4" filename="D:/durian2/src/BB/DurianBundle/Withdraw/Helper.php" />
+      <jump line="10" column="8" filename="D:/durian2/src/BB/DurianBundle/Payment/LuoBoFu.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
