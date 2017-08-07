@@ -46,12 +46,11 @@
         <mark key="." line="189" column="47" />
         <mark key="^" line="189" column="47" />
       </file>
-      <file name="D:/durian2/test.php" timestamp="1502086470577">
-        <mark key="'" line="7" column="659" />
-        <mark key="[" line="7" column="11" />
-        <mark key="]" line="7" column="644" />
-        <mark key="." line="7" column="644" />
-        <mark key="^" line="7" column="644" />
+      <file name="D:/durian2/test.php" timestamp="1502096715545">
+        <mark key="[" line="7" column="112" />
+        <mark key="]" line="7" column="135" />
+        <mark key="." line="7" column="135" />
+        <mark key="^" line="7" column="135" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Repository/StatCashDepositWithdrawRepository.php" timestamp="1501041285167">
         <mark key="'" line="41" column="7" />
@@ -390,10 +389,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">bWV0aG9kPXlzZXBheS5vbmxpbmUucXJjb2RlcGF5JnBhcnRuZXJfaWQ9emhpZnU2NjkmdGltZXN0YW1wPTIwMTctMDgtMDcrMTMlM0E0OSUzQTU3JmNoYXJzZXQ9VVRGLTgmc2lnbl90eXBlPVJTQSZzaWduPUVlSnc5dlZlY1RaTjU0ZEI1TEtrV3RyUEs4JTJCUkFWMGolMkZtYUhRS1FaT2pNeXIzSm1HNE9nNWFEbmRtNEhIRSUyRmZhNVd5QVNaZkgyc0VKMUdUMVVnY1BOQlNjYVl3M1l3cjNUa2ZDZjA0aXNtRE5NeHJXZUVQSG5XZ1h0THNEJTJGQUxkY01oNk5vSHl5a1k1MCUyRjR6RVhKY2FkZWNid1J4VVFOb2hHYlFpM3I2bWslM0Qmbm90aWZ5X3VybD1odHRwJTNBJTJGJTJGcGF5bWVudC5wei1oZXJvLmNvbSUyRnBheSUyRnJldHVybi5waHAmcmV0dXJuX3VybD0mdmVyc2lvbj0zLjAmYml6X2NvbnRlbnQ9JTdCJTIyb3V0X3RyYWRlX25vJTIyJTNBJTIyMjAxNzA4MDcwMDAwMDAzNzQzJTIyJTJDJTIyc3ViamVjdCUyMiUzQSUyMnBocDF0ZXN0JTIyJTJDJTIydG90YWxfYW1vdW50JTIyJTNBJTIyNS4wNSUyMiUyQyUyMnNlbGxlcl9pZCUyMiUzQSUyMnpoaWZ1NjY5JTIyJTJDJTIyc2VsbGVyX25hbWUlMjIlM0ElMjIlNUN1NjIxMCU1Q3U5MGZkJTVDdTYyMzQlNUN1ODM2MyU1Q3U1YmNjJTVDdTU1NDYlNUN1OGQzOCU1Q3U2NzA5JTVDdTk2NTAlNUN1NTE2YyU1Q3U1M2Y4JTIyJTJDJTIydGltZW91dF9leHByZXNzJTIyJTNBJTIyOTZoJTIyJTJDJTIyYnVzaW5lc3NfY29kZSUyMiUzQSUyMjMwMTAwMDElMjIlMkMlMjJiYW5rX3R5cGUlMjIlM0ElMjIxOTAyMDAwJTIyJTdE</text>
+        <text>, JSON_UNESCAPED_UNICODE</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bWV0aG9kPXlzZXBheS5vbmxpbmUucXJjb2RlcGF5JnBhcnRuZXJfaWQ9emhpZnU2NjkmdGltZXN0YW1wPTIwMTctMDgtMDcrMTMlM0E0OSUzQTU3JmNoYXJzZXQ9VVRGLTgmc2lnbl90eXBlPVJTQSZzaWduPUVlSnc5dlZlY1RaTjU0ZEI1TEtrV3RyUEs4JTJCUkFWMGolMkZtYUhRS1FaT2pNeXIzSm1HNE9nNWFEbmRtNEhIRSUyRmZhNVd5QVNaZkgyc0VKMUdUMVVnY1BOQlNjYVl3M1l3cjNUa2ZDZjA0aXNtRE5NeHJXZUVQSG5XZ1h0THNEJTJGQUxkY01oNk5vSHl5a1k1MCUyRjR6RVhKY2FkZWNid1J4VVFOb2hHYlFpM3I2bWslM0Qmbm90aWZ5X3VybD1odHRwJTNBJTJGJTJGcGF5bWVudC5wei1oZXJvLmNvbSUyRnBheSUyRnJldHVybi5waHAmcmV0dXJuX3VybD0mdmVyc2lvbj0zLjAmYml6X2NvbnRlbnQ9JTdCJTIyb3V0X3RyYWRlX25vJTIyJTNBJTIyMjAxNzA4MDcwMDAwMDAzNzQzJTIyJTJDJTIyc3ViamVjdCUyMiUzQSUyMnBocDF0ZXN0JTIyJTJDJTIydG90YWxfYW1vdW50JTIyJTNBJTIyNS4wNSUyMiUyQyUyMnNlbGxlcl9pZCUyMiUzQSUyMnpoaWZ1NjY5JTIyJTJDJTIyc2VsbGVyX25hbWUlMjIlM0ElMjIlNUN1NjIxMCU1Q3U5MGZkJTVDdTYyMzQlNUN1ODM2MyU1Q3U1YmNjJTVDdTU1NDYlNUN1OGQzOCU1Q3U2NzA5JTVDdTk2NTAlNUN1NTE2YyU1Q3U1M2Y4JTIyJTJDJTIydGltZW91dF9leHByZXNzJTIyJTNBJTIyOTZoJTIyJTJDJTIyYnVzaW5lc3NfY29kZSUyMiUzQSUyMjMwMTAwMDElMjIlMkMlMjJiYW5rX3R5cGUlMjIlM0ElMjIxOTAyMDAwJTIyJTdE</text>
+        <text>, JSON_UNESCAPED_UNICODE</text>
       </register>
       <register name="/" type="4">
         <text>order</text>
@@ -401,29 +400,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAnMjAxJyA9PiAnb3JkZXJfbm8nLCAvLyBCYW5rc1BheQo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">anNvTgo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">cGFyc2Vfc3RyKCdtZXRob2Q9eXNlcGF5Lm9ubGluZS5xcmNvZGVwYXkmcGFydG5lcl9pZD16aGlmdTY2OSZ0aW1lc3RhbXA9MjAxNy0wOC0wNyAxMzo0OTo0NiZjaGFyc2V0PVVURi04JnNpZ25fdHlwZT1SU0Emc2lnbj1FTnZBQzIvallpVktSSlEvSlZ1eCtkSVg4OEhCWEcyUGw2K2J3K0hvd3c1bDdmYWd3R1hSZzFmNS9WR2xDWlhqK1VoalJ5azdqbGN2UDFqcHlNSnptMEpxSVArUFRNR0J1RnM1NVpBSy9BTm5hc1FlZWgva0lCTzhWUWRmT0FoRGxUQVNvN3o3TVlsUkJqcm1JRHZ6L2NGZ3BaSzArRSs2dThvdFJVL3dsSVE9Jm5vdGlmeV91cmw9aHR0cDovL3BheW1lbnQucHotaGVyby5jb20vcGF5L3JldHVybi5waHAmcmV0dXJuX3VybD0mdmVyc2lvbj0zLjAmYml6X2NvbnRlbnQ9eyJvdXRfdHJhZGVfbm8iOiIyMDE3MDgwNzAwMDAwMDM3NDIiLCJzdWJqZWN0IjoicGhwMXRlc3QiLCJ0b3RhbF9hbW91bnQiOiI1LjQwIiwic2VsbGVyX2lkIjoiemhpZnU2NjkiLCJzZWxsZXJfbmFtZSI6Ilx1NjIxMFx1OTBmZFx1NjIzNFx1ODM2M1x1NWJjY1x1NTU0Nlx1OGQzOFx1NjcwOVx1OTY1MFx1NTE2Y1x1NTNmOCIsInRpbWVvdXRfZXhwcmVzcyI6Ijk2aCIsImJ1c2luZXNzX2NvZGUiOiIzMDEwMDAxIiwiYmFua190eXBlIjoiMTkwMjAwMCJ9JywgJGFycik7Cg==</text>
+      </register>
+      <register name="3" type="4">
         <text>$data = 0;
 
 if ($data == 0) {
     echo 'hi';
 }</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAkbW9ja0hlbHBlciA9ICR0aGlzLT5nZXRNb2NrQnVpbGRlcignQkJcRHVyaWFuQnVuZGxlXFdpdGhkcmF3JykKICAgICAgICAgICAgLT5kaXNhYmxlT3JpZ2luYWxDb25zdHJ1Y3RvcigpCg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ZHVtcCgwID09ICcnKQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ZHVtcChlY2hvIDIgIjMiKTsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">aWYgKFtdKSB7CiAgICBlY2hvICdoaSc7Cn0K</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>$i = 0.1;
 while (true) {
     echo 'wow';
@@ -432,14 +437,6 @@ while (true) {
 
     $i += 0.1;
 }</text>
-      </register>
-      <register name="8" type="4">
-        <text>$result['fuck'] = 'yes';
-
-dump($result);</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ZHVtcChzdHJ0b3RpbWUoMjAxNzA2MTIpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>214d</text>
