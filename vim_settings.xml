@@ -88,6 +88,7 @@
       <file name="D:/durian2/app/DoctrineMigrations/Version20170802041300.php" timestamp="1501652167338">
         <mark key="'" line="22" column="0" />
       </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Withdraw/Helper.php" timestamp="1502070817169" />
       <file name="D:/durian2/src/BB/DurianBundle/Resources/views/Default/Demo/RemitAccount/resume.html.twig" timestamp="1500018901536">
         <mark key="'" line="25" column="53" />
         <mark key="[" line="25" column="50" />
@@ -100,7 +101,6 @@
         <mark key="]" line="18" column="20" />
         <mark key="." line="18" column="20" />
       </file>
-      <file name="D:/durian2/app/DoctrineMigrations/Version20170802113215.php" timestamp="1501749887041" />
       <file name="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountStatRepository.php" timestamp="1500279681913">
         <mark key="'" line="140" column="32" />
         <mark key="[" line="142" column="43" />
@@ -139,7 +139,6 @@
         <mark key="^" line="761" column="38" />
         <mark key="." line="761" column="31" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Payment/SyunTongBao.php" timestamp="1501749898929" />
       <file name="D:/durian2/src/BB/DurianBundle/Command/ActivateRemitAccountCommand.php" timestamp="1500348347856">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="71" column="60" />
