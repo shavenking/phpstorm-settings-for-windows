@@ -82,8 +82,8 @@
       <file name="D:/durian2/src/BB/DurianBundle/Tests/Payment/LuoBoFuTest.php" timestamp="1501642607891">
         <mark key="'" line="285" column="39" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Payment/DinDin.php" timestamp="1501751263570">
-        <mark key="'" line="0" column="0" />
+      <file name="D:/durian2/src/BB/DurianBundle/Payment/DinDin.php" timestamp="1502073325475">
+        <mark key="'" line="127" column="36" />
       </file>
       <file name="D:/durian2/app/DoctrineMigrations/Version20170802041300.php" timestamp="1501652167338">
         <mark key="'" line="22" column="0" />
@@ -101,6 +101,7 @@
         <mark key="]" line="18" column="20" />
         <mark key="." line="18" column="20" />
       </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Payment/Operator.php" timestamp="1502072887235" />
       <file name="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountStatRepository.php" timestamp="1500279681913">
         <mark key="'" line="140" column="32" />
         <mark key="[" line="142" column="43" />
@@ -125,8 +126,8 @@
       <file name="D:/durian2/src/BB/DurianBundle/Controller/WithdrawController.php" timestamp="1501752389515">
         <mark key="'" line="1598" column="29" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Payment/PaymentBase.php" timestamp="1501751520945">
-        <mark key="'" line="927" column="5" />
+      <file name="D:/durian2/src/BB/DurianBundle/Payment/PaymentBase.php" timestamp="1502074392636">
+        <mark key="'" line="201" column="5" />
         <mark key="[" line="404" column="9" />
         <mark key="]" line="404" column="10" />
         <mark key="." line="404" column="9" />
@@ -197,7 +198,7 @@
         <mark key="^" line="105" column="32" />
         <mark key="." line="105" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501752505464">
+      <file name="/Dummy.txt" timestamp="1502074392991">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Tests/Functional/RemitFunctionalTest.php" timestamp="1500279808594">
@@ -230,6 +231,10 @@
       <file name="/__dummy.php" timestamp="1501662510317">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/durian2/src/BB/DurianBundle/Tests/Payment/DinDinTest.php" timestamp="1502074671113">
+        <mark key="'" line="22" column="6" />
+      </file>
+      <file name="D:/durian2/app/DoctrineMigrations/Version20170802070732.php" timestamp="1502073213721" />
       <file name="D:/durian2/src/BB/DurianBundle/Resources/translations/messages.zh_TW.yml" timestamp="1501660853327">
         <mark key="'" line="0" column="0" />
       </file>
@@ -261,8 +266,8 @@
         <mark key="." line="5" column="47" />
         <mark key="^" line="5" column="47" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Tests/Functional/WithdrawFunctionalTest.php" timestamp="1501754281686">
-        <mark key="'" line="5364" column="0" />
+      <file name="D:/durian2/src/BB/DurianBundle/Tests/Functional/WithdrawFunctionalTest.php" timestamp="1502072969364">
+        <mark key="'" line="5352" column="0" />
         <mark key="[" line="5360" column="21" />
         <mark key="]" line="5360" column="21" />
         <mark key="^" line="5315" column="3" />
@@ -277,13 +282,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="D:/durian2/test.php" />
-      <jump line="144" column="8" filename="D:/payment/RequestReturn.php" />
-      <jump line="615" column="0" filename="D:/payment/card_return.php" />
-      <jump line="599" column="0" filename="D:/payment/card_return.php" />
-      <jump line="613" column="8" filename="D:/payment/card_return.php" />
-      <jump line="620" column="0" filename="D:/payment/card_return.php" />
-      <jump line="144" column="8" filename="D:/payment/card_return.php" />
       <jump line="615" column="0" filename="D:/payment/pay_response.php" />
       <jump line="581" column="0" filename="D:/payment/return.php" />
       <jump line="24" column="40" filename="D:/durian2/src/BB/DurianBundle/Payment/BanksPay.php" />
@@ -377,6 +375,13 @@
       <jump line="5361" column="8" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/WithdrawFunctionalTest.php" />
       <jump line="5328" column="8" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/WithdrawFunctionalTest.php" />
       <jump line="5364" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/WithdrawFunctionalTest.php" />
+      <jump line="5352" column="0" filename="D:/durian2/src/BB/DurianBundle/Tests/Functional/WithdrawFunctionalTest.php" />
+      <jump line="296" column="15" filename="D:/durian2/src/BB/DurianBundle/Payment/DinDin.php" />
+      <jump line="127" column="36" filename="D:/durian2/src/BB/DurianBundle/Payment/DinDin.php" />
+      <jump line="994" column="62" filename="D:/durian2/src/BB/DurianBundle/Payment/PaymentBase.php" />
+      <jump line="201" column="5" filename="D:/durian2/src/BB/DurianBundle/Payment/PaymentBase.php" />
+      <jump line="277" column="59" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/DinDinTest.php" />
+      <jump line="22" column="6" filename="D:/durian2/src/BB/DurianBundle/Tests/Payment/DinDinTest.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
