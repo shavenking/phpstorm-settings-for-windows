@@ -41,11 +41,11 @@
         <mark key="." line="189" column="47" />
         <mark key="^" line="189" column="47" />
       </file>
-      <file name="D:/durian2/test.php" timestamp="1502096715545">
-        <mark key="[" line="7" column="112" />
-        <mark key="]" line="7" column="135" />
-        <mark key="." line="7" column="135" />
-        <mark key="^" line="7" column="135" />
+      <file name="D:/durian2/test.php" timestamp="1502159151947">
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="8" column="11" />
+        <mark key="." line="8" column="11" />
+        <mark key="^" line="8" column="11" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Repository/StatCashDepositWithdrawRepository.php" timestamp="1501041285167">
         <mark key="'" line="41" column="7" />
@@ -372,11 +372,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vYzIyNjk2Mgo=</text>
+      <register name="&quot;" type="4">
+        <text>100000</text>
       </register>
       <register name="-" type="4">
-        <text>, JSON_UNESCAPED_UNICODE</text>
+        <text>100000</text>
       </register>
       <register name="/" type="4">
         <text>order</text>
@@ -385,13 +385,13 @@
         <text encoding="base64">ICAgICAgICAnMjAxJyA9PiAnb3JkZXJfbm8nLCAvLyBCYW5rc1BheQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vYzIyNjk2Mgo=</text>
+        <text encoding="base64">ICAgIDEgPDwgMTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgIHBvdygyLCAxKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ZHVtcChqc29uX2VuY29kZShqc29uX2RlY29kZSgneyJjb2RlIjoiNDAwMDQiLCJtc2ciOiI/P8ndsWAiLCJzdWJfY29kZSI6IkFDUS5RVUVSWV9OT19SRVNVTFQiLCJzdWJfbXNnIjoirGQ/Pz8/In0nKSwgSlNPTl9VTkVTQ0FQRURfVU5JQ09ERSkpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vYzIyNjk2Mgo=</text>
