@@ -41,11 +41,11 @@
         <mark key="." line="189" column="47" />
         <mark key="^" line="189" column="47" />
       </file>
-      <file name="D:/durian2/test.php" timestamp="1502245011362">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="16" />
-        <mark key="." line="6" column="16" />
-        <mark key="^" line="6" column="16" />
+      <file name="D:/durian2/test.php" timestamp="1502762382148">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="9" column="10" />
+        <mark key="." line="9" column="10" />
+        <mark key="^" line="9" column="10" />
       </file>
       <file name="D:/durian2/src/BB/DurianBundle/Repository/StatCashDepositWithdrawRepository.php" timestamp="1501041285167">
         <mark key="'" line="41" column="7" />
@@ -54,7 +54,6 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="31" column="6" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Payment/YsePay.php" timestamp="1502243040991" />
       <file name="D:/durian2/src/BB/DurianBundle/Tests/Entity/PaymentGatewayTest.php" timestamp="1501554665868">
         <mark key="'" line="10" column="6" />
       </file>
@@ -96,7 +95,6 @@
         <mark key="]" line="18" column="20" />
         <mark key="." line="18" column="20" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Payment/Operator.php" timestamp="1502258706740" />
       <file name="D:/durian2/src/BB/DurianBundle/Repository/RemitAccountStatRepository.php" timestamp="1500279681913">
         <mark key="'" line="140" column="32" />
         <mark key="[" line="142" column="43" />
@@ -128,7 +126,6 @@
         <mark key="^" line="761" column="38" />
         <mark key="." line="761" column="31" />
       </file>
-      <file name="D:/durian2/src/BB/DurianBundle/Tests/Payment/YsePayTest.php" timestamp="1502245841880" />
       <file name="D:/durian2/src/BB/DurianBundle/Command/ActivateRemitAccountCommand.php" timestamp="1500348347856">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="71" column="60" />
@@ -164,7 +161,6 @@
         <mark key="." line="20" column="348" />
         <mark key="^" line="37" column="148" />
       </file>
-      <file name="D:/durian2/app/DoctrineMigrations/Version20170808013145.php" timestamp="1502238843238" />
       <file name="D:/durian2/app/DoctrineMigrations/Version20170721094443.php" timestamp="1501117316253">
         <mark key="'" line="24" column="116" />
         <mark key="[" line="23" column="179" />
@@ -381,11 +377,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>$data = '{&quot;sign&quot;:&quot;CupqsFsmmBlXkE8SCj25LdQWotAZaqk9/Ng1PMvA3bMPxd7fSNEyK/ARYjPvHj87dKP5T5zpKsB1uUkUpPtr905WQZidGTsQw4oQ5bsGzZCPCyjIfq37Fd1JJuAv/RCUMbDl2KhlOHrLuBNlrkyGRVwSINqdqOtXwnheNA2kFiA=&quot;,&quot;ysepay_online_qrcodepay_response&quot;:{&quot;code&quot;:&quot;10000&quot;,&quot;msg&quot;:&quot;Success&quot;,&quot;out_trade_no&quot;:&quot;201708070000003750&quot;,&quot;trade_no&quot;:&quot;01O170807328941756&quot;,&quot;trade_status&quot;:&quot;WAIT_}BUYER_PAY&quot;,&quot;total_amount&quot;:&quot;5.15&quot;,&quot;qr_code_url&quot;:&quot;https://pay.swiftpass.cn/pay/qrcode?uuid=weixin://wxpay/bizpayurl?pr=Gxv7rSH&quot;,&quot;bank_type&quot;:&quot;1902000&quot;,&quot;expire_time&quot;:&quot;10&quot;,&quot;source_qr_code_url&quot;:&quot;weixin://wxpay/bizpayurl?pr=Gxv7rSH&quot;}}';
-
-preg_match('/ysepay_online_qrcodepay_response&quot;:({.*})/', $data, $matches);
-dump($matches);</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZHVtcCgwLjAxICE9ICcnKTsK</text>
       </register>
       <register name="-" type="4">
         <text>(</text>
@@ -396,37 +389,37 @@ dump($matches);</text>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAnMjAxJyA9PiAnb3JkZXJfbm8nLCAvLyBCYW5rc1BheQo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ZHVtcCgwLjAxICE9ICcnKTsK</text>
+      </register>
+      <register name="2" type="4">
         <text>$data = '{&quot;sign&quot;:&quot;CupqsFsmmBlXkE8SCj25LdQWotAZaqk9/Ng1PMvA3bMPxd7fSNEyK/ARYjPvHj87dKP5T5zpKsB1uUkUpPtr905WQZidGTsQw4oQ5bsGzZCPCyjIfq37Fd1JJuAv/RCUMbDl2KhlOHrLuBNlrkyGRVwSINqdqOtXwnheNA2kFiA=&quot;,&quot;ysepay_online_qrcodepay_response&quot;:{&quot;code&quot;:&quot;10000&quot;,&quot;msg&quot;:&quot;Success&quot;,&quot;out_trade_no&quot;:&quot;201708070000003750&quot;,&quot;trade_no&quot;:&quot;01O170807328941756&quot;,&quot;trade_status&quot;:&quot;WAIT_}BUYER_PAY&quot;,&quot;total_amount&quot;:&quot;5.15&quot;,&quot;qr_code_url&quot;:&quot;https://pay.swiftpass.cn/pay/qrcode?uuid=weixin://wxpay/bizpayurl?pr=Gxv7rSH&quot;,&quot;bank_type&quot;:&quot;1902000&quot;,&quot;expire_time&quot;:&quot;10&quot;,&quot;source_qr_code_url&quot;:&quot;weixin://wxpay/bizpayurl?pr=Gxv7rSH&quot;}}';
 
 preg_match('/ysepay_online_qrcodepay_response&quot;:({.*})/', $data, $matches);
 dump($matches);</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>json_decode(
     $data
 )</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ZHVtcChqc29uX2VuY29kZShbJ3snPT4nfSddKSk7Ci8vZHVtcChqc29uX2RlY29kZSgkZGF0YSwgdHJ1ZSkpOw==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">JGRhdGEgPSAneyJzaWduIjoiQ3VwcXNGc21tQmxYa1wiRVx9OFNDajI1TGRRV290QVphcWs5L05nMVBNdkEzYk1QeGQ3ZlNORXlLL0FSWWpQdkhqODdkS1A1VDV6cEtzQjF1VWtVcFB0cjkwNVdRWmlkR1RzUXc0b1E1YnNHelpDUEN5aklmcTM3RmQxSkp1QXYvUkNVTWJEbDJLaGxPSHJMdUJObHJreUdSVndTSU5xZHFPdFh3bmhlTkEya0ZpQT0iLCJ5c2VwYXlfb25saW5lX3FyY29kZXBheV9yZXNwb25zZSI6eyJjb2RlIjoiMTAwMDAiLCJtc2ciOiJTdWNjZXNzIiwib3V0X3RyYWRlX25vIjoiMjAxNzA4MDcwMDAwMDAzNzUwIiwidHJhZGVfbm8iOiIwMU8xNzA4MDczMjg5NDE3NTYiLCJ0cmFkZV9zdGF0dXMiOiJXQUlUX0JVWUVSX1BBWSIsInRvdGFsX2Ftb3VudCI6IjUuMTUiLCJxcl9jb2RlX3VybCI6Imh0dHBzOi8vcGF5LnN3aWZ0cGFzcy5jbi9wYXkvcXJjb2RlP3V1aWQ9d2VpeGluOi8vd3hwYXkvYml6cGF5dXJsP3ByPUd4djdyU0giLCJiYW5rX3R5cGUiOiIxOTAyMDAwIiwiZXhwaXJlX3RpbWUiOiIxMCIsInNvdXJjZV9xcl9jb2RlX3VybCI6IndlaXhpbjovL3d4cGF5L2JpenBheXVybD9wcj1HeHY3clNIIn19JzsK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">JGkgPSAwOwp3aGlsZSAoJGkrKyA+IDk5OTk5OTk5OTk5OTkpIHsKICAgIHBvdygyLCRpKTsKfQ==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+YWRkU3FsKCdBTFRFUiBUQUJMRSByZXdhcmQgRFJPUCBhbGxvd19kZWNpbWFsLCBEUk9QIG1heF9jb3VudCwgRFJPUCBhbGxvd19kdXBsaWNhdGUnKTsKICAgICAgICAkdGhpcy0+YWRkU3FsKCdBTFRFUiBUQUJMRSBwYXltZW50X2dhdGV3YXlfZmVlIERST1AgRk9SRUlHTiBLRVkgRktfQjQ2QTM3MjYyODkwRkQ1Jyk7CiAgICAgICAgJHRoaXMtPmFkZFNxbCgnQUxURVIgVEFCTEUgcGF5bWVudF9nYXRld2F5X2ZlZSBBREQgQ09OU1RSQUlOVCBGS19CNDZBMzcyNjI4OTBGRDUgRk9SRUlHTiBLRVkgKHBheW1lbnRfZ2F0ZXdheV9pZCkgUkVGRVJFTkNFUyBwYXltZW50X2dhdGV3YXkgKGlkKScpOwogICAgICAgICR0aGlzLT5hZGRTcWwoJ0FMVEVSIFRBQkxFIG1lcmNoYW50IEFERCBDT05TVFJBSU5UIEZLXzc0QUIyNUUxNjI4OTBGRDUgRk9SRUlHTiBLRVkgKHBheW1lbnRfZ2F0ZXdheV9pZCkgUkVGRVJFTkNFUyBwYXltZW50X2dhdGV3YXkgKGlkKScpOwogICAgICAgICR0aGlzLT5hZGRTcWwoJ0FMVEVSIFRBQkxFIGJhbmsgRFJPUCBhY2NvdW50X2hvbGRlcicpOwogICAgICAgICR0aGlzLT5hZGRTcWwoJ0FMVEVSIFRBQkxFIHVzZXJfc3RhdCBDSEFOR0UgbW9kaWZpZWRfYXQgbW9kaWZpZWRfYXQgREFURVRJTUUgTk9UIE5VTEwnKTsKICAgICAgICAkdGhpcy0+YWRkU3FsKCdBTFRFUiBUQUJMRSBtZXJjaGFudF93aXRoZHJhdyBEUk9QIG1vYmlsZScpOwogICAgICAgICR0aGlzLT5hZGRTcWwoJ0FMVEVSIFRBQkxFIG1lcmNoYW50X3dpdGhkcmF3IEFERCBDT05TVFJBSU5UIEZLX0QyREEyQjI3NjI4OTBGRDUgRk9SRUlHTiBLRVkgKHBheW1lbnRfZ2F0ZXdheV9pZCkgUkVGRVJFTkNFUyBwYXltZW50X2dhdGV3YXkgKGlkKScpOwogICAgICAgICR0aGlzLT5hZGRTcWwoJ0FMVEVSIFRBQkxFIHVzZXJfcGF5d2F5IERST1AgY29pbicpOwogICAgICAgICR0aGlzLT5hZGRTcWwoJ0FMVEVSIFRBQkxFIHN0YXRfY2FzaF9yZWJhdGUgQUREIHJlYmF0ZV9iZ19saXZlX2Ftb3VudCBOVU1FUklDKDE2LCA0KSBOT1QgTlVMTCwgQUREIHJlYmF0ZV9iZ19saXZlX2NvdW50IElOVCBOT1QgTlVMTCcpOwogICAgICAgICR0aGlzLT5hZGRTcWwoJ0FMVEVSIFRBQkxFIHJlbWl0X2FjY291bnQgRFJPUCBzdXNwZW5kJyk7CiAgICAgICAgJHRoaXMtPmFkZFNxbCgnQUxURVIgVEFCTEUgYWNjb3VudF9sb2cgQ0hBTkdFIGZyb21faWQgZnJvbV9pZCBCSUdJTlQgTk9UIE5VTEwnKTsKICAgICAgICAkdGhpcy0+YWRkU3FsKCdBTFRFUiBUQUJMRSBhdXRvX2NvbmZpcm1fY29uZmlnIERST1AgYmJfYXBpX2tleScpOwogICAgICAgICR0aGlzLT5hZGRTcWwoJ0NSRUFURSBJTkRFWCBpcF9zdGFydF9lbmQgT04gZ2VvaXBfYmxvY2sgKGlwX3N0YXJ0LCBpcF9lbmQpJyk7CiAgICAgICAgJHRoaXMtPmFkZFNxbCgnQUxURVIgVEFCTEUgcmVtaXRfYWNjb3VudF9sZXZlbCBEUk9QIG9yZGVyX2lkLCBEUk9QIHZlcnNpb24nKTsKICAgICAgICAkdGhpcy0+YWRkU3FsKCdBTFRFUiBUQUJMRSBjYXNoX3dpdGhkcmF3X2VudHJ5IERST1AgYWNjb3VudF9ob2xkZXInKTsKICAgICAgICAkdGhpcy0+YWRkU3FsKCdBTFRFUiBUQUJMRSBwYXltZW50X2dhdGV3YXkgRFJPUCBkZXBvc2l0LCBEUk9QIG1vYmlsZSwgRFJPUCB3aXRoZHJhd191cmwsIERST1Agd2l0aGRyYXdfaG9zdCcpOwogICAgICAgICR0aGlzLT5hZGRTcWwoJ0FMVEVSIFRBQkxFIHBheW1lbnRfZ2F0ZXdheV9oYXNfcGF5bWVudF9tZXRob2QgQUREIENPTlNUUkFJTlQgRktfODhEREFERTE2Mjg5MEZENSBGT1JFSUdOIEtFWSAocGF5bWVudF9nYXRld2F5X2lkKSBSRUZFUkVOQ0VTIHBheW1lbnRfZ2F0ZXdheSAoaWQpJyk7CiAgICAgICAgJHRoaXMtPmFkZFNxbCgnQUxURVIgVEFCTEUgcGF5bWVudF9nYXRld2F5X2hhc19wYXltZW50X3ZlbmRvciBBREQgQ09OU1RSQUlOVCBGS18yM0E2QTQ3NzYyODkwRkQ1IEZPUkVJR04gS0VZIChwYXltZW50X2dhdGV3YXlfaWQpIFJFRkVSRU5DRVMgcGF5bWVudF9nYXRld2F5IChpZCknKTsKICAgICAgICAkdGhpcy0+YWRkU3FsKCdBTFRFUiBUQUJMRSBwYXltZW50X2dhdGV3YXlfaGFzX2JhbmtfaW5mbyBEUk9QIEZPUkVJR04gS0VZIEZLXzUxQjY4RjlGNjI4OTBGRDUnKTsKICAgICAgICAkdGhpcy0+YWRkU3FsKCdBTFRFUiBUQUJMRSBwYXltZW50X2dhdGV3YXlfaGFzX2JhbmtfaW5mbyBBREQgQ09OU1RSQUlOVCBGS181MUI2OEY5RjYyODkwRkQ1IEZPUkVJR04gS0VZIChwYXltZW50X2dhdGV3YXlfaWQpIFJFRkVSRU5DRVMgcGF5bWVudF9nYXRld2F5IChpZCknKTsKICAgICAgICAkdGhpcy0+YWRkU3FsKCdBTFRFUiBUQUJMRSByZW1vdmVkX3VzZXJfZGV0YWlsIERST1AgZW1haWwnKTsKICAgICAgICAkdGhpcy0+YWRkU3FsKCdBTFRFUiBUQUJMRSBkZXBvc2l0X21vYmlsZSBEUk9QIEZPUkVJR04gS0VZIEZLXzZERTNDRjVFMTYwMTY2M0MnKTsKICAgICAgICAkdGhpcy0+YWRkU3FsKCdEUk9QIElOREVYIHVuaXFfNmRlM2NmNWUxNjAxNjYzYyBPTiBkZXBvc2l0X21vYmlsZScpOwogICAgICAgICR0aGlzLT5hZGRTcWwoJ0NSRUFURSBVTklRVUUgSU5ERVggVU5JUV8yREY4N0VBMTE2MDE2NjNDIE9OIGRlcG9zaXRfbW9iaWxlIChwYXltZW50X2NoYXJnZV9pZCknKTsKICAgICAgICAkdGhpcy0+YWRkU3FsKCdBTFRFUiBUQUJMRSBkZXBvc2l0X21vYmlsZSBBREQgQ09OU1RSQUlOVCBGS182REUzQ0Y1RTE2MDE2NjNDIEZPUkVJR04gS0VZIChwYXltZW50X2NoYXJnZV9pZCkgUkVGRVJFTkNFUyBwYXltZW50X2NoYXJnZSAoaWQpJyk7CiAgICAgICAgJHRoaXMtPmFkZFNxbCgnQUxURVIgVEFCTEUgYmxhY2tsaXN0IENIQU5HRSB3aG9sZV9kb21haW4gd2hvbGVfZG9tYWluIFRJTllJTlQoMSkgREVGQVVMVCBcJzFcJyBOT1QgTlVMTCcpOwogICAgICAgICR0aGlzLT5hZGRTcWwoJ0FMVEVSIFRBQkxFIGxldmVsX2N1cnJlbmN5IERST1AgRk9SRUlHTiBLRVkgRktfMkVGNTUzOEQxNjAxNjYzQycpOwogICAgICAgICR0aGlzLT5hZGRTcWwoJ0RST1AgSU5ERVggZmtfMmVmNTUzOGQxNjAxNjYzYyBPTiBsZXZlbF9jdXJyZW5jeScpOwogICAgICAgICR0aGlzLT5hZGRTcWwoJ0NSRUFURSBJTkRFWCBJRFhfRTRGRjJERUYxNjAxNjYzQyBPTiBsZXZlbF9jdXJyZW5jeSAocGF5bWVudF9jaGFyZ2VfaWQpJyk7CiAgICAgICAgJHRoaXMtPmFkZFNxbCgnQUxURVIgVEFCTEUgbGV2ZWxfY3VycmVuY3kgQUREIENPTlNUUkFJTlQgRktfMkVGNTUzOEQxNjAxNjYzQyBGT1JFSUdOIEtFWSAocGF5bWVudF9jaGFyZ2VfaWQpIFJFRkVSRU5DRVMgcGF5bWVudF9jaGFyZ2UgKGlkKScpOwogICAgICAgICR0aGlzLT5hZGRTcWwoJ0FMVEVSIFRBQkxFIHBheW1lbnRfZ2F0ZXdheV9iaW5kX2lwIEFERCBDT05TVFJBSU5UIEZLX0M5N0UxODRCNjI4OTBGRDUgRk9SRUlHTiBLRVkgKHBheW1lbnRfZ2F0ZXdheV9pZCkgUkVGRVJFTkNFUyBwYXltZW50X2dhdGV3YXkgKGlkKScpOwogICAgICAgICR0aGlzLT5hZGRTcWwoJ0RST1AgSU5ERVggaWR4X2E2NmJiM2VkNjI4OTBmZDUgT04gcGF5bWVudF9nYXRld2F5X2JpbmRfaXAnKTsKICAgICAgICAkdGhpcy0+YWRkU3FsKCdDUkVBVEUgSU5ERVggSURYX0M5N0UxODRCNjI4OTBGRDUgT04gcGF5bWVudF9nYXRld2F5X2JpbmRfaXAgKHBheW1lbnRfZ2F0ZXdheV9pZCknKTsKICAgICAgICAkdGhpcy0+YWRkU3FsKCdBTFRFUiBUQUJMRSBwYXltZW50X2dhdGV3YXlfY3VycmVuY3kgQUREIENPTlNUUkFJTlQgRktfMTY0QUQ5MjE2Mjg5MEZENSBGT1JFSUdOIEtFWSAocGF5bWVudF9nYXRld2F5X2lkKSBSRUZFUkVOQ0VTIHBheW1lbnRfZ2F0ZXdheSAoaWQpJyk7CiAgICAgICAgJHRoaXMtPmFkZFNxbCgnQ1JFQVRFIElOREVYIGlkeF91c2VyX2VuYWJsZSBPTiB1c2VyIChlbmFibGUpJyk7CiAgICAgICAgJHRoaXMtPmFkZFNxbCgnQ1JFQVRFIElOREVYIGlkeF91c2VyX2RvbWFpbl9yb2xlIE9OIHVzZXIgKGRvbWFpbiwgcm9sZSknKTsKICAgICAgICAkdGhpcy0+YWRkU3FsKCdBTFRFUiBUQUJMRSB1c2VyX2RldGFpbCBEUk9QIGVtYWlsJyk7CiAgICAgICAgJHRoaXMtPmFkZFNxbCgnQ1JFQVRFIElOREVYIGlkeF9zdGF0X2RvbWFpbl9kZXBvc2l0X2Ftb3VudF9kb21haW5fYXQgT04gc3RhdF9kb21haW5fZGVwb3NpdF9hbW91bnQgKGRvbWFpbiwgYXQpJyk7CiAgICAgICAgJHRoaXMtPmFkZFNxbCgnQUxURVIgVEFCTEUgcmVtaXRfYWNjb3VudF9zdGF0IEFERCBDT05TVFJBSU5UIEZLXzIyNkM3NkE4QzM2RUFEMjYgRk9SRUlHTiBLRVkgKHJlbWl0X2FjY291bnRfaWQpIFJFRkVSRU5DRVMgcmVtaXRfYWNjb3VudCAoaWQpJyk7CiAgICAgICAgJHRoaXMtPmFkZFNxbCgnQ1JFQVRFIElOREVYIElEWF8yMjZDNzZBOEMzNkVBRDI2IE9OIHJlbWl0X2FjY291bnRfc3RhdCAocmVtaXRfYWNjb3VudF9pZCknKTsKICAgICAgICAkdGhpcy0+YWRkU3FsKCdBTFRFUiBUQUJMRSBjYXJkX3BheW1lbnRfZ2F0ZXdheV9mZWUgRFJPUCBGT1JFSUdOIEtFWSBGS183M0MwRDdFMzYyODkwRkQ1Jyk7CiAgICAgICAgJHRoaXMtPmFkZFNxbCgnQUxURVIgVEFCTEUgY2FyZF9wYXltZW50X2dhdGV3YXlfZmVlIEFERCBDT05TVFJBSU5UIEZLXzczQzBEN0UzNjI4OTBGRDUgRk9SRUlHTiBLRVkgKHBheW1lbnRfZ2F0ZXdheV9pZCkgUkVGRVJFTkNFUyBwYXltZW50X2dhdGV3YXkgKGlkKScpOwogICAgICAgICR0aGlzLT5hZGRTcWwoJ0FMVEVSIFRBQkxFIG1lcmNoYW50X2NhcmQgRFJPUCBGT1JFSUdOIEtFWSBGS181NzE3NTdEODYyODkwRkQ1Jyk7CiAgICAgICAgJHRoaXMtPmFkZFNxbCgnQUxURVIgVEFCTEUgbWVyY2hhbnRfY2FyZCBBREQgQ09OU1RSQUlOVCBGS181NzE3NTdEODYyODkwRkQ1IEZPUkVJR04gS0VZIChwYXltZW50X2dhdGV3YXlfaWQpIFJFRkVSRU5DRVMgcGF5bWVudF9nYXRld2F5IChpZCknKTsKICAgICAgICAkdGhpcy0+YWRkU3FsKCdEUk9QIElOREVYIGlkeF9jYXNoX2Zha2VfdHJhbnNmZXJfZW50cnlfYXQgT04gY2FzaF9mYWtlX3RyYW5zZmVyX2VudHJ5X25ldycpOwogICAgICAgICR0aGlzLT5hZGRTcWwoJ0NSRUFURSBJTkRFWCBpZHhfY2FzaF9mYWtlX3RyYW5zZmVyX2VudHJ5X25ld19hdCBPTiBjYXNoX2Zha2VfdHJhbnNmZXJfZW50cnlfbmV3IChhdCknKTsKICAgICAgICAkdGhpcy0+YWRkU3FsKCdEUk9QIElOREVYIGlkeF9jYXNoX2Zha2VfdHJhbnNmZXJfZW50cnlfcmVmX2lkIE9OIGNhc2hfZmFrZV90cmFuc2Zlcl9lbnRyeV9uZXcnKTsKICAgICAgICAkdGhpcy0+YWRkU3FsKCdDUkVBVEUgSU5ERVggaWR4X2Nhc2hfZmFrZV90cmFuc2Zlcl9lbnRyeV9uZXdfcmVmX2lkIE9OIGNhc2hfZmFrZV90cmFuc2Zlcl9lbnRyeV9uZXcgKHJlZl9pZCknKTsKICAgICAgICAkdGhpcy0+YWRkU3FsKCdEUk9QIElOREVYIGlkeF9jYXNoX2Zha2VfdHJhbnNmZXJfZW50cnlfdXNlcl9pZF9hdCBPTiBjYXNoX2Zha2VfdHJhbnNmZXJfZW50cnlfbmV3Jyk7CiAgICAgICAgJHRoaXMtPmFkZFNxbCgnQ1JFQVRFIElOREVYIGlkeF9jYXNoX2Zha2VfdHJhbnNmZXJfZW50cnlfbmV3X3VzZXJfaWRfYXQgT04gY2FzaF9mYWtlX3RyYW5zZmVyX2VudHJ5X25ldyAodXNlcl9pZCwgYXQpJyk7CiAgICAgICAgJHRoaXMtPmFkZFNxbCgnRFJPUCBJTkRFWCBpZHhfY2FzaF9mYWtlX3RyYW5zZmVyX2VudHJ5X2RvbWFpbl9hdCBPTiBjYXNoX2Zha2VfdHJhbnNmZXJfZW50cnlfbmV3Jyk7CiAgICAgICAgJHRoaXMtPmFkZFNxbCgnQ1JFQVRFIElOREVYIGlkeF9jYXNoX2Zha2VfdHJhbnNmZXJfZW50cnlfbmV3X2RvbWFpbl9hdCBPTiBjYXNoX2Zha2VfdHJhbnNmZXJfZW50cnlfbmV3IChkb21haW4sIGF0KScpOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWRkU3FsKCdEUk9QIFRBQkxFIERlcG9zaXRBdWRpdCcpOwogICAgICAgICR0aGlzLT5hZGRTcWwoJ0RST1AgVEFCTEUgY29pbicpOwogICAgICAgICR0aGlzLT5hZGRTcWwoJ0RST1AgVEFCTEUgcmVtaXRfZW50cnlfb2xkJyk7CiAgICAgICAgJHRoaXMtPmFkZFNxbCgnRFJPUCBUQUJMRSB0MScpOwogICAgICAgICR0aGlzLT5hZGRTcWwoJ0RST1AgVEFCTEUgdDInKTsKICAgICAgICAkdGhpcy0+YWRkU3FsKCdEUk9QIFRBQkxFIHRlc3RpbmcnKTsKICAgICAgICAkdGhpcy0+YWRkU3FsKCdEUk9QIFRBQkxFIHRlc3RpbmcyJyk7CiAgICAgICAgJHRoaXMtPmFkZFNxbCgnRFJPUCBUQUJMRSB3ZWl4aW5fcHJvZHVjdCcpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDEgPDwgMTsK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWRkU3FsKCdEUk9QIFRBQkxFIERlcG9zaXRBdWRpdCcpOwogICAgICAgICR0aGlzLT5hZGRTcWwoJ0RST1AgVEFCTEUgY29pbicpOwogICAgICAgICR0aGlzLT5hZGRTcWwoJ0RST1AgVEFCTEUgcmVtaXRfZW50cnlfb2xkJyk7CiAgICAgICAgJHRoaXMtPmFkZFNxbCgnRFJPUCBUQUJMRSB0MScpOwogICAgICAgICR0aGlzLT5hZGRTcWwoJ0RST1AgVEFCTEUgdDInKTsKICAgICAgICAkdGhpcy0+YWRkU3FsKCdEUk9QIFRBQkxFIHRlc3RpbmcnKTsKICAgICAgICAkdGhpcy0+YWRkU3FsKCdEUk9QIFRBQkxFIHRlc3RpbmcyJyk7CiAgICAgICAgJHRoaXMtPmFkZFNxbCgnRFJPUCBUQUJMRSB3ZWl4aW5fcHJvZHVjdCcpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>214d</text>
