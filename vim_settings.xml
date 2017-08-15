@@ -90,11 +90,11 @@
         <mark key="." line="189" column="47" />
         <mark key="^" line="189" column="47" />
       </file>
-      <file name="D:/durian2/test.php" timestamp="1502778736950">
+      <file name="D:/durian2/test.php" timestamp="1502783004098">
         <mark key="[" line="9" column="5" />
-        <mark key="]" line="9" column="5" />
-        <mark key="." line="9" column="5" />
-        <mark key="^" line="9" column="10" />
+        <mark key="]" line="9" column="6" />
+        <mark key="." line="9" column="6" />
+        <mark key="^" line="9" column="6" />
       </file>
       <file name="D:/durian2/app/DoctrineMigrations/Version20170808064245.php" timestamp="1502174651311">
         <mark key="[" line="21" column="0" />
@@ -378,10 +378,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>$arr</text>
+        <text>urlencode('google.com')</text>
       </register>
       <register name="-" type="4">
-        <text>$arr</text>
+        <text>urlencode('google.com')</text>
       </register>
       <register name="/" type="4">
         <text>order</text>
